@@ -1,6 +1,8 @@
 rOpenSci Citations Data
 =======================
 
+See [CONTRIBUTING.md][] for how to contribute.
+
 - Citations data is in the `citations.tsv` file. The data is tab separated.
 - Images used for tweets are in the `img/` folder
 - tweets to be sent are in the `to_tweet.txt` file
