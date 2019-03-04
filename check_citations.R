@@ -6,3 +6,4 @@ check_citation_file <- function(file) {
     crayon::style(paste(cli::symbol$tick, " OK "), "green"), "\n"
   )
 }
+adsf
