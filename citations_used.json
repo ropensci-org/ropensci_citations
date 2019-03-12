@@ -4499,5 +4499,12 @@
     "citation": "Srivastava, S., Avvaru, A. K., Sowpati, D. T., & Mishra, R. K. (2019). Patterns of microsatellite distribution across eukaryotic genomes. BMC Genomics, 20(1). <https://doi.org/10.1186/s12864-019-5516-5>",
     "img_path": "img/SrivastavaEtal2019BMCGenomics.png",
     "research_snippet": "microsatellite distribution across eukaryotic genomes"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.3897/bdj.7.e31817",
+    "citation": "Dillen, M., Groom, Q., Chagnoux, S., Güntsch, A., Hardisty, A., Haston, E., … Phillips, S. (2019). A benchmark dataset of herbarium specimen images with label data. Biodiversity Data Journal, 7. <https://10.3897/bdj.7.e31817>",
+    "img_path": "img/DillenEtal2019BiodiversityDataJournal.png",
+    "research_snippet": "benchmarking dataset of herbarium specimen images with label data"
   }
 ]
