@@ -4492,5 +4492,12 @@
     "citation": "Ohmer, M. E. B., Cramp, R. L., White, C. R., Harlow, P. S., McFadden, M. S., Merino-Viteri, A., … Franklin, C. E. (2019). Phylogenetic investigation of skin sloughing rates in frogs: relationships with skin characteristics and disease-driven declines. Proceedings of the Royal Society B: Biological Sciences, 286(1896), 20182378. <https://doi.org/10.1098/rspb.2018.2378>",
     "img_path": "img/OhmerEtal2019RoyalSocietyProceedingsB.png",
     "research_snippet": "skin sloughing rates in frogs in relation to disease"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1186/s12864-019-5516-5",
+    "citation": "Srivastava, S., Avvaru, A. K., Sowpati, D. T., & Mishra, R. K. (2019). Patterns of microsatellite distribution across eukaryotic genomes. BMC Genomics, 20(1). <https://doi.org/10.1186/s12864-019-5516-5>",
+    "img_path": "img/SrivastavaEtal2019BMCGenomics.png",
+    "research_snippet": "microsatellite distribution across eukaryotic genomes"
   }
 ]
