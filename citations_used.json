@@ -4506,5 +4506,12 @@
     "citation": "Dillen, M., Groom, Q., Chagnoux, S., Güntsch, A., Hardisty, A., Haston, E., … Phillips, S. (2019). A benchmark dataset of herbarium specimen images with label data. Biodiversity Data Journal, 7. <https://10.3897/bdj.7.e31817>",
     "img_path": "img/DillenEtal2019BiodiversityDataJournal.png",
     "research_snippet": "benchmarking dataset of herbarium specimen images with label data"
+  },
+  {
+    "name": "tidyhydat",
+    "doi": "10.1016/j.rse.2019.02.011",
+    "citation": "Beaton, A., Whaley, R., Corston, K., & Kenny, F. (2019). Identifying historic river ice breakup timing using MODIS and Google Earth Engine in support of operational flood monitoring in Northern Ontario. <https://doi.org/10.1016/j.rse.2019.02.011>",
+    "img_path": "img/BeatonEtAlRemoteSensingoftheEnvironment.png",
+    "research_snippet": "comparison of manually classified and remotely sensed river ice breakup times"
   }
 ]
