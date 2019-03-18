@@ -4513,5 +4513,12 @@
     "citation": "Beaton, A., Whaley, R., Corston, K., & Kenny, F. (2019). Identifying historic river ice breakup timing using MODIS and Google Earth Engine in support of operational flood monitoring in Northern Ontario. <https://doi.org/10.1016/j.rse.2019.02.011>",
     "img_path": "img/BeatonEtAlRemoteSensingoftheEnvironment.png",
     "research_snippet": "comparison of manually classified and remotely sensed river ice breakup times"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1002/ece3.4809",
+    "citation": "Thomsen, P. F., & Sigsgaard, E. E. (2019). Environmental DNA metabarcoding of wild flowers reveals diverse communities of terrestrial arthropods. Ecology and Evolution. <https://doi.org/10.1002/ece3.4809>",
+    "img_path": "img/Thomsen&Sigsgaard2019Ecology&Evolution.png",
+    "research_snippet": "environmental DNA metabarcoding of wild flowers | check out the code at https://github.com/tobiasgf/Bioinformatic-tools/blob/b99d0a5cacb7b480a614908a38e6de6a40281caf/Eva_Sigsgaard_2018/Tobias_taxonomy_v3_181030.r"
   }
 ]
