@@ -4527,5 +4527,12 @@
     "citation": "Fitzpatrick, M. C., & Dunn, R. R. (2019). Contemporary climatic analogs for 540 North American urban areas in the late 21st century. Nature Communications, 10(1). <https://doi.org/10.1038/s41467-019-08540-3>",
     "img_path": "img/Fitzpatrick&Dunn2019NatureCommunications.png",
     "research_snippet": "contemporary climatic analogs for 540 North American urban areas for the late 21st century"
+  },
+  {
+    "name": "tabulizer",
+    "doi": "10.1051/kmae/2019001",
+    "citation": "Prats, J., & Danis, P.-A. (2019). An epilimnion and hypolimnion temperature model based on air temperature and lake characteristics. Knowledge & Management of Aquatic Ecosystems, (420), 8. <https://doi.org/10.1051/kmae/2019001>",
+    "img_path": "img/Prats&Danis2019KnowledgeManagementAquaticEcosystems.png",
+    "research_snippet": "a model to calculate temperature of upper and lower layers in inland water bodies"
   }
 ]
