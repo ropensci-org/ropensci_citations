@@ -4520,5 +4520,12 @@
     "citation": "Thomsen, P. F., & Sigsgaard, E. E. (2019). Environmental DNA metabarcoding of wild flowers reveals diverse communities of terrestrial arthropods. Ecology and Evolution. <https://doi.org/10.1002/ece3.4809>",
     "img_path": "img/Thomsen&Sigsgaard2019Ecology&Evolution.png",
     "research_snippet": "environmental DNA metabarcoding of wild flowers | check out the code at https://github.com/tobiasgf/Bioinformatic-tools/blob/b99d0a5cacb7b480a614908a38e6de6a40281caf/Eva_Sigsgaard_2018/Tobias_taxonomy_v3_181030.r"
+  },
+  {
+    "name": "rnoaa",
+    "doi": "10.1038/s41467-019-08540-3",
+    "citation": "Fitzpatrick, M. C., & Dunn, R. R. (2019). Contemporary climatic analogs for 540 North American urban areas in the late 21st century. Nature Communications, 10(1). <https://doi.org/10.1038/s41467-019-08540-3>",
+    "img_path": "img/Fitzpatrick&Dunn2019NatureCommunications.png",
+    "research_snippet": "contemporary climatic analogs for 540 North American urban areas for the late 21st century"
   }
 ]
