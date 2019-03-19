@@ -4534,5 +4534,12 @@
     "citation": "Prats, J., & Danis, P.-A. (2019). An epilimnion and hypolimnion temperature model based on air temperature and lake characteristics. Knowledge & Management of Aquatic Ecosystems, (420), 8. <https://doi.org/10.1051/kmae/2019001>",
     "img_path": "img/Prats&Danis2019KnowledgeManagementAquaticEcosystems.png",
     "research_snippet": "a model to calculate temperature of upper and lower layers in inland water bodies"
+  },
+  {
+    "name": "NLMR",
+    "doi": "10.1007/978-3-030-01989-1_3",
+    "citation": "Fletcher, R., & Fortin, M.-J. (2018). Land-Cover Pattern and Change. Spatial Ecology and Conservation Modeling, 55–100. <https://doi.org/10.1007/978-3-030-01989-1_3>",
+    "img_path": "img/Fletcher&Fortin2018SpatialEcologyAndConservationModeling-Book.png",
+    "research_snippet": "book Spatial Ecology and Conservation Modeling"
   }
 ]
