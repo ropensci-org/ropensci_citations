@@ -4569,5 +4569,19 @@
     "citation": "Poulin, R., Hay, E., & Jorge, F. (2019). Taxonomic and geographic bias in the genetic study of helminth parasites. International Journal for Parasitology. <https://doi.org/10.1016/j.ijpara.2018.12.005>",
     "img_path": "img/PoulinEtal2019InternationalJournalforParasitology.png",
     "research_snippet": "taxonomic/geographic bias in the genetic study of helminths"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1007/s13213-019-1446-3",
+    "citation": "Piñar, G., Poyntner, C., Tafer, H., & Sterflinger, K. (2019). A time travel story: metagenomic analyses decipher the unknown geographical shift and the storage history of possibly smuggled antique marble statues. Annals of Microbiology. <https://doi.org/10.1007/s13213-019-1446-3>",
+    "img_path": "img/PinarEtal2019AnnalsOfMicrobiology.png",
+    "research_snippet": "metagenomic analyses to decipher geographical shift of smuggled antiques"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1038/s41598-019-40531-8",
+    "citation": "Dreyer, J. B. B., Higuchi, P., & Silva, A. C. (2019). Ligustrum lucidum W. T. Aiton (broad-leaf privet) demonstrates climatic niche shifts during global-scale invasion. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-40531-8>",
+    "img_path": "img/DreyerEtal2019ScientificReports.png",
+    "research_snippet": "climatic niche shifts during global-scale invasion"
   }
 ]
