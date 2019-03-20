@@ -4555,5 +4555,19 @@
     "citation": "Karger, D. N., Kessler, M., Conrad, O., Weigelt, P., Kreft, H., König, C., & Zimmermann, N. E. (2019). Why tree lines are lower on islands-Climatic and biogeographic effects hold the answer. Global Ecology and Biogeography. <https://doi.org/10.1111/geb.12897>",
     "img_path": "img/KargerEtal2019GlobalEcology&Biogeography.png",
     "research_snippet": "why tree lines are lower on islands"
+  },
+  {
+    "name": "rcrossref",
+    "doi": "10.1177/0956797619830326",
+    "citation": "Olsson-Collentine, A., van Assen, M. A. L. M., & Hartgerink, C. H. J. (2019). The Prevalence of Marginally Significant Results in Psychology Over Time. Psychological Science, 095679761983032. <https://doi.org/10.1177/0956797619830326>",
+    "img_path": "img/Olsson-CollentineEtal2019PsychologicalScience.png",
+    "research_snippet": "the prevalence of marginally significant results in psychology"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1016/j.ijpara.2018.12.005",
+    "citation": "Poulin, R., Hay, E., & Jorge, F. (2019). Taxonomic and geographic bias in the genetic study of helminth parasites. International Journal for Parasitology. <https://doi.org/10.1016/j.ijpara.2018.12.005>",
+    "img_path": "img/PoulinEtal2019InternationalJournalforParasitology.png",
+    "research_snippet": "taxonomic/geographic bias in the genetic study of helminths"
   }
 ]
