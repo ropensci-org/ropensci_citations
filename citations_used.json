@@ -4590,5 +4590,12 @@
     "citation": "Ludt, W. B., Bernal, M. A., Kenworthy, E., Salas, E., & Chakrabarty, P. (2019). Genomic, ecological, and morphological approaches to investigating species limits: A case study in modern taxonomy from Tropical Eastern Pacific surgeonfishes. Ecology and Evolution. <https://doi.org/10.1002/ece3.5029>",
     "img_path": "img/LudtEtal2019Ecology&Evolution.png",
     "research_snippet": "investigating species limits (a case study w/ Tropical Eastern Pacific surgeonfishes)"
+  },
+  {
+    "name": "skmir",
+    "doi": null,
+    "citation": "Peruffo, E. Improving predictive maintenance classifiers of industrial sensors’ data using entropy. A case study. <http://trap.ncirl.ie/3429/1/eleonoraperuffo.pdf>",
+    "img_path": null,
+    "research_snippet": "improving predictive maintenance classifiers of industrial sensors data"
   }
 ]
