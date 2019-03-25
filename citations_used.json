@@ -4597,5 +4597,19 @@
     "citation": "Peruffo, E. Improving predictive maintenance classifiers of industrial sensors’ data using entropy. A case study. <http://trap.ncirl.ie/3429/1/eleonoraperuffo.pdf>",
     "img_path": null,
     "research_snippet": "improving predictive maintenance classifiers of industrial sensors data"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1126/science.aau1758",
+    "citation": "Free, C. M., Thorson, J. T., Pinsky, M. L., Oken, K. L., Wiedenmann, J., & Jensen, O. P. (2019). Impacts of historical warming on marine fisheries production. Science, 363(6430), 979–983. <https://doi.org/10.1126/science.aau1758>",
+    "img_path": "img/FreeEtal2019Science.png",
+    "research_snippet": "the impacts of historical warming on marine fisheries production"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.3390/v11030240",
+    "citation": "Phelps, K., Hamel, L., Alhmoud, N., Ali, S., Bilgin, R., Sidamonidze, K., … Olival, K. (2019). Bat Research Networks and Viral Surveillance: Gaps and Opportunities in Western Asia. Viruses, 11(3), 240. <https://doi.org/10.3390/v11030240>",
+    "img_path": "img/PhelpsEtal2019Viruses.png",
+    "research_snippet": "bat research networks in western Asia"
   }
 ]
