@@ -4611,5 +4611,12 @@
     "citation": "Phelps, K., Hamel, L., Alhmoud, N., Ali, S., Bilgin, R., Sidamonidze, K., … Olival, K. (2019). Bat Research Networks and Viral Surveillance: Gaps and Opportunities in Western Asia. Viruses, 11(3), 240. <https://doi.org/10.3390/v11030240>",
     "img_path": "img/PhelpsEtal2019Viruses.png",
     "research_snippet": "bat research networks in western Asia"
+  },
+  {
+    "name": "rnoaa",
+    "doi": null,
+    "citation": "Angel, J., & Markus, M. (2019). Frequency Distributions of Heavy Precipitation in Illinois: Updated Bulletin 70. ISWS CR 2019-05. <https://www.ideals.illinois.edu/handle/2142/103172>",
+    "img_path": "img/Angel&Markus2019Bulletin.png",
+    "research_snippet": "frequency distributions of heavy precipitation in Illinois"
   }
 ]
