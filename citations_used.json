@@ -4632,5 +4632,33 @@
     "citation": "Solt, F. Measuring Income Inequality Across Countries and Over Time: The Standardized World Income Inequality Database [DRAFT]. <http://www.globalfactcheck.org/documents/2019-03-08%20Standardized%20World%20Income%20Inequality%20Database.%20updating_swiid%20Solt.pdf>",
     "img_path": null,
     "research_snippet": "income inequality across countries and over time"
+  },
+  {
+    "name": "ropensci",
+    "doi": "10.3390/jmse3041448",
+    "citation": "Vandepitte, L., Vanhoorne, B., Decock, W., Dekeyzer, S., Trias Verbeeck, A., Bovit, L., … Mees, J. (2015). How Aphia—The Platform behind Several Online and Taxonomically Oriented Databases—Can Serve Both the Taxonomic Community and the Field of Biodiversity Informatics. Journal of Marine Science and Engineering, 3(4), 1448–1473. doi:10.3390/jmse3041448",
+    "img_path": null,
+    "research_snippet": null
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1101/573774",
+    "citation": "Michalak, W., Tsiamis, V., Schwämmle, V., & Rogowska-Wrzesińska, A. (2019). ComplexBrowser: a tool for identification and quantification of protein complexes in large scale proteomics datasets. <https://doi.org/10.1101/573774>",
+    "img_path": "img/MichalakEtal2019Biorxiv-Preprint.png",
+    "research_snippet": "a tool for identification/quantification of protein complexes "
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1186/s13104-019-4179-2",
+    "citation": "Su, W., Sun, J., Shimizu, K., & Kadota, K. (2019). TCC-GUI: a Shiny-based application for differential expression analysis of RNA-Seq count data. BMC Research Notes, 12(1). <https://doi.org/10.1186/s13104-019-4179-2>",
+    "img_path": "img/SuEtal2019BMCResearchNotes.png",
+    "research_snippet": "a Shiny app for differential expression analysis of RNA-seq data"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1371/journal.pbio.3000183",
+    "citation": "König, C., Weigelt, P., Schrader, J., Taylor, A., Kattge, J., & Kreft, H. (2019). Biodiversity data integration--The significance of data resolution and domain. PLOS Biology, 17(3), e3000183. <https://doi.org/10.1371/journal.pbio.3000183>",
+    "img_path": null,
+    "research_snippet": "the significance of data resolution and domain on biodiversity data integration"
   }
 ]
