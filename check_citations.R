@@ -1,9 +1,13 @@
 check_citation_file <- function(file) {
   if (grepl("tweet", file)) {
     z <- suppressMessages(readr::read_tsv(file, col_names = FALSE))
+    if (NROW(z) == 0) return(cli::cat_line(
+      crayon::style(paste(cli::symbol$radio_off, " FILE EMPTY "), "blue")))
     names(z) <- c("name", "doi", "citation", "img_path", "research_snippet")
   } else {
     z <- suppressMessages(readr::read_tsv(file))
+    if (NROW(z) == 0) return(cli::cat_line(
+      crayon::style(paste(cli::symbol$radio_off, " EMPTY "), "blue")))
   }
 
   # file formatting problems

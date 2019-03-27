@@ -1,2 +1,1 @@
-plotly	10.1186/s12859-019-2718-4	Ravenhall, M., Campino, S., & Clark, T. G. (2019). SV-Pop: population-based structural variant analysis and visualization. BMC Bioinformatics, 20(1). <https://doi.org/10.1186/s12859-019-2718-4>	img/RavenhallEtal2019BMCBioinformatics.png	population-based structural variant analysis and visualization
-taxize	10.32942/osf.io/c63vj	Higino, G., & Vital, M. V. C. (2019). Mapping and understanding the digital biodiversity knowledge about vertebrates in the Atlantic Rainforest. <https://doi.org/10.32942/osf.io/c63vj>	img/Higino&Vital2019Ecorxiv-preprint.png	digital biodiversity knowledge of vertebrates in the Atlantic Rainforest
+
