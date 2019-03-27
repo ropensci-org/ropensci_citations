@@ -5,3 +5,6 @@ check:
 
 check_staged:
 	${RSCRIPT} -e "source('check_citations.R'); check_citation_file('to_tweet.txt')"
+
+check_use_cases:
+	${RSCRIPT} -e "source('check_citations.R'); check_citation_file('use_cases.tsv')"

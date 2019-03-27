@@ -4,6 +4,11 @@ check_citation_file <- function(file) {
     if (NROW(z) == 0) return(cli::cat_line(
       crayon::style(paste(cli::symbol$radio_off, " FILE EMPTY "), "blue")))
     names(z) <- c("name", "doi", "citation", "img_path", "research_snippet")
+  } else if (grepl("cases", file)) {
+    z <- suppressMessages(readr::read_tsv(file))
+    if (NROW(z) == 0) return(cli::cat_line(
+      crayon::style(paste(cli::symbol$radio_off, " FILE EMPTY "), "blue")))
+    # names(z) <- c("name", "doi", "citation", "img_path", "research_snippet")
   } else {
     z <- suppressMessages(readr::read_tsv(file))
     if (NROW(z) == 0) return(cli::cat_line(
@@ -23,15 +28,17 @@ check_citation_file <- function(file) {
   }
 
   # images exist when given
-  img_paths <- as.character(na.omit(z$img_path))
-  mtchs <- vapply(img_paths, file.exists, logical(1))
-  if (all(mtchs)) {
-    cli::cat_line(
-      "Images: ", crayon::style(paste(cli::symbol$tick, " OK "), "green")
-    )
-  } else {
-    cli::cat_line(
-      "Images: ", crayon::style(paste(cli::symbol$cross, " WOOPS "), "red")
-    )
+  if (!grepl("cases", file)) {
+    img_paths <- as.character(na.omit(z$img_path))
+    mtchs <- vapply(img_paths, file.exists, logical(1))
+    if (all(mtchs)) {
+      cli::cat_line(
+        "Images: ", crayon::style(paste(cli::symbol$tick, " OK "), "green")
+      )
+    } else {
+      cli::cat_line(
+        "Images: ", crayon::style(paste(cli::symbol$cross, " WOOPS "), "red")
+      )
+    }
   }
 }
