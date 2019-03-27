@@ -4660,5 +4660,19 @@
     "citation": "König, C., Weigelt, P., Schrader, J., Taylor, A., Kattge, J., & Kreft, H. (2019). Biodiversity data integration--The significance of data resolution and domain. PLOS Biology, 17(3), e3000183. <https://doi.org/10.1371/journal.pbio.3000183>",
     "img_path": null,
     "research_snippet": "the significance of data resolution and domain on biodiversity data integration"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1186/s12859-019-2718-4",
+    "citation": "Ravenhall, M., Campino, S., & Clark, T. G. (2019). SV-Pop: population-based structural variant analysis and visualization. BMC Bioinformatics, 20(1). <https://doi.org/10.1186/s12859-019-2718-4>",
+    "img_path": "img/RavenhallEtal2019BMCBioinformatics.png",
+    "research_snippet": "population-based structural variant analysis and visualization"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.32942/osf.io/c63vj",
+    "citation": "Higino, G., & Vital, M. V. C. (2019). Mapping and understanding the digital biodiversity knowledge about vertebrates in the Atlantic Rainforest. <https://doi.org/10.32942/osf.io/c63vj>",
+    "img_path": "img/Higino&Vital2019Ecorxiv-preprint.png",
+    "research_snippet": "digital biodiversity knowledge of vertebrates in the Atlantic Rainforest"
   }
 ]
