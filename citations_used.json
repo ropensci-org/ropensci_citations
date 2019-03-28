@@ -4674,5 +4674,12 @@
     "citation": "Higino, G., & Vital, M. V. C. (2019). Mapping and understanding the digital biodiversity knowledge about vertebrates in the Atlantic Rainforest. <https://doi.org/10.32942/osf.io/c63vj>",
     "img_path": "img/Higino&Vital2019Ecorxiv-preprint.png",
     "research_snippet": "digital biodiversity knowledge of vertebrates in the Atlantic Rainforest"
+  },
+  {
+    "name": "colocr",
+    "doi": "10.7287/peerj.preprints.27613v1",
+    "citation": "Ahmed, M., Lai, T. H., & Kim, D. R. (2019). colocr: An R package for conducting co-localization analysis on fluorescence microscopy images. <https://doi.org/10.7287/peerj.preprints.27613v1>",
+    "img_path": null,
+    "research_snippet": null
   }
 ]
