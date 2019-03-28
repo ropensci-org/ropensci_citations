@@ -4681,5 +4681,12 @@
     "citation": "Ahmed, M., Lai, T. H., & Kim, D. R. (2019). colocr: An R package for conducting co-localization analysis on fluorescence microscopy images. <https://doi.org/10.7287/peerj.preprints.27613v1>",
     "img_path": null,
     "research_snippet": null
+  },
+  {
+    "name": "taxize",
+    "doi": "10.4490/algae.2019.34.2.26",
+    "citation": "Jo, J., Lee, H.-G., Kim, K. Y., & Park, C. (2019). SoEM: a novel PCR-free biodiversity assessment method based on small-organelles enriched metagenomics. ALGAE, 34(1), 57–70. <https://doi.org/10.4490/algae.2019.34.2.26>",
+    "img_path": "img/JoEtal2019Algae.png",
+    "research_snippet": "a biodiversity assessment method"
   }
 ]
