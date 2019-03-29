@@ -4688,5 +4688,12 @@
     "citation": "Jo, J., Lee, H.-G., Kim, K. Y., & Park, C. (2019). SoEM: a novel PCR-free biodiversity assessment method based on small-organelles enriched metagenomics. ALGAE, 34(1), 57–70. <https://doi.org/10.4490/algae.2019.34.2.26>",
     "img_path": "img/JoEtal2019Algae.png",
     "research_snippet": "a biodiversity assessment method"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1111/1365-2745.13170",
+    "citation": "Shefferson, R. P., Bunch, W., Cowden, C. C., Lee, Y., Kartzinel, T. R., Yukawa, T., … Jiang, H. (2019). Does evolutionary history determine specificity in broad ecological interactions? Journal of Ecology. <https://doi.org/10.1111/1365-2745.13170>",
+    "img_path": "img/SheffersonEtal2019JournalOfEcology.png",
+    "research_snippet": "looking at the role of evoluiontary history in ecological interactions"
   }
 ]
