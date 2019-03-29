@@ -4702,5 +4702,12 @@
     "citation": "Kelly, M. J., So, J., Rogers, A. J., Gregory, G., Li, J., Zethoven, M., … Kats, L. M. (2019). Bcor loss perturbs myeloid differentiation and promotes leukaemogenesis. Nature Communications, 10(1). <https://doi.org/10.1038/s41467-019-09250-6>",
     "img_path": null,
     "research_snippet": "myeloid differentiation and leukaemogenesis"
+  },
+  {
+    "name": "RSelenium",
+    "doi": null,
+    "citation": "Rybinski, K. 2019. A machine learning framework for automated analysis of central bank communication and media discourse. The case of Narodowy Bank Polski. Bank & Credit. 50(1): 1-20. <http://bankikredyt.nbp.pl/content/2019/01/BIK_01_2019_01.pdf>",
+    "img_path": "img/Rybinski2019Bank&Credit.png",
+    "research_snippet": "analysis of central bank communications"
   }
 ]
