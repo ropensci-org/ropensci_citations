@@ -4709,5 +4709,12 @@
     "citation": "Rybinski, K. 2019. A machine learning framework for automated analysis of central bank communication and media discourse. The case of Narodowy Bank Polski. Bank & Credit. 50(1): 1-20. <http://bankikredyt.nbp.pl/content/2019/01/BIK_01_2019_01.pdf>",
     "img_path": "img/Rybinski2019Bank&Credit.png",
     "research_snippet": "analysis of central bank communications"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1111/brv.12509",
+    "citation": "Pinto, N. S., Palaoro, A. V., & Peixoto, P. E. C. (2019). All by myself? Meta‐analysis of animal contests shows stronger support for self than for mutual assessment models. Biological Reviews. <https://doi.org/10.1111/brv.12509>",
+    "img_path": "img/PintoEtal2019BiologicalReviews.png",
+    "research_snippet": "animals settle contests"
   }
 ]
