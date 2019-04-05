@@ -4723,5 +4723,12 @@
     "citation": "Konzen, E., Shi, J. Q., & Wang, Z. (2019). Modelling Function-Valued Processes with Nonseparable Covariance Structure. arXiv preprint arXiv:1903.09981. <https://arxiv.org/pdf/1903.09981.pdf>",
     "img_path": "img/KonzenEtal2019arXiv-preprint.png",
     "research_snippet": "modelling multidimensional function-valued processes w/ nonseparable covariance structure"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.3390/environments6040040",
+    "citation": "Nghiem, J., Potter, C., & Baiman, R. (2019). Detection of Vegetation Cover Change in Renewable Energy Development Zones of Southern California Using MODIS NDVI Time Series Analysis, 2000 to 2018. Environments, 6(4), 40. <https://doi.org/10.3390/environments6040040>",
+    "img_path": "img/NghiemEtal2019Environments.png",
+    "research_snippet": "detection of vegetation cover change"
   }
 ]
