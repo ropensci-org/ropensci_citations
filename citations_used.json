@@ -4730,5 +4730,12 @@
     "citation": "Nghiem, J., Potter, C., & Baiman, R. (2019). Detection of Vegetation Cover Change in Renewable Energy Development Zones of Southern California Using MODIS NDVI Time Series Analysis, 2000 to 2018. Environments, 6(4), 40. <https://doi.org/10.3390/environments6040040>",
     "img_path": "img/NghiemEtal2019Environments.png",
     "research_snippet": "detection of vegetation cover change"
+  },
+  {
+    "name": "NLMR",
+    "doi": "10.21105/joss.00722",
+    "citation": "Harris, M. (2019). KLRfome - Kernel Logistic Regression on Focal Mean Embeddings. Journal of Open Source Software, 4(35), 722. <https://doi.org/10.21105/joss.00722>",
+    "img_path": "img/Harris2019JOSS.png",
+    "research_snippet": "an R package for predicting presence of archaeological sites"
   }
 ]
