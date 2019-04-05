@@ -4716,5 +4716,12 @@
     "citation": "Pinto, N. S., Palaoro, A. V., & Peixoto, P. E. C. (2019). All by myself? Meta‐analysis of animal contests shows stronger support for self than for mutual assessment models. Biological Reviews. <https://doi.org/10.1111/brv.12509>",
     "img_path": "img/PintoEtal2019BiologicalReviews.png",
     "research_snippet": "animals settle contests"
+  },
+  {
+    "name": "weathercan",
+    "doi": null,
+    "citation": "Konzen, E., Shi, J. Q., & Wang, Z. (2019). Modelling Function-Valued Processes with Nonseparable Covariance Structure. arXiv preprint arXiv:1903.09981. <https://arxiv.org/pdf/1903.09981.pdf>",
+    "img_path": "img/KonzenEtal2019arXiv-preprint.png",
+    "research_snippet": "modelling multidimensional function-valued processes w/ nonseparable covariance structure"
   }
 ]
