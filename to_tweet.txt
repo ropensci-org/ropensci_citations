@@ -1,1 +1,1 @@
-NLMR	10.21105/joss.00722	Harris, M. (2019). KLRfome - Kernel Logistic Regression on Focal Mean Embeddings. Journal of Open Source Software, 4(35), 722. <https://doi.org/10.21105/joss.00722>	img/Harris2019JOSS.png	an R package for predicting presence of archaeological sites
+
