@@ -4737,5 +4737,12 @@
     "citation": "Harris, M. (2019). KLRfome - Kernel Logistic Regression on Focal Mean Embeddings. Journal of Open Source Software, 4(35), 722. <https://doi.org/10.21105/joss.00722>",
     "img_path": "img/Harris2019JOSS.png",
     "research_snippet": "an R package for predicting presence of archaeological sites"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1016/j.jag.2018.12.003",
+    "citation": "Marcos, B., Gonçalves, J., Alcaraz-Segura, D., Cunha, M., & Honrado, J. P. (2019). Improving the detection of wildfire disturbances in space and time based on indicators extracted from MODIS data: a case study in northern Portugal. International Journal of Applied Earth Observation and Geoinformation, 78, 77-85. <https://doi.org/10.1016/j.jag.2018.12.003>",
+    "img_path": null,
+    "research_snippet": "improving the detection of wildfire disturbances"
   }
 ]
