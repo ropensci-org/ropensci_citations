@@ -4772,5 +4772,12 @@
     "citation": "Castro, R., Tierra, A., & Luna, M. (2019). Assessing the Horizontal Positional Accuracy in OpenStreetMap: A Big Data Approach. Lecture Notes in Control and Information Sciences, 513–523. <https://doi.org/10.1007/978-3-030-16184-2_49>",
     "img_path": "img/CastroEtal2019bookchapter.png",
     "research_snippet": "assessing the horizontal positional accuracy in OpenStreetMap"
+  },
+  {
+    "name": "plotly",
+    "doi": null,
+    "citation": "Chakroborty, D., Kurppa, K. J., Paatero, I., Ojala, V. K., Koivu, M., Tamirat, M. Z., ... & Elenius, K. (2019). An unbiased in vitro screen for activating epidermal growth factor receptor mutations. Journal of Biological Chemistry, jbc-RA118. <http://www.jbc.org/content/early/2019/04/05/jbc.RA118.006336>",
+    "img_path": null,
+    "research_snippet": "epidermal growth factor receptor mutations"
   }
 ]
