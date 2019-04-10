@@ -4765,5 +4765,12 @@
     "citation": "Medina, I. (2019). The role of the environment in the evolution of nest shape in Australian passerines. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-41948-x>",
     "img_path": "img/Medina2019ScientificReports.png",
     "research_snippet": "the role of environment in bird nest shape evolution"
+  },
+  {
+    "name": "osmdata",
+    "doi": "10.1007/978-3-030-16184-2_49",
+    "citation": "Castro, R., Tierra, A., & Luna, M. (2019). Assessing the Horizontal Positional Accuracy in OpenStreetMap: A Big Data Approach. Lecture Notes in Control and Information Sciences, 513–523. <https://doi.org/10.1007/978-3-030-16184-2_49>",
+    "img_path": "img/CastroEtal2019bookchapter.png",
+    "research_snippet": "assessing the horizontal positional accuracy in OpenStreetMap"
   }
 ]
