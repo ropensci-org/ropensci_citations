@@ -4786,5 +4786,12 @@
     "citation": "Maarten van Zonneveld, Mohamed Rakha, Shin-yee Tan, Yu-yu Chou, Ching-huan Chang, Joyce Yen, Roland Schafleitner, Ramakrishnan Nair, Ken Naito, Svein Ø. Solberg. bioRxiv 596072; doi: <https://doi.org/10.1101/596072> ",
     "img_path": "img/vanZonneveldEtal2019bioRxiv-reprint.png",
     "research_snippet": "stress resilience and crop wild relatives"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1093/gigascience/giz029",
+    "citation": "Axtner, J., Crampton-Platt, A., Hörig, L. A., Mohamed, A., Xu, C. C. Y., Yu, D. W., & Wilting, A. (2019). An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies. GigaScience, 8(4). <https://doi.org/10.1093/gigascience/giz029>",
+    "img_path": "img/AxtnerEtal2019GigaScience.png",
+    "research_snippet": "laboratory workflow and database for larger scale environmental DNA studies"
   }
 ]
