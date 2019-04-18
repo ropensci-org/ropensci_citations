@@ -4793,5 +4793,12 @@
     "citation": "Axtner, J., Crampton-Platt, A., Hörig, L. A., Mohamed, A., Xu, C. C. Y., Yu, D. W., & Wilting, A. (2019). An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies. GigaScience, 8(4). <https://doi.org/10.1093/gigascience/giz029>",
     "img_path": "img/AxtnerEtal2019GigaScience.png",
     "research_snippet": "laboratory workflow and database for larger scale environmental DNA studies"
+  },
+  {
+    "name": "rnoaa",
+    "doi": "10.1002/ece3.5121",
+    "citation": "Blakey, R. V., Webb, E. B., Kesler, D. C., Siegel, R. B., Corcoran, D., & Johnson, M. (2019). Bats in a changing landscape: Linking occupancy and traits of a diverse montane bat community to fire regime. Ecology and Evolution. <https://doi.org/10.1002/ece3.5121>",
+    "img_path": "img/BlakeyEtal2019Ecology&Evolution.png",
+    "research_snippet": "montane bat communities and fire regimes"
   }
 ]
