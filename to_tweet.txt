@@ -1,1 +1,1 @@
-textreuse	10.1016/j.dib.2019.103907	Sanger, W., & Warin, T. (2019). Dataset of Jaccard similarity indices from 1,597 European political manifestos across 27 countries (1945–2017). Data in Brief, 103907. <https://doi.org/10.1016/j.dib.2019.103907>	NA	a dataset of similarities among political manifestos
+
