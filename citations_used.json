@@ -4814,5 +4814,12 @@
     "citation": "Rodrigues, S., Sinval, J., Queirós, C., Marôco, J., & Kaiseler, M. (2019). Transitioning from recruit to officer: An investigation of how stress appraisal and coping influence work engagement. International Journal of Selection and Assessment. <https://doi.org/10.1111/ijsa.12238>",
     "img_path": "img/RodriguesEtal2019IntJSelectionAssessment.png",
     "research_snippet": "Portuguese police officer work engagement"
+  },
+  {
+    "name": "textreuse",
+    "doi": "10.1016/j.dib.2019.103907",
+    "citation": "Sanger, W., & Warin, T. (2019). Dataset of Jaccard similarity indices from 1,597 European political manifestos across 27 countries (1945–2017). Data in Brief, 103907. <https://doi.org/10.1016/j.dib.2019.103907>",
+    "img_path": null,
+    "research_snippet": "a dataset of similarities among political manifestos"
   }
 ]
