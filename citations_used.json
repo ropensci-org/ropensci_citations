@@ -4800,5 +4800,12 @@
     "citation": "Blakey, R. V., Webb, E. B., Kesler, D. C., Siegel, R. B., Corcoran, D., & Johnson, M. (2019). Bats in a changing landscape: Linking occupancy and traits of a diverse montane bat community to fire regime. Ecology and Evolution. <https://doi.org/10.1002/ece3.5121>",
     "img_path": "img/BlakeyEtal2019Ecology&Evolution.png",
     "research_snippet": "montane bat communities and fire regimes"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1371/journal.pone.0215229",
+    "citation": "Miranda, L. S., Imperatriz-Fonseca, V. L., & Giannini, T. C. (2019). Climate change impact on ecosystem functions provided by birds in southeastern Amazonia. PLOS ONE, 14(4), e0215229. <https://doi.org/10.1371/journal.pone.0215229>",
+    "img_path": "img/MirandaEtal2019PLOSOne.png",
+    "research_snippet": "ecosystem functions provided by birds"
   }
 ]
