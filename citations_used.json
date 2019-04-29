@@ -4821,5 +4821,19 @@
     "citation": "Sanger, W., & Warin, T. (2019). Dataset of Jaccard similarity indices from 1,597 European political manifestos across 27 countries (1945–2017). Data in Brief, 103907. <https://doi.org/10.1016/j.dib.2019.103907>",
     "img_path": null,
     "research_snippet": "a dataset of similarities among political manifestos"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.26496/bjz.2019.28",
+    "citation": "Van de Perre, F., Leirs, H., & Verheyen, E. (2019). Paleoclimate, ecoregion size, and degree of isolation explain regional biodiversity differences among terrestrial vertebrates within the Congo Basin. Belgian Journal of Zoology, 149(1). <https://doi.org/10.26496/bjz.2019.28>",
+    "img_path": "img/VanDePerreEtal2019BelgianJournalOfZoology.png",
+    "research_snippet": "regional biodiversity differences among vertebrates in the Congo Basin"
+  },
+  {
+    "name": "rredlist",
+    "doi": "10.26496/bjz.2019.28",
+    "citation": "Van de Perre, F., Leirs, H., & Verheyen, E. (2019). Paleoclimate, ecoregion size, and degree of isolation explain regional biodiversity differences among terrestrial vertebrates within the Congo Basin. Belgian Journal of Zoology, 149(1). <https://doi.org/10.26496/bjz.2019.28>",
+    "img_path": "img/VanDePerreEtal2019BelgianJournalOfZoology.png",
+    "research_snippet": "regional biodiversity differences among vertebrates in the Congo Basin"
   }
 ]
