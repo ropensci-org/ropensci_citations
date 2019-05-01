@@ -4856,5 +4856,12 @@
     "citation": "Conde, D. A., Staerk, J., Colchero, F., da Silva, R., Schöley, J., Baden, H. M., … Vaupel, J. W. (2019). Data gaps and opportunities for comparative and conservation biology. Proceedings of the National Academy of Sciences, 201816367. <https://doi.org/10.1073/pnas.1816367116>",
     "img_path": "img/CondeEtal2019PNAS.png",
     "research_snippet": "Demographic Species Knowledge Index"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/ecog.04327",
+    "citation": "Hoban, S., Dawson, A., Robinson, J. D., Smith, A. B., & Strand, A. E. (2019). Inference of biogeographic history by formally integrating distinct lines of evidence: genetic, environmental niche, and fossil. Ecography. <https://doi.org/10.1111/ecog.04327>",
+    "img_path": "img/HobanEtal2019Ecography.png",
+    "research_snippet": "a review of biogeographic history inference"
   }
 ]
