@@ -4849,5 +4849,12 @@
     "citation": "Medury, A., Griswold, J. B., Huang, L., & Grembek, O. (2019). Pedestrian Count Expansion Methods: Bridging the Gap between Land Use Groups and Empirical Clusters. Transportation Research Record: Journal of the Transportation Research Board, 036119811983826. <https://doi.org/10.1177/0361198119838266>",
     "img_path": "img/MeduryEtal2019TransportationResearchRecord.png",
     "research_snippet": "pedestrian count methods"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1073/pnas.1816367116",
+    "citation": "Conde, D. A., Staerk, J., Colchero, F., da Silva, R., Schöley, J., Baden, H. M., … Vaupel, J. W. (2019). Data gaps and opportunities for comparative and conservation biology. Proceedings of the National Academy of Sciences, 201816367. <https://doi.org/10.1073/pnas.1816367116>",
+    "img_path": "img/CondeEtal2019PNAS.png",
+    "research_snippet": "Demographic Species Knowledge Index"
   }
 ]
