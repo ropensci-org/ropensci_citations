@@ -4842,5 +4842,12 @@
     "citation": "Chileen, B. (2019). Vegetation response to wildfire and climate forcing in a Rocky Mountain lodgepole pine forest over the past 2,500 years. Thesis. <https://krex.k-state.edu/dspace/bitstream/handle/2097/39566/BarrieChileen2019.pdf?sequence=1>",
     "img_path": null,
     "research_snippet": "vegetation response to wildfire and climate forcing"
+  },
+  {
+    "name": "FedData",
+    "doi": "10.1177/0361198119838266",
+    "citation": "Medury, A., Griswold, J. B., Huang, L., & Grembek, O. (2019). Pedestrian Count Expansion Methods: Bridging the Gap between Land Use Groups and Empirical Clusters. Transportation Research Record: Journal of the Transportation Research Board, 036119811983826. <https://doi.org/10.1177/0361198119838266>",
+    "img_path": "img/MeduryEtal2019TransportationResearchRecord.png",
+    "research_snippet": "pedestrian count methods"
   }
 ]
