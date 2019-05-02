@@ -4863,5 +4863,12 @@
     "citation": "Hoban, S., Dawson, A., Robinson, J. D., Smith, A. B., & Strand, A. E. (2019). Inference of biogeographic history by formally integrating distinct lines of evidence: genetic, environmental niche, and fossil. Ecography. <https://doi.org/10.1111/ecog.04327>",
     "img_path": "img/HobanEtal2019Ecography.png",
     "research_snippet": "a review of biogeographic history inference"
+  },
+  {
+    "name": "spatsoc",
+    "doi": "10.1002/ece3.5071",
+    "citation": "Peignier, M., Webber, Q. M. R., Koen, E. L., Laforge, M. P., Robitaille, A. L., & Vander Wal, E. (2019). Space use and social association in a gregarious ungulate: Testing the conspecific attraction and resource dispersion hypotheses. Ecology and Evolution. <https://doi.org/10.1002/ece3.5071>",
+    "img_path": "img/PeignierEtal2019Ecology&Evolution.png",
+    "research_snippet": "space use and social association in a gregarious ungulate"
   }
 ]
