@@ -4870,5 +4870,12 @@
     "citation": "Peignier, M., Webber, Q. M. R., Koen, E. L., Laforge, M. P., Robitaille, A. L., & Vander Wal, E. (2019). Space use and social association in a gregarious ungulate: Testing the conspecific attraction and resource dispersion hypotheses. Ecology and Evolution. <https://doi.org/10.1002/ece3.5071>",
     "img_path": "img/PeignierEtal2019Ecology&Evolution.png",
     "research_snippet": "space use and social association in a gregarious ungulate"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1007/978-1-4842-4511-8",
+    "citation": "Campbell, M. (2019). Learn RStudio IDE. <https://doi.org/10.1007/978-1-4842-4511-8>",
+    "img_path": "img/Campbell2019BookLearnRStudioIDE.png",
+    "research_snippet": "a book for the RStudio IDE"
   }
 ]
