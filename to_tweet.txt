@@ -1,1 +1,1 @@
-plotly	10.1007/978-1-4842-4511-8	Campbell, M. (2019). Learn RStudio IDE. <https://doi.org/10.1007/978-1-4842-4511-8>	img/Campbell2019BookLearnRStudioIDE.png	a book for the RStudio IDE
+
