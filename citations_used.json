@@ -4877,5 +4877,12 @@
     "citation": "Campbell, M. (2019). Learn RStudio IDE. <https://doi.org/10.1007/978-1-4842-4511-8>",
     "img_path": "img/Campbell2019BookLearnRStudioIDE.png",
     "research_snippet": "a book for the RStudio IDE"
+  },
+  {
+    "name": "pdftools",
+    "doi": "10.3390/jrfm12020073",
+    "citation": "Iqbal, J. (2019). Managerial Self-Attribution Bias and Banks’ Future Performance: Evidence from Emerging Economies. Journal of Risk and Financial Management, 12(2), 73. <https://doi.org/10.3390/jrfm12020073>",
+    "img_path": "img/Iqbal2019JRiskFinancialManagement.png",
+    "research_snippet": "predicting future peformance of banks"
   }
 ]
