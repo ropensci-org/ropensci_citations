@@ -4898,5 +4898,12 @@
     "citation": "Pinsky, M. L., Eikeset, A. M., McCauley, D. J., Payne, J. L., & Sunday, J. M. (2019). Greater vulnerability to warming of marine versus terrestrial ectotherms. Nature, 569(7754), 108–111. <https://doi.org/10.1038/s41586-019-1132-4>",
     "img_path": "img/PinskyEtal2019Nature.png",
     "research_snippet": "marine vs. terrrestrial ectotherm vulnerability to warming"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1093/botlinnean/boz006",
+    "citation": "Bacci, L. F., Michelangeli, F. A., & Goldenberg, R. (2019). Revisiting the classification of Melastomataceae: implications for habit and fruit evolution. Botanical Journal of the Linnean Society, 190(1), 1–24. <https://doi.org/10.1093/botlinnean/boz006>",
+    "img_path": "img/BacciEtal2019BotanicalJLinneanSociety.png",
+    "research_snippet": "classification of Melastomataceae"
   }
 ]
