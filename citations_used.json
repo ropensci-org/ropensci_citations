@@ -4905,5 +4905,12 @@
     "citation": "Bacci, L. F., Michelangeli, F. A., & Goldenberg, R. (2019). Revisiting the classification of Melastomataceae: implications for habit and fruit evolution. Botanical Journal of the Linnean Society, 190(1), 1–24. <https://doi.org/10.1093/botlinnean/boz006>",
     "img_path": "img/BacciEtal2019BotanicalJLinneanSociety.png",
     "research_snippet": "classification of Melastomataceae"
+  },
+  {
+    "name": "rgbif",
+    "doi": null,
+    "citation": "Domingos, A. M. (2019). Oportunidades e desafios em macroecologia marinha. <https://repositorio.bc.ufg.br/tede/bitstream/tede/9530/5/Tese%20-%20Andr%C3%A9%20Menegotto%20Domingos%20-%202019.pdf>",
+    "img_path": null,
+    "research_snippet": "geographic variations in species diversity"
   }
 ]
