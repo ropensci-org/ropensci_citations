@@ -4933,5 +4933,12 @@
     "citation": "Van den Berg, S. J. P., Baveco, H., Butler, E., De Laender, F., Focks, A., Franco, A., … Van den Brink, P. J. (2019). Modeling the Sensitivity of Aquatic Macroinvertebrates to Chemicals Using Traits. Environmental Science & Technology. <https://doi.org/10.1021/acs.est.9b00893>",
     "img_path": null,
     "research_snippet": "modeling sensitivity of aquatic invertebrates to chemicals"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.5751/es-10899-240208",
+    "citation": "Van Strien, M. J., Huber, S. H., Anderies, J. M., & Grêt-Regamey, A. (2019). Resilience in social-ecological systems: identifying stable and unstable equilibria with agent-based models. Ecology and Society, 24(2). <https://doi.org/10.5751/es-10899-240208>",
+    "img_path": null,
+    "research_snippet": "social-ecological systems"
   }
 ]
