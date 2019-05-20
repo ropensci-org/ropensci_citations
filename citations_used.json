@@ -4919,5 +4919,19 @@
     "citation": "Seyednasrollah, B., Milliman, T., & Richardson, A. D. (2019). Data extraction from digital repeat photography using xROI: An interactive framework to facilitate the process. ISPRS Journal of Photogrammetry and Remote Sensing, 152, 132–144. <https://doi.org/10.1016/j.isprsjprs.2019.04.009>",
     "img_path": null,
     "research_snippet": "data extraction from digital repeat photography"
+  },
+  {
+    "name": "hunspell",
+    "doi": null,
+    "citation": "Nicolas, G., Bai, X., & Fiske, S. T. (2019). Automated Dictionary Creation for Analyzing Text: An Illustration from Stereotype Content. <https://psyarxiv.com/afm8k/download?format=pdf>",
+    "img_path": null,
+    "research_snippet": "automated dictionary creation for analyzing text"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1021/acs.est.9b00893",
+    "citation": "Van den Berg, S. J. P., Baveco, H., Butler, E., De Laender, F., Focks, A., Franco, A., … Van den Brink, P. J. (2019). Modeling the Sensitivity of Aquatic Macroinvertebrates to Chemicals Using Traits. Environmental Science & Technology. <https://doi.org/10.1021/acs.est.9b00893>",
+    "img_path": null,
+    "research_snippet": "modeling sensitivity of aquatic invertebrates to chemicals"
   }
 ]
