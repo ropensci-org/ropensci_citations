@@ -4940,5 +4940,26 @@
     "citation": "Van Strien, M. J., Huber, S. H., Anderies, J. M., & Grêt-Regamey, A. (2019). Resilience in social-ecological systems: identifying stable and unstable equilibria with agent-based models. Ecology and Society, 24(2). <https://doi.org/10.5751/es-10899-240208>",
     "img_path": null,
     "research_snippet": "social-ecological systems"
+  },
+  {
+    "name": "hunspell",
+    "doi": null,
+    "citation": "Bayer, D., & Michael, S. (2019). Exploring the Daschle Collection using Text Mining. arXiv preprint arXiv:1904.12623 <https://arxiv.org/pdf/1904.12623>",
+    "img_path": null,
+    "research_snippet": "the (US) Senator Daschle Collection"
+  },
+  {
+    "name": "tesseract",
+    "doi": null,
+    "citation": "Bayer, D., & Michael, S. (2019). Exploring the Daschle Collection using Text Mining. arXiv preprint arXiv:1904.12623 <https://arxiv.org/pdf/1904.12623>",
+    "img_path": null,
+    "research_snippet": "the (US) Senator Daschle Collection"
+  },
+  {
+    "name": "iheatmapr",
+    "doi": null,
+    "citation": "Ruiz, J. L., & Gómez-Díaz, E. (2019). The second life of Plasmodium in the mosquito host: gene regulation on the move. Briefings in functional genomics. <https://www.ncbi.nlm.nih.gov/pubmed/31058281>",
+    "img_path": "img/Ruiz&Gomez-Diaz2019BriefingsFunctionalGenomics.png",
+    "research_snippet": "gene regulation in Plasmodium"
   }
 ]
