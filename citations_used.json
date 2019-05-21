@@ -4961,5 +4961,19 @@
     "citation": "Ruiz, J. L., & Gómez-Díaz, E. (2019). The second life of Plasmodium in the mosquito host: gene regulation on the move. Briefings in functional genomics. <https://www.ncbi.nlm.nih.gov/pubmed/31058281>",
     "img_path": "img/Ruiz&Gomez-Diaz2019BriefingsFunctionalGenomics.png",
     "research_snippet": "gene regulation in Plasmodium"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1093/icb/icz030",
+    "citation": "Baliga, V. B., & Mehta, R. S. (2019). Morphology, ecology, and biogeography of independent origins of cleaning behavior around the world. Integrative and comparative biology. <https://doi.org/10.1093/icb/icz030>",
+    "img_path": "img/Baliga&Mehta2019Integrative&ComparativeBiology.png",
+    "research_snippet": "evolution of cleaning behavior in fishes"
+  },
+  {
+    "name": "assertr",
+    "doi": null,
+    "citation": "Estrela, M. J. (2019) JCSP 44 PCEMI 44 Master of Defence Studies Maîtrise en études de la défense. <https://www.cfc.forces.gc.ca/papers/csc/csc44/mds/estrela.pdf>",
+    "img_path": null,
+    "research_snippet": "female voluntary attrition in the Canadian Armed Forces"
   }
 ]
