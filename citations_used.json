@@ -4982,5 +4982,12 @@
     "citation": "Falster, D. S., FitzJohn, R. G., Pennell, M. W., & Cornwell, W. K. (2019). Datastorr: a workflow and package for delivering successive versions of “evolving data” directly into R. GigaScience, 8(5). <https://doi.org/10.1093/gigascience/giz035>",
     "img_path": "img/FalsterEtal2019Gigascience.png",
     "research_snippet": "a workflow and package for evolving data in R (the datastorr paper)"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.12688/f1000research.18453.1",
+    "citation": "Barnett, A. G., & Moher, D. (2019). Turning the tables: A university league-table based on quality not quantity. F1000Research, 8, 583. <https://doi.org/10.12688/f1000research.18453.1>",
+    "img_path": null,
+    "research_snippet": "university rankings with good research practices"
   }
 ]
