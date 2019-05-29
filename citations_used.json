@@ -4996,5 +4996,12 @@
     "citation": "Kovacevic, A., Latombe, G., & Chown, S. L. (2019). Rate dynamics of ectotherm responses to thermal stress. Proceedings of the Royal Society B: Biological Sciences, 286(1902), 20190174. <https://doi.org/10.1098/rspb.2019.0174>",
     "img_path": "img/KovacevicEtal2019ProceedingsB.png",
     "research_snippet": "ectotherm responses to thermal stress"
+  },
+  {
+    "name": "rplos",
+    "doi": null,
+    "citation": "Schindler, D., Yordanova, K., & Krüger, F. An annotation scheme for references to research artefacts in scientific publications. <https://h-suwa.github.io/percomworkshops2019/papers/p52-schindler.pdf>",
+    "img_path": null,
+    "research_snippet": "annotation scheme for research artifact references"
   }
 ]
