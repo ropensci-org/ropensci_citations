@@ -5024,5 +5024,12 @@
     "citation": "Kirsch, S. A., & Böckmann, R. A. (2019). Coupling of Membrane Nanodomain Formation and Enhanced Electroporation near Phase Transition. Biophysical Journal. <https://doi.org/10.1016/j.bpj.2019.04.024>",
     "img_path": null,
     "research_snippet": "biophysics research"
+  },
+  {
+    "name": "phylotaR",
+    "doi": "10.1093/icb/icz026",
+    "citation": "Evans, K. M., Vidal-García, M., Tagliacollo, V. A., Taylor, S. J., & Fenolio, D. B. (2019). Bony Patchwork: Mosaic Patterns of Evolution in the Skull of Electric Fishes (Apteronotidae: Gymnotiformes). Integrative and Comparative Biology. <https://doi.org/10.1093/icb/icz026>",
+    "img_path": "img/EvansEtal2019Integrative&ComparativeBiology.png",
+    "research_snippet": "skull evolution in electric fishes"
   }
 ]
