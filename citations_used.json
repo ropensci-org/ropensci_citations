@@ -5038,5 +5038,19 @@
     "citation": "Jeremy Forbes, Dianne Cook, Rob J Hyndman. 2019. Spatial modelling of the two-party preferred vote in Australian federal elections: 2001-2016. Monash Econometrics and Business Statistics Working Papers 8/19, Monash University, Department of Econometrics and Business Statistics.  <https://ideas.repec.org/p/msh/ebswps/2019-8.html>",
     "img_path": null,
     "research_snippet": "spatial modelling of Australian votes"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1111/jbi.13585",
+    "citation": "Colli‐Silva, M., Vasconcelos, T. N. C., & Pirani, J. R. (2019). Outstanding plant endemism levels strongly support the recognition of campo rupestre provinces in mountaintops of eastern South America. Journal of Biogeography. <https://doi.org/10.1111/jbi.13585>",
+    "img_path": "img/Colli-SilvaEtal2019JOfBiogeography.png",
+    "research_snippet": "support for distinct bioregions in South America"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1016/j.rse.2019.04.026",
+    "citation": "Bhattarai, N., Mallick, K., Stuart, J., Vishwakarma, B. D., Niraula, R., Sen, S., & Jain, M. (2019). An automated multi-model evapotranspiration mapping framework using remotely sensed and reanalysis data. Remote Sensing of Environment, 229, 69–92. <https://doi.org/10.1016/j.rse.2019.04.026>",
+    "img_path": "img/BhattaraiEtal2019RemoteSensingOfEnvironment.png",
+    "research_snippet": "evapotranspiration mapping framework"
   }
 ]
