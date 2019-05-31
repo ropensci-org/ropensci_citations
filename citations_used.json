@@ -5052,5 +5052,19 @@
     "citation": "Bhattarai, N., Mallick, K., Stuart, J., Vishwakarma, B. D., Niraula, R., Sen, S., & Jain, M. (2019). An automated multi-model evapotranspiration mapping framework using remotely sensed and reanalysis data. Remote Sensing of Environment, 229, 69–92. <https://doi.org/10.1016/j.rse.2019.04.026>",
     "img_path": "img/BhattaraiEtal2019RemoteSensingOfEnvironment.png",
     "research_snippet": "evapotranspiration mapping framework"
+  },
+  {
+    "name": "tokenizers",
+    "doi": null,
+    "citation": "Płaczek, A., Płuciennik, A., Pach, M., Jarząb, M., & Mrozek, D. (2019). The Role of Feature Selection in Text Mining in the Process of Discovering Missing Clinical Annotations – Case Study. Communications in Computer and Information Science, 248–262. <https://doi.org/10.1007/978-3-030-19093-4_19>",
+    "img_path": null,
+    "research_snippet": "feature selection in text mining"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1016/j.foreco.2019.05.010",
+    "citation": "Germon, A., Jourdan, C., Bordron, B., Robin, A., Nouvellon, Y., Chapuis-Lardy, L., … Laclau, J.-P. (2019). Consequences of clear-cutting and drought on fine root dynamics down to 17 m in coppice-managed eucalypt plantations. Forest Ecology and Management, 445, 48–59. <https://doi.org/10.1016/j.foreco.2019.05.010>",
+    "img_path": "img/GermonEtal2019ForestEcology&Management.png",
+    "research_snippet": "effects of clear-cutting and drought on eucalypt plantations"
   }
 ]
