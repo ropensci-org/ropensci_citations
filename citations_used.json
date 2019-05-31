@@ -5066,5 +5066,12 @@
     "citation": "Germon, A., Jourdan, C., Bordron, B., Robin, A., Nouvellon, Y., Chapuis-Lardy, L., … Laclau, J.-P. (2019). Consequences of clear-cutting and drought on fine root dynamics down to 17 m in coppice-managed eucalypt plantations. Forest Ecology and Management, 445, 48–59. <https://doi.org/10.1016/j.foreco.2019.05.010>",
     "img_path": "img/GermonEtal2019ForestEcology&Management.png",
     "research_snippet": "effects of clear-cutting and drought on eucalypt plantations"
+  },
+  {
+    "name": "clifro",
+    "doi": "10.1016/j.pocean.2019.05.005",
+    "citation": "Chambault, P., Baudena, A., Bjorndal, K. A., AR Santos, M., Bolten, A. B., & Vandeperre, F. (2019). Swirling in the ocean: immature loggerhead turtles seasonally target old anticyclonic eddies at the fringe of the North Atlantic gyre. Progress in Oceanography. <https://doi.org/10.1016/j.pocean.2019.05.005>",
+    "img_path": "img/ChambaultEtal2019ProgressInOceanography.png",
+    "research_snippet": "loggerhead turtle movement patterns"
   }
 ]
