@@ -5101,5 +5101,12 @@
     "citation": "Salazar, P. C., Navarro-Cerrillo, R. M., Cruz, G., Grados, N., & Villar, R. (2019). Variability in growth and biomass allocation and the phenotypic plasticity of seven Prosopis pallida populations in response to water availability. Trees. <https://doi.org/10.1007/s00468-019-01868-9>",
     "img_path": null,
     "research_snippet": "growth and biomass allocation in Prosopis trees"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1371/journal.pone.0215722",
+    "citation": "Best, B. D., & Halpin, P. N. (2019). Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs for seabirds in space and cetaceans in time. PLOS ONE, 14(5), e0215722. <https://doi.org/10.1371/journal.pone.0215722>",
+    "img_path": "img/Best&Halpin2019PlosOne.png",
+    "research_snippet": "minimizing impacts of wind energy"
   }
 ]
