@@ -5108,5 +5108,12 @@
     "citation": "Best, B. D., & Halpin, P. N. (2019). Minimizing wildlife impacts for offshore wind energy development: Winning tradeoffs for seabirds in space and cetaceans in time. PLOS ONE, 14(5), e0215722. <https://doi.org/10.1371/journal.pone.0215722>",
     "img_path": "img/Best&Halpin2019PlosOne.png",
     "research_snippet": "minimizing impacts of wind energy"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1093/nar/gkz405",
+    "citation": "Mann, C. M., Martínez-Gálvez, G., Welker, J. M., Wierson, W. A., Ata, H., Almeida, M. P., … Dobbs, D. (2019). The Gene Sculpt Suite: a set of tools for genome editing. Nucleic Acids Research. <https://doi.org/10.1093/nar/gkz405>",
+    "img_path": "img/MannEtal2019NucleicAcidsResearch.png",
+    "research_snippet": "tools for genome editing"
   }
 ]
