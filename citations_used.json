@@ -5094,5 +5094,12 @@
     "citation": "Adeola, A. M., Botai, J. O., Mukarugwiza Olwoch, J., DeW. Rautenbach, H. C. J., Adisa, O. M., De Jager, C., … Aaron, M. (2019). Predicting malaria cases using remotely sensed environmental variables in Nkomazi, South Africa. Geospatial Health, 14(1). <https://doi.org/10.4081/gh.2019.676>",
     "img_path": null,
     "research_snippet": "predicting malaria cases using remotely sensed data"
+  },
+  {
+    "name": "magick",
+    "doi": "10.1007/s00468-019-01868-9",
+    "citation": "Salazar, P. C., Navarro-Cerrillo, R. M., Cruz, G., Grados, N., & Villar, R. (2019). Variability in growth and biomass allocation and the phenotypic plasticity of seven Prosopis pallida populations in response to water availability. Trees. <https://doi.org/10.1007/s00468-019-01868-9>",
+    "img_path": null,
+    "research_snippet": "growth and biomass allocation in Prosopis trees"
   }
 ]
