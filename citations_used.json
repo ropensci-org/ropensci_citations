@@ -5129,5 +5129,12 @@
     "citation": "Lin, B. Y., Chan, P. P., & Lowe, T. M. (2019). tRNAviz: explore and visualize tRNA sequence features. Nucleic Acids Research. <https://doi.org/10.1093/nar/gkz438>",
     "img_path": "img/LinEtal2019NucleicAcidsResearch.png",
     "research_snippet": "visualizing tRNA sequences"
+  },
+  {
+    "name": "nlrx",
+    "doi": null,
+    "citation": "Salecker, Jan; Dislich, Claudia; Wiegand, Kerstin; Meyer, Katrin M.; Pe'er,Guy (2019) : EFForTS-LGraf: A landscape generator for creating smallholder-driven land-use mosaics, EFForTS Discussion Paper Series, No. 29, Collaborative Research Centre990 - EFForTS, Ecological and Socioeconomic Functions of Tropical Lowland RainforestTransformation Systems. <https://www.econstor.eu/bitstream/10419/196610/1/1665217219.pdf>",
+    "img_path": null,
+    "research_snippet": "land use mosaics"
   }
 ]
