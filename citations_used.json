@@ -5115,5 +5115,19 @@
     "citation": "Mann, C. M., Martínez-Gálvez, G., Welker, J. M., Wierson, W. A., Ata, H., Almeida, M. P., … Dobbs, D. (2019). The Gene Sculpt Suite: a set of tools for genome editing. Nucleic Acids Research. <https://doi.org/10.1093/nar/gkz405>",
     "img_path": "img/MannEtal2019NucleicAcidsResearch.png",
     "research_snippet": "tools for genome editing"
+  },
+  {
+    "name": "RSelenium",
+    "doi": null,
+    "citation": "da Silva, L. T., de Oliveira, I. L., Dantas, T., & Miranda, V. G. 2019. Studies of new data sources and techniques to improve CPI compilation in Brazil. 16th meeting of the Ottawa Group, Rio de Janeiro, Brazil. <https://eventos.fgv.br/sites/eventos.fgv.br/files/arquivos/u161/study_of_new_data_sources_snipc_lincoln_da_silva.pdf>",
+    "img_path": null,
+    "research_snippet": "techniques to improve consumer price index "
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1093/nar/gkz438",
+    "citation": "Lin, B. Y., Chan, P. P., & Lowe, T. M. (2019). tRNAviz: explore and visualize tRNA sequence features. Nucleic Acids Research. <https://doi.org/10.1093/nar/gkz438>",
+    "img_path": "img/LinEtal2019NucleicAcidsResearch.png",
+    "research_snippet": "visualizing tRNA sequences"
   }
 ]
