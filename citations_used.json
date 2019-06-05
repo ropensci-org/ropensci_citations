@@ -5164,5 +5164,12 @@
     "citation": "Schubert, M., Marcussen, T., Meseguer, A. S., & Fjellheim, S. (2019). The grass subfamily Pooideae: Cretaceous–Palaeocene origin and climate‐driven Cenozoic diversification. Global Ecology and Biogeography. <https://doi.org/10.1111/geb.12923>",
     "img_path": "img/SchubertEtal2019GlobalEcology&Biogeography.png",
     "research_snippet": "origin and climate‐driven diversification in grasses"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1038/s41586-019-1128-0",
+    "citation": "Steidinger, B. S., Crowther, T. W., Liang, J., Van Nuland, M. E., Werner, G. D. A., … Peay, K. G. (2019). Climatic controls of decomposition drive the global biogeography of forest-tree symbioses. Nature, 569(7756), 404–408. <https://doi.org/10.1038/s41586-019-1128-0>",
+    "img_path": "img/SteidingerEtal2019Nature.png",
+    "research_snippet": "decomposition and forest-tree symbioses"
   }
 ]
