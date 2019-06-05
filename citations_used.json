@@ -5157,5 +5157,12 @@
     "citation": "Vantas, K., Sidiropoulos, E., & Loukas, A. (2019). Robustness Spatiotemporal Clustering and Trend Detection of Rainfall Erosivity Density in Greece. Water, 11(5), 1050. <https://doi.org/10.3390/w11051050>",
     "img_path": "img/VantasEtal2019Water.png",
     "research_snippet": "rainfall erosivity in Greece "
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/geb.12923",
+    "citation": "Schubert, M., Marcussen, T., Meseguer, A. S., & Fjellheim, S. (2019). The grass subfamily Pooideae: Cretaceous–Palaeocene origin and climate‐driven Cenozoic diversification. Global Ecology and Biogeography. <https://doi.org/10.1111/geb.12923>",
+    "img_path": "img/SchubertEtal2019GlobalEcology&Biogeography.png",
+    "research_snippet": "origin and climate‐driven diversification in grasses"
   }
 ]
