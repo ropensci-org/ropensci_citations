@@ -5136,5 +5136,12 @@
     "citation": "Salecker, Jan; Dislich, Claudia; Wiegand, Kerstin; Meyer, Katrin M.; Pe'er,Guy (2019) : EFForTS-LGraf: A landscape generator for creating smallholder-driven land-use mosaics, EFForTS Discussion Paper Series, No. 29, Collaborative Research Centre990 - EFForTS, Ecological and Socioeconomic Functions of Tropical Lowland RainforestTransformation Systems. <https://www.econstor.eu/bitstream/10419/196610/1/1665217219.pdf>",
     "img_path": null,
     "research_snippet": "land use mosaics"
+  },
+  {
+    "name": "lingtypology",
+    "doi": "10.1007/978-3-319-73400-2_131-1",
+    "citation": "Comrie, B. (2019). Mapping the World’s Languages: From Data via Purpose to Representation. Handbook of the Changing World Language Map, 1–16. <https://doi.org/10.1007/978-3-319-73400-2_131-1>",
+    "img_path": "img/Comrie2019BookCh.png",
+    "research_snippet": "mapping the world's languages"
   }
 ]
