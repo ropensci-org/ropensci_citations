@@ -5199,5 +5199,12 @@
     "citation": "Ogłuszka, M., Orzechowska, M., Jędroszka, D., Witas, P., & Bednarek, A. K. (2019). Evaluate Cutpoints: Adaptable continuous data distribution system for determining survival in Kaplan-Meier estimator. Computer Methods and Programs in Biomedicine, 177, 133–139. <https://doi.org/10.1016/j.cmpb.2019.05.023>",
     "img_path": null,
     "research_snippet": "biomedical methods"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1016/j.algal.2019.101529",
+    "citation": "Westmeijer, G., Everaert, G., Pirlet, H., De Clerck, O., & Vandegehuchte, M. B. (2019). Mechanistic niche modelling to identify favorable growth sites of temperate macroalgae. Algal Research, 41, 101529. <https://doi.org/10.1016/j.algal.2019.101529>",
+    "img_path": "img/WestmeijerEtal2019AlgalResearch.png",
+    "research_snippet": "favorable growth sites for macroalgae"
   }
 ]
