@@ -5178,5 +5178,19 @@
     "citation": "Mitchell, J. M. (2019). Computational Tools for the Untargeted Assignment of FT-MS Metabolomics Datasets. Dissertation. <https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1042&context=biochem_etds>",
     "img_path": null,
     "research_snippet": "tools for metabolomics work"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1016/j.ecolind.2019.04.088",
+    "citation": "Bagley, M., Pilgrim, E., Knapp, M., Yoder, C., Santo Domingo, J., & Banerji, A. (2019). High-throughput environmental DNA analysis informs a biological assessment of an urban stream. Ecological Indicators, 104, 378–389. <https://doi.org/10.1016/j.ecolind.2019.04.088>",
+    "img_path": null,
+    "research_snippet": "high-throughput environmental DNA and biological assessment"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/1365-2745.13203",
+    "citation": "Foisy, M. R., Albert, L. P., Hughes, D. W. W., & Weber, M. G. (2019). Do latex and resin canals spur plant diversification? Re‐examining a classic example of escape and radiate coevolution. Journal of Ecology. <https://doi.org/10.1111/1365-2745.13203>",
+    "img_path": "img/FoisyEtal2019JEcology.png",
+    "research_snippet": "whether latex and resin canals spur plant diversification"
   }
 ]
