@@ -5192,5 +5192,12 @@
     "citation": "Foisy, M. R., Albert, L. P., Hughes, D. W. W., & Weber, M. G. (2019). Do latex and resin canals spur plant diversification? Re‐examining a classic example of escape and radiate coevolution. Journal of Ecology. <https://doi.org/10.1111/1365-2745.13203>",
     "img_path": "img/FoisyEtal2019JEcology.png",
     "research_snippet": "whether latex and resin canals spur plant diversification"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1016/j.cmpb.2019.05.023",
+    "citation": "Ogłuszka, M., Orzechowska, M., Jędroszka, D., Witas, P., & Bednarek, A. K. (2019). Evaluate Cutpoints: Adaptable continuous data distribution system for determining survival in Kaplan-Meier estimator. Computer Methods and Programs in Biomedicine, 177, 133–139. <https://doi.org/10.1016/j.cmpb.2019.05.023>",
+    "img_path": null,
+    "research_snippet": "biomedical methods"
   }
 ]
