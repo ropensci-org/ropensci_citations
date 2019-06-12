@@ -5220,5 +5220,19 @@
     "citation": "Pérez-Palma, E., Gramm, M., Nürnberg, P., May, P., & Lal, D. (2019). Simple ClinVar: an interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database. Nucleic Acids Research. <https://doi.org/10.1093/nar/gkz411>",
     "img_path": null,
     "research_snippet": "a web tool for exploring genes"
+  },
+  {
+    "name": "hunspell",
+    "doi": "10.12688/gatesopenres.12999.1",
+    "citation": "Green, E. P., Whitcomb, A., Kahumbura, C., Rosen, J. G., Goyal, S., Achieng, D., & Bellows, B. (2019). What is the best method of family planning for me?: a text mining analysis of messages between users and agents of a digital health service in Kenya. Gates Open Research, 3, 1475. <https://doi.org/10.12688/gatesopenres.12999.1>",
+    "img_path": null,
+    "research_snippet": "text mining digital health data"
+  },
+  {
+    "name": "cld2",
+    "doi": "10.12688/gatesopenres.12999.1",
+    "citation": "Green, E. P., Whitcomb, A., Kahumbura, C., Rosen, J. G., Goyal, S., Achieng, D., & Bellows, B. (2019). What is the best method of family planning for me?: a text mining analysis of messages between users and agents of a digital health service in Kenya. Gates Open Research, 3, 1475. <https://doi.org/10.12688/gatesopenres.12999.1>",
+    "img_path": null,
+    "research_snippet": "text mining digital health data"
   }
 ]
