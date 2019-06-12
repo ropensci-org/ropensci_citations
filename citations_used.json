@@ -5206,5 +5206,19 @@
     "citation": "Westmeijer, G., Everaert, G., Pirlet, H., De Clerck, O., & Vandegehuchte, M. B. (2019). Mechanistic niche modelling to identify favorable growth sites of temperate macroalgae. Algal Research, 41, 101529. <https://doi.org/10.1016/j.algal.2019.101529>",
     "img_path": "img/WestmeijerEtal2019AlgalResearch.png",
     "research_snippet": "favorable growth sites for macroalgae"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1098/rsbl.2019.0133",
+    "citation": "Kortz, A. R., & Magurran, A. E. (2019). Increases in local richness (α-diversity) following invasion are offset by biotic homogenization in a biodiversity hotspot. Biology Letters, 15(5), 20190133. <https://doi.org/10.1098/rsbl.2019.0133>",
+    "img_path": null,
+    "research_snippet": "biological diveristy in the Brazilian Cerrado"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1093/nar/gkz411",
+    "citation": "Pérez-Palma, E., Gramm, M., Nürnberg, P., May, P., & Lal, D. (2019). Simple ClinVar: an interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database. Nucleic Acids Research. <https://doi.org/10.1093/nar/gkz411>",
+    "img_path": null,
+    "research_snippet": "a web tool for exploring genes"
   }
 ]
