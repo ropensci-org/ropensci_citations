@@ -5248,5 +5248,19 @@
     "citation": "Kannenberg, S. A., Novick, K. A., Alexander, M. R., Maxwell, J. T., Moore, D. J. P., Phillips, R. P., & Anderegg, W. R. L. (2019). Linking drought legacy effects across scales: From leaves to tree rings to ecosystems. Global Change Biology. <https://doi.org/10.1111/gcb.14710>",
     "img_path": null,
     "research_snippet": "drought legacy effects on ecosystems"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1111/2041-210x.13232",
+    "citation": "Aspillaga, E., Safi, K., Hereu, B., & Bartumeus, F. (2019). Modelling the three‐dimensional space use of aquatic animals combining topography and Eulerian telemetry data. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13232>",
+    "img_path": "img/AspillagaEtal2019MethodsInEcology&Evolution.png",
+    "research_snippet": "modelling 3d space use of aquatic animals"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1038/s41598-019-43875-3",
+    "citation": "Gibson, K. M., Nguyen, B. N., Neumann, L. M., Miller, M., Buss, P., Daniels, S., … Pukazhenthi, B. (2019). Gut microbiome differences between wild and captive black rhinoceros – implications for rhino health. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-43875-3>",
+    "img_path": null,
+    "research_snippet": "gut microbiome health in the black rhinoceros"
   }
 ]
