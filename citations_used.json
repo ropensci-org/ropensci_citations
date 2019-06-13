@@ -5234,5 +5234,19 @@
     "citation": "Green, E. P., Whitcomb, A., Kahumbura, C., Rosen, J. G., Goyal, S., Achieng, D., & Bellows, B. (2019). What is the best method of family planning for me?: a text mining analysis of messages between users and agents of a digital health service in Kenya. Gates Open Research, 3, 1475. <https://doi.org/10.12688/gatesopenres.12999.1>",
     "img_path": null,
     "research_snippet": "text mining digital health data"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1007/s00338-019-01820-w",
+    "citation": "Mihalitsis, M., & Bellwood, D. R. (2019). Morphological and functional diversity of piscivorous fishes on coral reefs. Coral Reefs. <https://doi.org/10.1007/s00338-019-01820-w>",
+    "img_path": "img/Mihalitsis&Bellwood2019CoralReefs.png",
+    "research_snippet": "diversity of piscivorous fishes on coral reefs"
+  },
+  {
+    "name": "MODIStools",
+    "doi": "10.1111/gcb.14710",
+    "citation": "Kannenberg, S. A., Novick, K. A., Alexander, M. R., Maxwell, J. T., Moore, D. J. P., Phillips, R. P., & Anderegg, W. R. L. (2019). Linking drought legacy effects across scales: From leaves to tree rings to ecosystems. Global Change Biology. <https://doi.org/10.1111/gcb.14710>",
+    "img_path": null,
+    "research_snippet": "drought legacy effects on ecosystems"
   }
 ]
