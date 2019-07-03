@@ -5290,5 +5290,12 @@
     "citation": "Fioravanti, G., Piervitali, E., & Desiato, F. (2019). A new homogenized daily data set for temperature variability assessment in Italy. International Journal of Climatology. <https://doi.org/10.1002/joc.6177>",
     "img_path": null,
     "research_snippet": "a dataset for temperature variability assessment in Italy"
+  },
+  {
+    "name": "magick",
+    "doi": "10.1016/j.chemosphere.2019.05.246",
+    "citation": "Logemann, A., Schafberg, M., & Brockmeyer, B. (2019). Using the HPTLC-bioluminescence bacteria assay for the determination of acute toxicities in marine sediments and its eligibility as a monitoring assessment tool. Chemosphere. <https://doi.org/10.1016/j.chemosphere.2019.05.246>",
+    "img_path": null,
+    "research_snippet": "bioluminescence bacteria assays"
   }
 ]
