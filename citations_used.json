@@ -5262,5 +5262,19 @@
     "citation": "Gibson, K. M., Nguyen, B. N., Neumann, L. M., Miller, M., Buss, P., Daniels, S., … Pukazhenthi, B. (2019). Gut microbiome differences between wild and captive black rhinoceros – implications for rhino health. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-43875-3>",
     "img_path": null,
     "research_snippet": "gut microbiome health in the black rhinoceros"
+  },
+  {
+    "name": "skimr",
+    "doi": "10.1007/s11482-019-09730-3",
+    "citation": "Sinval, J., Sirgy, M. J., Lee, D.-J., & Marôco, J. (2019). The Quality of Work Life Scale: Validity Evidence from Brazil and Portugal. Applied Research in Quality of Life. <https://doi.org/10.1007/s11482-019-09730-3>",
+    "img_path": null,
+    "research_snippet": "the Quality of Work Life Scale (QWLS)"
+  },
+  {
+    "name": "hunspell",
+    "doi": null,
+    "citation": "Iserman, M., Nalabandian, T., & Ireland, M. (2019, June). Dictionaries and Decision Trees for the 2019 CLPsych Shared Task. In Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology (pp. 188-194). <https://www.aclweb.org/anthology/W19-3025>",
+    "img_path": null,
+    "research_snippet": "dictionares and decision trees"
   }
 ]
