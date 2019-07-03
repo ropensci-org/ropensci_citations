@@ -5276,5 +5276,19 @@
     "citation": "Iserman, M., Nalabandian, T., & Ireland, M. (2019, June). Dictionaries and Decision Trees for the 2019 CLPsych Shared Task. In Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology (pp. 188-194). <https://www.aclweb.org/anthology/W19-3025>",
     "img_path": null,
     "research_snippet": "dictionares and decision trees"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1111/jbi.13595",
+    "citation": "Goodman, M. C., Hannah, S. M., & Ruttenberg, B. I. (2019). The relationship between geographic range extent, sea surface temperature and adult traits in coastal temperate fishes. Journal of Biogeography. <https://doi.org/10.1111/jbi.13595>",
+    "img_path": "img/GoodmanEtal2019JournalOfBiogeography.png",
+    "research_snippet": "the influence of ocean basin, traits and sea surface temperature on ranges"
+  },
+  {
+    "name": "RSelenium",
+    "doi": "10.1002/joc.6177",
+    "citation": "Fioravanti, G., Piervitali, E., & Desiato, F. (2019). A new homogenized daily data set for temperature variability assessment in Italy. International Journal of Climatology. <https://doi.org/10.1002/joc.6177>",
+    "img_path": null,
+    "research_snippet": "a dataset for temperature variability assessment in Italy"
   }
 ]
