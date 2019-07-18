@@ -5311,5 +5311,19 @@
     "citation": "Wambui, K. M., & Musenge, E. (2019). A space-time analysis of recurrent malnutrition-related hospitalisations in Kilifi, Kenya for children under-5 years. BMC Nutrition, 5(1). <https://doi.org/10.1186/s40795-019-0296-5>",
     "img_path": null,
     "research_snippet": "malnutrition in Kilifi, Kenya"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1186/s40168-019-0702-x",
+    "citation": "Wright, R. J., Gibson, M. I., & Christie-Oleza, J. A. (2019). Understanding microbial community dynamics to improve optimal microbiome selection. Microbiome, 7(1). <https://doi.org/10.1186/s40168-019-0702-x>",
+    "img_path": null,
+    "research_snippet": "improving optimal microbiome selection"
+  },
+  {
+    "name": "FedData",
+    "doi": "10.1111/tbed.13265",
+    "citation": "Meisner, J., Clifford, W. R., Wohrle, R. D., Kangiser, D., & Rabinowitz, P. (2019). Soil and climactic predictors of canine coccidioidomycosis seroprevalence in Washington State: an ecological cross‐sectional study. Transboundary and Emerging Diseases. <https://doi.org/10.1111/tbed.13265>",
+    "img_path": null,
+    "research_snippet": "soil and climate predictors of a canine infection"
   }
 ]
