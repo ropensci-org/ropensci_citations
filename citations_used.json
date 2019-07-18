@@ -5339,5 +5339,12 @@
     "citation": "Alhajeri, B. H., & Fourcade, Y. (2019). High correlation between species‐level environmental data estimates extracted from IUCN expert range maps and from GBIF occurrence data. Journal of Biogeography. <https://doi.org/10.1111/jbi.13619>",
     "img_path": "img/Alhajeri&Fourcade2019JournalOfBiogeography.png",
     "research_snippet": "species-level environmental data derived from IUCN vs. GBIF"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/jbi.13619",
+    "citation": "Alhajeri, B. H., & Fourcade, Y. (2019). High correlation between species‐level environmental data estimates extracted from IUCN expert range maps and from GBIF occurrence data. Journal of Biogeography. <https://doi.org/10.1111/jbi.13619>",
+    "img_path": "img/Alhajeri&Fourcade2019JournalOfBiogeography.png",
+    "research_snippet": "species-level environmental data derived from IUCN vs. GBIF"
   }
 ]
