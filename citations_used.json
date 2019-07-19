@@ -5353,5 +5353,12 @@
     "citation": "Boggs, Scheible, Machado, & Meiklejohn. (2019). Single Fragment or Bulk Soil DNA Metabarcoding: Which is Better for Characterizing Biological Taxa Found in Surface Soils for Sample Separation? Genes, 10(6), 431. <https://doi.org/10.3390/genes10060431>",
     "img_path": null,
     "research_snippet": "comparing single fragment vs. bulk soil DNA metabarcoding"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.3897/zookeys.852.28567",
+    "citation": "Ros-Candeira, A., Pérez-Luque, A. J., Suárez-Muñoz, M., Bonet-García, F. J., Hódar, J. A., Giménez de Azcárate, F., & Ortega-Díaz, E. (2019). Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. ZooKeys, 852, 125–136. <https://doi.org/10.3897/zookeys.852.28567>",
+    "img_path": "img/Ros-CandeiraEtal2019Zookeys.png",
+    "research_snippet": "an occurrence dataset of the pest pine processionary moth"
   }
 ]
