@@ -5360,5 +5360,12 @@
     "citation": "Ros-Candeira, A., Pérez-Luque, A. J., Suárez-Muñoz, M., Bonet-García, F. J., Hódar, J. A., Giménez de Azcárate, F., & Ortega-Díaz, E. (2019). Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. ZooKeys, 852, 125–136. <https://doi.org/10.3897/zookeys.852.28567>",
     "img_path": "img/Ros-CandeiraEtal2019Zookeys.png",
     "research_snippet": "an occurrence dataset of the pest pine processionary moth"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.32942/osf.io/8cu4y",
+    "citation": "Van Denderen, D., Gislason, H., & Andersen, K. H. (2019). Little difference in average fish growth and maximum size across temperatures. EcoEvoRxiv. <https://doi.org/10.32942/osf.io/8cu4y>",
+    "img_path": "img/vanDenderenEtal2019EcoEvoRxiv-Preprint.png",
+    "research_snippet": "fish size and growth"
   }
 ]
