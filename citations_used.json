@@ -5409,5 +5409,12 @@
     "citation": "Krah, F.-S., & Heibl, C. (2019). rGUIDANCE – alignment confidence score computation in R. Journal of Open Source Software, 4(36), 1350. <https://doi.org/10.21105/joss.01350>",
     "img_path": null,
     "research_snippet": "alignment confidence score computation in R"
+  },
+  {
+    "name": "osmdata",
+    "doi": "10.1111/tbed.13267",
+    "citation": "Morelle, K., Jezek, M., Licoppe, A., & Podgorski, T. (2019). Deathbed choice by ASF‐infected wild boar can help find carcasses. Transboundary and Emerging Diseases. <https://doi.org/10.1111/tbed.13267>",
+    "img_path": null,
+    "research_snippet": "African swine fever in wild boars"
   }
 ]
