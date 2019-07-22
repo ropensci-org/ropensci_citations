@@ -5374,5 +5374,19 @@
     "citation": "Bailey, L. D., Ens, B. J., Both, C., Heg, D., Oosterbeek, K., & van de Pol, M. (2019). Habitat selection can reduce effects of extreme climatic events in a long‐lived shorebird. Journal of Animal Ecology. <https://doi.org/10.1111/1365-2656.13041>",
     "img_path": "img/BaileyEtal2019JournalOfAnimalEcology.png",
     "research_snippet": "effects of climatic events on shorebirds"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1371/journal.pone.0216723",
+    "citation": "Palacios-Abrantes, J., Cisneros-Montemayor, A. M., Cisneros-Mata, M. A., Rodríguez, L., Arreguín-Sánchez, F., Aguilar, V., … Cheung, W. W. L. (2019). A metadata approach to evaluate the state of ocean knowledge: Strengths, limitations, and application to Mexico. PLOS ONE, 14(6), e0216723. <https://doi.org/10.1371/journal.pone.0216723>",
+    "img_path": null,
+    "research_snippet": "evaluating ocean knowledge in Mexico"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.3897/biss.3.36207",
+    "citation": "McTavish, E. J. (2019). Linking Biodiversity Data Using Evolutionary History. Biodiversity Information Science and Standards, 3. <https://doi.org/10.3897/biss.3.36207>",
+    "img_path": null,
+    "research_snippet": "linking biodiversity data using evolutionary history"
   }
 ]
