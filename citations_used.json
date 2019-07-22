@@ -5402,5 +5402,12 @@
     "citation": "Nyboer, E. A., Liang, C., & Chapman, L. J. (2019). Assessing the vulnerability of Africa’s freshwater fishes to climate change: A continent-wide trait-based analysis. Biological Conservation, 236, 505–520. <https://doi.org/10.1016/j.biocon.2019.05.003>",
     "img_path": "img/NyboerEtal2019BiologicalConservation.png",
     "research_snippet": "assessing vulnerability of fishes to climate change"
+  },
+  {
+    "name": "phylotar",
+    "doi": "10.21105/joss.01350",
+    "citation": "Krah, F.-S., & Heibl, C. (2019). rGUIDANCE – alignment confidence score computation in R. Journal of Open Source Software, 4(36), 1350. <https://doi.org/10.21105/joss.01350>",
+    "img_path": null,
+    "research_snippet": "alignment confidence score computation in R"
   }
 ]
