@@ -5437,5 +5437,19 @@
     "citation": "Grattarola, F., Botto, G., da Rosa, I., Gobel, N., González, E., González, J., … Pincheira-Donoso, D. (2019). Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal, 7. <https://doi.org/10.3897/bdj.7.e36226>",
     "img_path": "img/GrattarolaEtal2019BiodiversityDataJournal.png",
     "research_snippet": "a biodiversity database for Uruguay"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1016/j.bbapap.2019.06.010",
+    "citation": "Kravchuk, O. I., Lyupina, Y. V., Erokhov, P. A., Finoshin, A. D., Adameyko, K. I., Mishyna, M. Y., … Mikhailov, V. S. (2019). Characterization of the 20S proteasome of the lepidopteran, Spodoptera frugiperda. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics. <https://doi.org/10.1016/j.bbapap.2019.06.010>",
+    "img_path": null,
+    "research_snippet": "sequencing a lepidopteran proteasome"
+  },
+  {
+    "name": "stplanr",
+    "doi": "10.1177/2399808319857726",
+    "citation": "Yen, Y., Zhao, P., & Sohail, M. T. (2019). The morphology and circuity of walkable, bikeable, and drivable street networks in Phnom Penh, Cambodia. Environment and Planning B: Urban Analytics and City Science, 239980831985772. <https://doi.org/10.1177/2399808319857726>",
+    "img_path": "img/YenEtal2019UrbanAnalytics&CityScience.png",
+    "research_snippet": "street networks in Phnom Phen, Cambodia"
   }
 ]
