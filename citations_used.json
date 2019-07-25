@@ -5451,5 +5451,19 @@
     "citation": "Yen, Y., Zhao, P., & Sohail, M. T. (2019). The morphology and circuity of walkable, bikeable, and drivable street networks in Phnom Penh, Cambodia. Environment and Planning B: Urban Analytics and City Science, 239980831985772. <https://doi.org/10.1177/2399808319857726>",
     "img_path": "img/YenEtal2019UrbanAnalytics&CityScience.png",
     "research_snippet": "street networks in Phnom Phen, Cambodia"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.3390/ijms20102397",
+    "citation": "Danella Figo, D., De Amicis, K., Neiva Santos de Aquino, D., Pomiecinski, F., Gadermaier, G., Briza, P., … Souza Santos, K. (2019). Cashew Tree Pollen: An Unknown Source of IgE-Reactive Molecules. International Journal of Molecular Sciences, 20(10), 2397. <https://doi.org/10.3390/ijms20102397>",
+    "img_path": null,
+    "research_snippet": "cashew tree pollen as an allergen"
+  },
+  {
+    "name": "hydroscoper",
+    "doi": null,
+    "citation": "Kanterakis, G., Skoulikaris, C., & Dimitriou, E. Assessment of hydrological modelling behaviour at basin scale on the number of delineated sub-basins. Proceedings of the Seventh International Conference on Environmental Management, Engineering, Planning & Economics",
+    "img_path": null,
+    "research_snippet": "hydrological modelling"
   }
 ]
