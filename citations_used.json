@@ -5465,5 +5465,19 @@
     "citation": "Kanterakis, G., Skoulikaris, C., & Dimitriou, E. Assessment of hydrological modelling behaviour at basin scale on the number of delineated sub-basins. Proceedings of the Seventh International Conference on Environmental Management, Engineering, Planning & Economics",
     "img_path": null,
     "research_snippet": "hydrological modelling"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1016/j.pocean.2019.102124",
+    "citation": "Petrik, C. M., Stock, C. A., Andersen, K. H., van Denderen, P. D., & Watson, J. R. (2019). Bottom-up drivers of global patterns of demersal, forage, and pelagic fishes. Progress in Oceanography, 176, 102124. <https://doi.org/10.1016/j.pocean.2019.102124>",
+    "img_path": "img/PetrikEtal2019ProgressInOceanography.png",
+    "research_snippet": "drivers of global patterns of fishes"
+  },
+  {
+    "name": "tokenizers",
+    "doi": null,
+    "citation": "Calderone, A. (2019). A Computational Analysis of Natural Languages to Build a Sentence Structure Aware Artificial Neural Network. arXiv preprint arXiv:1906.05491 <https://arxiv.org/pdf/1906.05491.pdf>",
+    "img_path": "img/Calderone2019arXiv.png",
+    "research_snippet": "sentence structure aware artificial neural network"
   }
 ]
