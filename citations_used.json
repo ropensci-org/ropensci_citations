@@ -5493,5 +5493,12 @@
     "citation": "Baylis, A. M. M., Tierney, M., Orben, R. A., Warwick-Evans, V., Wakefield, E., Grecian, W. J., … Brickle, P. (2019). Important At-Sea Areas of Colonial Breeding Marine Predators on the Southern Patagonian Shelf. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-44695-1>",
     "img_path": "img/BaylisEtal2019ScientificReports.png",
     "research_snippet": "important colonial breeding areas for marine predators"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1016/j.ajpath.2019.05.009",
+    "citation": "Nourbakhsh, M., Mansoor, A., Koro, K., Zhang, Q., & Minoo, P. (2019). Expression Profiling Reveals Involvement of WNT Pathway in the Malignant Progression of Sessile Serrated Adenomas. The American Journal of Pathology. <https://doi.org/10.1016/j.ajpath.2019.05.009>",
+    "img_path": null,
+    "research_snippet": "colorectal cancer"
   }
 ]
