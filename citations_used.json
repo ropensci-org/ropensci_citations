@@ -5500,5 +5500,12 @@
     "citation": "Nourbakhsh, M., Mansoor, A., Koro, K., Zhang, Q., & Minoo, P. (2019). Expression Profiling Reveals Involvement of WNT Pathway in the Malignant Progression of Sessile Serrated Adenomas. The American Journal of Pathology. <https://doi.org/10.1016/j.ajpath.2019.05.009>",
     "img_path": null,
     "research_snippet": "colorectal cancer"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.3897/biss.3.35829",
+    "citation": "Waller, J. (2019). Data Location Quality at GBIF. Biodiversity Information Science and Standards, 3. <https://doi.org/10.3897/biss.3.35829>",
+    "img_path": null,
+    "research_snippet": "GBIF data quality"
   }
 ]
