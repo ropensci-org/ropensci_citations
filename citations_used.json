@@ -5521,5 +5521,12 @@
     "citation": "Nelli, L., Ferguson, H. M., & Matthiopoulos, J. (2019). Achieving explanatory depth and spatial breadth in infectious disease modelling: Integrating active and passive case surveillance. Statistical Methods in Medical Research, 096228021985638. <https://doi.org/10.1177/0962280219856380>",
     "img_path": "img/NelliEtal2019StatisticalMethodsInMedicalResearch.png",
     "research_snippet": "infectious disease modelling"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1093/bioinformatics/btz409",
+    "citation": "Glicksberg, B. S., Oskotsky, B., Thangaraj, P. M., Giangreco, N., Badgeley, M. A., Johnson, K. W., … Butte, A. J. (2019). PatientExploreR: an extensible application for dynamic visualization of patient clinical history from electronic health records in the OMOP common data model. Bioinformatics. <https://doi.org/10.1093/bioinformatics/btz409>",
+    "img_path": null,
+    "research_snippet": "visualization of patient clinical history"
   }
 ]
