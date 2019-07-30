@@ -5514,5 +5514,12 @@
     "citation": "Shackleton, M. E., Rees, G. N., Watson, G., Campbell, C., & Nielsen, D. (2019). Environmental DNA reveals landscape mosaic of wetland plant communities. Global Ecology and Conservation, 19, e00689. <https://doi.org/10.1016/j.gecco.2019.e00689>",
     "img_path": null,
     "research_snippet": "landscape mosaics of wetland plant communities"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1177/0962280219856380",
+    "citation": "Nelli, L., Ferguson, H. M., & Matthiopoulos, J. (2019). Achieving explanatory depth and spatial breadth in infectious disease modelling: Integrating active and passive case surveillance. Statistical Methods in Medical Research, 096228021985638. <https://doi.org/10.1177/0962280219856380>",
+    "img_path": "img/NelliEtal2019StatisticalMethodsInMedicalResearch.png",
+    "research_snippet": "infectious disease modelling"
   }
 ]
