@@ -1,1 +1,1 @@
-plotly	10.1093/bioinformatics/btz409	Glicksberg, B. S., Oskotsky, B., Thangaraj, P. M., Giangreco, N., Badgeley, M. A., Johnson, K. W., … Butte, A. J. (2019). PatientExploreR: an extensible application for dynamic visualization of patient clinical history from electronic health records in the OMOP common data model. Bioinformatics. <https://doi.org/10.1093/bioinformatics/btz409>	NA	visualization of patient clinical history
+
