@@ -5507,5 +5507,12 @@
     "citation": "Waller, J. (2019). Data Location Quality at GBIF. Biodiversity Information Science and Standards, 3. <https://doi.org/10.3897/biss.3.35829>",
     "img_path": null,
     "research_snippet": "GBIF data quality"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1016/j.gecco.2019.e00689",
+    "citation": "Shackleton, M. E., Rees, G. N., Watson, G., Campbell, C., & Nielsen, D. (2019). Environmental DNA reveals landscape mosaic of wetland plant communities. Global Ecology and Conservation, 19, e00689. <https://doi.org/10.1016/j.gecco.2019.e00689>",
+    "img_path": null,
+    "research_snippet": "landscape mosaics of wetland plant communities"
   }
 ]
