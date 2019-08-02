@@ -5528,5 +5528,19 @@
     "citation": "Glicksberg, B. S., Oskotsky, B., Thangaraj, P. M., Giangreco, N., Badgeley, M. A., Johnson, K. W., … Butte, A. J. (2019). PatientExploreR: an extensible application for dynamic visualization of patient clinical history from electronic health records in the OMOP common data model. Bioinformatics. <https://doi.org/10.1093/bioinformatics/btz409>",
     "img_path": null,
     "research_snippet": "visualization of patient clinical history"
+  },
+  {
+    "name": "tacmagic",
+    "doi": "10.1111/jon.12646",
+    "citation": "Brown, E. E., Rashidi‐Ranjbar, N., Caravaggio, F., Gerretsen, P., Pollock, B. G., … Mulsant, B. H. (2019). Brain Amyloid PET Tracer Delivery is Related to White Matter Integrity in Patients with Mild Cognitive Impairment. Journal of Neuroimaging. <https://doi.org/10.1111/jon.12646>",
+    "img_path": "img/BrownEtal2019JournalOfNeuroimaging.png",
+    "research_snippet": "Alzheimer's disease"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1016/j.csbj.2019.06.019",
+    "citation": "Koppelstaetter, C., Leierer, J., Rudnicki, M., Kerschbaum, J., Kronbichler, A., Melk, A., … Perco, P. (2019). Computational Drug Screening Identifies Compounds Targeting Renal Age-associated Molecular Profiles. Computational and Structural Biotechnology Journal, 17, 843–853. <https://doi.org/10.1016/j.csbj.2019.06.019>",
+    "img_path": null,
+    "research_snippet": "compounds targeting renal age-associated molecular profiles"
   }
 ]
