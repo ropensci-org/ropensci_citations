@@ -5542,5 +5542,19 @@
     "citation": "Koppelstaetter, C., Leierer, J., Rudnicki, M., Kerschbaum, J., Kronbichler, A., Melk, A., … Perco, P. (2019). Computational Drug Screening Identifies Compounds Targeting Renal Age-associated Molecular Profiles. Computational and Structural Biotechnology Journal, 17, 843–853. <https://doi.org/10.1016/j.csbj.2019.06.019>",
     "img_path": null,
     "research_snippet": "compounds targeting renal age-associated molecular profiles"
+  },
+  {
+    "name": "pdftools",
+    "doi": "10.1007/978-3-030-22646-6_3",
+    "citation": "Calero Valdez A., Ziefle M. (2019) Trends and Changes in the Field of HCI the Last Decade from the Perspective of HCII Conference. In: Kurosu M. (eds) Human-Computer Interaction. Perspectives on Design. HCII 2019. Lecture Notes in Computer Science, vol 11566. Springer, Cham <https://doi.org/10.1007/978-3-030-22646-6_3>",
+    "img_path": null,
+    "research_snippet": "trends and changes in human computer interaction research"
+  },
+  {
+    "name": "rfishbase",
+    "doi": null,
+    "citation": "Alfaro, M. E., Karan, E., Schwartz, S. T., & Shultz, A. J. (2019). The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae). Integrative and comparative biology. <https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz119/5530961>",
+    "img_path": "img/AlfaroEtal2019Integrative&ComparativeBiology.png",
+    "research_snippet": "color pattern in Butterflyfishes"
   }
 ]
