@@ -5570,5 +5570,19 @@
     "citation": "Butterfield, B. J., Holmgren, C. A., Anderson, R. S., & Betancourt, J. L. (2019). Life history traits predict colonization and extinction lags of desert plant species since the Last Glacial Maximum. Ecology. <https://doi.org/10.1002/ecy.2817>",
     "img_path": null,
     "research_snippet": "colonization and extinction lags of desert plant species"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1086/704713",
+    "citation": "Kovalenko, K. E., Johnson, L. B., Brady, V. J., Ciborowski, J. J. H., Cooper, M. J., Gathman, J. P., … Uzarski, D. G. (2019). Hotspots and bright spots in functional and taxonomic fish diversity. Freshwater Science, 000–000. <https://doi.org/10.1086/704713>",
+    "img_path": "img/KovalenkoEtal2019FreshwaterScience.png",
+    "research_snippet": "functional and taxonomic fish diversity"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1038/s41598-019-45857-x",
+    "citation": "Ferraz, M. de A. M. M., Carothers, A., Dahal, R., Noonan, M. J., & Songsasen, N. (2019). Oviductal extracellular vesicles interact with the spermatozoon’s head and mid-piece and improves its motility and fertilizing ability in the domestic cat. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-45857-x>",
+    "img_path": null,
+    "research_snippet": "influence of oviductal extracellular vesicles on sperm function in domestic cats"
   }
 ]
