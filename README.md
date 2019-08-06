@@ -3,6 +3,7 @@ rOpenSci Citations Data
 
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for how to contribute.
 
+- citations are first recorded in `mentions_notes.md` as manually recorded from scott's google scholar alerts via his email, including pdf file name, package cited, and a citation if its a thesis or other work type that we're not likely to find a citation for through its DOI
 - Citations data is in the `citations.tsv` file. The data is tab separated.
 - Images used for tweets are in the `img/` folder
 - tweets to be sent are in the `to_tweet.txt` file
