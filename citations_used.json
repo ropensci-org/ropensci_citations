@@ -5556,5 +5556,19 @@
     "citation": "Alfaro, M. E., Karan, E., Schwartz, S. T., & Shultz, A. J. (2019). The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae). Integrative and comparative biology. <https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz119/5530961>",
     "img_path": "img/AlfaroEtal2019Integrative&ComparativeBiology.png",
     "research_snippet": "color pattern in Butterflyfishes"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1002/ecy.2817",
+    "citation": "Butterfield, B. J., Holmgren, C. A., Anderson, R. S., & Betancourt, J. L. (2019). Life history traits predict colonization and extinction lags of desert plant species since the Last Glacial Maximum. Ecology. <https://doi.org/10.1002/ecy.2817>",
+    "img_path": null,
+    "research_snippet": "colonization and extinction lags of desert plant species"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1002/ecy.2817",
+    "citation": "Butterfield, B. J., Holmgren, C. A., Anderson, R. S., & Betancourt, J. L. (2019). Life history traits predict colonization and extinction lags of desert plant species since the Last Glacial Maximum. Ecology. <https://doi.org/10.1002/ecy.2817>",
+    "img_path": null,
+    "research_snippet": "colonization and extinction lags of desert plant species"
   }
 ]
