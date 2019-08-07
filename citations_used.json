@@ -5584,5 +5584,19 @@
     "citation": "Ferraz, M. de A. M. M., Carothers, A., Dahal, R., Noonan, M. J., & Songsasen, N. (2019). Oviductal extracellular vesicles interact with the spermatozoon’s head and mid-piece and improves its motility and fertilizing ability in the domestic cat. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-45857-x>",
     "img_path": null,
     "research_snippet": "influence of oviductal extracellular vesicles on sperm function in domestic cats"
+  },
+  {
+    "name": "tesseract",
+    "doi": "10.1109/compsac.2019.10184",
+    "citation": "Saxena, P., Saxena, D., Nie, X., Helmers, A., Ramachandran, N., Sakib, N., & Ahamed, S. (2019). Feature Boosting in Natural Image Classification. 2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC). <https://doi.org/10.1109/compsac.2019.10184>",
+    "img_path": "img/SaxenaEtal2019IEEEConferencePaper.png",
+    "research_snippet": "natural image classification"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1007/978-3-030-24302-9_51",
+    "citation": "Pilogallo, A., Saganeiti, L., Scorza, F., & Murgante, B. (2019). Investigating Urban Growth Dynamic – Land Surface Temperature Relationship. Lecture Notes in Computer Science, 701–710. <https://doi.org/10.1007/978-3-030-24302-9_51>",
+    "img_path": null,
+    "research_snippet": "urban growth dynamics"
   }
 ]
