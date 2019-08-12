@@ -747,3 +747,6 @@
 * Sancho2019Thesis.pdf: rentrez (Macip Sancho, G. 2019. Deciphering host-pathogen interactions at the biomembrane interface, key to target therapeutical approaches against Mycoplasma genitalium. Masters Thesis. Universitat Oberta de Catalunya. <http://hdl.handle.net/10609/97806>)
 * Sobreiro2019Thesis.pdf: MODIStsp (Sobreiro, J. F. F. 2019. Vegetation multitemporal responses to hydroclimate variations in the Espinhaço Range (Brazil). Masters Thesis. <http://hdl.handle.net/11449/183096>)
 * ZaninEtal2019EuropeanJournalOfWildlifeResearch.pdf: MODIStools
+* LennoxEtal2019ConservationBiology.pdf: rredlist, taxize
+* BrionneEtal2019BioDataMining.pdf: plotly
+* DawsonEtal2019Ecology.pdf: neotoma
