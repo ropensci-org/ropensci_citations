@@ -5598,5 +5598,19 @@
     "citation": "Pilogallo, A., Saganeiti, L., Scorza, F., & Murgante, B. (2019). Investigating Urban Growth Dynamic – Land Surface Temperature Relationship. Lecture Notes in Computer Science, 701–710. <https://doi.org/10.1007/978-3-030-24302-9_51>",
     "img_path": null,
     "research_snippet": "urban growth dynamics"
+  },
+  {
+    "name": "neotoma",
+    "doi": null,
+    "citation": "Sang, Zihaohan. No-analog ecological communities since the last glacial maximum inferred from fossil pollen records for North America. Diss. University of Alberta, 2019. <https://sites.ualberta.ca/~ahamann/people/pdfs/Sang_2019_MSc.pdf>",
+    "img_path": "img/Sang2019MScThesis.png",
+    "research_snippet": "no-analog ecological communities"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.3390/cells8070675",
+    "citation": "Xia, Liu, Zhang, & Guo. (2019). GEDS: A Gene Expression Display Server for mRNAs, miRNAs and Proteins. Cells, 8(7), 675. <https://doi.org/10.3390/cells8070675>",
+    "img_path": null,
+    "research_snippet": "gene expression web application"
   }
 ]
