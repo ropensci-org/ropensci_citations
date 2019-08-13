@@ -750,3 +750,9 @@
 * LennoxEtal2019ConservationBiology.pdf: rredlist, taxize
 * BrionneEtal2019BioDataMining.pdf: plotly
 * DawsonEtal2019Ecology.pdf: neotoma
+* LucEtal2019FoodQuality&Preference.pdf: hunspell, spelling (cited only, not used)
+* Antonio2019Thesis.pdf: skmir (da Conceição António, N. M. (2019). Hotel Revenue Management: Using Data Science to Predict Booking Cancellations (Doctoral dissertation, ISCTE-IUL). <https://www.researchgate.net/profile/Nuno_Antonio/publication/334319208_Hotel_Revenue_Management_Using_Data_Science_to_Predict_Booking_Cancellations/links/5d246e94a6fdcc2462ce3339/Hotel-Revenue-Management-Using-Data-Science-to-Predict-Booking-Cancellations.pdf>)
+* HanEtal2019NewPhytologist.pdf: chromer
+* OFarrellEtal2019PNAS.pdf: rerddap
+* HaydenEtal2019ScientificReports.pdf: rgbif, rfishbase
+* waiting to get pdf: 10.1016/j.ecoinf.2019.100991 ("rWBclimate" OR "rzmq" OR "scrubr" OR "skimr" OR "solrium" OR "spocc";) (rgbif, CoordinateCleaner)
