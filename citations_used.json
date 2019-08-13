@@ -5626,5 +5626,19 @@
     "citation": "Valdez, J. W., & Mandrekar, K. (2019). Assessing the Species in the CARES Preservation Program and the Role of Aquarium Hobbyists in Freshwater Fish Conservation. <https://doi.org/10.20944/preprints201907.0030.v1>",
     "img_path": null,
     "research_snippet": "role of aquarium hobbyists in freshwater fish conservation"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1016/j.ecolind.2019.105539",
+    "citation": "Correia, R. A., Ruete, A., Stropp, J., Malhado, A. C. M., dos Santos, J. W., Lessa, T., … Ladle, R. J. (2019). Using ignorance scores to explore biodiversity recording effort for multiple taxa in the Caatinga. Ecological Indicators, 106, 105539. <https://doi.org/10.1016/j.ecolind.2019.105539>",
+    "img_path": "img/CorreiaEtal2019EcologicalIndicators.png",
+    "research_snippet": "ignorance scores to measure recording effort"
+  },
+  {
+    "name": "hunspell",
+    "doi": "10.2196/14499",
+    "citation": "Lin, C., Lou, Y.-S., Tsai, D.-J., Lee, C.-C., Hsu, C.-J., Wu, D.-C., … Fang, W.-H. (2019). Projection Word Embedding Model With Hybrid Sampling Training for Classifying ICD-10-CM Codes: Longitudinal Observational Study. JMIR Medical Informatics, 7(3), e14499. <https://doi.org/10.2196/14499>",
+    "img_path": null,
+    "research_snippet": "word embeddings for electronic health records"
   }
 ]
