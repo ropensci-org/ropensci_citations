@@ -5654,5 +5654,12 @@
     "citation": "Myers, E. A., Xue, A. T., Gehara, M., Cox, C., Davis Rabosky, A. R., Lemos‐Espinal, J., … Burbrink, F. T. (2019). Environmental Heterogeneity and Not Vicariant Biogeographic Barriers Generate Community Wide Population Structure in Desert Adapted Snakes. Molecular Ecology. <https://doi.org/10.1111/mec.15182>",
     "img_path": "img/MyersEtal2019MolecularEcology.png",
     "research_snippet": "community structure in desert snakes"
+  },
+  {
+    "name": "fingertipsR",
+    "doi": null,
+    "citation": "Van Schaik, P., Peng, Y., Ojelabi, A., & Ling, J. (2019). Explainable statistical learning in public health for policy development: the case of real-world suicide data. BMC medical research methodology, 19(1), 152. <https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0796-7>",
+    "img_path": null,
+    "research_snippet": "open data, statistics, and public health"
   }
 ]
