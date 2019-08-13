@@ -5612,5 +5612,19 @@
     "citation": "Xia, Liu, Zhang, & Guo. (2019). GEDS: A Gene Expression Display Server for mRNAs, miRNAs and Proteins. Cells, 8(7), 675. <https://doi.org/10.3390/cells8070675>",
     "img_path": null,
     "research_snippet": "gene expression web application"
+  },
+  {
+    "name": "plotly",
+    "doi": null,
+    "citation": "Burkett, Kaitlyn E. Who Is Ready To Retire: Your Average Life Expectancy And The Savings Needed To Support You. Diss. Appalachian State University, 2019. <https://libres.uncg.edu/ir/asu/f/Burkett_Kaitlyn_2019_Thesis.pdf>",
+    "img_path": null,
+    "research_snippet": "retirement savings"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.20944/preprints201907.0030.v1",
+    "citation": "Valdez, J. W., & Mandrekar, K. (2019). Assessing the Species in the CARES Preservation Program and the Role of Aquarium Hobbyists in Freshwater Fish Conservation. <https://doi.org/10.20944/preprints201907.0030.v1>",
+    "img_path": null,
+    "research_snippet": "role of aquarium hobbyists in freshwater fish conservation"
   }
 ]
