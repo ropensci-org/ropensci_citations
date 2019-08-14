@@ -755,4 +755,4 @@
 * HanEtal2019NewPhytologist.pdf: chromer
 * OFarrellEtal2019PNAS.pdf: rerddap
 * HaydenEtal2019ScientificReports.pdf: rgbif, rfishbase
-* waiting to get pdf: 10.1016/j.ecoinf.2019.100991 ("rWBclimate" OR "rzmq" OR "scrubr" OR "skimr" OR "solrium" OR "spocc";) (rgbif, CoordinateCleaner)
+* PenderEtal2019EcologicalInformatics.pdf: spocc, rgbif, CoordinateCleaner
