@@ -5661,5 +5661,12 @@
     "citation": "Van Schaik, P., Peng, Y., Ojelabi, A., & Ling, J. (2019). Explainable statistical learning in public health for policy development: the case of real-world suicide data. BMC medical research methodology, 19(1), 152. <https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-019-0796-7>",
     "img_path": null,
     "research_snippet": "open data, statistics, and public health"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/jbi.13653",
+    "citation": "Hagen, O., Vaterlaus, L., Albouy, C., Brown, A., Leugger, F., Onstein, R. E., … Pellissier, L. (2019). Mountain building, climate cooling and the richness of cold‐adapted plants in the Northern Hemisphere. Journal of Biogeography. <https://doi.org/10.1111/jbi.13653>",
+    "img_path": "img/HagenEtal2019JounalOfBiogeography.png",
+    "research_snippet": "the origins of cold-adapted plant species diversity"
   }
 ]
