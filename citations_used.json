@@ -5689,5 +5689,12 @@
     "citation": "Wüest, R. O., Zimmermann, N. E., Zurell, D., Alexander, J. M., Fritz, S. A., Hof, C., … Karger, D. N. (2019). Macroecology in the age of Big Data – Where to go from here? Journal of Biogeography. <https://doi.org/10.1111/jbi.13633>",
     "img_path": null,
     "research_snippet": "recent developments in macroecology research"
+  },
+  {
+    "name": "rnoaa",
+    "doi": null,
+    "citation": "Saunders, K. R., Stephenson, A. G., & Karoly, D. J. (2019). A Regionalisation Approach for Rainfall based on Extremal Dependence. arXiv preprint <https://arxiv.org/pdf/1907.05750.pdf>",
+    "img_path": "img/SaundersEtal2019arXiv-preprint.png",
+    "research_snippet": "a statistical regionalisation approach for rainfall extremes"
   }
 ]
