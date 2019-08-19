@@ -5668,5 +5668,26 @@
     "citation": "Hagen, O., Vaterlaus, L., Albouy, C., Brown, A., Leugger, F., Onstein, R. E., … Pellissier, L. (2019). Mountain building, climate cooling and the richness of cold‐adapted plants in the Northern Hemisphere. Journal of Biogeography. <https://doi.org/10.1111/jbi.13653>",
     "img_path": "img/HagenEtal2019JounalOfBiogeography.png",
     "research_snippet": "the origins of cold-adapted plant species diversity"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1038/s41467-019-11139-3",
+    "citation": "Carlström, K. E., Ewing, E., Granqvist, M., Gyllenberg, A., Aeinehband, S., Enoksson, S. L., … Piehl, F. (2019). Therapeutic efficacy of dimethyl fumarate in relapsing-remitting multiple sclerosis associates with ROS pathway in monocytes. Nature Communications, 10(1). <https://doi.org/10.1038/s41467-019-11139-3>",
+    "img_path": "img/CarlstromEtal2019NatureCommunications.png",
+    "research_snippet": "efficacy of a treatment for multiple sclerosis"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.2991/ijcis.d.190618.001",
+    "citation": "Dag, O., Karabulut, E., & Alpar, R. (2019). GMDH2: Binary Classification via GMDH-Type Neural Network Algorithms—R Package and Web-Based Tool. International Journal of Computational Intelligence Systems, 12(2), 649. <https://doi.org/10.2991/ijcis.d.190618.001>",
+    "img_path": null,
+    "research_snippet": "web application for neural network algorithms"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1111/jbi.13633",
+    "citation": "Wüest, R. O., Zimmermann, N. E., Zurell, D., Alexander, J. M., Fritz, S. A., Hof, C., … Karger, D. N. (2019). Macroecology in the age of Big Data – Where to go from here? Journal of Biogeography. <https://doi.org/10.1111/jbi.13633>",
+    "img_path": null,
+    "research_snippet": "recent developments in macroecology research"
   }
 ]
