@@ -5696,5 +5696,19 @@
     "citation": "Saunders, K. R., Stephenson, A. G., & Karoly, D. J. (2019). A Regionalisation Approach for Rainfall based on Extremal Dependence. arXiv preprint <https://arxiv.org/pdf/1907.05750.pdf>",
     "img_path": "img/SaundersEtal2019arXiv-preprint.png",
     "research_snippet": "a statistical regionalisation approach for rainfall extremes"
+  },
+  {
+    "name": "hydroscoper",
+    "doi": null,
+    "citation": "Kanterakis, G., Skoulikaris, C., & Dimitriou, E. Assessment of hydrological modelling behaviour at basin scale on the number of delineated sub-basins. Proceedings of the Seventh International Conference on Environmental Management, Engineering, Planning & Economics <https://www.researchgate.net/profile/Charalampos_Skoulikaris/publication/333652500_Assessment_of_hydrological_modelling_behaviour_at_basin_scale_on_the_number_of_delineated_sub-basins/links/5cfa46ba4585157d15991da1/Assessment-of-hydrological-modelling-behaviour-at-basin-scale-on-the-number-of-delineated-sub-basins.pdf>",
+    "img_path": null,
+    "research_snippet": "hydrological modelling"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1111/2041-210x.13276",
+    "citation": "Collins, R. A., Bakker, J., Wangensteen, O. S., Soto, A. Z., Corrigan, L., Sims, D. W., … Mariani, S. (2019). Non‐specific amplification compromises environmental DNA metabarcoding with COI. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13276>",
+    "img_path": null,
+    "research_snippet": "metabarcoding methods"
   }
 ]
