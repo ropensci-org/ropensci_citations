@@ -5710,5 +5710,19 @@
     "citation": "Collins, R. A., Bakker, J., Wangensteen, O. S., Soto, A. Z., Corrigan, L., Sims, D. W., … Mariani, S. (2019). Non‐specific amplification compromises environmental DNA metabarcoding with COI. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13276>",
     "img_path": null,
     "research_snippet": "metabarcoding methods"
+  },
+  {
+    "name": "USABoundaries",
+    "doi": "10.31223/osf.io/k9wv6",
+    "citation": "Elsner, J. B., & Schroder, Z. (2019, July 18). Tornado damage ratings estimated with cumulative logistic regression. <https://doi.org/10.31223/osf.io/k9wv6>",
+    "img_path": null,
+    "research_snippet": "a statistical model to estimate tornado damage ratings"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1177/0748730419862474",
+    "citation": "Abhilash, L., & Sheeba, V. (2019). RhythmicAlly: Your R and Shiny–Based Open-Source Ally for the Analysis of Biological Rhythms. Journal of Biological Rhythms, 074873041986247. <https://doi.org/10.1177/0748730419862474>",
+    "img_path": null,
+    "research_snippet": "a shiny application for biological rhythms"
   }
 ]
