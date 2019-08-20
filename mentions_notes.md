@@ -756,3 +756,7 @@
 * OFarrellEtal2019PNAS.pdf: rerddap
 * HaydenEtal2019ScientificReports.pdf: rgbif, rfishbase
 * PenderEtal2019EcologicalInformatics.pdf: spocc, rgbif, CoordinateCleaner
+* Park2019PRSLB.pdf: rotl
+* Esperon-RodriguezEtal2019PlantsPeoplePlanet.pdf: taxize, rgbif
+* Fernandez-BassoEtal2019AtlantisStudiesInUncertaintyModelling.pdf: plotly
+* NeugebauerEtal2019PhysiologiaPlantarum.pdf: rentrez
