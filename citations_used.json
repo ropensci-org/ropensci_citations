@@ -5738,5 +5738,19 @@
     "citation": "Die, J. V., Elmassry, M. M., LeBlanc, K. H., Awe, O. I., Dillman, A., & Busby, B. (2019). geneHummus: an R package to define gene families and their expression in legumes and beyond. BMC Genomics, 20(1). <https://doi.org/10.1186/s12864-019-5952-2>",
     "img_path": null,
     "research_snippet": "an R pkg to define gene families in legumes"
+  },
+  {
+    "name": "FedData",
+    "doi": "10.3390/w11081540",
+    "citation": "Saadi, M., Oudin, L., & Ribstein, P. (2019). Random Forest Ability in Regionalizing Hourly Hydrological Model Parameters. Water, 11(8), 1540. <https://doi.org/10.3390/w11081540>",
+    "img_path": null,
+    "research_snippet": "hydrological modelling"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.3390/data4030107",
+    "citation": "Jaganathan, G. K., & Dalrymple, S. E. (2019). Internal Seed Structure of Alpine Plants and Extreme Cold Exposure. Data, 4(3), 107. <https://doi.org/10.3390/data4030107>",
+    "img_path": null,
+    "research_snippet": "seed structure of alpine plants"
   }
 ]
