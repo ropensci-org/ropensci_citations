@@ -5766,5 +5766,26 @@
     "citation": "Atickem, A., Stenseth, N. C., Fashing, P. J., Nguyen, N., Chapman, C. A., Bekele, A., … Kalbitzer, U. (2019). Build science in Africa. Nature, 570(7761), 297–300. <https://doi.org/10.1038/d41586-019-01885-1>",
     "img_path": "img/AtickemEtal2019Nature.png",
     "research_snippet": "building science in Africa"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/2041-210x.13276",
+    "citation": "Collins, R. A., Bakker, J., Wangensteen, O. S., Soto, A. Z., Corrigan, L., Sims, D. W., … Mariani, S. (2019). Non‐specific amplification compromises environmental DNA metabarcoding with COI. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13276>",
+    "img_path": null,
+    "research_snippet": "metabarcoding methods"
+  },
+  {
+    "name": "bold",
+    "doi": "10.1111/2041-210x.13276",
+    "citation": "Collins, R. A., Bakker, J., Wangensteen, O. S., Soto, A. Z., Corrigan, L., Sims, D. W., … Mariani, S. (2019). Non‐specific amplification compromises environmental DNA metabarcoding with COI. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13276>",
+    "img_path": null,
+    "research_snippet": "metabarcoding methods"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1111/2041-210x.13276",
+    "citation": "Collins, R. A., Bakker, J., Wangensteen, O. S., Soto, A. Z., Corrigan, L., Sims, D. W., … Mariani, S. (2019). Non‐specific amplification compromises environmental DNA metabarcoding with COI. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13276>",
+    "img_path": null,
+    "research_snippet": "metabarcoding methods"
   }
 ]
