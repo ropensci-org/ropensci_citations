@@ -5752,5 +5752,19 @@
     "citation": "Jaganathan, G. K., & Dalrymple, S. E. (2019). Internal Seed Structure of Alpine Plants and Extreme Cold Exposure. Data, 4(3), 107. <https://doi.org/10.3390/data4030107>",
     "img_path": null,
     "research_snippet": "seed structure of alpine plants"
+  },
+  {
+    "name": "taxize",
+    "doi": null,
+    "citation": "Alhajeri, B. H., Porto, L., & Maestri, R. (2019). Habitat productivity is a poor predictor of body size in rodents. Current Zoology. <https://academic.oup.com/cz/advance-article/doi/10.1093/cz/zoz037/5539488>",
+    "img_path": null,
+    "research_snippet": "body size in rodents"
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1038/d41586-019-01885-1",
+    "citation": "Atickem, A., Stenseth, N. C., Fashing, P. J., Nguyen, N., Chapman, C. A., Bekele, A., … Kalbitzer, U. (2019). Build science in Africa. Nature, 570(7761), 297–300. <https://doi.org/10.1038/d41586-019-01885-1>",
+    "img_path": "img/AtickemEtal2019Nature.png",
+    "research_snippet": "building science in Africa"
   }
 ]
