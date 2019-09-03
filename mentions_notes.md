@@ -760,3 +760,13 @@
 * Esperon-RodriguezEtal2019PlantsPeoplePlanet.pdf: taxize, rgbif
 * Fernandez-BassoEtal2019AtlantisStudiesInUncertaintyModelling.pdf: plotly
 * NeugebauerEtal2019PhysiologiaPlantarum.pdf: rentrez
+* Wagner2019Thesis.pdf: pdftools
+* LacyEtal2019Hydrobiologia.pdf: rfishbase
+* Flower2019Thesis.pdf: rgbif,CoordinateCleaner (Flower, C. (2019). Food Plant Biogeography of the Sonoran Desert (Doctoral dissertation, Arizona State University). <https://search.proquest.com/docview/2275500833>)
+* Sanchez-Paez&Ortega2019PLOSOne.pdf: rdhs
+* BenjaminEtal2019DataInBrief.pdf: writexl
+* WegrzynEtal2019EvolutionaryApplications.pdf: biomartr
+* MendesEtal2019ConferenceProceedings.pdf: plotly
+* StewartEtal2019ClinicalScience&Epidemiology.pdf: plotly
+* LewisEtal2019CellReports.pdf: plotly
+* GoncalvesETal2019PLOSOne.pdf: plotly
