@@ -5801,5 +5801,12 @@
     "citation": "Petersen, A. H., & Ekstrøm, C. T. (2019). dataMaid: Your Assistant for Documenting Supervised Data Quality Screening in R. Journal of Statistical Software, 90(6). <https://doi.org/10.18637/jss.v090.i06>",
     "img_path": null,
     "research_snippet": "data cleaning tools in R"
+  },
+  {
+    "name": "rdhs",
+    "doi": "10.1136/bmjgh-2019-001582",
+    "citation": "Watson, O. J., Sumner, K. M., Janko, M., Goel, V., Winskill, P., Slater, H. C., … Parr, J. B. (2019). False-negative malaria rapid diagnostic test results and their impact on community-based malaria surveys in sub-Saharan Africa. BMJ Global Health, 4(4), e001582. <https://doi.org/10.1136/bmjgh-2019-001582>",
+    "img_path": null,
+    "research_snippet": "malaria diagnostic tests"
   }
 ]
