@@ -5808,5 +5808,26 @@
     "citation": "Watson, O. J., Sumner, K. M., Janko, M., Goel, V., Winskill, P., Slater, H. C., … Parr, J. B. (2019). False-negative malaria rapid diagnostic test results and their impact on community-based malaria surveys in sub-Saharan Africa. BMJ Global Health, 4(4), e001582. <https://doi.org/10.1136/bmjgh-2019-001582>",
     "img_path": null,
     "research_snippet": "malaria diagnostic tests"
+  },
+  {
+    "name": "fulltext",
+    "doi": "10.1093/gigascience/giz092",
+    "citation": "Piper, A. M., Batovska, J., Cogan, N. O. I., Weiss, J., Cunningham, J. P., Rodoni, B. C., & Blacket, M. J. (2019). Prospects and challenges of implementing DNA metabarcoding for high-throughput insect surveillance. GigaScience, 8(8). <https://doi.org/10.1093/gigascience/giz092>",
+    "img_path": null,
+    "research_snippet": "DNA metabarcoding for insect surveillance"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1093/gigascience/giz092",
+    "citation": "Piper, A. M., Batovska, J., Cogan, N. O. I., Weiss, J., Cunningham, J. P., Rodoni, B. C., & Blacket, M. J. (2019). Prospects and challenges of implementing DNA metabarcoding for high-throughput insect surveillance. GigaScience, 8(8). <https://doi.org/10.1093/gigascience/giz092>",
+    "img_path": null,
+    "research_snippet": "DNA metabarcoding for insect surveillance"
+  },
+  {
+    "name": "bold",
+    "doi": "10.1093/gigascience/giz092",
+    "citation": "Piper, A. M., Batovska, J., Cogan, N. O. I., Weiss, J., Cunningham, J. P., Rodoni, B. C., & Blacket, M. J. (2019). Prospects and challenges of implementing DNA metabarcoding for high-throughput insect surveillance. GigaScience, 8(8). <https://doi.org/10.1093/gigascience/giz092>",
+    "img_path": null,
+    "research_snippet": "DNA metabarcoding for insect surveillance"
   }
 ]
