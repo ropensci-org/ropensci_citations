@@ -5857,5 +5857,12 @@
     "citation": "Fernandez-Basso, C., Ruiz, M. D., Delgado, M., & Martin-Bautista, M. J. (2019, August). A comparative analysis of tools for visualizing association rules: A proposal for visualising fuzzy association rules. In 2019 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology (EUSFLAT 2019). Atlantis Press. <https://download.atlantis-press.com/article/125914842.pdf>",
     "img_path": null,
     "research_snippet": "a comparison of tools for visualising association rules"
+  },
+  {
+    "name": "MODIStools",
+    "doi": "10.1007/s10344-019-1303-5",
+    "citation": "Zanin, M., Bergamaschi, C. L., Ferreira, J. R., Mendes, S. L., & Oliveira Moreira, D. (2019). Dog days are just starting: the ecology invasion of free-ranging dogs (Canis familiaris) in a protected area of the Atlantic Forest. European Journal of Wildlife Research, 65(5). <https://doi.org/10.1007/s10344-019-1303-5>",
+    "img_path": null,
+    "research_snippet": "invasion of free-ranging dogs in protected areas"
   }
 ]
