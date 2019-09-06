@@ -5864,5 +5864,19 @@
     "citation": "Zanin, M., Bergamaschi, C. L., Ferreira, J. R., Mendes, S. L., & Oliveira Moreira, D. (2019). Dog days are just starting: the ecology invasion of free-ranging dogs (Canis familiaris) in a protected area of the Atlantic Forest. European Journal of Wildlife Research, 65(5). <https://doi.org/10.1007/s10344-019-1303-5>",
     "img_path": null,
     "research_snippet": "invasion of free-ranging dogs in protected areas"
+  },
+  {
+    "name": "hunspell",
+    "doi": "10.1016/j.foodqual.2019.103751",
+    "citation": "Luc, A., Lê, S., & Philippe, M. (2019). Nudging consumers for relevant data using Free JAR profiling: an application to product development. Food Quality and Preference, 103751. <https://doi.org/10.1016/j.foodqual.2019.103751>",
+    "img_path": null,
+    "research_snippet": "food consumers (cited only)"
+  },
+  {
+    "name": "spelling",
+    "doi": "10.1016/j.foodqual.2019.103751",
+    "citation": "Luc, A., Lê, S., & Philippe, M. (2019). Nudging consumers for relevant data using Free JAR profiling: an application to product development. Food Quality and Preference, 103751. <https://doi.org/10.1016/j.foodqual.2019.103751>",
+    "img_path": null,
+    "research_snippet": "food consumers (cited only)"
   }
 ]
