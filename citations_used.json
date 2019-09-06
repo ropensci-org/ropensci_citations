@@ -5843,5 +5843,19 @@
     "citation": "Sobreiro, J. F. F. 2019. Vegetation multitemporal responses to hydroclimate variations in the Espinhaço Range (Brazil). Masters Thesis. <http://hdl.handle.net/11449/183096>",
     "img_path": null,
     "research_snippet": "vegetation response to climate variation"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1186/s13040-019-0204-1",
+    "citation": "Brionne, A., Juanchich, A., & Hennequet-Antier, C. (2019). ViSEAGO: a Bioconductor package for clustering biological functions using Gene Ontology and semantic similarity. BioData Mining, 12(1). <https://doi.org/10.1186/s13040-019-0204-1>",
+    "img_path": null,
+    "research_snippet": "an R package for clustering biological functions"
+  },
+  {
+    "name": "plotly",
+    "doi": null,
+    "citation": "Fernandez-Basso, C., Ruiz, M. D., Delgado, M., & Martin-Bautista, M. J. (2019, August). A comparative analysis of tools for visualizing association rules: A proposal for visualising fuzzy association rules. In 2019 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology (EUSFLAT 2019). Atlantis Press. <https://download.atlantis-press.com/article/125914842.pdf>",
+    "img_path": null,
+    "research_snippet": "a comparison of tools for visualising association rules"
   }
 ]
