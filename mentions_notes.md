@@ -770,3 +770,8 @@
 * StewartEtal2019ClinicalScience&Epidemiology.pdf: plotly
 * LewisEtal2019CellReports.pdf: plotly
 * GoncalvesETal2019PLOSOne.pdf: plotly
+* Urquhart-Cronish&Otto2019Facets.pdf: gender
+* VidalEtal2019MolecularEcology.pdf: brranching
+* RedmondEtal2019Ecosphere.pdf: brranching
+* Hanna&Hanna2019Pharmacy.pdf: pdftools
+* LiEtal2019GlobalChangeBiology.pdf: rotl
