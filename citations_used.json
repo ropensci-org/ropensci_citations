@@ -5892,5 +5892,19 @@
     "citation": "Lennox, R. J., Veríssimo, D., Twardek, W. M., Davis, C. R., & Jarić, I. (2019). Sentiment analysis as a measure of conservation culture in scientific literature. Conservation Biology. <https://doi.org/10.1111/cobi.13404>",
     "img_path": null,
     "research_snippet": "measuring conservation beliefs with sentiment analysis"
+  },
+  {
+    "name": "skmir",
+    "doi": null,
+    "citation": "da Conceição António, N. M. (2019). Hotel Revenue Management: Using Data Science to Predict Booking Cancellations (Doctoral dissertation, ISCTE-IUL). <https://www.researchgate.net/profile/Nuno_Antonio/publication/334319208_Hotel_Revenue_Management_Using_Data_Science_to_Predict_Booking_Cancellations/links/5d246e94a6fdcc2462ce3339/Hotel-Revenue-Management-Using-Data-Science-to-Predict-Booking-Cancellations.pdf>",
+    "img_path": null,
+    "research_snippet": "using data to predict booking cancellations"
+  },
+  {
+    "name": "chromer",
+    "doi": "10.1111/nph.16098",
+    "citation": "Han, T., Zheng, Q., Onstein, R. E., Rojas‐Andrés, B. M., Hauenschild, F., Muellner‐Riehl, A. N., & Xing, Y. (2019). Polyploidy promotes species diversification of Allium through ecological shifts. New Phytologist. <https://doi.org/10.1111/nph.16098>",
+    "img_path": null,
+    "research_snippet": "Allium species diversification"
   }
 ]
