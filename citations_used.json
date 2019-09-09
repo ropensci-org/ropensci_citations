@@ -5878,5 +5878,19 @@
     "citation": "Luc, A., Lê, S., & Philippe, M. (2019). Nudging consumers for relevant data using Free JAR profiling: an application to product development. Food Quality and Preference, 103751. <https://doi.org/10.1016/j.foodqual.2019.103751>",
     "img_path": null,
     "research_snippet": "food consumers (cited only)"
+  },
+  {
+    "name": "rredlist",
+    "doi": "10.1111/cobi.13404",
+    "citation": "Lennox, R. J., Veríssimo, D., Twardek, W. M., Davis, C. R., & Jarić, I. (2019). Sentiment analysis as a measure of conservation culture in scientific literature. Conservation Biology. <https://doi.org/10.1111/cobi.13404>",
+    "img_path": null,
+    "research_snippet": "measuring conservation beliefs with sentiment analysis"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/cobi.13404",
+    "citation": "Lennox, R. J., Veríssimo, D., Twardek, W. M., Davis, C. R., & Jarić, I. (2019). Sentiment analysis as a measure of conservation culture in scientific literature. Conservation Biology. <https://doi.org/10.1111/cobi.13404>",
+    "img_path": null,
+    "research_snippet": "measuring conservation beliefs with sentiment analysis"
   }
 ]
