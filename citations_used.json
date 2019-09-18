@@ -5906,5 +5906,19 @@
     "citation": "Han, T., Zheng, Q., Onstein, R. E., Rojas‐Andrés, B. M., Hauenschild, F., Muellner‐Riehl, A. N., & Xing, Y. (2019). Polyploidy promotes species diversification of Allium through ecological shifts. New Phytologist. <https://doi.org/10.1111/nph.16098>",
     "img_path": null,
     "research_snippet": "Allium species diversification"
+  },
+  {
+    "name": "rredlist",
+    "doi": "10.1002/ecy.2856",
+    "citation": "Dawson, A., Paciorek, C. J., Goring, S. J., Jackson, S. T., McLachlan, J. S., & Williams, J. W. (2019). Quantifying trends and uncertainty in prehistoric forest composition in the upper Midwestern United States. Ecology. <https://doi.org/10.1002/ecy.2856>",
+    "img_path": null,
+    "research_snippet": "trends and uncertainty in prehistoric forests"
+  },
+  {
+    "name": "rerddap",
+    "doi": "10.1073/pnas.1906766116",
+    "citation": "O’Farrell, S., Chollett, I., Sanchirico, J. N., & Perruso, L. (2019). Classifying fishing behavioral diversity using high-frequency movement data. Proceedings of the National Academy of Sciences, 201906766. <https://doi.org/10.1073/pnas.1906766116>",
+    "img_path": "img/OFarrellEtal2019PNAS.png",
+    "research_snippet": "fishing (human) behavior using movement data"
   }
 ]
