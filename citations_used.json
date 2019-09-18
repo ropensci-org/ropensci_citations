@@ -5934,5 +5934,19 @@
     "citation": "Hayden, B., Palomares, M. L. D., Smith, B. E., & Poelen, J. H. (2019). Biological and environmental drivers of trophic ecology in marine fishes - a global perspective. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-47618-2>",
     "img_path": "img/HaydenEtal2019ScientificReports.png",
     "research_snippet": "trophic ecology of marine fishes"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1111/ppl.13018",
+    "citation": "Neugebauer, K., El‐Serehy, H. A., George, T. S., McNicol, J. W., Moraes, M. F., Sorreano, M. C. M., & White, P. J. (2019). The influence of phylogeny and ecology on root, shoot and plant ionomes of fourteen native Brazilian species. Physiologia Plantarum. <https://doi.org/10.1111/ppl.13018>",
+    "img_path": null,
+    "research_snippet": "influence of phylogeny and ecology on elemental composition of different plant species"
+  },
+  {
+    "name": "pdftools",
+    "doi": null,
+    "citation": "Wagner, J. (2019). Using Advanced Analytics to Predict Risk for Grants Oversight. Masters Thesis. <https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/61849/Wagner%2C%20Jennifer.pdf?sequence=1&isAllowed=y>",
+    "img_path": null,
+    "research_snippet": "analytical methods for grants oversight"
   }
 ]
