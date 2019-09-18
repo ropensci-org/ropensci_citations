@@ -776,3 +776,21 @@
 * Hanna&Hanna2019Pharmacy.pdf: pdftools
 * LiEtal2019GlobalChangeBiology.pdf: rotl
 * HwangEtal2019ComputingScience&Engineering.pdf: pdftools
+* RamagopalanEtal2019FutureOncology.pdf: hunspell
+* BayleyEtal2019AquaticConservationMarine&FreshwaterEcosystems.pdf: rfishbase
+* CazellesEtal2019GlobalChangeBiology.pdf: taxize, rfishbase
+* FriedmanEtal2019PRSLB.pdf: rfishbase
+* Sanchez-TojarEtal2019EcoEvoRxiv.pdf: rotl
+* Mihalitsis&Bellwood2019RSocOpenScience.pdf: rotl
+* GrecoEtal2019Biogeosciences.pdf: pangaear
+* EnkhbayarEtal2019arxiv-preprint.pdf: rplos
+* ReboljEtal2019JournalMedicalScreening.pdf: fingertipsR
+* SunEtal2019IntJHealthPlanningManagement.pdf: rAltmetric
+* Soh2019Metabolomics.pdf: biomartR
+* Dick&He2019PacificFisheryMngtCouncil.pdf: rerddap
+* VerstraetenEtal2019Aerobiologia.pdf: MODIStsp
+* DeLucaEtal2019PeerJ.pdf: rgbif
+* Ondra2019whitepaper.pdf: camsRad
+* InghamEtal2019Microbiome.pdf: plotly
+* MooreEtal2019Diversity&Distributions.pdf: plotly
+* DarboeEtal2019ClinicalInfectiousDiseases.pdf: plotly
