@@ -5920,5 +5920,19 @@
     "citation": "O’Farrell, S., Chollett, I., Sanchirico, J. N., & Perruso, L. (2019). Classifying fishing behavioral diversity using high-frequency movement data. Proceedings of the National Academy of Sciences, 201906766. <https://doi.org/10.1073/pnas.1906766116>",
     "img_path": "img/OFarrellEtal2019PNAS.png",
     "research_snippet": "fishing (human) behavior using movement data"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1038/s41598-019-47618-2",
+    "citation": "Hayden, B., Palomares, M. L. D., Smith, B. E., & Poelen, J. H. (2019). Biological and environmental drivers of trophic ecology in marine fishes - a global perspective. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-47618-2>",
+    "img_path": "img/HaydenEtal2019ScientificReports.png",
+    "research_snippet": "trophic ecology of marine fishes"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1038/s41598-019-47618-2",
+    "citation": "Hayden, B., Palomares, M. L. D., Smith, B. E., & Poelen, J. H. (2019). Biological and environmental drivers of trophic ecology in marine fishes - a global perspective. Scientific Reports, 9(1). <https://doi.org/10.1038/s41598-019-47618-2>",
+    "img_path": "img/HaydenEtal2019ScientificReports.png",
+    "research_snippet": "trophic ecology of marine fishes"
   }
 ]
