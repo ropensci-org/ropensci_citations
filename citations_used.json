@@ -5990,5 +5990,26 @@
     "citation": "Ayodele Benjamin, E., Vincent, E., Claudius, A., Olatomiwa, L., & Dickson, E. (2019). Data-based investigation on the performance of an independent Gas turbine for electricity generation using real power measurements and other closely related parameters. Data in Brief, 104444. <https://doi.org/10.1016/j.dib.2019.104444>",
     "img_path": null,
     "research_snippet": "gas turbines in Nigeria"
+  },
+  {
+    "name": "plotly",
+    "doi": null,
+    "citation": "Mendes, G., Paiva, J. G. S., & Schwartz, W. R. (2019, July). Point-Placement Techniques and Temporal Self-Similarity Maps for Visual Analysis of Surveillance Videos. In 2019 23rd International Conference Information Visualisation (IV) (pp. 127-132). IEEE. <https://ieeexplore.ieee.org/iel7/8798596/8811888/08811966.pdf>",
+    "img_path": null,
+    "research_snippet": "visual analysis of surveillance videos"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1128/msphere.00454-19",
+    "citation": "Stewart, D. B., Wright, J. R., Fowler, M., McLimans, C. J., Tokarev, V., Amaniera, I., … Lamendella, R. (2019). Integrated Meta-omics Reveals a Fungus-Associated Bacteriome and Distinct Functional Pathways in Clostridioides difficile Infection. mSphere, 4(4). <https://doi.org/10.1128/msphere.00454-19>",
+    "img_path": null,
+    "research_snippet": "Clostridioides difficile infections"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1016/j.celrep.2019.07.091",
+    "citation": "Lewis, M. J., Barnes, M. R., Blighe, K., Goldmann, K., Rana, S., Hackney, J. A., … Pitzalis, C. (2019). Molecular Portraits of Early Rheumatoid Arthritis Identify Clinical and Treatment Response Phenotypes. Cell Reports, 28(9), 2455–2470.e5. <https://doi.org/10.1016/j.celrep.2019.07.091>",
+    "img_path": null,
+    "research_snippet": "Rheumatoid arthritis"
   }
 ]
