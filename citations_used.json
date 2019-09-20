@@ -5976,5 +5976,19 @@
     "citation": "Park, A. W. (2019). Food web structure selects for parasite host range. Proceedings of the Royal Society B: Biological Sciences, 286(1908), 20191277. <https://doi.org/10.1098/rspb.2019.1277>",
     "img_path": "img/Park2019PRSLB.png",
     "research_snippet": "food webs and parasites"
+  },
+  {
+    "name": "rdhs",
+    "doi": "10.1371/journal.pone.0221178",
+    "citation": "Sánchez-Páez, D. A., & Ortega, J. A. (2019). Reported patterns of pregnancy termination from Demographic and Health Surveys. PLOS ONE, 14(8), e0221178. <https://doi.org/10.1371/journal.pone.0221178>",
+    "img_path": null,
+    "research_snippet": "pregnancy termination patterns"
+  },
+  {
+    "name": "writexl",
+    "doi": "10.1016/j.dib.2019.104444",
+    "citation": "Ayodele Benjamin, E., Vincent, E., Claudius, A., Olatomiwa, L., & Dickson, E. (2019). Data-based investigation on the performance of an independent Gas turbine for electricity generation using real power measurements and other closely related parameters. Data in Brief, 104444. <https://doi.org/10.1016/j.dib.2019.104444>",
+    "img_path": null,
+    "research_snippet": "gas turbines in Nigeria"
   }
 ]
