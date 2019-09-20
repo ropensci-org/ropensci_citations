@@ -5948,5 +5948,33 @@
     "citation": "Wagner, J. (2019). Using Advanced Analytics to Predict Risk for Grants Oversight. Masters Thesis. <https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/61849/Wagner%2C%20Jennifer.pdf?sequence=1&isAllowed=y>",
     "img_path": null,
     "research_snippet": "analytical methods for grants oversight"
+  },
+  {
+    "name": "spocc",
+    "doi": "10.1016/j.ecoinf.2019.100991",
+    "citation": "Pender, J. E., Hipp, A. L., Hahn, M., Kartesz, J., Nishino, M., & Starr, J. R. (2019). How sensitive are climatic niche inferences to distribution data sampling? A comparison of Biota of North America Program (BONAP) and Global Biodiversity Information Facility (GBIF) datasets. Ecological Informatics, 100991. <https://doi.org/10.1016/j.ecoinf.2019.100991>",
+    "img_path": "img/PenderEtal2019EcologicalInformatics.png",
+    "research_snippet": "GBIF vs. BONAP data for climatic niche inferences"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1016/j.ecoinf.2019.100991",
+    "citation": "Pender, J. E., Hipp, A. L., Hahn, M., Kartesz, J., Nishino, M., & Starr, J. R. (2019). How sensitive are climatic niche inferences to distribution data sampling? A comparison of Biota of North America Program (BONAP) and Global Biodiversity Information Facility (GBIF) datasets. Ecological Informatics, 100991. <https://doi.org/10.1016/j.ecoinf.2019.100991>",
+    "img_path": "img/PenderEtal2019EcologicalInformatics.png",
+    "research_snippet": "GBIF vs. BONAP data for climatic niche inferences"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1016/j.ecoinf.2019.100991",
+    "citation": "Pender, J. E., Hipp, A. L., Hahn, M., Kartesz, J., Nishino, M., & Starr, J. R. (2019). How sensitive are climatic niche inferences to distribution data sampling? A comparison of Biota of North America Program (BONAP) and Global Biodiversity Information Facility (GBIF) datasets. Ecological Informatics, 100991. <https://doi.org/10.1016/j.ecoinf.2019.100991>",
+    "img_path": "img/PenderEtal2019EcologicalInformatics.png",
+    "research_snippet": "GBIF vs. BONAP data for climatic niche inferences"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1098/rspb.2019.1277",
+    "citation": "Park, A. W. (2019). Food web structure selects for parasite host range. Proceedings of the Royal Society B: Biological Sciences, 286(1908), 20191277. <https://doi.org/10.1098/rspb.2019.1277>",
+    "img_path": "img/Park2019PRSLB.png",
+    "research_snippet": "food webs and parasites"
   }
 ]
