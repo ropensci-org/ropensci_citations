@@ -6011,5 +6011,26 @@
     "citation": "Lewis, M. J., Barnes, M. R., Blighe, K., Goldmann, K., Rana, S., Hackney, J. A., … Pitzalis, C. (2019). Molecular Portraits of Early Rheumatoid Arthritis Identify Clinical and Treatment Response Phenotypes. Cell Reports, 28(9), 2455–2470.e5. <https://doi.org/10.1016/j.celrep.2019.07.091>",
     "img_path": null,
     "research_snippet": "Rheumatoid arthritis"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1002/ppp3.10064",
+    "citation": "Esperon‐Rodriguez, M., Power, S. A., Tjoelker, M. G., Beaumont, L. J., Burley, H., Caballero‐Rodriguez, D., & Rymer, P. D. (2019). Assessing the vulnerability of Australia’s urban forests to climate extremes. Plants, People, Planet. <https://doi.org/10.1002/ppp3.10064>",
+    "img_path": "img/Esperon-RodriguezEtal2019PlantsPeoplePlanet.png",
+    "research_snippet": "climate extremes and Australia’s urban forests"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1002/ppp3.10064",
+    "citation": "Esperon‐Rodriguez, M., Power, S. A., Tjoelker, M. G., Beaumont, L. J., Burley, H., Caballero‐Rodriguez, D., & Rymer, P. D. (2019). Assessing the vulnerability of Australia’s urban forests to climate extremes. Plants, People, Planet. <https://doi.org/10.1002/ppp3.10064>",
+    "img_path": "img/Esperon-RodriguezEtal2019PlantsPeoplePlanet.png",
+    "research_snippet": "climate extremes and Australia’s urban forests"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1007/s10750-019-04044-9",
+    "citation": "Lacy, S. N., Corcoran, D., Alò, D., Lessmann, J., Meza, F., & Marquet, P. A. (2019). Main drivers of freshwater fish diversity across extra-tropical Southern Hemisphere rivers. Hydrobiologia. <https://doi.org/10.1007/s10750-019-04044-9>",
+    "img_path": "img/LacyEtal2019Hydrobiologia.png",
+    "research_snippet": "drivers of freshwater fish diversity"
   }
 ]
