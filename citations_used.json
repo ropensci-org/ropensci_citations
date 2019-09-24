@@ -6053,5 +6053,19 @@
     "citation": "Wegrzyn, J. L., Falk, T., Grau, E., Buehler, S., Ramnath, R., & Herndon, N. (2019). Cyberinfrastructure and resources to enable an integrative approach to studying forest trees. Evolutionary Applications. <https://doi.org/10.1111/eva.12860>",
     "img_path": null,
     "research_snippet": "studying forest trees"
+  },
+  {
+    "name": "brranching",
+    "doi": "10.1002/ecs2.2831",
+    "citation": "Redmond, M. D., Morris, T. L., & Cramer, M. C. (2019). The cost of standing tall: wood nutrients associated with tree invasions in nutrient‐poor fynbos soils of South Africa. Ecosphere, 10(9). <https://doi.org/10.1002/ecs2.2831>",
+    "img_path": null,
+    "research_snippet": "tree invasions in South Africa"
+  },
+  {
+    "name": "pdftools",
+    "doi": "10.3390/pharmacy7030130",
+    "citation": "Hanna, A., & Hanna, L.-A. (2019). Topic Analysis of UK Fitness to Practise Cases: What Lessons Can Be Learnt? Pharmacy, 7(3), 130. <https://doi.org/10.3390/pharmacy7030130>",
+    "img_path": null,
+    "research_snippet": "text-mining health care documents"
   }
 ]
