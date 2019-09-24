@@ -6067,5 +6067,19 @@
     "citation": "Hanna, A., & Hanna, L.-A. (2019). Topic Analysis of UK Fitness to Practise Cases: What Lessons Can Be Learnt? Pharmacy, 7(3), 130. <https://doi.org/10.3390/pharmacy7030130>",
     "img_path": null,
     "research_snippet": "text-mining health care documents"
+  },
+  {
+    "name": "hunspell",
+    "doi": "10.2217/fon-2019-0406",
+    "citation": "Ramagopalan, S. V., Malcolm, B., Merinopoulou, E., McDonald, L., & Cox, A. (2019). Automated extraction of treatment patterns from social media posts: an exploratory analysis in renal cell carcinoma. Future Oncology. <https://doi.org/10.2217/fon-2019-0406>",
+    "img_path": null,
+    "research_snippet": "extraction of treatment patterns from social media"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1002/aqc.3215",
+    "citation": "Bayley, D. T. I., Mogg, A. O. M., Purvis, A., & Koldewey, H. J. (2019). Evaluating the efficacy of small‐scale marine protected areas for preserving reef health: A case study applying emerging monitoring technology. Aquatic Conservation: Marine and Freshwater Ecosystems. <https://doi.org/10.1002/aqc.3215>",
+    "img_path": null,
+    "research_snippet": "marine protected areas and reef health"
   }
 ]
