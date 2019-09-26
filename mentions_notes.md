@@ -794,3 +794,7 @@
 * InghamEtal2019Microbiome.pdf: plotly
 * MooreEtal2019Diversity&Distributions.pdf: plotly
 * DarboeEtal2019ClinicalInfectiousDiseases.pdf: plotly
+* LourencoEtal2019MolecularEcology.pdf: NLMR
+* Dougherty&Nguyen2019PsyArXiv.pdf: rcrossref
+* Dougherty&Horne2019PsyArXiv.pdf: rcrossref
+* 
