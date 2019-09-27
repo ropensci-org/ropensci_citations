@@ -6130,5 +6130,12 @@
     "citation": "Sánchez-Tójar, A., Moran, N. P., O’Dea, R. E., Reinhold, K., & Nakagawa, S. (2019). Illustrating the importance of meta-analysing variances alongside means in ecology and evolution. <https://doi.org/10.32942/osf.io/yhfvk>",
     "img_path": null,
     "research_snippet": "meta-analysis"
+  },
+  {
+    "name": "biomartR",
+    "doi": "10.1007/s11306-019-1586-2",
+    "citation": "Soh, P. X. Y., Marin Cely, J. M., Mortlock, S.-A., Jara, C. J., Booth, R., Natera, S., … Williamson, P. (2019). Genome-wide association studies of 74 plasma metabolites of German shepherd dogs reveal two metabolites associated with genes encoding their enzymes. Metabolomics, 15(9). <https://doi.org/10.1007/s11306-019-1586-2>",
+    "img_path": null,
+    "research_snippet": "genetic variation in German shepherd dog metabolites"
   }
 ]
