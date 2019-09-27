@@ -6116,5 +6116,19 @@
     "citation": "Sun, Z., Cang, J., Ruan, Y., & Zhu, D. (2019). Reporting gaps between news media and scientific papers on outdoor air pollution–related health outcomes: A content analysis. The International Journal of Health Planning and Management. <https://doi.org/10.1002/hpm.2894>",
     "img_path": null,
     "research_snippet": "gaps in air pollution reporting"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1098/rspb.2019.1502",
+    "citation": "Friedman, M., Feilich, K. L., Beckett, H. T., Alfaro, M. E., Faircloth, B. C., Černý, D., … Harrington, R. C. (2019). A phylogenomic framework for pelagiarian fishes (Acanthomorpha: Percomorpha) highlights mosaic radiation in the open ocean. Proceedings of the Royal Society B: Biological Sciences, 286(1910), 20191502. <https://doi.org/10.1098/rspb.2019.1502>",
+    "img_path": "img/FriedmanEtal2019PRSLB.png",
+    "research_snippet": "a phylogenetic framework for pelagiarian fishes"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.32942/osf.io/yhfvk",
+    "citation": "Sánchez-Tójar, A., Moran, N. P., O’Dea, R. E., Reinhold, K., & Nakagawa, S. (2019). Illustrating the importance of meta-analysing variances alongside means in ecology and evolution. <https://doi.org/10.32942/osf.io/yhfvk>",
+    "img_path": null,
+    "research_snippet": "meta-analysis"
   }
 ]
