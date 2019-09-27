@@ -797,4 +797,13 @@
 * LourencoEtal2019MolecularEcology.pdf: NLMR
 * Dougherty&Nguyen2019PsyArXiv.pdf: rcrossref
 * Dougherty&Horne2019PsyArXiv.pdf: rcrossref
+* TokoEtal2019RomanianStatisticalReview.pdf: tokenizers (Toko, Y., Iijima, S., & Sato-Ilic, M. 2019. Generalization for Improvement of the Reliability Score for Autocoding. Romanian Statistical Review, vol 3. <http://www.revistadestatistica.ro/wp-content/uploads/2019/09/A5_RRS-3_2019.pdf>)
+* ChattopadhyayEtal2019RSPB.pdf: rgbif
+* WarrenEtal2019JournalOfBiogeography.pdf: rgbif
+* AcostaEtal2019Demography.pdf/AcostaEtal2019Demography_supplement.pdf: writexl
+* Anttila2019Thesis.pdf: writexl (Anttila, P. 2019. The effects of heavy metals on sediment macrofauna. Thesis, University of Helsinki. <https://helda.helsinki.fi/handle/10138/303591>)
+* VredenburgEtal2019PlosOne.pdf: FedData
+* LiEtal2019arXiv.pdf: rentrez
+* RodriguezEtal2019Biodiversity&Conservation.pdf: spocc
+* StaudeEtal2019GlobalEcology&Biogeography.pdf: scrubr, taxize
 * 
