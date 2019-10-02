@@ -6137,5 +6137,19 @@
     "citation": "Soh, P. X. Y., Marin Cely, J. M., Mortlock, S.-A., Jara, C. J., Booth, R., Natera, S., … Williamson, P. (2019). Genome-wide association studies of 74 plasma metabolites of German shepherd dogs reveal two metabolites associated with genes encoding their enzymes. Metabolomics, 15(9). <https://doi.org/10.1007/s11306-019-1586-2>",
     "img_path": null,
     "research_snippet": "genetic variation in German shepherd dog metabolites"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1111/gcb.14821",
+    "citation": "Li, X., Zhu, H., Geisen, S., Bellard, C., Hu, F., Li, H., … Liu, M. (2019). Agriculture erases climate constraints on soil nematode communities across large spatial scales. Global Change Biology. <https://doi.org/10.1111/gcb.14821>",
+    "img_path": null,
+    "research_snippet": "agriculture, climate and nematodes"
+  },
+  {
+    "name": "pdftools",
+    "doi": "10.1109/mcse.2019.2940221",
+    "citation": "Hwang, L. J., Pauloo, R. A., & Carlen, J. (2019). Assessing Impact of Outreach through Software Citation for Community Software in Geodynamics. Computing in Science & Engineering, 1–1. <https://doi.org/10.1109/mcse.2019.2940221>",
+    "img_path": "img/HwangEtal2019ComputingScience&Engineering.png",
+    "research_snippet": "software and community in geodynamics software"
   }
 ]
