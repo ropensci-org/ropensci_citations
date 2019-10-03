@@ -6158,5 +6158,12 @@
     "citation": "Dick, E.J. and He, X. 2019. Status of Cowcod (Sebastes levis) in 2019. Pacific Fishery Management Council, Portland, OR. <https://www.pcouncil.org/wp-content/uploads/2019/08/H5_Att9_Cowcod_2019_Full_E-Only_SEPT2019BB.pdf>",
     "img_path": "img/Dick&He2019PacificFisheryMngtCouncil.png",
     "research_snippet": "status of cowcod"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": null,
+    "citation": "Flower, C. (2019). Food Plant Biogeography of the Sonoran Desert (Doctoral dissertation, Arizona State University). <https://search.proquest.com/docview/2275500833>",
+    "img_path": null,
+    "research_snippet": "food plant biogeography of the Sonoran Desert"
   }
 ]
