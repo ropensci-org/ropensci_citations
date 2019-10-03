@@ -806,4 +806,15 @@
 * LiEtal2019arXiv.pdf: rentrez
 * RodriguezEtal2019Biodiversity&Conservation.pdf: spocc
 * StaudeEtal2019GlobalEcology&Biogeography.pdf: scrubr, taxize
-* 
+* WangEtal2019ScientificData.pdf: neotoma
+* CinelliEtal2019AnnalsOperationResearch.pdf: hunspell
+* UmlaufEtal2019arXiv-preprint.pdf: rnaturalearth
+* Singh2019Thesis.pdf: bomrang
+* Etherington&Omondiagbe2019JOSS.pdf: NLMR, landscapetools (cited paper, not used the software)
+* BuffordEtal2019JournalOfEcology.pdf: taxize
+* notdownloaded: writexl
+* NalborczykEtal2019PsyArXiv-preprint.pdf: skimr
+* BagerOlsenEtal2019Oryx.pdf: rredlist
+* StanstrupEtal2019Metabolites.pdf: webchem
+* FengEtal2019NatureEcology&Evolution.pdf: CoordinateCleaner
+
