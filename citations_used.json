@@ -6179,5 +6179,19 @@
     "citation": "Singh, J. 2019. Modelling Forest Lake Water Quality and Ecosystem Dynamics. Undergraduate Thesis. <https://www.brisbane.qld.gov.au/sites/default/files/20190820%20Forest%20Lake%20Appendix%20A.pdf>",
     "img_path": null,
     "research_snippet": "lake water quality"
+  },
+  {
+    "name": "NLMR",
+    "doi": "10.21105/joss.01661",
+    "citation": "Etherington, T., & Omondiagbe, O. (2019). virtualNicheR: generating virtual fundamental and realised niches for use in virtual ecology experiments. Journal of Open Source Software, 4(41), 1661. <https://doi.org/10.21105/joss.01661>",
+    "img_path": null,
+    "research_snippet": "an R package for generating niches"
+  },
+  {
+    "name": "landscapetools",
+    "doi": "10.21105/joss.01661",
+    "citation": "Etherington, T., & Omondiagbe, O. (2019). virtualNicheR: generating virtual fundamental and realised niches for use in virtual ecology experiments. Journal of Open Source Software, 4(41), 1661. <https://doi.org/10.21105/joss.01661>",
+    "img_path": null,
+    "research_snippet": "an R package for generating niches"
   }
 ]
