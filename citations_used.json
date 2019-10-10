@@ -6214,5 +6214,19 @@
     "citation": "Verstraeten, W. W., Dujardin, S., Hoebeke, L., Bruffaerts, N., Kouznetsov, R., Dendoncker, N., … Delcloo, A. W. (2019). Spatio-temporal monitoring and modelling of birch pollen levels in Belgium. Aerobiologia. <https://doi.org/10.1007/s10453-019-09607-w>",
     "img_path": "img/VerstraetenEtal2019Aerobiologia.png",
     "research_snippet": "birch pollen in Belgium"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/1365-2745.13293",
+    "citation": "Bufford, J. L., Hulme, P. E., Sikes, B. A., Cooper, J. A., Johnston, P. R., & Duncan, R. P. (2019). Novel interactions between alien pathogens and native plants increase plant‐pathogen network connectance and decrease specialization. Journal of Ecology. <https://doi.org/10.1111/1365-2745.13293>",
+    "img_path": "img/BuffordEtal2019JournalOfEcology.png",
+    "research_snippet": "plant-pathogen networks"
+  },
+  {
+    "name": "writexl",
+    "doi": "10.1007/978-1-4939-9744-2_13",
+    "citation": "Palstrøm N.B., Matthiesen R., Beck H.C. (2020) Data Imputation in Merged Isobaric Labeling-Based Relative Quantification Datasets. In: Matthiesen R. (eds) Mass Spectrometry Data Analysis in Proteomics. Methods in Molecular Biology, vol 2051. Humana, New York, NY <https://doi.org/10.1007/978-1-4939-9744-2_13>",
+    "img_path": null,
+    "research_snippet": "a book chapter on data imputation"
   }
 ]
