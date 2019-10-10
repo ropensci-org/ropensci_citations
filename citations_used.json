@@ -6193,5 +6193,26 @@
     "citation": "Etherington, T., & Omondiagbe, O. (2019). virtualNicheR: generating virtual fundamental and realised niches for use in virtual ecology experiments. Journal of Open Source Software, 4(41), 1661. <https://doi.org/10.21105/joss.01661>",
     "img_path": null,
     "research_snippet": "an R package for generating niches"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/gcb.14829",
+    "citation": "Cazelles, K., Bartley, T., Guzzo, M. M., Brice, M., MacDougall, A. S., Bennett, J. R., … McCann, K. S. (2019). Homogenization of freshwater lakes: recent compositional shifts in fish communities are explained by gamefish movement and not climate change. Global Change Biology. <https://doi.org/10.1111/gcb.14829>",
+    "img_path": "img/CazellesEtal2019GlobalChangeBiology.png",
+    "research_snippet": "freshwater lakes, game fish and climate change"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1111/gcb.14829",
+    "citation": "Cazelles, K., Bartley, T., Guzzo, M. M., Brice, M., MacDougall, A. S., Bennett, J. R., … McCann, K. S. (2019). Homogenization of freshwater lakes: recent compositional shifts in fish communities are explained by gamefish movement and not climate change. Global Change Biology. <https://doi.org/10.1111/gcb.14829>",
+    "img_path": "img/CazellesEtal2019GlobalChangeBiology.png",
+    "research_snippet": "freshwater lakes, game fish and climate change"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1007/s10453-019-09607-w",
+    "citation": "Verstraeten, W. W., Dujardin, S., Hoebeke, L., Bruffaerts, N., Kouznetsov, R., Dendoncker, N., … Delcloo, A. W. (2019). Spatio-temporal monitoring and modelling of birch pollen levels in Belgium. Aerobiologia. <https://doi.org/10.1007/s10453-019-09607-w>",
+    "img_path": "img/VerstraetenEtal2019Aerobiologia.png",
+    "research_snippet": "birch pollen in Belgium"
   }
 ]
