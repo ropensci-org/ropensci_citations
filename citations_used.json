@@ -6242,5 +6242,12 @@
     "citation": "Umlauf, N., Klein, N., Simon, T., & Zeileis, A. (2019). bamlss: A Lego Toolbox for Flexible Bayesian Regression (and Beyond). arXiv preprint arXiv:1909.11784. <https://arxiv.org/abs/1909.11784>",
     "img_path": null,
     "research_snippet": "Bayesian regression"
+  },
+  {
+    "name": "rredlist",
+    "doi": "10.1017/s0030605319000541",
+    "citation": "Bager Olsen, M. T., Geldmann, J., Harfoot, M., Tittensor, D. P., Price, B., Sinovas, P., … Burgess, N. D. (2019). Thirty-six years of legal and illegal wildlife trade entering the USA. Oryx, 1–10. <https://doi.org/10.1017/s0030605319000541>",
+    "img_path": null,
+    "research_snippet": "legal and illegal wildlife trade entering the US"
   }
 ]
