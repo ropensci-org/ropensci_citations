@@ -6228,5 +6228,12 @@
     "citation": "Palstrøm N.B., Matthiesen R., Beck H.C. (2020) Data Imputation in Merged Isobaric Labeling-Based Relative Quantification Datasets. In: Matthiesen R. (eds) Mass Spectrometry Data Analysis in Proteomics. Methods in Molecular Biology, vol 2051. Humana, New York, NY <https://doi.org/10.1007/978-1-4939-9744-2_13>",
     "img_path": null,
     "research_snippet": "a book chapter on data imputation"
+  },
+  {
+    "name": "hunspell",
+    "doi": "10.1007/s10479-019-03372-2",
+    "citation": "Cinelli, M., Ficcadenti, V., & Riccioni, J. (2019). The interconnectedness of the economic content in the speeches of the US Presidents. Annals of Operations Research. <https://doi.org/10.1007/s10479-019-03372-2>",
+    "img_path": "img/CinelliEtal2019AnnalsOperationResearch.png",
+    "research_snippet": "economic content in speeches of US presidents"
   }
 ]
