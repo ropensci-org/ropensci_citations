@@ -6235,5 +6235,12 @@
     "citation": "Cinelli, M., Ficcadenti, V., & Riccioni, J. (2019). The interconnectedness of the economic content in the speeches of the US Presidents. Annals of Operations Research. <https://doi.org/10.1007/s10479-019-03372-2>",
     "img_path": "img/CinelliEtal2019AnnalsOperationResearch.png",
     "research_snippet": "economic content in speeches of US presidents"
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": null,
+    "citation": "Umlauf, N., Klein, N., Simon, T., & Zeileis, A. (2019). bamlss: A Lego Toolbox for Flexible Bayesian Regression (and Beyond). arXiv preprint arXiv:1909.11784. <https://arxiv.org/abs/1909.11784>",
+    "img_path": null,
+    "research_snippet": "Bayesian regression"
   }
 ]
