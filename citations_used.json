@@ -6284,5 +6284,19 @@
     "citation": "Darboe, S., Okomo, U., Muhammad, A.-K., Ceesay, B., Jallow, M., Usuf, E., … Roca, A. (2019). Community-acquired Invasive Bacterial Disease in Urban Gambia, 2005–2015: A Hospital-based Surveillance. Clinical Infectious Diseases, 69(Supplement_2), S105–S113. <https://doi.org/10.1093/cid/ciz463>",
     "img_path": null,
     "research_snippet": "invasive bacterial diseases in Gambia"
+  },
+  {
+    "name": "brranching",
+    "doi": "10.1111/mec.15218",
+    "citation": "Vidal, M. C., Quinn, T. W., Stireman, J. O., Tinghitella, R. M., & Murphy, S. M. (2019). Geography is more important than host plant use for the population genetic structure of a generalist insect herbivore. Molecular Ecology. <https://doi.org/10.1111/mec.15218>",
+    "img_path": "img/VidalEtal2019MolecularEcology.png",
+    "research_snippet": "population genetic structure of a moth"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.7717/peerj.7410",
+    "citation": "De Luca, D., Kooistra, W. H. C. F., Sarno, D., Gaonkar, C. C., & Piredda, R. (2019). Global distribution and diversity of Chaetoceros (Bacillariophyta, Mediophyceae): integration of classical and novel strategies. PeerJ, 7, e7410. <https://doi.org/10.7717/peerj.7410>",
+    "img_path": "img/DeLucaEtal2019PeerJ.png",
+    "research_snippet": "distribution and diversity of Chaetoceros planktonic diatoms"
   }
 ]
