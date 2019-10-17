@@ -6249,5 +6249,40 @@
     "citation": "Bager Olsen, M. T., Geldmann, J., Harfoot, M., Tittensor, D. P., Price, B., Sinovas, P., … Burgess, N. D. (2019). Thirty-six years of legal and illegal wildlife trade entering the USA. Oryx, 1–10. <https://doi.org/10.1017/s0030605319000541>",
     "img_path": null,
     "research_snippet": "legal and illegal wildlife trade entering the US"
+  },
+  {
+    "name": "NLMR",
+    "doi": "10.1111/ecog.04617",
+    "citation": "Hesselbarth, M. H. K., Sciaini, M., With, K. A., Wiegand, K., & Nowosad, J. (2019). landscapemetrics: an open‐source R tool to calculate landscape metrics. Ecography. <https://doi.org/10.1111/ecog.04617>",
+    "img_path": null,
+    "research_snippet": "tools to calculate landscape metrics"
+  },
+  {
+    "name": "landscapetools",
+    "doi": "10.1111/ecog.04617",
+    "citation": "Hesselbarth, M. H. K., Sciaini, M., With, K. A., Wiegand, K., & Nowosad, J. (2019). landscapemetrics: an open‐source R tool to calculate landscape metrics. Ecography. <https://doi.org/10.1111/ecog.04617>",
+    "img_path": null,
+    "research_snippet": "tools to calculate landscape metrics"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1186/s40168-019-0745-z",
+    "citation": "Ingham, A. C., Kielsen, K., Cilieborg, M. S., Lund, O., Holmes, S., Aarestrup, F. M., … Pamp, S. J. (2019). Specific gut microbiome members are associated with distinct immune markers in pediatric allogeneic hematopoietic stem cell transplantation. Microbiome, 7(1). <https://doi.org/10.1186/s40168-019-0745-z>",
+    "img_path": null,
+    "research_snippet": "gut microbiome and stem cell transplantation"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1111/ddi.12982",
+    "citation": "Moore, H. A., Dunlop, J. A., Valentine, L. E., Woinarski, J. C. Z., Ritchie, E. G., Watson, D. M., & Nimmo, D. G. (2019). Topographic ruggedness and rainfall mediate geographic range contraction of a threatened marsupial predator. Diversity and Distributions. <https://doi.org/10.1111/ddi.12982>",
+    "img_path": null,
+    "research_snippet": "topography and rainfall affect marsupial predator"
+  },
+  {
+    "name": "plotly",
+    "doi": "10.1093/cid/ciz463",
+    "citation": "Darboe, S., Okomo, U., Muhammad, A.-K., Ceesay, B., Jallow, M., Usuf, E., … Roca, A. (2019). Community-acquired Invasive Bacterial Disease in Urban Gambia, 2005–2015: A Hospital-based Surveillance. Clinical Infectious Diseases, 69(Supplement_2), S105–S113. <https://doi.org/10.1093/cid/ciz463>",
+    "img_path": null,
+    "research_snippet": "invasive bacterial diseases in Gambia"
   }
 ]
