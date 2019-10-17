@@ -817,4 +817,17 @@
 * BagerOlsenEtal2019Oryx.pdf: rredlist
 * StanstrupEtal2019Metabolites.pdf: webchem
 * FengEtal2019NatureEcology&Evolution.pdf: CoordinateCleaner
-
+* Duffany2019conferencepaper.pdf: hunspell
+* Maherali2019InternationalJournalofPlantSciences.pdf: rotl
+* HavingaEtal2019EcologicalIndicators.pdf: rgbif
+* JinEtal2019conferencepaper.pdf: tokenizers
+* FecchioEtal2019JournalofAnimalEcology.pdf: MODIStools
+* ScheffersEtalScience.pdf: rredlist
+* EnkybayarEtal2019altmetrics19conferencepaper.pdf: rplos
+* Lewinski&Hasan2019paper.pdf: pdftools
+* DumitrescuEtal2019InternationalJournalOfClimatology.pdf: rnoaa
+* YooEtal2019KoreanJournal.pdf: MODIStsp
+* Kaaronen&Strelkovskii2019PsyArxiv-preprint.pdf: nlrx
+* SydenhamEtal2019Landscape&UrbanPlanning.pdf: taxize
+* BottinEtal2019JournalOfVegetationScience.pdf: taxize
+* Piatscheck2019thesis.pdf: rgbif, spocc, rinat
