@@ -6298,5 +6298,12 @@
     "citation": "De Luca, D., Kooistra, W. H. C. F., Sarno, D., Gaonkar, C. C., & Piredda, R. (2019). Global distribution and diversity of Chaetoceros (Bacillariophyta, Mediophyceae): integration of classical and novel strategies. PeerJ, 7, e7410. <https://doi.org/10.7717/peerj.7410>",
     "img_path": "img/DeLucaEtal2019PeerJ.png",
     "research_snippet": "distribution and diversity of Chaetoceros planktonic diatoms"
+  },
+  {
+    "name": "camsRad",
+    "doi": null,
+    "citation": "Ondra, M. 2019. Reliability based design approach to stochastic supply planning. <https://iaee2019ljubljana.oyco.eu/download/contribution/fullpaper/345/345_fullpaper_20190608_130510.pdf>",
+    "img_path": null,
+    "research_snippet": "stochastic supply planning"
   }
 ]
