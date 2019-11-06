@@ -6305,5 +6305,12 @@
     "citation": "Ondra, M. 2019. Reliability based design approach to stochastic supply planning. <https://iaee2019ljubljana.oyco.eu/download/contribution/fullpaper/345/345_fullpaper_20190608_130510.pdf>",
     "img_path": null,
     "research_snippet": "stochastic supply planning"
+  },
+  {
+    "name": "neotoma",
+    "doi": "10.1038/s41597-019-0182-7",
+    "citation": "Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1). <https://doi.org/10.1038/s41597-019-0182-7>",
+    "img_path": null,
+    "research_snippet": "Bayesian ages for pollen records"
   }
 ]
