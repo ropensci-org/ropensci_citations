@@ -6326,5 +6326,19 @@
     "citation": "Stanstrup, J., Broeckling, C., Helmus, R., Hoffmann, N., Mathé, E., Naake, T., … Neumann, S. (2019). The metaRbolomics Toolbox in Bioconductor and beyond. Metabolites, 9(10), 200. <https://doi.org/10.3390/metabo9100200>",
     "img_path": null,
     "research_snippet": "the metaRbolomics toolbox"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1038/s41559-019-0972-5",
+    "citation": "Feng, X., Park, D. S., Walker, C., Peterson, A. T., Merow, C., & Papeş, M. (2019). A checklist for maximizing reproducibility of ecological niche models. Nature Ecology & Evolution. <https://doi.org/10.1038/s41559-019-0972-5>",
+    "img_path": null,
+    "research_snippet": "ecological niche models"
+  },
+  {
+    "name": "hunspell",
+    "doi": "10.18687/LACCEI2019.1.1.414",
+    "citation": "Duffany, J. (2019). Developing CyberSecurity Skills with Intermediate Programming Courses. Proceedings of the 17th LACCEI International Multi-Conference for Engineering, Education, and Technology: “Industry, Innovation, and Infrastructure for Sustainable Cities and Communities.” <https://doi.org/10.18687/laccei2019.1.1.414>",
+    "img_path": null,
+    "research_snippet": "developing cyber-security skills in programming courses"
   }
 ]
