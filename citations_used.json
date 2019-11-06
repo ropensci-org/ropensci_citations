@@ -6312,5 +6312,19 @@
     "citation": "Wang, Y., Goring, S. J., & McGuire, J. L. (2019). Bayesian ages for pollen records since the last glaciation in North America. Scientific Data, 6(1). <https://doi.org/10.1038/s41597-019-0182-7>",
     "img_path": null,
     "research_snippet": "Bayesian ages for pollen records"
+  },
+  {
+    "name": "skimr",
+    "doi": "10.31234/osf.io/8v5yd",
+    "citation": "Nalborczyk, L., Grandchamp, R., Koster, E. H. W., Perrone-Bertolotti, M., & Loevenbruck, H. (2019). Can we decode phonetic features in inner speech using surface electromyography? <https://doi.org/10.31234/osf.io/8v5yd>",
+    "img_path": null,
+    "research_snippet": "decoding phonetic features in inner speech"
+  },
+  {
+    "name": "webchem",
+    "doi": "10.3390/metabo9100200",
+    "citation": "Stanstrup, J., Broeckling, C., Helmus, R., Hoffmann, N., Mathé, E., Naake, T., … Neumann, S. (2019). The metaRbolomics Toolbox in Bioconductor and beyond. Metabolites, 9(10), 200. <https://doi.org/10.3390/metabo9100200>",
+    "img_path": null,
+    "research_snippet": "the metaRbolomics toolbox"
   }
 ]
