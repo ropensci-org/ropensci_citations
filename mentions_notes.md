@@ -831,3 +831,24 @@
 * SydenhamEtal2019Landscape&UrbanPlanning.pdf: taxize
 * BottinEtal2019JournalOfVegetationScience.pdf: taxize
 * Piatscheck2019thesis.pdf: rgbif, spocc, rinat
+
+* ReyesEtal2019BMCGenomics.pdf: iheatmapr
+* Fetter2019Thesis.pdf: rotl
+* PaudyalEtal2019BMCMicrobiology.pdf: treeio
+* Bohner&Diez2019EcologyLetters.pdf: brranching
+* DefolieEtal2019BiologicalReviews.pdf: rotl
+* BlischakEtal2019F1000Research.pdf: git2r
+* MillardEtal2019Ecography.pdf: taxize
+* HungEtal2019FishBiology.pdf: taxize
+* ChalmandrierEtal2019Ecography.pdf: taxize
+* Mishra&Tripathi2019JournalOfRamanSpectroscopy.pdf: rplos, rcrossref, fulltext
+* Christensen&Kenett2019PsyArxiv.pdf: hunspell
+* ZhongEtal2019CropForage&TurfgrassManagement.pdf: rnoaa
+* TadaEtal2019Metabolites.pdf: webchem
+* GryseelsEtal2019Biorxiv.pdf: taxize (Gryseels, S., Watts, T. D., Kabongo, J. M. M., Larsen, B. B., Lemey, P., Muyembe-Tamfum, J. J., ... & Worobey, M. (2019). A near-full-length HIV-1 genome from 1966 recovered from formalin-fixed paraffin-embedded tissue. bioRxiv, 687863.)
+* WittouckEtal2019mSystems.pdf: rentrez
+* ORourke2019Thesis.pdf: taxize
+* HamdiEtal2019jarir.pdf: rtweet (Hamdi, T., Slimi, H., Bounhas, I., & Slimani, Y. Hybrid Approach Based on Graph Embedding and Users Features to Detect Source of Fake News in Twitter Social Network Using Machine Learning. <http://jarir.tn/sites/default/files/a.pdf>)
+* RohEtal2019PlosOne.pdf: RSelenium
+* Sutton&Wilson2019Evolution.pdf: rfishbase
+* Yang2019SolarEnergy: camsRad (pdf not downloaded) (10.1016/j.solener.2019.10.006)
