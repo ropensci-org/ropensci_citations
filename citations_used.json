@@ -6354,5 +6354,12 @@
     "citation": "Havinga, I., Hein, L., Vega-Araya, M., & Languillaume, A. (2020). Spatial quantification to examine the effectiveness of payments for ecosystem services: A case study of Costa Rica’s Pago de Servicios Ambientales. Ecological Indicators, 108, 105766. <https://doi.org/10.1016/j.ecolind.2019.105766>",
     "img_path": "img/HavingaEtal2019EcologicalIndicators.png",
     "research_snippet": "payments for ecosystem services"
+  },
+  {
+    "name": "tokenizers",
+    "doi": "10.1145/3349263.3351313",
+    "citation": "Jin, L., Tefft, B. C., & Horrey, W. J. (2019). Mining consumer complaints to identify unsuccessful interactions with advanced driver assistance systems. Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications Adjunct Proceedings - AutomotiveUI  ’19. <https://doi.org/10.1145/3349263.3351313>",
+    "img_path": null,
+    "research_snippet": "interactions between people and car warning systems"
   }
 ]
