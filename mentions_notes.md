@@ -831,7 +831,6 @@
 * SydenhamEtal2019Landscape&UrbanPlanning.pdf: taxize
 * BottinEtal2019JournalOfVegetationScience.pdf: taxize
 * Piatscheck2019thesis.pdf: rgbif, spocc, rinat
-
 * ReyesEtal2019BMCGenomics.pdf: iheatmapr
 * Fetter2019Thesis.pdf: rotl
 * PaudyalEtal2019BMCMicrobiology.pdf: treeio
@@ -852,3 +851,24 @@
 * RohEtal2019PlosOne.pdf: RSelenium
 * Sutton&Wilson2019Evolution.pdf: rfishbase
 * Yang2019SolarEnergy: camsRad (pdf not downloaded) (10.1016/j.solener.2019.10.006)
+
+* ZheleznovaEtal2019BiodiversityDataJournal.pdf: taxize
+* KearneyEtal2019MEE.pdf: rnoaa
+* DornburgEtal2019BMCEvolutionaryBiology.pdf: rentrez
+* ElmslieEtal2019TheHolocene.pdf: neotoma
+* RodewaldEtal2019ScientificReports.pdf: rnaturalearth
+* OuthwaiteEtal2019ScientificData.pdf: taxize
+* Schwarz2019paper.pdf: rgbif (Schwarz, M. 2019 Protecting the predators? Assessing the overlap between marine protected areas and endangered shark species on a global scale. <http://bit.ly/2QDNbgS>)
+* SmithEtal2019NatureCommunications.pdf: taxize
+* Ozyildirim2019Thesis.pdf: geojsonio (Hauthal, I. E., & Özyıldırım, E. (2019). Subjective Value Assessment Based on Emojis for Applications in Landscape and Urban Planning (Doctoral dissertation, Department of Geo-information Processing, University of Twente). <https://cartographymaster.eu/wp-content/theses/2019_Ozyildirim_Thesis.pdf>)
+* MpandeliEtal2019Weather&ClimateExtremes.pdf: MODIStsp
+* AhmadEtal2019GlobalEcology&Conservation.pdf: rgbif
+* FaltynekFricEtal2019EcologyLetters.pdf: rgbif
+* FirmansyahEtal2019bookchapter (NOT DOWNLOADED): rtweet (Firmansyah, F. M., & Jones, J. J. (2019). Did the Black Panther Movie Make Blacks Blacker? Examining Black Racial Identity on Twitter Before and After the Black Panther Movie Release. Social Informatics, 66–78. doi:10.1007/978-3-030-34971-4_5)
+* MancinelliEtal2019Water.pdf: taxize
+* SigsgaardEtal2019ConservationBiology.pdf: taxize
+* ToussaintEtal2019JournalOfVegetationScience.pdf: taxize
+* RoddyEtal2019InternationalJournalofPlantSciences.pdf: brranching (Roddy, A. B., Théroux-Rancourt, G., Abbo, T., Benedetti, J. W., Brodersen, C. R., Castro, M., … Simonin, K. A. (2019). The Scaling of Genome Size and Cell Size Limits Maximum Rates of Photosynthesis with Implications for Ecological Strategies. International Journal of Plant Sciences. <https://doi.org/10.1086/706186>)
+* MalajEtal2019ScienceOfTheTotalEnvironment.pdf: webchem
+* Ulibarri&Scott2019GlobalEnvironmentalChange.pdf: pdftools, tokenizers
+* EspinosaEtal2019ReviewOfPaleobotany&Palynology.pdf: CoordinateCleaner
