@@ -6361,5 +6361,19 @@
     "citation": "Jin, L., Tefft, B. C., & Horrey, W. J. (2019). Mining consumer complaints to identify unsuccessful interactions with advanced driver assistance systems. Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications Adjunct Proceedings - AutomotiveUI  ’19. <https://doi.org/10.1145/3349263.3351313>",
     "img_path": null,
     "research_snippet": "interactions between people and car warning systems"
+  },
+  {
+    "name": "MODISTools",
+    "doi": "10.1111/1365-2656.13117",
+    "citation": "Fecchio, A., Bell, J. A., Bosholn, M., Vaughan, J. A., Tkach, V. V., Lutz, H. L., … Clark, N. J. (2019). An inverse latitudinal gradient in infection probability and phylogenetic diversity for Leucocytozoon blood parasites in New World birds. Journal of Animal Ecology. <https://doi.org/10.1111/1365-2656.13117>",
+    "img_path": null,
+    "research_snippet": "latitudinal gradient in infection probability in a blood parasite"
+  },
+  {
+    "name": "rredlist",
+    "doi": "10.1126/science.aav5327",
+    "citation": "Scheffers, B. R., Oliveira, B. F., Lamb, I., & Edwards, D. P. (2019). Global wildlife trade across the tree of life. Science, 366(6461), 71–76. <https://doi.org/10.1126/science.aav5327>",
+    "img_path": "img/ScheffersEtalScience.png",
+    "research_snippet": "global wildlife trade and phylogeny"
   }
 ]
