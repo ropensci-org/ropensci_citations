@@ -6375,5 +6375,19 @@
     "citation": "Scheffers, B. R., Oliveira, B. F., Lamb, I., & Edwards, D. P. (2019). Global wildlife trade across the tree of life. Science, 366(6461), 71–76. <https://doi.org/10.1126/science.aav5327>",
     "img_path": "img/ScheffersEtalScience.png",
     "research_snippet": "global wildlife trade and phylogeny"
+  },
+  {
+    "name": "rplos",
+    "doi": null,
+    "citation": "Enkybayar, A., Haustein, S., Barata, G., & Alperin, J. P. Comparing public and private Facebook activity linking to PLOS ONE papers. Altmetrics 2019 Conference Proceedings <http://altmetrics.org/wp-content/uploads/2019/10/Enkybayar_altmetrics19_paper_8.pdf>",
+    "img_path": null,
+    "research_snippet": "science sharing on facebook "
+  },
+  {
+    "name": "pdftools",
+    "doi": null,
+    "citation": "Lewinski, D., & Hasan, M. R. Russian Troll Account Classification with Twitter and Facebook Data. <https://www.researchgate.net/profile/Md_Rashidul_Hasan/publication/335880060_Russian_Troll_Account_Classification_with_Twitter_and_Facebook_Data/links/5d818ebf458515fca1711d72/Russian-Troll-Account-Classification-with-Twitter-and-Facebook-Data.pdf>",
+    "img_path": null,
+    "research_snippet": "russian troll social media account classification"
   }
 ]
