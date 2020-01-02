@@ -872,3 +872,70 @@
 * MalajEtal2019ScienceOfTheTotalEnvironment.pdf: webchem
 * Ulibarri&Scott2019GlobalEnvironmentalChange.pdf: pdftools, tokenizers
 * EspinosaEtal2019ReviewOfPaleobotany&Palynology.pdf: CoordinateCleaner
+* UphamEtal2019PLOSBiology.pdf: magick
+* Jin&Yang2019GlobalEcologya&Conservation.pdf: taxize, taxizedb, CoordinateCleaner, scrubr
+* StevartEtal2019ScienceAdvances.pdf: rredlist, rgbif
+* DAmen&Azzurro2019ICESJournalOfMarineScience.pdf: rgbif
+* ZizkaEtal2019Diversity&Distributions.pdf: CoordinateCleaner
+* KnoplochEtal2019Thesis.pdf: taxize, CoordinateCleaner (Knoploch, C., C. Grinand, G. Vieilledent. 2019. The importance of deforestation and climate change in shaping lemurs’ distributions and identifying their areas of climatic refuges. Thesis. <https://www.nitidae.org/files/46082c83/the_importance_of_deforestation_and_climate_change_in_shaping_lemurs_distributions_and_identifying_their_areas_of_climatic_refuges.pdf>)
+* BadreldinEtal2019EnvironmentalMonitoring&Assessment.pdf: MODIStsp
+* Brown2019Thesis.pdf: tacmagic (Brown, E.E. 2019. Alzheimer’s Disease Pathophysiology and Risk Factors with Amyloid Positron Emission Tomography, an Open Science Approach, and the Consideration of Environmental Exposures. Master's Thesis. <https://tspace.library.utoronto.ca/bitstream/1807/97859/1/Brown_Eric_E_201911_MSc_thesis.pdf>)
+* BoothEtal2019JournalOfMedicalInternetResearch.pdf: hunspell
+* Naess2019Socarxiv-preprint.pdf: rnaturalearth (Næss, M. W. (2019). From hunter-gatherers to nomadic pastoralists: forager bands do not tell the whole story of the evolution of human cooperation. <https://doi.org/10.31235/osf.io/9c8bm>)
+* WangEtal2019eLife.pdf: UCSCXenaTools
+* Thorson2019Fish&Fisheries.pdf: rfishbase
+* GearyEtal2019JournalOfAnimalEcology.pdf: taxize
+* HongEtal2019ControlsBigDataAnalysis&Visualization.pdf: FedData
+* LangeEtal2019NatureCommunications.pdf: biomartR
+* BaezEtal2019Ecology&Evolutino.pdf: spocc
+* Estrada-PeñaEtal2019ScientificData.pdf: MODIStsp, rotl
+* LecocqEtal2019ScientificData.pdf: rfishbase
+* Reis2019Thesis.pdf: rgbif (Reis, V. S. (2019). Uma perspectiva macroecológica sobre o risco de extinção em mamíferos. Thesis. <http://bit.ly/38mfmHG>)
+* not downloaded: camsRad (Yagli, G. M., Yang, D., Gandhi, O., & Srinivasan, D. (2019). Can we justify producing univariate machine-learning forecasts with satellite-derived solar irradiance? Applied Energy, 114122. <https://10.1016/j.apenergy.2019.114122>)
+* LiEtal2019Epigenetics&Chromatin.pdf: UCSCXenaTools
+* Fu&Hughey2019eLife.pdf: rcrossref, rentrez, rAltmetric
+* GodfreyEtal2019NewPhytologist.pdf: rotl
+* Zhong2019Thesis.pdf: rnoaa (Zhong, B. (2019). Towards Developing a Double Cropping System Between Winter Barley and Soybean in the Upper Midwest.
+ <https://conservancy.umn.edu/bitstream/handle/11299/208973/Zhong_umn_0130M_20797.pdf?sequence=1&isAllowed=y>)
+* BettsEtal2019Science.pdf: NLMR, landscapetools (citation in supplement)
+* KimEtal2019PediatricDiabetes.pdf: iheatmapr
+* Atalah&Forrest2019AquacultureEnvironmentInteractions.pdf: clifro
+* KarakulahEtal2019PeerJ.pdf: biomartr
+* YusriEtal2019IOPConfSerEarthEnvironSci.pdf (Yusri, S., Siregar, V. P., & Suharsono. (2019). Distribution Modelling of Porites (Poritidae) in Indonesia. IOP Conference Series: Earth and Environmental Science, 363, 012025. <https://doi.org/10.1088/1755-1315/363/1/012025>)
+* Clark&Luis2019NatureEcology&Evolution.pdf: rotl
+* EkroosEtal2020BiologicalConservation.pdf: rgbif
+* Lysne2019Thesis.pdf: visdat (Lysne, V. (2019). Biomarkers of one-carbon metabolism and B-vitamin status: Targeted metabolomics in rats and humans exploring the effects of PPARα-activation and dietary composition.
+ <http://bora.uib.no/bitstream/handle/1956/21069/Dt.thesis_2019_Vegard_Lysne.pdf?sequence=1&isAllowed=y>)
+* VitaleEtal2019MolecularGenetics&GenomicMedicine.pdf: rentrez, fulltext
+* WciselEtal2019-preprint.pdf: rentrez
+* SansoneEtal2019SexualMedicine.pdf: rtweet
+* FinneganEtal2019GlobalHealthScience&Practice.pdf: rdhs
+* KimEtal2020ProgressNeuroPsychopharmacology&BiologicalPsychiatry.pdf: chlorpromazineR
+* vanderLoo&deJonge2019arxiv.pdf: assertr (van der Loo, M. P., & de Jonge, E. (2019). Data Validation Infrastructure for R. arXiv preprint arXiv:1912.09759. <https://arxiv.org/pdf/1912.09759.pdf>)
+* Marshall&Strine2019PeerJ.pdf: rgbif, taxize, CoordinateCleaner, rnaturalearth
+* Cameron2019Thesis.pdf: weathercan
+* Pontes2019Thesis.pdf: taxize (Pontes, L. F. V. A. (2019). Biodiversity informatics-entomological data processing, analysis and visualization (Doctoral dissertation) <https://repositorio.ul.pt/bitstream/10451/40544/1/ulfc125176_tm_Leonor_Pontes.pdf>)
+* Tancoigne2019JCOM.pdf: rtweet
+* Hosford&Winters2019TransportFindings.pdf: bikedata
+* NoeckerEtal2019mSystems.pdf: biomartr
+* Ruiz-SanchezEtal2019BotanicalSciences.pdf: restez, phylotaR
+* GreenhalghEtal2019JournalMedia&Religion.pdf: rtweet (https://spencergreenhalgh.com/Greenhalgh_Staudt_Willet_Koehler_2019_Mormon_Identity_and_Practice.pdf)
+* DieEtal2019preprint.pdf: rentrez
+* MaiaEtal2019preprint.pdf: magick
+* Mowinckel&Vidal-Pineiro2019preprint.pdf: magick
+* ChampagneEtal2019JChemicalEcology.pdf: taxize
+* BurrowsEtal2019GlobalChangeBiology.pdf: taxize
+* Avdeev2019whitepaper.pdf: lingtypology (Avdeev, S. (2019). International Collaboration In Higher Education Research: A Gravity Model Approach. Higher School of Economics Research Paper No. WP BRP, 54. <https://wp.hse.ru/data/2019/12/18/1523102390/54EDU2019.pdf>)
+* Herrera2019EcologicalMonographs.pdf: brranching
+* KimEtal2019Algae.pdf: taxize
+* Hsu2019thesis.pdf: osmdata (Hsu, C. W. (2019). Disparities in public charging infrastructure deployment and inequitable electric vehicle ownership cost based on income and race (Doctoral dissertation, Humboldt State University). <http://bit.ly/2MQDAAF>)
+* FatikhunnadaEtal2020RemoteSensing ApplicationsSociety&Environment.pdf: MODIStsp
+* HansenEtal2019Ecology&Evolution.pdf: taxize
+* Kovalenko2019thesis.pdf: skmir (Kovalenko, Y. (2019). Stop and smell the grapes : altering cultivar-typical aromas in ‘Gewürztraminer’ (Vitis vinifera L.) berries via regulated deficit irrigation and crop load management (T). University of British Columbia. <https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0387322>)
+* MiennaEtal2019JournalOfBiogeography.pdf: rgbif
+* AsevedoEtal2019Palaeo.pdf: CoordinateCleaner
+* MilaEtal2020ScienceTotalEnvironment.pdf: riem, rtimicropem
+* NguyenEtal2020EnvironmentalModelling&Software.pdf: MODISTools
+* CarolinaEtal2019JournalOfMarineSystems.pdf: MODISTools
+* AkpotiEtal2019ScienceOfTheTotalEnvironment.pdf: MODIStsp
+* MingioneEtal2020JournalOfBusinessResearch.pdf: rtweet
