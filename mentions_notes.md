@@ -851,7 +851,6 @@
 * RohEtal2019PlosOne.pdf: RSelenium
 * Sutton&Wilson2019Evolution.pdf: rfishbase
 * Yang2019SolarEnergy: camsRad (pdf not downloaded) (10.1016/j.solener.2019.10.006)
-
 * ZheleznovaEtal2019BiodiversityDataJournal.pdf: taxize
 * KearneyEtal2019MEE.pdf: rnoaa
 * DornburgEtal2019BMCEvolutionaryBiology.pdf: rentrez
@@ -875,6 +874,26 @@
 * UphamEtal2019PLOSBiology.pdf: magick
 * Jin&Yang2019GlobalEcologya&Conservation.pdf: taxize, taxizedb, CoordinateCleaner, scrubr
 * StevartEtal2019ScienceAdvances.pdf: rredlist, rgbif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * DAmen&Azzurro2019ICESJournalOfMarineScience.pdf: rgbif
 * ZizkaEtal2019Diversity&Distributions.pdf: CoordinateCleaner
 * KnoplochEtal2019Thesis.pdf: taxize, CoordinateCleaner (Knoploch, C., C. Grinand, G. Vieilledent. 2019. The importance of deforestation and climate change in shaping lemurs’ distributions and identifying their areas of climatic refuges. Thesis. <https://www.nitidae.org/files/46082c83/the_importance_of_deforestation_and_climate_change_in_shaping_lemurs_distributions_and_identifying_their_areas_of_climatic_refuges.pdf>)
@@ -939,3 +958,40 @@
 * CarolinaEtal2019JournalOfMarineSystems.pdf: MODISTools
 * AkpotiEtal2019ScienceOfTheTotalEnvironment.pdf: MODIStsp
 * MingioneEtal2020JournalOfBusinessResearch.pdf: rtweet
+* DAmen&Azzurro2020JournalOfBiogeography.pdf: rgbif
+* MengEtal2019ProteomeScience.pdf: iheatmapr
+* CzerneckiEtal2020Sustainability.pdf: rnaturalearth
+* ShiEtal2020Cellular&MolecularImmunology.pdf: iheatmapr
+* Lestina2020conference-paper.pdf: pdftools (Lestina, F. Trends in US Foreign Policy Prioritizations, 2000–2019. Proceedings of the 53rd Hawaii International Conference on System Sciences.  <https://scholarspace.manoa.hawaii.edu/bitstream/10125/63832/0074.pdf>)
+* QuinteroEtal2020JournalOfEcology.pdf: taxize
+* BlowesEtal2020JournalOfAppliedEcology.pdf: rfishbase
+* Wunderlich&Memmert2020AppliedSciences.pdf: rtweet
+* NguyenEtal2020ScientificReports.pdf: MODISTools
+* CartaEtal2020Biorxiv-preprint.pdf: chromer (https://www.biorxiv.org/content/biorxiv/early/2020/01/06/2020.01.05.893859.full.pdf)
+* AlvesEtal2020GlobalEcology&Biogeography.pdf: rgbif
+* Jaric&Djeric2019Sociologija.pdf: cld2, textreuse (Jaric, I., & Djeric, M. (2019). Curriculum and labor market: Comparative analysis of the curricular outcomes of the study program in sociology at the Faculty of Philosophy, University of Belgrade and the required competences in the labor market. Sociologija, 61(Suppl. 1), 718–741. doi:10.2298/soc19s1718j)
+* CirtwillEtal2020NewPhytologist.pdf: taxize
+* Leveille-BourretEtal2020MolecularPhylogenetics&Evolution.pdf: rgbif, CoordinateCleaner
+* Moudry&Devillers2020EcologicalInformatics.pdf: CoordinateCleaner
+* DengEtal2020CephalalgiaReports.pdf: hunspell
+* ShanEtal2020ApplicationsInPlantSciences.pdf: rotl
+* HorneEtal2020PRSLB.pdf: rotl
+* AkpınarEtal2020Biorxiv-Preprint.pdf: taxize
+* Milla2020GlobalEcology&Biogeography.pdf: rgbif, CoordinateCleaner
+* SchererEtal2020Oikos.pdf: NLMR, landscapetools
+* Burns&Bloom2020PRSLB.pdf: rfishbase
+* Santos2020: rentrez (not downloaded; "Santos, J. C. (2020). Phylogenetic Analyses of Chemokine Receptors from Sequence Retrieval to Phylogenetic Trees. In Immune Mediators in Cancer (pp. 313-343). Humana, New York, NY." <https://link.springer.com/protocol/10.1007/978-1-0716-0247-8_27>)
+* WalczynskaEtal2020Biorxiv-preprint.pdf: rotl
+* Mathes2020: rnoaa (not downloaded; white paper: "Mathes, S. (2019). The Dynamics of Residential Sorting and Health: Implications of Climate Change in the US. <https://sophiemathescom.files.wordpress.com/2019/11/job_market_paper_sophie_mathes-1.pdf>")
+* Theroux-RancourtEtal2020Biorxiv-Preprint.pdf: brranching
+* LakicevicEtal2020-book (not downloaded, could not access): rgbif (Lakicevic M., Povak N., Reynolds K.M. (2020) Creating Maps. In: Introduction to R for Terrestrial Ecology. Springer, Cham <https://link.springer.com/chapter/10.1007/978-3-030-27603-4_3>)
+* WraithEtal2020Ambio.pdf: rgbif
+* Vincent&Bowler2020mSystems.pdf: rglobi
+* SewaEtal2020Microbiology&Immunology.pdf: phylogram
+* YuanEtal2020BiologicalJournalOfTheLinneanSociety.pdf: MODISTools
+* GilbertsonEtal2020MEE.pdf: spatsoc
+* BachmanEtal2020BiodiversityDataJournal.pdf: taxize, wicket, rgbif
+* Benito&Birks2020Ecography.pdf: MODIStools
+* CeschinEtal2020ScientificReports.pdf: rgbif
+* vonSchmidtEtal2019InternationalJournalAdvancesInternetTechnology,.pdf: geojsonio (von Schmidt, A., Cyganski, R., & Heinrichs, M. 2019. Web-based Visualization of Daily Mobility Patterns in R. International Journal on Advances in Internet Technology, vol 12 (3 & 4). <https://elib.dlr.de/133599/1/inttech_v12_n34_2019_2.pdf>)
+* 
