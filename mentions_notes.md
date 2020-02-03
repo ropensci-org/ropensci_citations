@@ -874,26 +874,6 @@
 * UphamEtal2019PLOSBiology.pdf: magick
 * Jin&Yang2019GlobalEcologya&Conservation.pdf: taxize, taxizedb, CoordinateCleaner, scrubr
 * StevartEtal2019ScienceAdvances.pdf: rredlist, rgbif
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 * DAmen&Azzurro2019ICESJournalOfMarineScience.pdf: rgbif
 * ZizkaEtal2019Diversity&Distributions.pdf: CoordinateCleaner
 * KnoplochEtal2019Thesis.pdf: taxize, CoordinateCleaner (Knoploch, C., C. Grinand, G. Vieilledent. 2019. The importance of deforestation and climate change in shaping lemurs’ distributions and identifying their areas of climatic refuges. Thesis. <https://www.nitidae.org/files/46082c83/the_importance_of_deforestation_and_climate_change_in_shaping_lemurs_distributions_and_identifying_their_areas_of_climatic_refuges.pdf>)
@@ -907,6 +887,8 @@
 * HongEtal2019ControlsBigDataAnalysis&Visualization.pdf: FedData
 * LangeEtal2019NatureCommunications.pdf: biomartR
 * BaezEtal2019Ecology&Evolutino.pdf: spocc
+
+
 * Estrada-PeñaEtal2019ScientificData.pdf: MODIStsp, rotl
 * LecocqEtal2019ScientificData.pdf: rfishbase
 * Reis2019Thesis.pdf: rgbif (Reis, V. S. (2019). Uma perspectiva macroecológica sobre o risco de extinção em mamíferos. Thesis. <http://bit.ly/38mfmHG>)
