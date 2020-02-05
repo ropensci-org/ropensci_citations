@@ -976,4 +976,11 @@
 * Benito&Birks2020Ecography.pdf: MODIStools
 * CeschinEtal2020ScientificReports.pdf: rgbif
 * vonSchmidtEtal2019InternationalJournalAdvancesInternetTechnology,.pdf: geojsonio (von Schmidt, A., Cyganski, R., & Heinrichs, M. 2019. Web-based Visualization of Daily Mobility Patterns in R. International Journal on Advances in Internet Technology, vol 12 (3 & 4). <https://elib.dlr.de/133599/1/inttech_v12_n34_2019_2.pdf>)
+* OliphantEtal2020mSystems.pdf: rentrez
+* Lourenco2019Thesis.pdf: NLMR (Lourenço, A. F. P. (2019). Eco-evolutionary implications underlying the emergence of a derived reproductive mode in fire salamanders. <https://repositorio-aberto.up.pt/bitstream/10216/125665/2/378408.pdf>)
+* Lope&Dolgun2020JournalOfTransportGeography.pdf: pdftools
+* Tetzlaff2019Dissertation.pdf: rotl
+* Wiscovitch-RussoEtal2020PLOSONE.pdf: HelminthR, rglobi
+* NustEtal2020arxiv.pdf: RSelenium (Nüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D., Daroczi, G., ... & Marwick, B. (2020). The Rockerverse: Packages and Applications for Containerization with R. arXiv preprint arXiv:2001.10641. <https://arxiv.org/pdf/2001.10641.pdf>)
 * 
+
