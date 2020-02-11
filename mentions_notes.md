@@ -982,5 +982,11 @@
 * Tetzlaff2019Dissertation.pdf: rotl
 * Wiscovitch-RussoEtal2020PLOSONE.pdf: HelminthR, rglobi
 * NustEtal2020arxiv.pdf: RSelenium (Nüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D., Daroczi, G., ... & Marwick, B. (2020). The Rockerverse: Packages and Applications for Containerization with R. arXiv preprint arXiv:2001.10641. <https://arxiv.org/pdf/2001.10641.pdf>)
+* Perez-GoyaEtal2020arxiv-preprint.pdf: MODIStsp, MODIStools
+* Senior2020preprint.pdf: fingertipsR (https://doi.org/10.31235/osf.io/rbcz5)
+* MooneyEtal2020NatureCommunications.pdf: taxize
+* GagneEtal2020PLOSOne.pdf: taxize
+* GomezIsazaEtal2020EnvironmentalPollution: rotl (not downloaded; Gomez Isaza, D. F., Cramp, R. L., & Franklin, C. E. (2020). Living in polluted waters: A meta-analysis of the effects of nitrate and interactions with other environmental stressors on freshwater taxa. Environmental Pollution, 114091. <https://doi.org/10.1016/j.envpol.2020.114091>)
 * 
+
 
