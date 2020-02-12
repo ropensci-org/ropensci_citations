@@ -987,6 +987,10 @@
 * MooneyEtal2020NatureCommunications.pdf: taxize
 * GagneEtal2020PLOSOne.pdf: taxize
 * GomezIsazaEtal2020EnvironmentalPollution: rotl (not downloaded; Gomez Isaza, D. F., Cramp, R. L., & Franklin, C. E. (2020). Living in polluted waters: A meta-analysis of the effects of nitrate and interactions with other environmental stressors on freshwater taxa. Environmental Pollution, 114091. <https://doi.org/10.1016/j.envpol.2020.114091>)
-* 
-
-
+* Vilchez-RomanEtal2020InformationDevelopment.pdf: rplos
+* CaseysETal2020biorxiv-preprint.pdf: iheatmapr
+* vanZonneveldEtal2020ScientificReports.pdf: rgbif
+* KimEtal2020Bioinformatics.pdf: biomartr
+* CallananEtal2020ScienceAdvances.pdf: treeio
+* Mattatia2020thesis.pdf: CoordinateCleaner ("Mattatia, I. 2020. An empirical assessment of the extent to which the realized niche of bird species is truncated. Masters Thesis. University of Lausanne. <https://www.unil.ch/ecospat/files/live/sites/ecospat/files/shared/PDF_site/FirstStep/Mattatia2020_FirstStep.pdf>")
+* AdilEtal2020IEEE.pdf: pdftools
