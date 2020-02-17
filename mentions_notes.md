@@ -887,8 +887,6 @@
 * HongEtal2019ControlsBigDataAnalysis&Visualization.pdf: FedData
 * LangeEtal2019NatureCommunications.pdf: biomartR
 * BaezEtal2019Ecology&Evolutino.pdf: spocc
-
-
 * Estrada-PeñaEtal2019ScientificData.pdf: MODIStsp, rotl
 * LecocqEtal2019ScientificData.pdf: rfishbase
 * Reis2019Thesis.pdf: rgbif (Reis, V. S. (2019). Uma perspectiva macroecológica sobre o risco de extinção em mamíferos. Thesis. <http://bit.ly/38mfmHG>)
@@ -896,15 +894,17 @@
 * LiEtal2019Epigenetics&Chromatin.pdf: UCSCXenaTools
 * Fu&Hughey2019eLife.pdf: rcrossref, rentrez, rAltmetric
 * GodfreyEtal2019NewPhytologist.pdf: rotl
-* Zhong2019Thesis.pdf: rnoaa (Zhong, B. (2019). Towards Developing a Double Cropping System Between Winter Barley and Soybean in the Upper Midwest.
- <https://conservancy.umn.edu/bitstream/handle/11299/208973/Zhong_umn_0130M_20797.pdf?sequence=1&isAllowed=y>)
+* Zhong2019Thesis.pdf: rnoaa (Zhong, B. (2019). Towards Developing a Double Cropping System Between Winter Barley and Soybean in the Upper Midwest. <https://conservancy.umn.edu/bitstream/handle/11299/208973/Zhong_umn_0130M_20797.pdf?sequence=1&isAllowed=y>)
 * BettsEtal2019Science.pdf: NLMR, landscapetools (citation in supplement)
 * KimEtal2019PediatricDiabetes.pdf: iheatmapr
 * Atalah&Forrest2019AquacultureEnvironmentInteractions.pdf: clifro
 * KarakulahEtal2019PeerJ.pdf: biomartr
-* YusriEtal2019IOPConfSerEarthEnvironSci.pdf (Yusri, S., Siregar, V. P., & Suharsono. (2019). Distribution Modelling of Porites (Poritidae) in Indonesia. IOP Conference Series: Earth and Environmental Science, 363, 012025. <https://doi.org/10.1088/1755-1315/363/1/012025>)
+* YusriEtal2019IOPConfSerEarthEnvironSci.pdf: rgbif (Yusri, S., Siregar, V. P., & Suharsono. (2019). Distribution Modelling of Porites (Poritidae) in Indonesia. IOP Conference Series: Earth and Environmental Science, 363, 012025. <https://doi.org/10.1088/1755-1315/363/1/012025>)
 * Clark&Luis2019NatureEcology&Evolution.pdf: rotl
 * EkroosEtal2020BiologicalConservation.pdf: rgbif
+
+
+
 * Lysne2019Thesis.pdf: visdat (Lysne, V. (2019). Biomarkers of one-carbon metabolism and B-vitamin status: Targeted metabolomics in rats and humans exploring the effects of PPARα-activation and dietary composition.
  <http://bora.uib.no/bitstream/handle/1956/21069/Dt.thesis_2019_Vegard_Lysne.pdf?sequence=1&isAllowed=y>)
 * VitaleEtal2019MolecularGenetics&GenomicMedicine.pdf: rentrez, fulltext
