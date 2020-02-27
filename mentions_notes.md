@@ -994,3 +994,30 @@
 * CallananEtal2020ScienceAdvances.pdf: treeio
 * Mattatia2020thesis.pdf: CoordinateCleaner ("Mattatia, I. 2020. An empirical assessment of the extent to which the realized niche of bird species is truncated. Masters Thesis. University of Lausanne. <https://www.unil.ch/ecospat/files/live/sites/ecospat/files/shared/PDF_site/FirstStep/Mattatia2020_FirstStep.pdf>")
 * AdilEtal2020IEEE.pdf: pdftools
+* FinoshinEtal2020PLOSOne.pdf: rotl
+* Pimiento&Benton2020Paleontology.pdf: paleobioDB, rfishbase
+* Benhadi-MarinEtal2020AnnalsOfAppliedBiology.pdf: rgbif
+* AhrenfeldtEtal2020ScientificReports.pdf: treeio
+* CinelliEtal2020arxiv.pdf: hunspell
+* Alfaro-RamirezEtal2020PLOSOne.pdf: CoordinateCleaner
+* Martinez-feria&Basso2020ScientificReports.pdf: FedData
+* RegoEtal2020Microorganisms.pdf: rnaturalearth
+* CederwallEtal2020CanadianJournalFisheries&AquaticSciences.pdf: taxize
+* MossionEtal2020biorxiv.pdf: taxize
+* FunkEtal2020JournalOfMedicalInternetResearch.pdf: hunspell
+* CorreiaEtal2018FrontiersInGenetics.pdf: skimr
+* VerdeArregoitiaEtal2020JournalOfMammology.pdf: taxize, pdftools
+* ShivambuEtal2020BiologicalInvasions.pdf: rgbif
+* Jhwueng&OMeara2020EvolutionaryBioinformatics.pdf: rotl
+* CookeEtal2020GlobalEcology&Conservation.pdf: rredlist
+* Palanisamy2020thesis.pdf: pdftools ("Palanisamy, S. (2019). An analysis on hidden markov model prediction factors using California wildfire and meteorological records (Doctoral dissertation, California State University, Sacramento). <https://csus-dspace.calstate.edu/bitstream/handle/10211.3/210201/SHARMILA_MASTERS_REPORT.pdf?sequence=1>")
+* Panayiotou2020InternationalJournalOfArtificialIntelligence&Applications.pdf: rdflib (<https://ktisis.cut.ac.cy/bitstream/10488/15757/1/An%20ontological%20analysis.pdf>)
+* JiEtal2020biorxiv.pdf: rredlist
+* Li&Guo2020PRSLB.pdf: rgbif
+* SilvaEtal2020biorxiv.pdf: NLMR, landscapetools
+* Schwalb-WillmannEtal2020MEE.pdf: magick
+* Perez-LamarqueEtal2020NewPhytologist.pdf: rotl
+* LarsonEtal2020FunctionalEcology.pdf: brranching
+* Rodrigues&Boscolo2020EcologicalEntomology.pdf: taxize
+* ManelEtal2020NatureCommunications.pdf: rfishbase
+
