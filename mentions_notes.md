@@ -902,11 +902,7 @@
 * YusriEtal2019IOPConfSerEarthEnvironSci.pdf: rgbif (Yusri, S., Siregar, V. P., & Suharsono. (2019). Distribution Modelling of Porites (Poritidae) in Indonesia. IOP Conference Series: Earth and Environmental Science, 363, 012025. <https://doi.org/10.1088/1755-1315/363/1/012025>)
 * Clark&Luis2019NatureEcology&Evolution.pdf: rotl
 * EkroosEtal2020BiologicalConservation.pdf: rgbif
-
-
-
-* Lysne2019Thesis.pdf: visdat (Lysne, V. (2019). Biomarkers of one-carbon metabolism and B-vitamin status: Targeted metabolomics in rats and humans exploring the effects of PPARα-activation and dietary composition.
- <http://bora.uib.no/bitstream/handle/1956/21069/Dt.thesis_2019_Vegard_Lysne.pdf?sequence=1&isAllowed=y>)
+* Lysne2019Thesis.pdf: visdat (Lysne, V. (2019). Biomarkers of one-carbon metabolism and B-vitamin status: Targeted metabolomics in rats and humans exploring the effects of PPARα-activation and dietary composition. <http://bora.uib.no/bitstream/handle/1956/21069/Dt.thesis_2019_Vegard_Lysne.pdf?sequence=1&isAllowed=y>)
 * VitaleEtal2019MolecularGenetics&GenomicMedicine.pdf: rentrez, fulltext
 * WciselEtal2019-preprint.pdf: rentrez
 * SansoneEtal2019SexualMedicine.pdf: rtweet
@@ -921,6 +917,9 @@
 * NoeckerEtal2019mSystems.pdf: biomartr
 * Ruiz-SanchezEtal2019BotanicalSciences.pdf: restez, phylotaR
 * GreenhalghEtal2019JournalMedia&Religion.pdf: rtweet (https://spencergreenhalgh.com/Greenhalgh_Staudt_Willet_Koehler_2019_Mormon_Identity_and_Practice.pdf)
+
+
+
 * DieEtal2019preprint.pdf: rentrez
 * MaiaEtal2019preprint.pdf: magick
 * Mowinckel&Vidal-Pineiro2019preprint.pdf: magick
