@@ -1019,4 +1019,18 @@
 * LarsonEtal2020FunctionalEcology.pdf: brranching
 * Rodrigues&Boscolo2020EcologicalEntomology.pdf: taxize
 * ManelEtal2020NatureCommunications.pdf: rfishbase
-
+* Thompson2020AmNat.pdf: taxize, rentrez (Thompson, K. A. (2020). Experimental hybridization studies suggest that pleiotropic alleles commonly underlie adaptive divergence between natural populations. The American Naturalist. doi:10.1086/708722)
+* GentEtal2020Phytopathology.pdf: taxize
+* Bagheri2019Thesis.pdf: biomartr (Bagheri, H. 2019. Domain-specific language and infrastructure for genomics. Graduate Theses and Dissertations. 17641. <https://lib.dr.iastate.edu/etd/17641>)
+* Heisel2020Thesis.pdf: rotl (Heisel, S. E. (2019). Ecological, Genomic, and Social Factors Impacting Wildlife Conservation (Doctoral dissertation, University of Georgia). <https://search.proquest.com/docview/2357432037>)
+* HannahEtal2020Ecography.pdf: rgbif
+* Ryt-HansenEtal2020Virsuses.pdf: treeio
+* Armitage&Jones2020biorxiv.pdf: CoordinateCleaner
+* HamidEtal2020bookchapter: rredlist (not downloaded) (Hamid M., Khuroo A.A., Ahmad R., Rasheed S., Malik A.H., Dar G.H. (2020) Threatened Flora of Jammu and Kashmir State. In: Dar G., Khuroo A. (eds) Biodiversity of the Himalaya: Jammu and Kashmir State. Topics in Biodiversity and Conservation, vol 18. Springer, Singapore <https://doi.org/10.1007/978-981-32-9174-4_37>)
+* Kaczvinsky&Hardy2020Ecology&Evolution.pdf: taxize
+* ZizkaEtal2020JournalOfBiogeography.pdf: taxize, rgbif, CoordinateCleaner
+* JungEtal2020Oecologia.pdf: rgbif
+* Howard&Cellinese2020Ecology&Evolution.pdf: rgbif
+* DuEtal2020JournalOfBiogeography.pdf: rgbif
+* Long&Turner2020AustralianEconomicReview.pdf: skimr
+* Reyes&Lira-Noriega2020CanadianEntomologist.pdf: spocc
