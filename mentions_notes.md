@@ -917,9 +917,6 @@
 * NoeckerEtal2019mSystems.pdf: biomartr
 * Ruiz-SanchezEtal2019BotanicalSciences.pdf: restez, phylotaR
 * GreenhalghEtal2019JournalMedia&Religion.pdf: rtweet (https://spencergreenhalgh.com/Greenhalgh_Staudt_Willet_Koehler_2019_Mormon_Identity_and_Practice.pdf)
-
-
-
 * DieEtal2019preprint.pdf: rentrez
 * MaiaEtal2019preprint.pdf: magick
 * Mowinckel&Vidal-Pineiro2019preprint.pdf: magick
@@ -936,9 +933,12 @@
 * AsevedoEtal2019Palaeo.pdf: CoordinateCleaner
 * MilaEtal2020ScienceTotalEnvironment.pdf: riem, rtimicropem
 * NguyenEtal2020EnvironmentalModelling&Software.pdf: MODISTools
-* CarolinaEtal2019JournalOfMarineSystems.pdf: MODISTools
+* Torregroza-EspinosaEtal2019JournalOfMarineSystems.pdf: MODISTools
 * AkpotiEtal2019ScienceOfTheTotalEnvironment.pdf: MODIStsp
 * MingioneEtal2020JournalOfBusinessResearch.pdf: rtweet
+
+
+
 * DAmen&Azzurro2020JournalOfBiogeography.pdf: rgbif
 * MengEtal2019ProteomeScience.pdf: iheatmapr
 * CzerneckiEtal2020Sustainability.pdf: rnaturalearth
