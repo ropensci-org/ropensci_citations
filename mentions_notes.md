@@ -1034,3 +1034,11 @@
 * DuEtal2020JournalOfBiogeography.pdf: rgbif
 * Long&Turner2020AustralianEconomicReview.pdf: skimr
 * Reyes&Lira-Noriega2020CanadianEntomologist.pdf: spocc
+* Lara-LizardiEtal2020biorxiv-preprint.pdf: osmdata
+* Cichosz2020NaturalLanguageEngineering.pdf: hunspell
+* Pietzke&Vazquez2020preprint.pdf: writexl (Pietzke, M., Vazquez, A. 2020. Metabolite AutoPlotter–an application to automatically process and visualise metabolite data in the web-browser. <https://assets.researchsquare.com/files/6b8d169e-e621-4ebd-8c6e-ff607a788ebe/v1/Manuscript.pdf>)
+* KusumotoEtal2020EcologicalResearch.pdf: rgbif
+* Potter2019thesis.pdf: rfishbase (Potter, R. J. (2019). Machine learning for resource economics: a review of modern computational statistics with empirical applications in fisheries management (Master's thesis). <https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2644607/masterthesis.pdf?sequence=1>)
+* MarshallEtal2020NatureEcologyEvolution.pdf: rotl
+* AmiriRoudbarEtal2020Heredity.pdf: rsnps
+* WesenerEtal2020biorxiv-preprint.pdf: nlrx
