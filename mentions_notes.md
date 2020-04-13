@@ -936,9 +936,6 @@
 * Torregroza-EspinosaEtal2019JournalOfMarineSystems.pdf: MODISTools
 * AkpotiEtal2019ScienceOfTheTotalEnvironment.pdf: MODIStsp
 * MingioneEtal2020JournalOfBusinessResearch.pdf: rtweet
-
-
-
 * DAmen&Azzurro2020JournalOfBiogeography.pdf: rgbif
 * MengEtal2019ProteomeScience.pdf: iheatmapr
 * CzerneckiEtal2020Sustainability.pdf: rnaturalearth
@@ -950,7 +947,7 @@
 * NguyenEtal2020ScientificReports.pdf: MODISTools
 * CartaEtal2020Biorxiv-preprint.pdf: chromer (https://www.biorxiv.org/content/biorxiv/early/2020/01/06/2020.01.05.893859.full.pdf)
 * AlvesEtal2020GlobalEcology&Biogeography.pdf: rgbif
-* Jaric&Djeric2019Sociologija.pdf: cld2, textreuse (Jaric, I., & Djeric, M. (2019). Curriculum and labor market: Comparative analysis of the curricular outcomes of the study program in sociology at the Faculty of Philosophy, University of Belgrade and the required competences in the labor market. Sociologija, 61(Suppl. 1), 718–741. doi:10.2298/soc19s1718j)
+* Jaric&Djeric2019Sociologija.pdf: cld2, textreuse
 * CirtwillEtal2020NewPhytologist.pdf: taxize
 * Leveille-BourretEtal2020MolecularPhylogenetics&Evolution.pdf: rgbif, CoordinateCleaner
 * Moudry&Devillers2020EcologicalInformatics.pdf: CoordinateCleaner
@@ -974,6 +971,9 @@
 * BachmanEtal2020BiodiversityDataJournal.pdf: taxize, wicket, rgbif
 * Benito&Birks2020Ecography.pdf: MODIStools
 * CeschinEtal2020ScientificReports.pdf: rgbif
+
+
+
 * vonSchmidtEtal2019InternationalJournalAdvancesInternetTechnology,.pdf: geojsonio (von Schmidt, A., Cyganski, R., & Heinrichs, M. 2019. Web-based Visualization of Daily Mobility Patterns in R. International Journal on Advances in Internet Technology, vol 12 (3 & 4). <https://elib.dlr.de/133599/1/inttech_v12_n34_2019_2.pdf>)
 * OliphantEtal2020mSystems.pdf: rentrez
 * Lourenco2019Thesis.pdf: NLMR (Lourenço, A. F. P. (2019). Eco-evolutionary implications underlying the emergence of a derived reproductive mode in fire salamanders. <https://repositorio-aberto.up.pt/bitstream/10216/125665/2/378408.pdf>)
@@ -1042,3 +1042,24 @@
 * MarshallEtal2020NatureEcologyEvolution.pdf: rotl
 * AmiriRoudbarEtal2020Heredity.pdf: rsnps
 * WesenerEtal2020biorxiv-preprint.pdf: nlrx
+* DeribeEtal2020biorxiv-preprint.pdf: opencage
+* ParraviciniEtal2020biorxiv-preprint.pdf: rfishbase
+* VantasEtal2020Water.pdf: hydroscoper
+* Ashby2020SocArXiv-preprint.pdf: roadoi, rromeo (Ashby, M. P. J. (2020, March 6). Three quarters of new criminological knowledge is hidden from policy makers. <https://doi.org/10.31235/osf.io/wnq7h>)
+* Yu2020CurrentProtocols.pdf: treeio
+* LequimeEtal2020biorxiv-preprint.pdf: treeio
+* WeiEtal2020biorxiv-preprint.pdf: rotl
+* Fontanelli&Mansilla2020arxiv-preprint.pdf: rtweet
+* YoungEtal2020plosone.pdf: taxize, rgbif, rbison
+* Allen&Kim2020plosone.pdf: rotl
+* BorgoniEtal2020SocialIndicatorsResearch.pdf: osmdata
+* Dadi2020Thesis.pdf: skimr (Dadi, B. B. (2020). Modeling malaria cases associated with environmental risk factors in Ethiopia using geographically weighted regression (Doctoral dissertation). <http://repositori.uji.es/xmlui/bitstream/handle/10234/187004/TFM_Berhanu.pdf?sequence=1&isAllowed=y>)
+* Pruchnik2020paper.pdf: hunspell (Pruchnik, P. (2020). Identification of Trends in the Polish Media on the Example of the Quarterly Studia Medioznawcze The Use of Big Data Tools. Media Studies, 80(1). <http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.desklight-e79ed2c7-fd7d-4a91-8895-c322743c8f48/c/04_Pruchnik_EN.pdf>)
+* PavlovichEtal2020FrontiersInImmunology.pdf: rentrez
+* HagenEtal2020SocialScienceComputerReview.pdf: rtweet
+* Chakraborty2020thesis.pdf: MODIStools (Chakraborty, T. (2020). Multi-scale assessment of drought-induced forest dieback (Doctoral dissertation). <https://run.unl.pt/bitstream/10362/94403/1/TGEO0243.pdf>)
+* Salgado&Oancea2020arxiv-preprint.pdf: RSelenium
+* JezequelEtal2020ScientificData.pdf: rfishbase
+* ChapmanEtal2020BiodiversityInformationScience&Standards.pdf: rgbif
+* Hamilton&Jacob2020FoodQuality&Preference.pdf: hunspell
+* RanghettiEtal2020Computers&Geosciences.pdf: geojsonio
