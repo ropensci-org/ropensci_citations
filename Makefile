@@ -8,3 +8,6 @@ check_staged:
 
 check_use_cases:
 	${RSCRIPT} -e "source('check_citations.R'); check_citation_file('use_cases.tsv')"
+
+gather_mentions:
+	${RSCRIPT} -e "source('gather_mentions.R')"

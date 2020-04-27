@@ -971,9 +971,6 @@
 * BachmanEtal2020BiodiversityDataJournal.pdf: taxize, wicket, rgbif
 * Benito&Birks2020Ecography.pdf: MODIStools
 * CeschinEtal2020ScientificReports.pdf: rgbif
-
-
-
 * vonSchmidtEtal2019InternationalJournalAdvancesInternetTechnology,.pdf: geojsonio (von Schmidt, A., Cyganski, R., & Heinrichs, M. 2019. Web-based Visualization of Daily Mobility Patterns in R. International Journal on Advances in Internet Technology, vol 12 (3 & 4). <https://elib.dlr.de/133599/1/inttech_v12_n34_2019_2.pdf>)
 * OliphantEtal2020mSystems.pdf: rentrez
 * Lourenco2019Thesis.pdf: NLMR (Lourenço, A. F. P. (2019). Eco-evolutionary implications underlying the emergence of a derived reproductive mode in fire salamanders. <https://repositorio-aberto.up.pt/bitstream/10216/125665/2/378408.pdf>)
