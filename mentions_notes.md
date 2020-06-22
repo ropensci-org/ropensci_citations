@@ -1060,3 +1060,15 @@
 * ChapmanEtal2020BiodiversityInformationScience&Standards.pdf: rgbif
 * Hamilton&Jacob2020FoodQuality&Preference.pdf: hunspell
 * RanghettiEtal2020Computers&Geosciences.pdf: geojsonio
+* Claes&Mantyla2020arxiv.pdf: tokenizers
+* TrugmanEtal2020PNAS.pdf: brranching
+* ZushiEtal2020ACSOmega.pdf: webchem
+* Martins&Boeckx2020PLOSOne.pdf: taxize
+* Hantgan-Sanko2020.pdf: lingtypology
+* FraserEtal2020QuantitativeScienceStudies.pdf: RSelenium,rcrossref
+* StaudeEtal2020NatureEcology&Evolution.pdf: scrubr
+* Hernandez-RojasEtal2020JournalOfBiogeography.pdf: rgbif
+* CuiEtal2020NaturePlants.pdf: rotl
+* TimpanoEtal2020PLOSOne.pdf: taxize
+* BarenstrauchEtal2020: rentrez (not downloaded) (Bärenstrauch, M., Mann, S., Jacquemin, C., Bibi, S., Sylla, O.-K., Baudouin, E., … Kunz, C. (2020). Molecular crosstalk between the endophyte Paraconiothyrium variabile and the phytopathogen Fusarium oxysporum – Modulation of lipoxygenase activity and beauvericin production during the interaction. Fungal Genetics and Biology, 139, 103383. doi:10.1016/j.fgb.2020.103383)
+* Zhao&Cao2020: stplanr (discusses only) (Zhao, P., & Cao, Y. (2020). Commuting inequity and its determinants in Shanghai: New findings from big-data analytics. Transport Policy, 92, 20–37. doi:10.1016/j.tranpol.2020.03.006)
