@@ -5,7 +5,6 @@ require 'multi_json'
 require 'json'
 require 'active_record'
 
-# file = "../citations_all.json"
 file = File.join(File.dirname(__FILE__), "../citations_all.json")
 lns = File.readlines(file).join(" ");
 json = MultiJson.load(lns);
@@ -26,20 +25,20 @@ File.open(path_parts, "w") do |f|
   f.write(JSON.pretty_generate(res))
 end
 
-res_titles = json.map { |e| 
-  parsed = extract_parts(e['citation']);
-  parsed = parsed.deep_stringify_keys;
-  begin
-    e['title'] = parsed["title"][0];
-  rescue Exception => f
-    e['title'] = nil;
-  end
-  e
-};
-path_titles = File.join(File.dirname(__FILE__), "../citations_all_just_titles.json")
-File.open(path_titles, "w") do |f|
-  f.write(JSON.pretty_generate(res_titles))
-end
+# res_titles = json.map { |e| 
+#   parsed = extract_parts(e['citation']);
+#   parsed = parsed.deep_stringify_keys;
+#   begin
+#     e['title'] = parsed["title"][0];
+#   rescue Exception => f
+#     e['title'] = nil;
+#   end
+#   e
+# };
+# path_titles = File.join(File.dirname(__FILE__), "../citations_all_just_titles.json")
+# File.open(path_titles, "w") do |f|
+#   f.write(JSON.pretty_generate(res_titles))
+# end
 
 
 # old code
