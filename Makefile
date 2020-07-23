@@ -18,5 +18,5 @@ gather_mentions:
 json:
 	${RSCRIPT} -e "source('src/citations_to_json.R'); to_json('citations_all.tsv')"
 
-append_parts:
+append_parts: json
 	ruby src/append_parts.rb
