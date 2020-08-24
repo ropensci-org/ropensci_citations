@@ -20,3 +20,6 @@ json:
 
 append_parts: json
 	ruby src/append_parts.rb
+
+add_images:
+	${RSCRIPT} -e "source('src/add_images.R')"
