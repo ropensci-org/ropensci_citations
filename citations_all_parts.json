@@ -56478,5 +56478,1068 @@
         "10.1016/j.biocon.2020.108628"
       ]
     }
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1111/cobi.13564",
+    "citation": "Barrios‐O’Neill, D. (2020). Focus and social contagion of environmental organization advocacy on Twitter. Conservation Biology. <https://doi.org/10.1111/cobi.13564>",
+    "parts": {
+      "author": [
+        {
+          "family": "Barrios‐O’Neill",
+          "given": "D."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Focus and social contagion of environmental organization advocacy on Twitter"
+      ],
+      "url": [
+        "https://doi.org/10.1111/cobi.13564"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Conservation Biology"
+      ],
+      "doi": [
+        "10.1111/cobi.13564"
+      ]
+    }
+  },
+  {
+    "name": "spocc",
+    "doi": "10.1111/jse.12646",
+    "citation": "Gaynor, M. L., Fu, C., Gao, L., Lu, L., Soltis, D. E., & Soltis, P. S. (2020). Biogeography and ecological niche evolution in Diapensiaceae inferred from phylogenetic analysis. Journal of Systematics and Evolution. <https://doi.org/10.1111/jse.12646>",
+    "parts": {
+      "author": [
+        {
+          "family": "Gaynor",
+          "given": "M.L."
+        },
+        {
+          "family": "Fu",
+          "given": "C."
+        },
+        {
+          "family": "Gao",
+          "given": "L."
+        },
+        {
+          "family": "Lu",
+          "given": "L."
+        },
+        {
+          "family": "Soltis",
+          "given": "D.E."
+        },
+        {
+          "family": "Soltis",
+          "given": "P.S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Biogeography and ecological niche evolution in Diapensiaceae inferred from phylogenetic analysis"
+      ],
+      "url": [
+        "https://doi.org/10.1111/jse.12646"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Systematics and Evolution"
+      ],
+      "doi": [
+        "10.1111/jse.12646"
+      ]
+    }
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1111/jse.12646",
+    "citation": "Gaynor, M. L., Fu, C., Gao, L., Lu, L., Soltis, D. E., & Soltis, P. S. (2020). Biogeography and ecological niche evolution in Diapensiaceae inferred from phylogenetic analysis. Journal of Systematics and Evolution. <https://doi.org/10.1111/jse.12646>",
+    "parts": {
+      "author": [
+        {
+          "family": "Gaynor",
+          "given": "M.L."
+        },
+        {
+          "family": "Fu",
+          "given": "C."
+        },
+        {
+          "family": "Gao",
+          "given": "L."
+        },
+        {
+          "family": "Lu",
+          "given": "L."
+        },
+        {
+          "family": "Soltis",
+          "given": "D.E."
+        },
+        {
+          "family": "Soltis",
+          "given": "P.S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Biogeography and ecological niche evolution in Diapensiaceae inferred from phylogenetic analysis"
+      ],
+      "url": [
+        "https://doi.org/10.1111/jse.12646"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Systematics and Evolution"
+      ],
+      "doi": [
+        "10.1111/jse.12646"
+      ]
+    }
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1080/15481603.2020.1773012",
+    "citation": "Liu, L., Huang, J., Xiong, Q., Zhang, H., Song, P., Huang, Y., … Wang, X. (2020). Optimal MODIS data processing for accurate multi-year paddy rice area mapping in China. GIScience & Remote Sensing, 57(5), 687–703. <https://doi.org/10.1080/15481603.2020.1773012>",
+    "parts": {
+      "author": [
+        {
+          "family": "Liu",
+          "given": "L."
+        },
+        {
+          "family": "Huang",
+          "given": "J."
+        },
+        {
+          "family": "Xiong",
+          "given": "Q."
+        },
+        {
+          "family": "Zhang",
+          "given": "H."
+        },
+        {
+          "family": "Song",
+          "given": "P."
+        },
+        {
+          "family": "Huang",
+          "given": "Y."
+        },
+        {
+          "family": "Wang",
+          "given": "X."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Optimal MODIS data processing for accurate multi-year paddy rice area mapping in China"
+      ],
+      "volume": [
+        "57"
+      ],
+      "pages": [
+        "687–703"
+      ],
+      "url": [
+        "https://doi.org/10.1080/15481603.2020.1773012"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "GIScience & Remote Sensing"
+      ],
+      "issue": [
+        "5"
+      ],
+      "doi": [
+        "10.1080/15481603.2020.1773012"
+      ]
+    }
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1038/s41598-020-66400-3",
+    "citation": "Estrada-Peña, A., Nava, S., Tarragona, E., de la Fuente, J., & Guglielmone, A. A. (2020). A community approach to the Neotropical ticks-hosts interactions. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-66400-3>",
+    "parts": {
+      "author": [
+        {
+          "family": "Estrada-Peña",
+          "given": "A."
+        },
+        {
+          "family": "Nava",
+          "given": "S."
+        },
+        {
+          "family": "Tarragona",
+          "given": "E."
+        },
+        {
+          "family": "Fuente",
+          "given": "J.",
+          "particle": "de la"
+        },
+        {
+          "family": "Guglielmone",
+          "given": "A.A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "A community approach to the Neotropical ticks-hosts interactions"
+      ],
+      "volume": [
+        "10"
+      ],
+      "url": [
+        "https://doi.org/10.1038/s41598-020-66400-3"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1038/s41598-020-66400-3"
+      ]
+    }
+  },
+  {
+    "name": "MODISTools",
+    "citation": "Trinka, J., Haghbin, H., & Maadooliat, M. (2020). Multivariate Functional Singular Spectrum Analysis Over Different Dimensional Domains. arXiv preprint arXiv:2006.03933. <https://arxiv.org/pdf/2006.03933>",
+    "parts": {
+      "author": [
+        {
+          "family": "Trinka",
+          "given": "J."
+        },
+        {
+          "family": "Haghbin",
+          "given": "H."
+        },
+        {
+          "family": "Maadooliat",
+          "given": "M."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Multivariate Functional Singular Spectrum Analysis Over Different Dimensional Domains"
+      ],
+      "note": [
+        "arXiv preprint arXiv:2006.03933."
+      ],
+      "url": [
+        "https://arxiv.org/pdf/2006.03933"
+      ],
+      "arxiv": [
+        "2006.03933"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "skimr",
+    "doi": "10.1021/acs.jchemed.9b00975",
+    "citation": "McKnelly, K. J., Howitz, W. J., Lam, S., & Link, R. D. (2020). Extraction on Paper Activity: An Active Learning Technique to Facilitate Student Understanding of Liquid–Liquid Extraction. Journal of Chemical Education, 97(7), 1960–1965. <https://doi.org/10.1021/acs.jchemed.9b00975>",
+    "parts": {
+      "author": [
+        {
+          "family": "McKnelly",
+          "given": "K.J."
+        },
+        {
+          "family": "Howitz",
+          "given": "W.J."
+        },
+        {
+          "family": "Lam",
+          "given": "S."
+        },
+        {
+          "family": "Link",
+          "given": "R.D."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Extraction on Paper Activity: An Active Learning Technique to Facilitate Student Understanding of Liquid–Liquid Extraction"
+      ],
+      "volume": [
+        "97"
+      ],
+      "pages": [
+        "1960–1965"
+      ],
+      "url": [
+        "https://doi.org/10.1021/acs.jchemed.9b00975"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Chemical Education"
+      ],
+      "issue": [
+        "7"
+      ],
+      "doi": [
+        "10.1021/acs.jchemed.9b00975"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "citation": "Davis, Z. (2020). Leaf the kids outdoors: approaches and enquiries in quantifying natural environments for health (Doctoral dissertation, University of British Columbia). <https://open.library.ubc.ca/collections/ubctheses/24/items/1.0391841>",
+    "parts": {
+      "author": [
+        {
+          "family": "Davis",
+          "given": "Z."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Leaf the kids outdoors: approaches and enquiries in quantifying natural environments for health"
+      ],
+      "genre": [
+        "(Doctoral dissertation,"
+      ],
+      "publisher": [
+        "University of British Columbia"
+      ],
+      "url": [
+        "https://open.library.ubc.ca/collections/ubctheses/24/items/1.0391841"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "treeio",
+    "doi": "10.1007/s11557-020-01587-3",
+    "citation": "Ordynets, A., Liebisch, R., Lysenko, L., Scherf, D., Volobuev, S., Saitta, A., … Langer, E. (2020). Morphologically similar but not closely related: the long-spored species of Subulicystidium (Trechisporales, Basidiomycota). Mycological Progress, 19(7), 691–703. <https://doi.org/10.1007/s11557-020-01587-3>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ordynets",
+          "given": "A."
+        },
+        {
+          "family": "Liebisch",
+          "given": "R."
+        },
+        {
+          "family": "Lysenko",
+          "given": "L."
+        },
+        {
+          "family": "Scherf",
+          "given": "D."
+        },
+        {
+          "family": "Volobuev",
+          "given": "S."
+        },
+        {
+          "family": "Saitta",
+          "given": "A."
+        },
+        {
+          "family": "Langer",
+          "given": "E."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Morphologically similar but not closely related: the long-spored species of Subulicystidium (Trechisporales, Basidiomycota"
+      ],
+      "volume": [
+        "19"
+      ],
+      "pages": [
+        "691–703"
+      ],
+      "url": [
+        "https://doi.org/10.1007/s11557-020-01587-3"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Mycological Progress"
+      ],
+      "issue": [
+        "7"
+      ],
+      "doi": [
+        "10.1007/s11557-020-01587-3"
+      ]
+    }
+  },
+  {
+    "name": "lingtypology",
+    "doi": "10.1075/sl.19020.ye",
+    "citation": "Ye, J. (2020). Independent and dependent possessive person forms. Studies in Language, 44(2), 363–406. <https://doi.org/10.1075/sl.19020.ye>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ye",
+          "given": "J."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Independent and dependent possessive person forms"
+      ],
+      "volume": [
+        "44"
+      ],
+      "pages": [
+        "363–406"
+      ],
+      "url": [
+        "https://doi.org/10.1075/sl.19020.ye"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Studies in Language"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1075/sl.19020.ye"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/gcb.15221",
+    "citation": "Monaco, C. J., Bradshaw, C. J. A., Booth, D. J., Gillanders, B. M., Schoeman, D. S., & Nagelkerken, I. (2020). Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change. Global Change Biology. <https://doi.org/10.1111/gcb.15221>",
+    "parts": {
+      "author": [
+        {
+          "family": "Monaco",
+          "given": "C.J."
+        },
+        {
+          "family": "Bradshaw",
+          "given": "C.J.A."
+        },
+        {
+          "family": "Booth",
+          "given": "D.J."
+        },
+        {
+          "family": "Gillanders",
+          "given": "B.M."
+        },
+        {
+          "family": "Schoeman",
+          "given": "D.S."
+        },
+        {
+          "family": "Nagelkerken",
+          "given": "I."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change"
+      ],
+      "note": [
+        "Global Change Biology. <https://doi.org/10.1111/gcb.15221>"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1111/gcb.15221",
+    "citation": "Monaco, C. J., Bradshaw, C. J. A., Booth, D. J., Gillanders, B. M., Schoeman, D. S., & Nagelkerken, I. (2020). Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change. Global Change Biology. <https://doi.org/10.1111/gcb.15221>",
+    "parts": {
+      "author": [
+        {
+          "family": "Monaco",
+          "given": "C.J."
+        },
+        {
+          "family": "Bradshaw",
+          "given": "C.J.A."
+        },
+        {
+          "family": "Booth",
+          "given": "D.J."
+        },
+        {
+          "family": "Gillanders",
+          "given": "B.M."
+        },
+        {
+          "family": "Schoeman",
+          "given": "D.S."
+        },
+        {
+          "family": "Nagelkerken",
+          "given": "I."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Dietary generalism accelerates arrival and persistence of coral‐reef fishes in their novel ranges under climate change"
+      ],
+      "note": [
+        "Global Change Biology. <https://doi.org/10.1111/gcb.15221>"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "tesseract",
+    "doi": "10.1098/rspb.2020.0538",
+    "citation": "Tennant, W. S. D., Tildesley, M. J., Spencer, S. E. F., & Keeling, M. J. (2020). Climate drivers of plague epidemiology in British India, 1898–1949. Proceedings of the Royal Society B: Biological Sciences, 287(1928), 20200538. <https://doi.org/10.1098/rspb.2020.0538>",
+    "parts": {
+      "author": [
+        {
+          "family": "Tennant",
+          "given": "W.S.D."
+        },
+        {
+          "family": "Tildesley",
+          "given": "M.J."
+        },
+        {
+          "family": "Spencer",
+          "given": "S.E.F."
+        },
+        {
+          "family": "Keeling",
+          "given": "M.J."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Climate drivers of plague epidemiology in British India, 1898–1949"
+      ],
+      "volume": [
+        "287"
+      ],
+      "pages": [
+        "20200538"
+      ],
+      "url": [
+        "https://doi.org/10.1098/rspb.2020.0538"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Proceedings of the Royal Society B: Biological Sciences"
+      ],
+      "issue": [
+        "1928"
+      ],
+      "doi": [
+        "10.1098/rspb.2020.0538"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1088/2515-7620/ab9c33",
+    "citation": "Runge, C. A., Hausner, V. H., Daigle, R. M., & Monz, C. A. (2020). Pan-Arctic analysis of cultural ecosystem services using social media and automated content analysis. Environmental Research Communications, 2(7), 075001. <https://doi.org/10.1088/2515-7620/ab9c33>",
+    "parts": {
+      "author": [
+        {
+          "family": "Runge",
+          "given": "C.A."
+        },
+        {
+          "family": "Hausner",
+          "given": "V.H."
+        },
+        {
+          "family": "Daigle",
+          "given": "R.M."
+        },
+        {
+          "family": "Monz",
+          "given": "C.A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Pan-Arctic analysis of cultural ecosystem services using social media and automated content analysis"
+      ],
+      "volume": [
+        "2"
+      ],
+      "pages": [
+        "075001"
+      ],
+      "url": [
+        "https://doi.org/10.1088/2515-7620/ab9c33"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Environmental Research Communications"
+      ],
+      "issue": [
+        "7"
+      ],
+      "doi": [
+        "10.1088/2515-7620/ab9c33"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1371/journal.pntd.0008343",
+    "citation": "Swetnam, D. M., Stuart, J. B., Young, K., Maharaj, P. D., Fang, Y., Garcia, S., … Coffey, L. L. (2020). Movement of St. Louis encephalitis virus in the Western United States, 2014- 2018. PLOS Neglected Tropical Diseases, 14(6), e0008343. <https://doi.org/10.1371/journal.pntd.0008343>",
+    "parts": {
+      "author": [
+        {
+          "family": "Swetnam",
+          "given": "D.M."
+        },
+        {
+          "family": "Stuart",
+          "given": "J.B."
+        },
+        {
+          "family": "Young",
+          "given": "K."
+        },
+        {
+          "family": "Maharaj",
+          "given": "P.D."
+        },
+        {
+          "family": "Fang",
+          "given": "Y."
+        },
+        {
+          "family": "Garcia",
+          "given": "S."
+        },
+        {
+          "family": "Coffey",
+          "given": "L.L."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Movement of St. Louis encephalitis virus in the Western United States, 2014- 2018"
+      ],
+      "volume": [
+        "14"
+      ],
+      "pages": [
+        "0008343"
+      ],
+      "url": [
+        "https://doi.org/10.1371/journal.pntd.0008343"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "PLOS Neglected Tropical Diseases"
+      ],
+      "issue": [
+        "6"
+      ],
+      "doi": [
+        "10.1371/journal.pntd.0008343"
+      ]
+    }
+  },
+  {
+    "name": "rdhs",
+    "doi": "10.1126/science.abc0035",
+    "citation": "Walker, P. G. T., Whittaker, C., Watson, O. J., Baguelin, M., Winskill, P., Hamlet, A., … Ghani, A. C. (2020). The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries. Science, eabc0035. <https://doi.org/10.1126/science.abc0035>",
+    "parts": {
+      "author": [
+        {
+          "family": "Walker",
+          "given": "P.G.T."
+        },
+        {
+          "family": "Whittaker",
+          "given": "C."
+        },
+        {
+          "family": "Watson",
+          "given": "O.J."
+        },
+        {
+          "family": "Baguelin",
+          "given": "M."
+        },
+        {
+          "family": "Winskill",
+          "given": "P."
+        },
+        {
+          "family": "Hamlet",
+          "given": "A."
+        },
+        {
+          "family": "Ghani",
+          "given": "A.C."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries"
+      ],
+      "volume": [
+        "eabc0035"
+      ],
+      "url": [
+        "https://doi.org/10.1126/science.abc0035"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Science"
+      ],
+      "doi": [
+        "10.1126/science.abc0035"
+      ]
+    }
+  },
+  {
+    "name": "weathercan",
+    "citation": "McDonald, S. (2020). Applying Geographic Information Systems to the Study of Honey Bee Diseases and Pests (Doctoral dissertation). <https://dalspace.library.dal.ca/bitstream/handle/10222/79389/McDonald-Steven-MI-SIM-April-2020.pdf?sequence=4>",
+    "parts": {
+      "author": [
+        {
+          "family": "McDonald",
+          "given": "S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Applying Geographic Information Systems to the Study of Honey Bee Diseases and Pests"
+      ],
+      "genre": [
+        "(Doctoral dissertation)."
+      ],
+      "url": [
+        "https://dalspace.library.dal.ca/bitstream/handle/10222/79389/McDonald-Steven-MI-SIM-April-2020.pdf?sequence=4"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "hunspell",
+    "citation": "Ficcadenti, V., Cerqueti, R., Ausloos, M., & Dhesi, G. (2020). Words ranking and Hirsch index for identifying the core of the hapaxes in political texts. Journal of Informetrics, 14(3), 101054. <https://doi.org/10.1016/j.joi.2020.101054>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ficcadenti",
+          "given": "V."
+        },
+        {
+          "family": "Cerqueti",
+          "given": "R."
+        },
+        {
+          "family": "Ausloos",
+          "given": "M."
+        },
+        {
+          "family": "Dhesi",
+          "given": "G."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Words ranking and Hirsch index for identifying the core of the hapaxes in political texts"
+      ],
+      "volume": [
+        "14"
+      ],
+      "pages": [
+        "101054"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.joi.2020.101054"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Informetrics"
+      ],
+      "issue": [
+        "3"
+      ],
+      "doi": [
+        "10.1016/j.joi.2020.101054"
+      ]
+    }
+  },
+  {
+    "name": "rcites",
+    "citation": "Hierink, F., Bolon, I., Durso, A. M., Ruiz de Castañeda, R., Zambrana-Torrelio, C., Eskew, E. A., & Ray, N. (2020). Forty-four years of global trade in CITES-listed snakes: Trends and implications for conservation and public health. Biological Conservation, 248, 108601. <https://doi.org/10.1016/j.biocon.2020.108601>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hierink",
+          "given": "F."
+        },
+        {
+          "family": "Bolon",
+          "given": "I."
+        },
+        {
+          "family": "Durso",
+          "given": "A.M."
+        },
+        {
+          "family": "Castañeda",
+          "given": "R.",
+          "particle": "Ruiz de"
+        },
+        {
+          "family": "Zambrana-Torrelio",
+          "given": "C."
+        },
+        {
+          "family": "Eskew",
+          "given": "E.A."
+        },
+        {
+          "family": "Ray",
+          "given": "N."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Forty-four years of global trade in CITES-listed snakes: Trends and implications for conservation and public health"
+      ],
+      "volume": [
+        "248"
+      ],
+      "pages": [
+        "108601"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.biocon.2020.108601"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Biological Conservation"
+      ],
+      "doi": [
+        "10.1016/j.biocon.2020.108601"
+      ]
+    }
+  },
+  {
+    "name": "citesdb",
+    "citation": "Hierink, F., Bolon, I., Durso, A. M., Ruiz de Castañeda, R., Zambrana-Torrelio, C., Eskew, E. A., & Ray, N. (2020). Forty-four years of global trade in CITES-listed snakes: Trends and implications for conservation and public health. Biological Conservation, 248, 108601. <https://doi.org/10.1016/j.biocon.2020.108601>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hierink",
+          "given": "F."
+        },
+        {
+          "family": "Bolon",
+          "given": "I."
+        },
+        {
+          "family": "Durso",
+          "given": "A.M."
+        },
+        {
+          "family": "Castañeda",
+          "given": "R.",
+          "particle": "Ruiz de"
+        },
+        {
+          "family": "Zambrana-Torrelio",
+          "given": "C."
+        },
+        {
+          "family": "Eskew",
+          "given": "E.A."
+        },
+        {
+          "family": "Ray",
+          "given": "N."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Forty-four years of global trade in CITES-listed snakes: Trends and implications for conservation and public health"
+      ],
+      "volume": [
+        "248"
+      ],
+      "pages": [
+        "108601"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.biocon.2020.108601"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Biological Conservation"
+      ],
+      "doi": [
+        "10.1016/j.biocon.2020.108601"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "citation": "Pal Negi, A., Singh, R., Sharma, A., & Negi, V. S. (2020). Insights into high mobility group A (HMGA) proteins from Poaceae family: An in silico approach for studying homologs. Computational Biology and Chemistry, 87, 107306. <https://doi.org/10.1016/j.compbiolchem.2020.107306>",
+    "parts": {
+      "author": [
+        {
+          "family": "Pal Negi",
+          "given": "A."
+        },
+        {
+          "family": "Singh",
+          "given": "R."
+        },
+        {
+          "family": "Sharma",
+          "given": "A."
+        },
+        {
+          "family": "Negi",
+          "given": "V.S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Insights into high mobility group A (HMGA) proteins from Poaceae family: An in silico approach for studying homologs"
+      ],
+      "volume": [
+        "87"
+      ],
+      "pages": [
+        "107306"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.compbiolchem.2020.107306"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Computational Biology and Chemistry"
+      ],
+      "doi": [
+        "10.1016/j.compbiolchem.2020.107306"
+      ]
+    }
+  },
+  {
+    "name": "rtweet",
+    "citation": "Puerta, P., Laguna, L., Vidal, L., Ares, G., Fiszman, S., & Tárrega, A. (2020). Co-occurrence networks of Twitter content after manual or automatic processing. A case-study on “gluten-free.” Food Quality and Preference, 86, 103993. <https://doi.org/10.1016/j.foodqual.2020.103993>",
+    "parts": {
+      "author": [
+        {
+          "family": "Puerta",
+          "given": "P."
+        },
+        {
+          "family": "Laguna",
+          "given": "L."
+        },
+        {
+          "family": "Vidal",
+          "given": "L."
+        },
+        {
+          "family": "Ares",
+          "given": "G."
+        },
+        {
+          "family": "Fiszman",
+          "given": "S."
+        },
+        {
+          "family": "Tárrega",
+          "given": "A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Co-occurrence networks of Twitter content after manual or automatic processing. A case-study on “gluten-free"
+      ],
+      "volume": [
+        "86"
+      ],
+      "pages": [
+        "103993"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.foodqual.2020.103993"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Food Quality and Preference"
+      ],
+      "doi": [
+        "10.1016/j.foodqual.2020.103993"
+      ]
+    }
   }
 ]
