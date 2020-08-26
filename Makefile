@@ -21,5 +21,8 @@ json:
 append_parts: json
 	ruby src/append_parts.rb
 
+clean_up:
+	${RSCRIPT} -e "source('src/clean_up.R')"
+
 add_images:
 	${RSCRIPT} -e "source('src/add_images.R')"

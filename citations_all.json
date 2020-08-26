@@ -2,387 +2,387 @@
   {
     "name": "rgbif",
     "doi": "10.1093/biosci/biw022",
-    "citation": "Amano, T., Lamming, J. D. L., & Sutherland, W. J. (2016). Spatial Gaps in Global Biodiversity Information and the Role of Citizen Science. BioScience, 66(5), 393–400. doi:10.1093/biosci/biw022"
+    "citation": "Amano, T., Lamming, J. D. L., & Sutherland, W. J. (2016). Spatial Gaps in Global Biodiversity Information and the Role of Citizen Science. BioScience, 66(5), 393–400. <https://doi.org/10.1093/biosci/biw022>"
   },
   {
     "name": "taxize",
     "doi": "10.1017/s0960428615000256",
-    "citation": "Baden, H. M., Särkinen, T., Conde, D. A., Matthews, A. C., Vandrot, H., Chicas, S., … Harris, D. J. (2015). A BOTANICAL INVENTORY OF FOREST ON KARSTIC LIMESTONE AND METAMORPHIC SUBSTRATE IN THE CHIQUIBUL FOREST, BELIZE, WITH FOCUS ON WOODY TAXA. Edinburgh Journal of Botany, 73(01), 39–81. doi:10.1017/s0960428615000256"
+    "citation": "Baden, H. M., Särkinen, T., Conde, D. A., Matthews, A. C., Vandrot, H., Chicas, S., … Harris, D. J. (2015). A BOTANICAL INVENTORY OF FOREST ON KARSTIC LIMESTONE AND METAMORPHIC SUBSTRATE IN THE CHIQUIBUL FOREST, BELIZE, WITH FOCUS ON WOODY TAXA. Edinburgh Journal of Botany, 73(01), 39–81. <https://doi.org/10.1017/s0960428615000256>"
   },
   {
     "name": "Reol",
     "doi": "10.1002/ece3.1109",
-    "citation": "Banbury, B. L., & O’Meara, B. C. (2014). Reol: R interface to the Encyclopedia of Life. Ecology and Evolution, 4(12), 2577–2583. doi:10.1002/ece3.1109"
+    "citation": "Banbury, B. L., & O’Meara, B. C. (2014). Reol: R interface to the Encyclopedia of Life. Ecology and Evolution, 4(12), 2577–2583. <https://doi.org/10.1002/ece3.1109>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/ele.12170",
-    "citation": "Bartomeus, I., Park, M. G., Gibbs, J., Danforth, B. N., Lakso, A. N., & Winfree, R. (2013). Biodiversity ensures plant-pollinator phenological synchrony against climate change. Ecol Lett, 16(11), 1331–1338. doi:10.1111/ele.12170"
+    "citation": "Bartomeus, I., Park, M. G., Gibbs, J., Danforth, B. N., Lakso, A. N., & Winfree, R. (2013). Biodiversity ensures plant-pollinator phenological synchrony against climate change. Ecol Lett, 16(11), 1331–1338. <https://doi.org/10.1111/ele.12170>"
   },
   {
     "name": "rgbif",
     "doi": "10.1016/j.ecoinf.2014.08.008",
-    "citation": "Barve, V. (2014). Discovering and developing primary biodiversity data from social networking sites: A novel approach. Ecological Informatics, 24, 194–199. doi:10.1016/j.ecoinf.2014.08.008"
+    "citation": "Barve, V. (2014). Discovering and developing primary biodiversity data from social networking sites: A novel approach. Ecological Informatics, 24, 194–199. <https://doi.org/10.1016/j.ecoinf.2014.08.008>"
   },
   {
     "name": "taxize",
     "doi": "10.1016/j.ecoinf.2015.05.004",
-    "citation": "Vanden Berghe, E., Coro, G., Bailly, N., Fiorellato, F., Aldemita, C., Ellenbroek, A., & Pagano, P. (2015). Retrieving taxa names from large biodiversity data collections using a flexible matching workflow. Ecological Informatics, 28, 29–41. doi:10.1016/j.ecoinf.2015.05.004"
+    "citation": "Vanden Berghe, E., Coro, G., Bailly, N., Fiorellato, F., Aldemita, C., Ellenbroek, A., & Pagano, P. (2015). Retrieving taxa names from large biodiversity data collections using a flexible matching workflow. Ecological Informatics, 28, 29–41. <https://doi.org/10.1016/j.ecoinf.2015.05.004>"
   },
   {
     "name": "taxize",
     "doi": "10.1111/2041-210x.12327",
-    "citation": "Bocci, G. (2015). TR8: an R package for easily retrieving plant species traits. Methods in Ecology and Evolution, 6(3), 347–350. doi:10.1111/2041-210x.12327"
+    "citation": "Bocci, G. (2015). TR8: an R package for easily retrieving plant species traits. Methods in Ecology and Evolution, 6(3), 347–350. <https://doi.org/10.1111/2041-210x.12327>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/nph.13572",
-    "citation": "Bone, R. E., Smith, J. A. C., Arrigo, N., & Buerki, S. (2015). A macro-ecological perspective on crassulacean acid metabolism (CAM) photosynthesis evolution in Afro-Madagascan drylands: Eulophiinae orchids as a case study. New Phytol, 208(2), 469–481. doi:10.1111/nph.13572"
+    "citation": "Bone, R. E., Smith, J. A. C., Arrigo, N., & Buerki, S. (2015). A macro-ecological perspective on crassulacean acid metabolism (CAM) photosynthesis evolution in Afro-Madagascan drylands: Eulophiinae orchids as a case study. New Phytol, 208(2), 469–481. <https://doi.org/10.1111/nph.13572>"
   },
   {
     "name": "rnoaa",
     "doi": "10.1016/j.cageo.2015.02.013",
-    "citation": "Bowman, D. C., & Lees, J. M. (2015). Near real time weather and ocean model data access with rNOMADS. Computers & Geosciences, 78, 88–95. doi:10.1016/j.cageo.2015.02.013"
+    "citation": "Bowman, D. C., & Lees, J. M. (2015). Near real time weather and ocean model data access with rNOMADS. Computers & Geosciences, 78, 88–95. <https://doi.org/10.1016/j.cageo.2015.02.013>"
   },
   {
     "name": "taxize",
     "doi": "10.1007/s10530-015-0970-8",
-    "citation": "Bradie, J., Pietrobon, A., & Leung, B. (2015). Beyond species-specific assessments: an analysis and validation of environmental distance metrics for non-indigenous species risk assessment. Biological Invasions, 17(12), 3455–3465. doi:10.1007/s10530-015-0970-8"
+    "citation": "Bradie, J., Pietrobon, A., & Leung, B. (2015). Beyond species-specific assessments: an analysis and validation of environmental distance metrics for non-indigenous species risk assessment. Biological Invasions, 17(12), 3455–3465. <https://doi.org/10.1007/s10530-015-0970-8>"
   },
   {
     "name": "rgbif",
     "doi": "10.3897/bdj.3.e4162",
-    "citation": "Collins, R., Duarte Ribeiro, E., Nogueira Machado, V., Hrbek, T., & Farias, I. (2015). A preliminary inventory of the catfishes of the lower Rio Nhamundá, Brazil (Ostariophysi, Siluriformes). Biodiversity Data Journal, 3, e4162. doi:10.3897/bdj.3.e4162"
+    "citation": "Collins, R., Duarte Ribeiro, E., Nogueira Machado, V., Hrbek, T., & Farias, I. (2015). A preliminary inventory of the catfishes of the lower Rio Nhamundá, Brazil (Ostariophysi, Siluriformes). Biodiversity Data Journal, 3, e4162. <https://doi.org/10.3897/bdj.3.e4162>"
   },
   {
     "name": "helminthR",
     "doi": "10.1038/srep13185",
-    "citation": "Dallas, T., & Cornelius, E. (2015). Co-extinction in a host-parasite network: identifying key hosts for network stability. Scientific Reports, 5, 13185. doi:10.1038/srep13185"
+    "citation": "Dallas, T., & Cornelius, E. (2015). Co-extinction in a host-parasite network: identifying key hosts for network stability. Scientific Reports, 5, 13185. <https://doi.org/10.1038/srep13185>"
   },
   {
     "name": "taxize",
     "doi": "10.1111/ddi.12351",
-    "citation": "Dodd, A. J., Burgman, M. A., McCarthy, M. A., & Ainsworth, N. (2015). The changing patterns of plant naturalization in Australia. Diversity Distrib., 21(9), 1038–1050. doi:10.1111/ddi.12351"
+    "citation": "Dodd, A. J., Burgman, M. A., McCarthy, M. A., & Ainsworth, N. (2015). The changing patterns of plant naturalization in Australia. Diversity Distrib., 21(9), 1038–1050. <https://doi.org/10.1111/ddi.12351>"
   },
   {
     "name": "rgbif",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rdryad",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rfisheries",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "RMendeley",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "treeBASE",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rfishbase",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "taxize",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rsnsps",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rvertnet",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rentrez",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). doi:10.2478/cszma-2013-0004"
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1016/j.aquaculture.2016.04.018",
-    "citation": "Froehlich, H. E., Gentry, R. R., & Halpern, B. S. (2016). Synthesis and comparative analysis of physiological tolerance and life-history growth traits of marine aquaculture species. Aquaculture, 460, 75–82. doi:10.1016/j.aquaculture.2016.04.018"
+    "citation": "Froehlich, H. E., Gentry, R. R., & Halpern, B. S. (2016). Synthesis and comparative analysis of physiological tolerance and life-history growth traits of marine aquaculture species. Aquaculture, 460, 75–82. <https://doi.org/10.1016/j.aquaculture.2016.04.018>"
   },
   {
     "name": "taxize",
     "doi": "10.12688/f1000research.2-191.v1",
-    "citation": "Chamberlain, S. A., & Szöcs, E. (2013). taxize: taxonomic search and retrieval in R. F1000Res. doi:10.12688/f1000research.2-191.v1"
+    "citation": "Chamberlain, S. A., & Szöcs, E. (2013). taxize: taxonomic search and retrieval in R. F1000Research, 2, 191. <https://doi.org/10.12688/f1000research.2-191.v1>"
   },
   {
     "name": "rplos",
     "doi": "10.7717/peerj.1935",
-    "citation": "Hartgerink, C. H. J., van Aert, R. C. M., Nuijten, M. B., Wicherts, J. M., & van Assen, M. A. L. M. (2016). Distributions ofp-values smaller than .05 in psychology: what is going on? PeerJ, 4, e1935. doi:10.7717/peerj.1935"
+    "citation": "Hartgerink, C. H. J., van Aert, R. C. M., Nuijten, M. B., Wicherts, J. M., & van Assen, M. A. L. M. (2016). Distributions ofp-values smaller than .05 in psychology: what is going on? PeerJ, 4, e1935. <https://doi.org/10.7717/peerj.1935>"
   },
   {
     "name": "taxize",
     "doi": "10.1111/mec.13026",
-    "citation": "Hodgins, K. A., Bock, D. G., Hahn, M. A., Heredia, S. M., Turner, K. G., & Rieseberg, L. H. (2015). Comparative genomics in the Asteraceae reveals little evidence for parallel evolutionary change in invasive taxa. Mol Ecol, 24(9), 2226–2240. doi:10.1111/mec.13026"
+    "citation": "Hodgins, K. A., Bock, D. G., Hahn, M. A., Heredia, S. M., Turner, K. G., & Rieseberg, L. H. (2015). Comparative genomics in the Asteraceae reveals little evidence for parallel evolutionary change in invasive taxa. Mol Ecol, 24(9), 2226–2240. <https://doi.org/10.1111/mec.13026>"
   },
   {
     "name": "ropensci",
     "doi": "10.1890/es14-00198.1",
-    "citation": "Jørgensen, P. S., Barraquand, F., Bonhomme, V., Curran, T. J., Cieraad, E., Ezard, T. G., … Zimmerman, N. (2015). Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond. Ecosphere, 6(4), art68. doi:10.1890/es14-00198.1"
+    "citation": "Jørgensen, P. S., Barraquand, F., Bonhomme, V., Curran, T. J., Cieraad, E., Ezard, T. G., … Zimmerman, N. (2015). Connecting people and ideas from around the world: global innovation platforms for next-generation ecology and beyond. Ecosphere, 6(4), art68. <https://doi.org/10.1890/es14-00198.1>"
   },
   {
     "name": "rgbif",
     "doi": "10.1371/journal.pone.0128295",
-    "citation": "Kong, X., Huang, M., & Duan, R. (2015). SDMdata: A Web-Based Software Tool for Collecting Species Occurrence Records. PLoS ONE, 10(6), e0128295. doi:10.1371/journal.pone.0128295"
+    "citation": "Kong, X., Huang, M., & Duan, R. (2015). SDMdata: A Web-Based Software Tool for Collecting Species Occurrence Records. PLoS ONE, 10(6), e0128295. <https://doi.org/10.1371/journal.pone.0128295>"
   },
   {
     "name": "taxize",
     "doi": "10.1186/s40709-015-0032-5",
-    "citation": "Lapatas, V., Stefanidakis, M., Jimenez, R. C., Via, A., & Schneider, M. V. (2015). Data integration in biological research: an overview. J of Biol Res-Thessaloniki, 22(1). doi:10.1186/s40709-015-0032-5"
+    "citation": "Lapatas, V., Stefanidakis, M., Jimenez, R. C., Via, A., & Schneider, M. V. (2015). Data integration in biological research: an overview. J of Biol Res-Thessaloniki, 22(1). <https://doi.org/10.1186/s40709-015-0032-5>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1126/science.aab0800",
-    "citation": "McGee, M. D., Borstein, S. R., Neches, R. Y., Buescher, H. H., Seehausen, O., & Wainwright, P. C. (2015). A pharyngeal jaw evolutionary innovation facilitated extinction in Lake Victoria cichlids. Science, 350(6264), 1077–1079. doi:10.1126/science.aab0800"
+    "citation": "McGee, M. D., Borstein, S. R., Neches, R. Y., Buescher, H. H., Seehausen, O., & Wainwright, P. C. (2015). A pharyngeal jaw evolutionary innovation facilitated extinction in Lake Victoria cichlids. Science, 350(6264), 1077–1079. <https://doi.org/10.1126/science.aab0800>"
   },
   {
     "name": "ropensci",
     "doi": "10.1080/07317131.2015.1059681",
-    "citation": "Mitchell, E. T. (2015). Reproducibility and Its Application to Technical Service Processes. Technical Services Quarterly, 32(4), 402–413. doi:10.1080/07317131.2015.1059681"
+    "citation": "Mitchell, E. T. (2015). Reproducibility and Its Application to Technical Service Processes. Technical Services Quarterly, 32(4), 402–413. <https://doi.org/10.1080/07317131.2015.1059681>"
   },
   {
     "name": "taxize",
     "doi": "10.1111/2041-210x.12600",
-    "citation": "Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). camtrapR: an R package for efficient camera trap data management. Methods in Ecology and Evolution. doi:10.1111/2041-210x.12600"
+    "citation": "Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). camtrapR: an R package for efficient camera trap data management. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.12600>"
   },
   {
     "name": "taxize",
     "doi": "10.1002/pca.2520",
-    "citation": "Ningthoujam, S. S., Choudhury, M. D., Potsangbam, K. S., Chetia, P., Nahar, L., Sarker, S. D., … Talukdar, A. D. (2014). NoSQL Data Model for Semi-automatic Integration of Ethnomedicinal Plant Data from Multiple Sources. Phytochemical Analysis, 25(6), 495–507. doi:10.1002/pca.2520"
+    "citation": "Ningthoujam, S. S., Choudhury, M. D., Potsangbam, K. S., Chetia, P., Nahar, L., Sarker, S. D., … Talukdar, A. D. (2014). NoSQL Data Model for Semi-automatic Integration of Ethnomedicinal Plant Data from Multiple Sources. Phytochemical Analysis, 25(6), 495–507. <https://doi.org/10.1002/pca.2520>"
   },
   {
     "name": "taxize",
     "doi": "10.3897/zookeys.552.6934",
-    "citation": "Pérez-Luque, A. J., Barea-Azcón, J. M., Álvarez-Ruiz, L., Bonet-García, F. J., & Zamora, R. (2016). Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain). ZK, 552, 137–154. doi:10.3897/zookeys.552.6934"
+    "citation": "Pérez-Luque, A. J., Barea-Azcón, J. M., Álvarez-Ruiz, L., Bonet-García, F. J., & Zamora, R. (2016). Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain). ZK, 552, 137–154. <https://doi.org/10.3897/zookeys.552.6934>"
   },
   {
     "name": "rbrefdata",
     "doi": "10.1002/ece3.1547",
-    "citation": "Pfaff, C.-T., König-Ries, B., Lang, A. C., Ratcliffe, S., Wirth, C., Man, X., & Nadrowski, K. (2015). rBEFdata: documenting data exchange and analysis for a collaborative data management platform. Ecology and Evolution, 5(14), 2890–2897. doi:10.1002/ece3.1547"
+    "citation": "Pfaff, C.-T., König-Ries, B., Lang, A. C., Ratcliffe, S., Wirth, C., Man, X., & Nadrowski, K. (2015). rBEFdata: documenting data exchange and analysis for a collaborative data management platform. Ecology and Evolution, 5(14), 2890–2897. <https://doi.org/10.1002/ece3.1547>"
   },
   {
     "name": "AntWeb",
     "doi": "10.1111/een.12306",
-    "citation": "PIE, M. R. (2016). The macroevolution of climatic niches and its role in ant diversification. Ecological Entomology, 41(3), 301–307. doi:10.1111/een.12306"
+    "citation": "PIE, M. R. (2016). The macroevolution of climatic niches and its role in ant diversification. Ecological Entomology, 41(3), 301–307. <https://doi.org/10.1111/een.12306>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1007/s11538-016-0143-7",
-    "citation": "Plank, M. J., Pitchford, J. W., & James, A. (2016). Evolutionarily Stable Strategies for Fecundity and Swimming Speed of Fish. Bull Math Biol, 78(2), 280–292. doi:10.1007/s11538-016-0143-7"
+    "citation": "Plank, M. J., Pitchford, J. W., & James, A. (2016). Evolutionarily Stable Strategies for Fecundity and Swimming Speed of Fish. Bull Math Biol, 78(2), 280–292. <https://doi.org/10.1007/s11538-016-0143-7>"
   },
   {
     "name": "taxize",
     "doi": "10.4033/iee.2015.8.8.f",
-    "citation": "Poisot, T. (2015). Best publishing practices to improve user confidence in scientific software. IEE, 8. doi:10.4033/iee.2015.8.8.f"
+    "citation": "Poisot, T. (2015). Best publishing practices to improve user confidence in scientific software. IEE, 8. <https://doi.org/10.4033/iee.2015.8.8.f>"
   },
   {
     "name": "ropensci",
     "doi": "10.1002/ece3.508",
-    "citation": "Poisot, T., Péquin, B., & Gravel, D. (2013). High-Throughput Sequencing: A Roadmap Toward Community Ecology. Ecology and Evolution, 3(4), 1125–1139. doi:10.1002/ece3.508"
+    "citation": "Poisot, T., Péquin, B., & Gravel, D. (2013). High-Throughput Sequencing: A Roadmap Toward Community Ecology. Ecology and Evolution, 3(4), 1125–1139. <https://doi.org/10.1002/ece3.508>"
   },
   {
     "name": "taxize",
     "doi": "10.1002/ece3.1246",
-    "citation": "Pos, E., Guevara Andino, J. E., Sabatier, D., Molino, J.-F., Pitman, N., Mogollón, H., … ter Steege, H. (2014). Are all species necessary to reveal ecologically important patterns? Ecology and Evolution, 4(24), 4626–4636. doi:10.1002/ece3.1246"
+    "citation": "Pos, E., Guevara Andino, J. E., Sabatier, D., Molino, J.-F., Pitman, N., Mogollón, H., … ter Steege, H. (2014). Are all species necessary to reveal ecologically important patterns? Ecology and Evolution, 4(24), 4626–4636. <https://doi.org/10.1002/ece3.1246>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1098/rspb.2015.1428",
-    "citation": "Price, S. A., Friedman, S. T., & Wainwright, P. C. (2015). How predation shaped fish: the impact of fin spines on body form evolution across teleosts. Proc. R. Soc. B, 282(1819), 20151428. doi:10.1098/rspb.2015.1428"
+    "citation": "Price, S. A., Friedman, S. T., & Wainwright, P. C. (2015). How predation shaped fish: the impact of fin spines on body form evolution across teleosts. Proc. R. Soc. B, 282(1819), 20151428. <https://doi.org/10.1098/rspb.2015.1428>"
   },
   {
     "name": "rgbif",
     "doi": "10.2989/20702620.2014.999305",
-    "citation": "Richardson, D. M., Le Roux, J. J., & Wilson, J. R. (2015). Australian acacias as invasive species: lessons to be learnt from regions with long planting histories. Southern Forests: a Journal of Forest Science, 77(1), 31–39. doi:10.2989/20702620.2014.999305"
+    "citation": "Richardson, D. M., Le Roux, J. J., & Wilson, J. R. (2015). Australian acacias as invasive species: lessons to be learnt from regions with long planting histories. Southern Forests: a Journal of Forest Science, 77(1), 31–39. <https://doi.org/10.2989/20702620.2014.999305>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1111/ecog.01348",
-    "citation": "Sagouis, A., Cucherousset, J., Villéger, S., Santoul, F., & Boulêtreau, S. (2015). Non-native species modify the isotopic structure of freshwater fish communities across the globe. Ecography, 38(10), 979–985. doi:10.1111/ecog.01348"
+    "citation": "Sagouis, A., Cucherousset, J., Villéger, S., Santoul, F., & Boulêtreau, S. (2015). Non-native species modify the isotopic structure of freshwater fish communities across the globe. Ecography, 38(10), 979–985. <https://doi.org/10.1111/ecog.01348>"
   },
   {
     "name": "rgbif",
     "doi": "10.1002/ece3.1599",
-    "citation": "Turner, K. G., Fréville, H., & Rieseberg, L. H. (2015). Adaptive plasticity and niche expansion in an invasive thistle. Ecology and Evolution, 5(15), 3183–3197. doi:10.1002/ece3.1599"
+    "citation": "Turner, K. G., Fréville, H., & Rieseberg, L. H. (2015). Adaptive plasticity and niche expansion in an invasive thistle. Ecology and Evolution, 5(15), 3183–3197. <https://doi.org/10.1002/ece3.1599>"
   },
   {
     "name": "ropensci",
     "doi": "10.3390/jmse3041448",
-    "citation": "Vandepitte, L., Vanhoorne, B., Decock, W., Dekeyzer, S., Trias Verbeeck, A., Bovit, L., … Mees, J. (2015). How Aphia—The Platform behind Several Online and Taxonomically Oriented Databases—Can Serve Both the Taxonomic Community and the Field of Biodiversity Informatics. Journal of Marine Science and Engineering, 3(4), 1448–1473. doi:10.3390/jmse3041448"
+    "citation": "Vandepitte, L., Vanhoorne, B., Decock, W., Dekeyzer, S., Trias Verbeeck, A., Bovit, L., … Mees, J. (2015). How Aphia—The Platform behind Several Online and Taxonomically Oriented Databases—Can Serve Both the Taxonomic Community and the Field of Biodiversity Informatics. Journal of Marine Science and Engineering, 3(4), 1448–1473. <https://doi.org/10.3390/jmse3041448>"
   },
   {
     "name": "paleobioDB",
     "doi": "10.1111/ecog.01154",
-    "citation": "Varela, S., González-Hernández, J., Sgarbi, L. F., Marshall, C., Uhen, M. D., Peters, S., & McClennen, M. (2014). paleobioDB: an R package for downloading, visualizing and processing data from the Paleobiology Database. Ecography, 38(4), 419–425. doi:10.1111/ecog.01154"
+    "citation": "Varela, S., González-Hernández, J., Sgarbi, L. F., Marshall, C., Uhen, M. D., Peters, S., & McClennen, M. (2014). paleobioDB: an R package for downloading, visualizing and processing data from the Paleobiology Database. Ecography, 38(4), 419–425. <https://doi.org/10.1111/ecog.01154>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/nph.13623",
-    "citation": "Verheijen, L. M., Aerts, R., Bönisch, G., Kattge, J., & Van Bodegom, P. M. (2015). Variation in trait trade-offs allows differentiation among predefined plant functional types: implications for predictive ecology. New Phytol, 209(2), 563–575. doi:10.1111/nph.13623"
+    "citation": "Verheijen, L. M., Aerts, R., Bönisch, G., Kattge, J., & Van Bodegom, P. M. (2015). Variation in trait trade-offs allows differentiation among predefined plant functional types: implications for predictive ecology. New Phytol, 209(2), 563–575. <https://doi.org/10.1111/nph.13623>"
   },
   {
     "name": "rplos",
     "doi": "10.4033/iee.2015.8.9.c",
-    "citation": "White, E. (2015). Some thoughts on best publishing practices for scientific software. IEE, 8. doi:10.4033/iee.2015.8.9.c"
+    "citation": "White, E. (2015). Some thoughts on best publishing practices for scientific software. IEE, 8. <https://doi.org/10.4033/iee.2015.8.9.c>"
   },
   {
     "name": "rgbif",
     "doi": "10.1101/032755",
-    "citation": "Zizka, A., & Antonelli, A. (2015). speciesgeocodeR: An R package for linking species occurrences, user-defined regions and phylogenetic trees for biogeography, ecology and evolution. doi:10.1101/032755"
+    "citation": "Zizka, A., & Antonelli, A. (2015). speciesgeocodeR: An R package for linking species occurrences, user-defined regions and phylogenetic trees for biogeography, ecology and evolution. <https://doi.org/10.1101/032755>"
   },
   {
     "name": "plotly",
     "doi": "10.1161/circinterventions.115.002569",
-    "citation": "Rothman, A. M. K., Arnold, N. D., Chang, W., Watson, O., Swift, A. J., Condliffe, R., … Lawrie, A. (2015). Pulmonary Artery Denervation Reduces Pulmonary Artery Pressure and Induces Histological Changes in an Acute Porcine Model of Pulmonary Hypertension. Circulation: Cardiovascular Interventions, 8(11), e002569–e002569. doi:10.1161/circinterventions.115.002569"
+    "citation": "Rothman, A. M. K., Arnold, N. D., Chang, W., Watson, O., Swift, A. J., Condliffe, R., … Lawrie, A. (2015). Pulmonary Artery Denervation Reduces Pulmonary Artery Pressure and Induces Histological Changes in an Acute Porcine Model of Pulmonary Hypertension. Circulation: Cardiovascular Interventions, 8(11), e002569–e002569. <https://doi.org/10.1161/circinterventions.115.002569>"
   },
   {
     "name": "taxize",
     "doi": "10.1890/15-1397.1",
-    "citation": "Bachelot, B., Uriarte, M., Zimmerman, J. K., Thompson, J., Leff, J. W., Asiaii, A., … McGuire, K. (2016). Long-lasting effects of land use history on soil fungal communities in second-growth tropical rain forests. Ecol Appl. doi:10.1890/15-1397.1"
+    "citation": "Bachelot, B., Uriarte, M., Zimmerman, J. K., Thompson, J., Leff, J. W., Asiaii, A., … McGuire, K. (2016). Long-lasting effects of land use history on soil fungal communities in second-growth tropical rain forests. Ecol Appl. <https://doi.org/10.1890/15-1397.1>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1111/zsc.12098",
-    "citation": "Boeger, W. A., Marteleto, F. M., Zagonel, L., & Braga, M. P. (2014). Tracking the history of an invasion: the freshwater croakers (Teleostei: Sciaenidae) in South America. Zool Scr, 44(3), 250–262. doi:10.1111/zsc.12098"
+    "citation": "Boeger, W. A., Marteleto, F. M., Zagonel, L., & Braga, M. P. (2014). Tracking the history of an invasion: the freshwater croakers (Teleostei: Sciaenidae) in South America. Zool Scr, 44(3), 250–262. <https://doi.org/10.1111/zsc.12098>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/rec.12381",
-    "citation": "Butterfield, B. J., Copeland, S. M., Munson, S. M., Roybal, C. M., & Wood, T. E. (2016). Prestoration: using species in restoration that will persist now and into the future. Restoration Ecology. doi:10.1111/rec.12381"
+    "citation": "Butterfield, B. J., Copeland, S. M., Munson, S. M., Roybal, C. M., & Wood, T. E. (2016). Prestoration: using species in restoration that will persist now and into the future. Restoration Ecology. <https://doi.org/10.1111/rec.12381>"
   },
   {
     "name": "ropensci",
     "doi": "10.1071/mf15108",
-    "citation": "Dafforn, K. A., Johnston, E. L., Ferguson, A., Humphrey, C. L., Monk, W., Nichols, S. J., … Baird, D. J. (2016). Big data opportunities and challenges for assessing multiple stressors across scales in aquatic ecosystems. Marine and Freshwater Research, 67(4), 393. doi:10.1071/mf15108"
+    "citation": "Dafforn, K. A., Johnston, E. L., Ferguson, A., Humphrey, C. L., Monk, W., Nichols, S. J., … Baird, D. J. (2016). Big data opportunities and challenges for assessing multiple stressors across scales in aquatic ecosystems. Marine and Freshwater Research, 67(4), 393. <https://doi.org/10.1071/mf15108>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/nph.13694",
-    "citation": "Dellinger, A. S., Essl, F., Hojsgaard, D., Kirchheimer, B., Klatt, S., Dawson, W., … Dullinger, S. (2015). Niche dynamics of alien species do not differ among sexual and apomictic flowering plants. New Phytol, 209(3), 1313–1323. doi:10.1111/nph.13694"
+    "citation": "Dellinger, A. S., Essl, F., Hojsgaard, D., Kirchheimer, B., Klatt, S., Dawson, W., … Dullinger, S. (2015). Niche dynamics of alien species do not differ among sexual and apomictic flowering plants. New Phytol, 209(3), 1313–1323. <https://doi.org/10.1111/nph.13694>"
   },
   {
     "name": "rgbif",
     "doi": "10.1590/0102-33062014abb3711",
-    "citation": "Feitosa, Y. O., Absy, M. L., Latrubesse, E. M., & Stevaux, J. C. (2015). Late Quaternary vegetation dynamics from central parts of the Madeira River in Brazil. Acta Botanica Brasilica, 29(1), 120–128. doi:10.1590/0102-33062014abb3711"
+    "citation": "Feitosa, Y. O., Absy, M. L., Latrubesse, E. M., & Stevaux, J. C. (2015). Late Quaternary vegetation dynamics from central parts of the Madeira River in Brazil. Acta Botanica Brasilica, 29(1), 120–128. <https://doi.org/10.1590/0102-33062014abb3711>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/jvs.12301",
-    "citation": "Malhado, A. C. M., Oliveira-Neto, J. A., Stropp, J., Strona, G., Dias, L. C. P., Pinto, L. B., & Ladle, R. J. (2015). Climatological correlates of seed size in Amazonian forest trees. Journal of Vegetation Science, 26(5), 956–963. doi:10.1111/jvs.12301"
+    "citation": "Malhado, A. C. M., Oliveira-Neto, J. A., Stropp, J., Strona, G., Dias, L. C. P., Pinto, L. B., & Ladle, R. J. (2015). Climatological correlates of seed size in Amazonian forest trees. Journal of Vegetation Science, 26(5), 956–963. <https://doi.org/10.1111/jvs.12301>"
   },
   {
     "name": "ropensci",
     "doi": "10.1007/s10816-015-9272-9",
-    "citation": "Marwick, B. (2016). Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation. Journal of Archaeological Method and Theory. doi:10.1007/s10816-015-9272-9"
+    "citation": "Marwick, B. (2016). Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation. Journal of Archaeological Method and Theory. <https://doi.org/10.1007/s10816-015-9272-9>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1111/1365-2656.12471",
-    "citation": "Mindel, B. L., Webb, T. J., Neat, F. C., & Blanchard, J. L. (2016). A trait-based metric sheds new light on the nature of the body size-depth relationship in the deep sea. J Anim Ecol, 85(2), 427–436. doi:10.1111/1365-2656.12471"
+    "citation": "Mindel, B. L., Webb, T. J., Neat, F. C., & Blanchard, J. L. (2016). A trait-based metric sheds new light on the nature of the body size-depth relationship in the deep sea. J Anim Ecol, 85(2), 427–436. <https://doi.org/10.1111/1365-2656.12471>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1371/journal.pone.0073535",
-    "citation": "Miya, M., Friedman, M., Satoh, T. P., Takeshima, H., Sado, T., Iwasaki, W., … Nishida, M. (2013). Evolutionary Origin of the Scombridae (Tunas and Mackerels): Members of a Paleogene Adaptive Radiation with 14 Other Pelagic Fish Families. PLoS ONE, 8(9), e73535. doi:10.1371/journal.pone.0073535"
+    "citation": "Miya, M., Friedman, M., Satoh, T. P., Takeshima, H., Sado, T., Iwasaki, W., … Nishida, M. (2013). Evolutionary Origin of the Scombridae (Tunas and Mackerels): Members of a Paleogene Adaptive Radiation with 14 Other Pelagic Fish Families. PLoS ONE, 8(9), e73535. <https://doi.org/10.1371/journal.pone.0073535>"
   },
   {
     "name": "ropensci",
     "doi": "10.1109/mcse.2014.93",
-    "citation": "Pawlik, A., Segal, J., Sharp, H., & Petre, M. (2015). Crowdsourcing Scientific Software Documentation: A Case Study of the NumPy Documentation Project. Computing in Science & Engineering, 17(1), 28–36. doi:10.1109/mcse.2014.93"
+    "citation": "Pawlik, A., Segal, J., Sharp, H., & Petre, M. (2015). Crowdsourcing Scientific Software Documentation: A Case Study of the NumPy Documentation Project. Computing in Science & Engineering, 17(1), 28–36. <https://doi.org/10.1109/mcse.2014.93>"
   },
   {
     "name": "taxize",
     "doi": "10.3897/phytokeys.46.9116",
-    "citation": "Pérez-Luque, A. J., Sánchez-Rojas, C. P., Zamora, R., Pérez-Pérez, R., & Bonet, F. J. (2015). Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain). PhytoKeys, 46, 89–107. doi:10.3897/phytokeys.46.9116"
+    "citation": "Pérez-Luque, A. J., Sánchez-Rojas, C. P., Zamora, R., Pérez-Pérez, R., & Bonet, F. J. (2015). Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain). PhytoKeys, 46, 89–107. <https://doi.org/10.3897/phytokeys.46.9116>"
   },
   {
     "name": "taxize",
     "doi": "10.1111/ecog.01941",
-    "citation": "Poisot, T., Gravel, D., Leroux, S., Wood, S. A., Fortin, M.-J., Baiser, B., … Stouffer, D. B. (2015). Synthetic datasets and community tools for the rapid testing of ecological hypotheses. Ecography, 39(4), 402–408. doi:10.1111/ecog.01941"
+    "citation": "Poisot, T., Gravel, D., Leroux, S., Wood, S. A., Fortin, M.-J., Baiser, B., … Stouffer, D. B. (2015). Synthetic datasets and community tools for the rapid testing of ecological hypotheses. Ecography, 39(4), 402–408. <https://doi.org/10.1111/ecog.01941>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1007/s00338-015-1326-7",
-    "citation": "Price, S. A., Claverie, T., Near, T. J., & Wainwright, P. C. (2015). Phylogenetic insights into the history and diversification of fishes on reefs. Coral Reefs, 34(4), 997–1009. doi:10.1007/s00338-015-1326-7"
+    "citation": "Price, S. A., Claverie, T., Near, T. J., & Wainwright, P. C. (2015). Phylogenetic insights into the history and diversification of fishes on reefs. Coral Reefs, 34(4), 997–1009. <https://doi.org/10.1007/s00338-015-1326-7>"
   },
   {
     "name": "ropensci",
     "doi": "10.1111/ecog.01880",
-    "citation": "Read, J. S., Walker, J. I., Appling, A. P., Blodgett, D. L., Read, E. K., & Winslow, L. A. (2015). geoknife: reproducible web-processing of large gridded datasets. Ecography, 39(4), 354–360. doi:10.1111/ecog.01880"
+    "citation": "Read, J. S., Walker, J. I., Appling, A. P., Blodgett, D. L., Read, E. K., & Winslow, L. A. (2015). geoknife: reproducible web-processing of large gridded datasets. Ecography, 39(4), 354–360. <https://doi.org/10.1111/ecog.01880>"
   },
   {
     "name": "paleobioDB",
     "doi": "10.1111/ecog.01880",
-    "citation": "Read, J. S., Walker, J. I., Appling, A. P., Blodgett, D. L., Read, E. K., & Winslow, L. A. (2015). geoknife: reproducible web-processing of large gridded datasets. Ecography, 39(4), 354–360. doi:10.1111/ecog.01880"
+    "citation": "Read, J. S., Walker, J. I., Appling, A. P., Blodgett, D. L., Read, E. K., & Winslow, L. A. (2015). geoknife: reproducible web-processing of large gridded datasets. Ecography, 39(4), 354–360. <https://doi.org/10.1111/ecog.01880>"
   },
   {
     "name": "chromer",
     "doi": "10.1016/bs.abr.2016.02.001",
-    "citation": "Sessa, E. B., & Der, J. P. (2016). Evolutionary Genomics of Ferns and Lycophytes. Genomes and Evolution of Charophytes, Bryophytes, Lycophytes and Ferns, 215–254. doi:10.1016/bs.abr.2016.02.001"
+    "citation": "Sessa, E. B., & Der, J. P. (2016). Evolutionary Genomics of Ferns and Lycophytes. Genomes and Evolution of Charophytes, Bryophytes, Lycophytes and Ferns, 215–254. <https://doi.org/10.1016/bs.abr.2016.02.001>"
   },
   {
     "name": "taxize",
     "doi": "10.5194/bg-13-2537-2016",
-    "citation": "Wagner, F. H., Hérault, B., Bonal, D., Stahl, C., Anderson, L. O., Baker, T. R., … Botosso, P. C. (2016). Climate seasonality limits leaf carbon assimilation and wood productivity in tropical forests. Biogeosciences, 13(8), 2537–2562. doi:10.5194/bg-13-2537-2016"
+    "citation": "Wagner, F. H., Hérault, B., Bonal, D., Stahl, C., Anderson, L. O., Baker, T. R., … Botosso, P. C. (2016). Climate seasonality limits leaf carbon assimilation and wood productivity in tropical forests. Biogeosciences, 13(8), 2537–2562. <https://doi.org/10.5194/bg-13-2537-2016>"
   },
   {
     "name": "rgbif",
     "doi": "10.1073/pnas.1424030112",
-    "citation": "Werner, G. D. A., Cornwell, W. K., Cornelissen, J. H. C., & Kiers, E. T. (2015). Evolutionary signals of symbiotic persistence in the legume–rhizobia mutualism. Proc Natl Acad Sci USA, 112(33), 10262–10269. doi:10.1073/pnas.1424030112"
+    "citation": "Werner, G. D. A., Cornwell, W. K., Cornelissen, J. H. C., & Kiers, E. T. (2015). Evolutionary signals of symbiotic persistence in the legume–rhizobia mutualism. Proc Natl Acad Sci USA, 112(33), 10262–10269. <https://doi.org/10.1073/pnas.1424030112>"
   },
   {
     "name": "rgbif",
     "doi": "10.1111/ecog.02118",
-    "citation": "Robertson, M. P., Visser, V., & Hui, C. (2016). Biogeo: an R package for assessing and improving data quality of occurrence record datasets. Ecography, 39(4), 394–401. doi:10.1111/ecog.02118"
+    "citation": "Robertson, M. P., Visser, V., & Hui, C. (2016). Biogeo: an R package for assessing and improving data quality of occurrence record datasets. Ecography, 39(4), 394–401. <https://doi.org/10.1111/ecog.02118>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1111/jzs.12103",
-    "citation": "Collins, R. A., Britz, R., & Rüber, L. (2015). Phylogenetic systematics of leaffishes (Teleostei: Polycentridae, Nandidae). Journal of Zoological Systematics and Evolutionary Research, 53(4), 259–272. doi:10.1111/jzs.12103"
+    "citation": "Collins, R. A., Britz, R., & Rüber, L. (2015). Phylogenetic systematics of leaffishes (Teleostei: Polycentridae, Nandidae). Journal of Zoological Systematics and Evolutionary Research, 53(4), 259–272. <https://doi.org/10.1111/jzs.12103>"
   },
   {
     "name": "rgbif",
     "doi": "10.1126/science.aab1161",
-    "citation": "Davison, J., Moora, M., Opik, M., Adholeya, A., Ainsaar, L., Ba, A., … Zobel, M. (2015). Global assessment of arbuscular mycorrhizal fungus diversity reveals very low endemism. Science, 349(6251), 970–973. doi:10.1126/science.aab1161"
+    "citation": "Davison, J., Moora, M., Opik, M., Adholeya, A., Ainsaar, L., Ba, A., … Zobel, M. (2015). Global assessment of arbuscular mycorrhizal fungus diversity reveals very low endemism. Science, 349(6251), 970–973. <https://doi.org/10.1126/science.aab1161>"
   },
   {
     "name": "ritis",
     "doi": "10.1111/1365-2745.12135",
-    "citation": "Goring, S., Lacourse, T., Pellatt, M. G., & Mathewes, R. W. (2013). Pollen assemblage richness does not reflect regional plant species richness: a cautionary tale. Journal of Ecology, 101(5), 1137–1145. doi:10.1111/1365-2745.12135"
+    "citation": "Goring, S., Lacourse, T., Pellatt, M. G., & Mathewes, R. W. (2013). Pollen assemblage richness does not reflect regional plant species richness: a cautionary tale. Journal of Ecology, 101(5), 1137–1145. <https://doi.org/10.1111/1365-2745.12135>"
   },
   {
     "name": "ropensci",
     "doi": "10.3201/eid2108.141156",
-    "citation": "Olson, S. H., Benedum, C. M., Mekaru, S. R., Preston, N. D., Mazet, J. A. K., Joly, D. O., & Brownstein, J. S. (2015). Drivers of Emerging Infectious Disease Events as a Framework for Digital Detection. Emerging Infectious Diseases, 21(8), 1285–1292. doi:10.3201/eid2108.141156"
+    "citation": "Olson, S. H., Benedum, C. M., Mekaru, S. R., Preston, N. D., Mazet, J. A. K., Joly, D. O., & Brownstein, J. S. (2015). Drivers of Emerging Infectious Disease Events as a Framework for Digital Detection. Emerging Infectious Diseases, 21(8), 1285–1292. <https://doi.org/10.3201/eid2108.141156>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1080/00028487.2015.1111253",
-    "citation": "Schaefer, J., Frazier, N., & Barr, J. (2015). Dynamics of Near-Coastal Fish Assemblages following the Deepwater Horizon Oil Spill in the Northern Gulf of Mexico. Transactions of the American Fisheries Society, 145(1), 108–119. doi:10.1080/00028487.2015.1111253"
+    "citation": "Schaefer, J., Frazier, N., & Barr, J. (2015). Dynamics of Near-Coastal Fish Assemblages following the Deepwater Horizon Oil Spill in the Northern Gulf of Mexico. Transactions of the American Fisheries Society, 145(1), 108–119. <https://doi.org/10.1080/00028487.2015.1111253>"
   },
   {
     "name": "taxize",
     "doi": "10.7717/peerj-cs.56",
-    "citation": "Schwery, O., & O’Meara, B. C. (2016).  MonoPhy : a simple R package to find and visualize monophyly issues . PeerJ Computer Science, 2, e56. doi:10.7717/peerj-cs.56"
+    "citation": "Schwery, O., & O’Meara, B. C. (2016).  MonoPhy : a simple R package to find and visualize monophyly issues . PeerJ Computer Science, 2, e56. <https://doi.org/10.7717/peerj-cs.56>"
   },
   {
     "name": "monkeylearn",
@@ -1117,7 +1117,7 @@
   },
   {
     "name": "rvertnet",
-    "citation": "Cicero, C., Spencer, C. L., Bloom, D. A., Guralnick, R. P., Koo, M. S., Otegui, J., ... & Wieczorek, J. R. (2017). Biodiversity Informatics and Data Quality on a Global Scale. The Extended Specimen: Emerging Frontiers in Collections-Based Ornithological Research."
+    "citation": "Cicero, C., Spencer, C. L., Bloom, D. A., Guralnick, R. P., Koo, M. S., Otegui, J., ... & Wieczorek, J. R. (2017). Biodiversity Informatics and Data Quality on a Global Scale. The Extended Specimen: Emerging Frontiers in Collections-Based Ornithological Research. <https://bit.ly/31qUNbq>"
   },
   {
     "name": "GSODR",
@@ -1239,17 +1239,17 @@
   {
     "name": "treeBASE",
     "doi": "10.1111/j.2041-210x.2012.00247.x",
-    "citation": "Boettiger, C., & Temple Lang, D. (2012). Treebase: an R package for discovery, access and manipulation of online phylogenies. Methods in Ecology and Evolution, 3(6), 1060–1066. doi:10.1111/j.2041-210x.2012.00247.x"
+    "citation": "Boettiger, C., & Temple Lang, D. (2012). Treebase: an R package for discovery, access and manipulation of online phylogenies. Methods in Ecology and Evolution, 3(6), 1060–1066. <https://doi.org/10.1111/j.2041-210x.2012.00247.x>"
   },
   {
     "name": "rfishbase",
     "doi": "10.1073/pnas.1710920114",
-    "citation": "Landis, M. J., & Schraiber, J. G. (2017). Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 201710920. doi:10.1073/pnas.1710920114"
+    "citation": "Landis, M. J., & Schraiber, J. G. (2017). Pulsed evolution shaped modern vertebrate body sizes. Proceedings of the National Academy of Sciences, 201710920. <https://doi.org/10.1073/pnas.1710920114>"
   },
   {
     "name": "gender",
     "doi": "10.16995/dscn.284",
-    "citation": "Weingart, S. B., & Eichmann-Kalwara, N. (2017). What’s Under the Big Tent?: A Study of ADHO Conference Abstracts. Digital Studies/Le Champ Numérique, 7(1). doi:10.16995/dscn.284"
+    "citation": "Weingart, S. B., & Eichmann-Kalwara, N. (2017). What’s Under the Big Tent?: A Study of ADHO Conference Abstracts. Digital Studies/Le Champ Numérique, 7(1). <https://doi.org/10.16995/dscn.284>"
   },
   {
     "name": "spocc",
@@ -1525,7 +1525,8 @@
   },
   {
     "name": "rcrossref",
-    "citation": "Dion, Michelle L., Jane L. Sumner, and Sara McLaughlin Mitchell. Gendered Citation Patterns across Political Science and Social Science Methodology Fields., Forthcoming, Political Analysis. See also the Appendix for the paper and the replication materials."
+    "doi": "10.1017/pan.2018.12",
+    "citation": "Dion, Michelle L., Jane L. Sumner, and Sara McLaughlin Mitchell. Gendered Citation Patterns across Political Science and Social Science Methodology Fields., Forthcoming, Political Analysis. See also the Appendix for the paper and the replication materials. <https://doi.org/10.1017/pan.2018.12>"
   },
   {
     "name": "rgbif",
@@ -1565,45 +1566,46 @@
   {
     "name": "spocc",
     "doi": "10.1111/1365-2656.12721",
-    "citation": "Sales, L. P., Ribeiro, B. R., Hayward, M. W., Paglia, A., Passamani, M., & Loyola, R. (2017). Niche conservatism and the invasive potential of the wild boar. Journal of Animal Ecology, 86(5), 1214–1223. doi:10.1111/1365-2656.12721"
+    "citation": "Sales, L. P., Ribeiro, B. R., Hayward, M. W., Paglia, A., Passamani, M., & Loyola, R. (2017). Niche conservatism and the invasive potential of the wild boar. Journal of Animal Ecology, 86(5), 1214–1223. <https://doi.org/10.1111/1365-2656.12721>"
   },
   {
     "name": "plotly",
-    "citation": "Essl, A., Ortner, A., Haas, R., & Hettegger, P. (2017, June). Machine learning analysis for a flexibility energy approach towards renewable energy integration with dynamic forecasting of electricity balancing power. In European Energy Market (EEM), 2017 14th International Conference on the (pp. 1-6). IEEE."
+    "doi": "10.1109/EEM.2017.7981877",
+    "citation": "Essl, A., Ortner, A., Haas, R., & Hettegger, P. (2017, June). Machine learning analysis for a flexibility energy approach towards renewable energy integration with dynamic forecasting of electricity balancing power. In European Energy Market (EEM), 2017 14th International Conference on the (pp. 1-6). IEEE. <https://doi.org/10.1109/EEM.2017.7981877>"
   },
   {
     "name": "rnoaa",
     "doi": "10.1080/01584197.2017.1315310",
-    "citation": "Grosser, S., Scofield, R. P., & Waters, J. M. (2017). Multivariate skeletal analyses support a taxonomic distinction between New Zealand and Australian Eudyptula penguins (Sphenisciformes: Spheniscidae). Emu - Austral Ornithology, 117(3), 276–283. doi:10.1080/01584197.2017.1315310"
+    "citation": "Grosser, S., Scofield, R. P., & Waters, J. M. (2017). Multivariate skeletal analyses support a taxonomic distinction between New Zealand and Australian Eudyptula penguins (Sphenisciformes: Spheniscidae). Emu - Austral Ornithology, 117(3), 276–283. <https://doi.org/10.1080/01584197.2017.1315310>"
   },
   {
     "name": "bold",
     "doi": "10.3897/bdj.5.e10792",
-    "citation": "Bowser, M., Morton, J., Hanson, J., Magness, D., & Okuly, M. (2017). Arthropod and oligochaete assemblages from grasslands of the southern Kenai Peninsula, Alaska. Biodiversity Data Journal, 5, e10792. doi:10.3897/bdj.5.e10792"
+    "citation": "Bowser, M., Morton, J., Hanson, J., Magness, D., & Okuly, M. (2017). Arthropod and oligochaete assemblages from grasslands of the southern Kenai Peninsula, Alaska. Biodiversity Data Journal, 5, e10792. <https://doi.org/10.3897/bdj.5.e10792>"
   },
   {
     "name": "bold",
     "doi": "10.1111/1755-0998.12770",
-    "citation": "Divoll, T. J., Brown, V. A., Kinne, J., McCracken, G. F., & O’Keefe, J. M. (2018). Disparities in second-generation DNA metabarcoding results exposed with accessible and repeatable workflows. Molecular Ecology Resources. doi:10.1111/1755-0998.12770"
+    "citation": "Divoll, T. J., Brown, V. A., Kinne, J., McCracken, G. F., & O’Keefe, J. M. (2018). Disparities in second-generation DNA metabarcoding results exposed with accessible and repeatable workflows. Molecular Ecology Resources. <https://doi.org/10.1111/1755-0998.12770>"
   },
   {
     "name": "bold",
     "doi": "10.1111/1365-2664.13036",
-    "citation": "Cravens, Z. M., Brown, V. A., Divoll, T. J., & Boyles, J. G. (2017). Illuminating prey selection in an insectivorous bat community exposed to artificial light at night. Journal of Applied Ecology, 55(2), 705–713. doi:10.1111/1365-2664.13036"
+    "citation": "Cravens, Z. M., Brown, V. A., Divoll, T. J., & Boyles, J. G. (2017). Illuminating prey selection in an insectivorous bat community exposed to artificial light at night. Journal of Applied Ecology, 55(2), 705–713. <https://doi.org/10.1111/1365-2664.13036>"
   },
   {
     "name": "fingertipsR",
     "doi": "10.1101/189167",
-    "citation": "Fox, S., Flowers, J., Thelwall, S., Flint, D., & Hain, D. (2017). fingertipsR: an R package for accessing population health information in England. doi:10.1101/189167"
+    "citation": "Fox, S., Flowers, J., Thelwall, S., Flint, D., & Hain, D. (2017). fingertipsR: an R package for accessing population health information in England. <https://doi.org/10.1101/189167>"
   },
   {
     "name": "fingertipsR",
-    "citation": "ȚÎRU, A. M., & NECULA, M. (2017). rTempo–an R package to access the TEMPO-Online database. Romanian Statistical Review, (4)."
+    "citation": "ȚÎRU, A. M., & NECULA, M. (2017). rTempo–an R package to access the TEMPO-Online database. Romanian Statistical Review, (4) <http://www.revistadestatistica.ro/wp-content/uploads/2017/11/RRS-4_2017_A04.pdf>"
   },
   {
     "name": "gender",
     "doi": "10.1371/journal.pone.0192481",
-    "citation": "Manlove, K. R., & Belou, R. M. (2018). Authors and editors assort on gender and geography in high-rank ecological publications. PLOS ONE, 13(2), e0192481. doi:10.1371/journal.pone.0192481"
+    "citation": "Manlove, K. R., & Belou, R. M. (2018). Authors and editors assort on gender and geography in high-rank ecological publications. PLOS ONE, 13(2), e0192481. <https://doi.org/10.1371/journal.pone.0192481>"
   },
   {
     "name": "phylotaR",
@@ -1859,7 +1861,7 @@
   },
   {
     "name": "webchem",
-    "citation": "Robert J. Allaway, Sara J. Gosline, Marco Nievo, Salvatore La Rosa, Annette Bakker and Justin Guinney 2018. Abstract 4643: Drug-Target Explorer: An interactive tool for examining chemical-biological interactions. Cancer Res July 1 2018 (78) (13 Supplement) 4643, doi:10.1158/1538-7445.AM2018-4643, <http://cancerres.aacrjournals.org/content/78/13_Supplement/4643>"
+    "citation": "Robert J. Allaway, Sara J. Gosline, Marco Nievo, Salvatore La Rosa, Annette Bakker and Justin Guinney 2018. Abstract 4643: Drug-Target Explorer: An interactive tool for examining chemical-biological interactions. Cancer Res July 1 2018 (78) (13 Supplement) 4643, <https://doi.org/10.1158/1538-7445.AM2018-4643>"
   },
   {
     "name": "tesseract",
@@ -1934,7 +1936,7 @@
   {
     "name": "spocc",
     "doi": "10.1016/S0140-6736(18)31224-8",
-    "citation": "Longbottom, J., Shearer, F. M., Devine, M., Alcoba, G., Chappuis, F., Weiss, D. J., … Pigott, D. M. (2018). Vulnerability to snakebite envenoming: a global mapping of hotspots. The Lancet. doi:10.1016/s0140-6736(18)31224-8 <https://doi.org/10.1016/S0140-6736(18)31224-8>"
+    "citation": "Longbottom, J., Shearer, F. M., Devine, M., Alcoba, G., Chappuis, F., Weiss, D. J., … Pigott, D. M. (2018). Vulnerability to snakebite envenoming: a global mapping of hotspots. The Lancet. <https://doi.org/10.1016/S0140-6736(18)31224-8>"
   },
   {
     "name": "plotly",
@@ -1952,7 +1954,7 @@
   },
   {
     "name": "plotly",
-    "citation": "Glanz, H., & Pileggi, S. 2018. Improving statistical communication in statistical computing courses. In M. A. Sorto, A. White, & L. Guyot (Eds.), Looking back, looking forward. Proceedings of the Tenth International Conference on Teaching Statistics (ICOTS10, July, 2018), Kyoto, Japan. Voorburg, The Netherlands: International Statistical Institute."
+    "citation": "Glanz, H., & Pileggi, S. 2018. Improving statistical communication in statistical computing courses. In M. A. Sorto, A. White, & L. Guyot (Eds.), Looking back, looking forward. Proceedings of the Tenth International Conference on Teaching Statistics (ICOTS10, July, 2018), Kyoto, Japan. Voorburg, The Netherlands: International Statistical Institute. <https://iase-web.org/icots/10/proceedings/pdfs/ICOTS10_3F1.pdf>"
   },
   {
     "name": "plotly",
@@ -3316,7 +3318,7 @@
   {
     "name": "rgbif",
     "doi": "10.1101/596072",
-    "citation": "Maarten van Zonneveld, Mohamed Rakha, Shin-yee Tan, Yu-yu Chou, Ching-huan Chang, Joyce Yen, Roland Schafleitner, Ramakrishnan Nair, Ken Naito, Svein Ø. Solberg. bioRxiv 596072; doi: <https://doi.org/10.1101/596072>",
+    "citation": "Maarten van Zonneveld, Mohamed Rakha, Shin-yee Tan, Yu-yu Chou, Ching-huan Chang, Joyce Yen, Roland Schafleitner, Ramakrishnan Nair, Ken Naito, Svein Ø. Solberg. bioRxiv 596072; <https://doi.org/10.1101/596072>",
     "img_path": "img/vanZonneveldEtal2019bioRxiv-reprint.png",
     "research_snippet": "stress resilience and crop wild relatives"
   },
@@ -4490,7 +4492,8 @@
   },
   {
     "name": "fingertipsR",
-    "citation": "Rebolj, M., Parmar, D., Maroni, R., Blyuss, O., & Duffy, S. W. (In press). Concurrent participation in screening for cervical, breast, and bowel cancer in England. Journal of Medical Screening.",
+    "doi": "10.1177/0969141319871977",
+    "citation": "Rebolj, M., Parmar, D., Maroni, R., Blyuss, O., & Duffy, S. W. (In press). Concurrent participation in screening for cervical, breast, and bowel cancer in England. Journal of Medical Screening. <https://doi.org/10.1177/0969141319871977>",
     "research_snippet": "participation of women in the UK in cancer screenings"
   },
   {
@@ -5830,7 +5833,7 @@
   {
     "name": "iheatmapr",
     "doi": "10.1101/507491",
-    "citation": "Caseys, C., Gongjun Shi, Nicole Soltis, Raoni Gwinner, Jason Corwin, Susanna Atwell, Daniel Kliebenstein. 2020. Quantitative interactions drive Botrytis cinerea disease outcome across the plant kingdom. bioRxiv preprint 507491; doi: <https://doi.org/10.1101/507491>",
+    "citation": "Caseys, C., Gongjun Shi, Nicole Soltis, Raoni Gwinner, Jason Corwin, Susanna Atwell, Daniel Kliebenstein. 2020. Quantitative interactions drive Botrytis cinerea disease outcome across the plant kingdom. bioRxiv preprint 507491; <https://doi.org/10.1101/507491>",
     "research_snippet": "Botrytis cinerea disease in plants"
   },
   {
@@ -5857,7 +5860,8 @@
   },
   {
     "name": "pdftools",
-    "citation": "Adil, S. H., Ebrahim, M., Ali, S. S. A., & Raza, K. 2019. Identifying Trends in Data Science Articles using Text Mining. In 2019 4th International Conference on Emerging Trends in Engineering, Sciences and Technology (ICEEST) (pp. 1-7). IEEE."
+    "doi": "10.1109/ICEEST48626.2019.8981702",
+    "citation": "Adil, S. H., Ebrahim, M., Ali, S. S. A., & Raza, K. 2019. Identifying Trends in Data Science Articles using Text Mining. In 2019 4th International Conference on Emerging Trends in Engineering, Sciences and Technology (ICEEST) (pp. 1-7). IEEE. <https://doi.org/10.1109/ICEEST48626.2019.8981702>"
   },
   {
     "name": "rotl",
