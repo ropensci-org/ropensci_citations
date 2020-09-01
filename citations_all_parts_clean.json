@@ -37655,5 +37655,1071 @@
       "doi": "10.1016/j.foodqual.2020.103993"
     },
     "url": "https://doi.org/10.1016/j.foodqual.2020.103993"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1002/ecs2.3164",
+    "citation": "Anton, C. B., Smith, D. W., Suraci, J. P., Stahler, D. R., Duane, T. P., & Wilmers, C. C. (2020). Gray wolf habitat use in response to visitor activity along roadways in Yellowstone National Park. Ecosphere, 11(6). <https://doi.org/10.1002/ecs2.3164>",
+    "parts": {
+      "author": [
+        {
+          "family": "Anton",
+          "given": "C.B."
+        },
+        {
+          "family": "Smith",
+          "given": "D.W."
+        },
+        {
+          "family": "Suraci",
+          "given": "J.P."
+        },
+        {
+          "family": "Stahler",
+          "given": "D.R."
+        },
+        {
+          "family": "Duane",
+          "given": "T.P."
+        },
+        {
+          "family": "Wilmers",
+          "given": "C.C."
+        }
+      ],
+      "date": "2020",
+      "title": "Gray wolf habitat use in response to visitor activity along roadways in Yellowstone National Park",
+      "volume": "11",
+      "url": "https://doi.org/10.1002/ecs2.3164",
+      "type": "article-journal",
+      "container-title": "Ecosphere",
+      "issue": "6",
+      "doi": "10.1002/ecs2.3164"
+    },
+    "url": "https://doi.org/10.1002/ecs2.3164"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/gcb.15225",
+    "citation": "Loewen, C. J. G., Strecker, A. L., Gilbert, B., & Jackson, D. A. (2020). Climate warming moderates the impacts of introduced sportfish on multiple dimensions of prey biodiversity. Global Change Biology, 26(9), 4937–4951. <https://doi.org/10.1111/gcb.15225>",
+    "parts": {
+      "author": [
+        {
+          "family": "Loewen",
+          "given": "C.J.G."
+        },
+        {
+          "family": "Strecker",
+          "given": "A.L."
+        },
+        {
+          "family": "Gilbert",
+          "given": "B."
+        },
+        {
+          "family": "Jackson",
+          "given": "D.A."
+        }
+      ],
+      "date": "2020",
+      "title": "Climate warming moderates the impacts of introduced sportfish on multiple dimensions of prey biodiversity",
+      "volume": "26",
+      "pages": "4937–4951",
+      "url": "https://doi.org/10.1111/gcb.15225",
+      "type": "article-journal",
+      "container-title": "Global Change Biology",
+      "issue": "9",
+      "doi": "10.1111/gcb.15225"
+    },
+    "url": "https://doi.org/10.1111/gcb.15225"
+  },
+  {
+    "name": "RSelenium",
+    "citation": "Siregar, E., & Prawisudatama, A. Improving data literacy using liteRate: an R Shiny Apps for visualizing and exploring data published on BPS-Statistics Indonesia’s Website <https://www.unescap.org/sites/default/files/05_Improving_data_literacy_using_liteRate_Indonesia.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Siregar",
+          "given": "E."
+        },
+        {
+          "family": "Prawisudatama",
+          "given": "A."
+        }
+      ],
+      "title": "Improving data literacy using liteRate: an R Shiny Apps for visualizing and exploring data published on BPS-Statistics Indonesia’s Website",
+      "url": "https://www.unescap.org/sites/default/files/05_Improving_data_literacy_using_liteRate_Indonesia.pdf"
+    },
+    "url": "https://www.unescap.org/sites/default/files/05_Improving_data_literacy_using_liteRate_Indonesia.pdf"
+  },
+  {
+    "name": "RSelenium",
+    "citation": "Bisbee, J., & Honig, D. (2020). Flight to Safety: 2020 Democratic Primary Election Results and COVID-19. Covid Economics, 3(10), 54-84. <http://www.amcham-egypt.org/bic/pdf/corona1/Covid%20Economics%20by%20CEPR.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Bisbee",
+          "given": "J."
+        },
+        {
+          "family": "Honig",
+          "given": "D."
+        }
+      ],
+      "date": "2020",
+      "title": "Flight to Safety: 2020 Democratic Primary Election Results and COVID-19",
+      "volume": "3",
+      "pages": "54–84",
+      "url": "http://www.amcham-egypt.org/bic/pdf/corona1/Covid%20Economics%20by%20CEPR.pdf",
+      "type": "article-journal",
+      "container-title": "Covid Economics",
+      "issue": "10"
+    },
+    "url": "http://www.amcham-egypt.org/bic/pdf/corona1/Covid%20Economics%20by%20CEPR.pdf"
+  },
+  {
+    "name": "rcrossref",
+    "citation": "Hobert, A., Jahn, N., Mayr, P., Schmidt, B., & Taubert, N. C. (2020). Open Access Uptake in Germany 2010-18: Adoption in a diverse research landscape. <https://pub.uni-bielefeld.de/download/2943906/2943907/OA_uptake_Germany_preprint.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hobert",
+          "given": "A."
+        },
+        {
+          "family": "Jahn",
+          "given": "N."
+        },
+        {
+          "family": "Mayr",
+          "given": "P."
+        },
+        {
+          "family": "Schmidt",
+          "given": "B."
+        },
+        {
+          "family": "Taubert",
+          "given": "N.C."
+        }
+      ],
+      "date": "2020",
+      "title": "Open Access Uptake in Germany 2010-18: Adoption in a diverse research landscape",
+      "url": "https://pub.uni-bielefeld.de/download/2943906/2943907/OA_uptake_Germany_preprint.pdf"
+    },
+    "url": "https://pub.uni-bielefeld.de/download/2943906/2943907/OA_uptake_Germany_preprint.pdf"
+  },
+  {
+    "name": "worrms",
+    "doi": "10.1002/ece3.6407",
+    "citation": "Webb, T. J., Lines, A., & Howarth, L. M. (2020). Occupancy‐derived thermal affinities reflect known physiological thermal limits of marine species. Ecology and Evolution, 10(14), 7050–7061. <https://doi.org/10.1002/ece3.6407>",
+    "parts": {
+      "author": [
+        {
+          "family": "Webb",
+          "given": "T.J."
+        },
+        {
+          "family": "Lines",
+          "given": "A."
+        },
+        {
+          "family": "Howarth",
+          "given": "L.M."
+        }
+      ],
+      "date": "2020",
+      "title": "Occupancy‐derived thermal affinities reflect known physiological thermal limits of marine species",
+      "volume": "10",
+      "pages": "7050–7061",
+      "url": "https://doi.org/10.1002/ece3.6407",
+      "type": "article-journal",
+      "container-title": "Ecology and Evolution",
+      "issue": "14",
+      "doi": "10.1002/ece3.6407"
+    },
+    "url": "https://doi.org/10.1002/ece3.6407"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1098/rspb.2020.0777",
+    "citation": "Li, D., Olden, J. D., Lockwood, J. L., Record, S., McKinney, M. L., & Baiser, B. (2020). Changes in taxonomic and phylogenetic diversity in the Anthropocene. Proceedings of the Royal Society B: Biological Sciences, 287(1929), 20200777. <https://doi.org/10.1098/rspb.2020.0777>",
+    "parts": {
+      "author": [
+        {
+          "family": "Li",
+          "given": "D."
+        },
+        {
+          "family": "Olden",
+          "given": "J.D."
+        },
+        {
+          "family": "Lockwood",
+          "given": "J.L."
+        },
+        {
+          "family": "Record",
+          "given": "S."
+        },
+        {
+          "family": "McKinney",
+          "given": "M.L."
+        },
+        {
+          "family": "Baiser",
+          "given": "B."
+        }
+      ],
+      "date": "2020",
+      "title": "Changes in taxonomic and phylogenetic diversity in the Anthropocene",
+      "volume": "287",
+      "pages": "20200777",
+      "url": "https://doi.org/10.1098/rspb.2020.0777",
+      "type": "article-journal",
+      "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+      "issue": "1929",
+      "doi": "10.1098/rspb.2020.0777"
+    },
+    "url": "https://doi.org/10.1098/rspb.2020.0777"
+  },
+  {
+    "name": "textreuse",
+    "doi": "10.1080/09692290.2020.1779781",
+    "citation": "James, S., Pagliari, S., & Young, K. L. (2020). The internationalization of European financial networks: a quantitative text analysis of EU consultation responses. Review of International Political Economy, 1–28. <https://doi.org/10.1080/09692290.2020.1779781>",
+    "parts": {
+      "author": [
+        {
+          "family": "James",
+          "given": "S."
+        },
+        {
+          "family": "Pagliari",
+          "given": "S."
+        },
+        {
+          "family": "Young",
+          "given": "K.L."
+        }
+      ],
+      "date": "2020",
+      "title": "The internationalization of European financial networks: a quantitative text analysis of EU consultation responses",
+      "pages": "1–28",
+      "url": "https://doi.org/10.1080/09692290.2020.1779781",
+      "type": "article-journal",
+      "container-title": "Review of International Political Economy",
+      "doi": "10.1080/09692290.2020.1779781"
+    },
+    "url": "https://doi.org/10.1080/09692290.2020.1779781"
+  },
+  {
+    "name": "biomartr",
+    "doi": "10.21105/joss.02170",
+    "citation": "Drost, H.-G. (2020). LTRpred: de novo annotation of intact retrotransposons. Journal of Open Source Software, 5(50), 2170. <https://doi.org/10.21105/joss.02170>",
+    "parts": {
+      "date": "2020",
+      "title": "LTRpred: de novo annotation of intact retrotransposons",
+      "volume": "5",
+      "pages": "2170",
+      "url": "https://doi.org/10.21105/joss.02170",
+      "type": "article-journal",
+      "container-title": "Journal of Open Source Software",
+      "issue": "50",
+      "doi": "10.21105/joss.02170",
+      "editor": [
+        {
+          "family": "Drost",
+          "given": "H.-G."
+        }
+      ]
+    },
+    "url": "https://doi.org/10.21105/joss.02170"
+  },
+  {
+    "name": "finch",
+    "doi": "10.1038/s41597-020-0544-1",
+    "citation": "Granados, J. E., Ros-Candeira, A., Pérez-Luque, A. J., Moreno-Llorca, R., Cano-Manuel, F. J., Fandos, P., … Zamora, R. (2020). Long-term monitoring of the Iberian ibex population in the Sierra Nevada of the southeast Iberian Peninsula. Scientific Data, 7(1). <https://doi.org/10.1038/s41597-020-0544-1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Granados",
+          "given": "J.E."
+        },
+        {
+          "family": "Ros-Candeira",
+          "given": "A."
+        },
+        {
+          "family": "Pérez-Luque",
+          "given": "A.J."
+        },
+        {
+          "family": "Moreno-Llorca",
+          "given": "R."
+        },
+        {
+          "family": "Cano-Manuel",
+          "given": "F.J."
+        },
+        {
+          "family": "Fandos",
+          "given": "P."
+        },
+        {
+          "family": "Zamora",
+          "given": "R."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": "2020",
+      "title": "Long-term monitoring of the Iberian ibex population in the Sierra Nevada of the southeast Iberian Peninsula",
+      "volume": "7",
+      "url": "https://doi.org/10.1038/s41597-020-0544-1",
+      "type": "article-journal",
+      "container-title": "Scientific Data",
+      "issue": "1",
+      "doi": "10.1038/s41597-020-0544-1"
+    },
+    "url": "https://doi.org/10.1038/s41597-020-0544-1"
+  },
+  {
+    "name": "rdhs,rnaturalearth",
+    "citation": "Brazeau, N. (2020). The Molecular, Spatial, and Genetic Epidemiology of Malaria in the Democratic Republic of the Congo. <https://cdr.lib.unc.edu/downloads/7s75dj87g>",
+    "parts": {
+      "author": [
+        {
+          "family": "Brazeau",
+          "given": "N."
+        }
+      ],
+      "date": "2020",
+      "title": "The Molecular, Spatial, and Genetic Epidemiology of Malaria in the Democratic Republic of the Congo",
+      "url": "https://cdr.lib.unc.edu/downloads/7s75dj87g"
+    },
+    "url": "https://cdr.lib.unc.edu/downloads/7s75dj87g"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.11646/phytotaxa.450.2.1",
+    "citation": "PACIFICO, R., ALMEDA, F., FROTA, A., & FIDANZA, K. (2020). <p><strong>Areas of endemism on Brazilian mountaintops revealed by taxonomically verified records of Microlicieae (Melastomataceae)<\/strong><\/p>. Phytotaxa, 450(2), 119–148. <https://doi.org/10.11646/phytotaxa.450.2.1>",
+    "parts": {
+      "author": [
+        {
+          "family": "PACIFICO",
+          "given": "R."
+        },
+        {
+          "family": "ALMEDA",
+          "given": "F."
+        },
+        {
+          "family": "FROTA",
+          "given": "A."
+        },
+        {
+          "family": "FIDANZA",
+          "given": "K."
+        }
+      ],
+      "date": "2020",
+      "title": "<p><strong>Areas of endemism on Brazilian mountaintops revealed by taxonomically verified records of Microlicieae (Melastomataceae)<\/strong><\/p>",
+      "volume": "450",
+      "pages": "119–148",
+      "url": "https://doi.org/10.11646/phytotaxa.450.2.1",
+      "type": "article-journal",
+      "container-title": "Phytotaxa",
+      "issue": "2",
+      "doi": "10.11646/phytotaxa.450.2.1"
+    },
+    "url": "https://doi.org/10.11646/phytotaxa.450.2.1"
+  },
+  {
+    "name": "weathercan",
+    "citation": "Hanes, C., Wotton, M., Woolford, D. G., Martell, D. L., & Flannigan, M. (2020). Preceding Fall Drought Conditions and Overwinter Precipitation Effects on Spring Wildland Fire Activity in Canada. Fire, 3(2), 24. <https://www.mdpi.com/2571-6255/3/2/24/pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hanes",
+          "given": "C."
+        },
+        {
+          "family": "Wotton",
+          "given": "M."
+        },
+        {
+          "family": "Woolford",
+          "given": "D.G."
+        },
+        {
+          "family": "Martell",
+          "given": "D.L."
+        },
+        {
+          "family": "Flannigan",
+          "given": "M."
+        }
+      ],
+      "date": "2020",
+      "title": "Preceding Fall Drought Conditions and Overwinter Precipitation Effects on Spring Wildland Fire Activity in Canada",
+      "volume": "3",
+      "pages": "24",
+      "url": "https://www.mdpi.com/2571-6255/3/2/24/pdf",
+      "type": "article-journal",
+      "container-title": "Fire",
+      "issue": "2"
+    },
+    "url": "https://www.mdpi.com/2571-6255/3/2/24/pdf"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1016/j.celrep.2020.107817",
+    "citation": "Burda, P.-C., Crosskey, T., Lauk, K., Zurborg, A., Söhnchen, C., Liffner, B., … Gilberger, T.-W. (2020). Structure-Based Identification and Functional Characterization of a Lipocalin in the Malaria Parasite Plasmodium falciparum. Cell Reports, 31(12), 107817. <https://doi.org/10.1016/j.celrep.2020.107817>",
+    "parts": {
+      "author": [
+        {
+          "family": "Burda",
+          "given": "P.-C."
+        },
+        {
+          "family": "Crosskey",
+          "given": "T."
+        },
+        {
+          "family": "Lauk",
+          "given": "K."
+        },
+        {
+          "family": "Zurborg",
+          "given": "A."
+        },
+        {
+          "family": "Söhnchen",
+          "given": "C."
+        },
+        {
+          "family": "Liffner",
+          "given": "B."
+        },
+        {
+          "family": "Gilberger",
+          "given": "T.-W."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": "2020",
+      "title": "Structure-Based Identification and Functional Characterization of a Lipocalin in the Malaria Parasite Plasmodium falciparum",
+      "volume": "31",
+      "pages": "107817",
+      "url": "https://doi.org/10.1016/j.celrep.2020.107817",
+      "type": "article-journal",
+      "container-title": "Cell Reports",
+      "issue": "12",
+      "doi": "10.1016/j.celrep.2020.107817"
+    },
+    "url": "https://doi.org/10.1016/j.celrep.2020.107817"
+  },
+  {
+    "name": "osfr",
+    "citation": "Corput, D. V. D. (2020). Locked in Syndrome Machine Learning Classification using Sentence Comprehension EEG Data. arXiv preprint arXiv:2006.12336 <https://arxiv.org/pdf/2006.12336.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Corput",
+          "given": "D.V.D."
+        }
+      ],
+      "date": "2020",
+      "title": "Locked in Syndrome Machine Learning Classification using Sentence Comprehension EEG Data",
+      "url": "https://arxiv.org/pdf/2006.12336.pdf",
+      "note": "arXiv preprint arXiv:2006.12336",
+      "arxiv": "2006.12336"
+    },
+    "url": "https://arxiv.org/pdf/2006.12336.pdf"
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1177/2043820620935683",
+    "citation": "Stephens, M. (2020). A geospatial infodemic: Mapping Twitter conspiracy theories of COVID-19. Dialogues in Human Geography, 10(2), 276–281. <https://doi.org/10.1177/2043820620935683>",
+    "parts": {
+      "author": [
+        {
+          "family": "Stephens",
+          "given": "M."
+        }
+      ],
+      "date": "2020",
+      "title": "A geospatial infodemic: Mapping Twitter conspiracy theories of COVID-19",
+      "volume": "10",
+      "pages": "276–281",
+      "url": "https://doi.org/10.1177/2043820620935683",
+      "type": "article-journal",
+      "container-title": "Dialogues in Human Geography",
+      "issue": "2",
+      "doi": "10.1177/2043820620935683"
+    },
+    "url": "https://doi.org/10.1177/2043820620935683"
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1126/sciadv.abc2717",
+    "citation": "Green, J., Edgerton, J., Naftel, D., Shoub, K., & Cranmer, S. J. (2020). Elusive consensus: Polarization in elite communication on the COVID-19 pandemic. Science Advances, 6(28), eabc2717. <https://doi.org/10.1126/sciadv.abc2717>",
+    "parts": {
+      "author": [
+        {
+          "family": "Green",
+          "given": "J."
+        },
+        {
+          "family": "Edgerton",
+          "given": "J."
+        },
+        {
+          "family": "Naftel",
+          "given": "D."
+        },
+        {
+          "family": "Shoub",
+          "given": "K."
+        },
+        {
+          "family": "Cranmer",
+          "given": "S.J."
+        }
+      ],
+      "date": "2020",
+      "title": "Elusive consensus: Polarization in elite communication on the COVID-19 pandemic",
+      "volume": "6",
+      "pages": "2717",
+      "url": "https://doi.org/10.1126/sciadv.abc2717",
+      "type": "article-journal",
+      "container-title": "Science Advances",
+      "issue": "28",
+      "doi": "10.1126/sciadv.abc2717"
+    },
+    "url": "https://doi.org/10.1126/sciadv.abc2717"
+  },
+  {
+    "name": "MODIStsp",
+    "citation": "Jayawardhana, W. G. N. N., & Chathurange, V. M. I. (2020). Investigate the sensitivity of the satellite-based agricultural drought indices to monitor the drought condition of paddy and introduction to enhanced multi-temporal agricultural drought indices. J Remote Sens GIS, 9, 271. <https://www.longdom.org/open-access/investigate-the-sensitivity-of-the-satellitebased-agricultural-drought-indices-to-monitor-the-drought-condition-of-paddy.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Jayawardhana",
+          "given": "W.G.N.N."
+        },
+        {
+          "family": "Chathurange",
+          "given": "V.M.I."
+        }
+      ],
+      "date": "2020",
+      "title": "Investigate the sensitivity of the satellite-based agricultural drought indices to monitor the drought condition of paddy and introduction to enhanced multi-temporal agricultural drought indices",
+      "volume": "9",
+      "pages": "271",
+      "url": "https://www.longdom.org/open-access/investigate-the-sensitivity-of-the-satellitebased-agricultural-drought-indices-to-monitor-the-drought-condition-of-paddy.pdf",
+      "type": "article-journal",
+      "container-title": "J Remote Sens GIS"
+    },
+    "url": "https://www.longdom.org/open-access/investigate-the-sensitivity-of-the-satellitebased-agricultural-drought-indices-to-monitor-the-drought-condition-of-paddy.pdf"
+  },
+  {
+    "name": "rnoaa",
+    "doi": "10.1016/j.chaos.2020.110027",
+    "citation": "Da Silva, R. G., Ribeiro, M. H. D. M., Mariani, V. C., & Coelho, L. dos S. (2020). Forecasting Brazilian and American COVID-19 cases based on artificial intelligence coupled with climatic exogenous variables. Chaos, Solitons & Fractals, 139, 110027. <https://doi.org/10.1016/j.chaos.2020.110027>",
+    "parts": {
+      "author": [
+        {
+          "family": "Da Silva",
+          "given": "R.G."
+        },
+        {
+          "family": "Ribeiro",
+          "given": "M.H.D.M."
+        },
+        {
+          "family": "Mariani",
+          "given": "V.C."
+        },
+        {
+          "family": "Coelho",
+          "given": "L.dos S."
+        }
+      ],
+      "date": "2020",
+      "title": "Forecasting Brazilian and American COVID-19 cases based on artificial intelligence coupled with climatic exogenous variables",
+      "volume": "139",
+      "pages": "110027",
+      "url": "https://doi.org/10.1016/j.chaos.2020.110027",
+      "type": "article-journal",
+      "container-title": "Chaos, Solitons & Fractals",
+      "doi": "10.1016/j.chaos.2020.110027"
+    },
+    "url": "https://doi.org/10.1016/j.chaos.2020.110027"
+  },
+  {
+    "name": "magick",
+    "citation": "Sacchi, R., Cancian, S., Ghia, D., Fea, G., & Coladonato, A. (2020). Colour variation in signal crayfish Pacifastacus leniusculus. Current Zoology. <https://bit.ly/3gxTXhD>",
+    "parts": {
+      "author": [
+        {
+          "family": "Sacchi",
+          "given": "R."
+        },
+        {
+          "family": "Cancian",
+          "given": "S."
+        },
+        {
+          "family": "Ghia",
+          "given": "D."
+        },
+        {
+          "family": "Fea",
+          "given": "G."
+        },
+        {
+          "family": "Coladonato",
+          "given": "A."
+        }
+      ],
+      "date": "2020",
+      "title": "Colour variation in signal crayfish Pacifastacus leniusculus",
+      "url": "https://bit.ly/3gxTXhD",
+      "type": "article-journal",
+      "container-title": "Current Zoology"
+    },
+    "url": "https://bit.ly/3gxTXhD"
+  },
+  {
+    "name": "rnoaa,rWBclimate,nasapower",
+    "doi": "10.3390/atmos11070682",
+    "citation": "Charalampopoulos, I. (2020). The R Language as a Tool for Biometeorological Research. Atmosphere, 11(7), 682. <https://doi.org/10.3390/atmos11070682>",
+    "parts": {
+      "author": [
+        {
+          "family": "Charalampopoulos",
+          "given": "I."
+        }
+      ],
+      "date": "2020",
+      "title": "The R Language as a Tool for Biometeorological Research",
+      "volume": "11",
+      "pages": "682",
+      "url": "https://doi.org/10.3390/atmos11070682",
+      "type": "article-journal",
+      "container-title": "Atmosphere",
+      "issue": "7",
+      "doi": "10.3390/atmos11070682"
+    },
+    "url": "https://doi.org/10.3390/atmos11070682"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1038/s41467-020-17139-y",
+    "citation": "Oh, S., Yeom, J., Cho, H. J., Kim, J.-H., Yoon, S.-J., Kim, H., … Kim, H. S. (2020). Integrated pharmaco-proteogenomics defines two subgroups in isocitrate dehydrogenase wild-type glioblastoma with prognostic and therapeutic opportunities. Nature Communications, 11(1). <https://doi.org/10.1038/s41467-020-17139-y>",
+    "parts": {
+      "author": [
+        {
+          "family": "Oh",
+          "given": "S."
+        },
+        {
+          "family": "Yeom",
+          "given": "J."
+        },
+        {
+          "family": "Cho",
+          "given": "H.J."
+        },
+        {
+          "family": "Kim",
+          "given": "J.-H."
+        },
+        {
+          "family": "Yoon",
+          "given": "S.-J."
+        },
+        {
+          "family": "Kim",
+          "given": "H."
+        },
+        {
+          "family": "Kim",
+          "given": "H.S."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": "2020",
+      "title": "Integrated pharmaco-proteogenomics defines two subgroups in isocitrate dehydrogenase wild-type glioblastoma with prognostic and therapeutic opportunities",
+      "volume": "11",
+      "url": "https://doi.org/10.1038/s41467-020-17139-y",
+      "type": "article-journal",
+      "container-title": "Nature Communications",
+      "issue": "1",
+      "doi": "10.1038/s41467-020-17139-y"
+    },
+    "url": "https://doi.org/10.1038/s41467-020-17139-y"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1038/s41467-020-17116-5",
+    "citation": "Sun, M., Folk, R. A., Gitzendanner, M. A., Soltis, P. S., Chen, Z., Soltis, D. E., & Guralnick, R. P. (2020). Recent accelerated diversification in rosids occurred outside the tropics. Nature Communications, 11(1). <https://doi.org/10.1038/s41467-020-17116-5>",
+    "parts": {
+      "author": [
+        {
+          "family": "Sun",
+          "given": "M."
+        },
+        {
+          "family": "Folk",
+          "given": "R.A."
+        },
+        {
+          "family": "Gitzendanner",
+          "given": "M.A."
+        },
+        {
+          "family": "Soltis",
+          "given": "P.S."
+        },
+        {
+          "family": "Chen",
+          "given": "Z."
+        },
+        {
+          "family": "Soltis",
+          "given": "D.E."
+        },
+        {
+          "family": "Guralnick",
+          "given": "R.P."
+        }
+      ],
+      "date": "2020",
+      "title": "Recent accelerated diversification in rosids occurred outside the tropics",
+      "volume": "11",
+      "url": "https://doi.org/10.1038/s41467-020-17116-5",
+      "type": "article-journal",
+      "container-title": "Nature Communications",
+      "issue": "1",
+      "doi": "10.1038/s41467-020-17116-5"
+    },
+    "url": "https://doi.org/10.1038/s41467-020-17116-5"
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1111/jfb.14451",
+    "citation": "Griffiths, D. (2020). Foraging habitat determines predator–prey size relationships in marine fishes. Journal of Fish Biology. <https://doi.org/10.1111/jfb.14451>",
+    "parts": {
+      "author": [
+        {
+          "family": "Griffiths",
+          "given": "D."
+        }
+      ],
+      "date": "2020",
+      "title": "Foraging habitat determines predator–prey size relationships in marine fishes",
+      "url": "https://doi.org/10.1111/jfb.14451",
+      "type": "article-journal",
+      "container-title": "Journal of Fish Biology",
+      "doi": "10.1111/jfb.14451"
+    },
+    "url": "https://doi.org/10.1111/jfb.14451"
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1038/s41598-020-67871-0",
+    "citation": "Kurose, D., Pollard, K. M., & Ellison, C. A. (2020). Chloroplast DNA analysis of the invasive weed, Himalayan balsam (Impatiens glandulifera), in the British Isles. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-67871-0>",
+    "parts": {
+      "author": [
+        {
+          "family": "Kurose",
+          "given": "D."
+        },
+        {
+          "family": "Pollard",
+          "given": "K.M."
+        },
+        {
+          "family": "Ellison",
+          "given": "C.A."
+        }
+      ],
+      "date": "2020",
+      "title": "Chloroplast DNA analysis of the invasive weed, Himalayan balsam (Impatiens glandulifera), in the British Isles",
+      "volume": "10",
+      "url": "https://doi.org/10.1038/s41598-020-67871-0",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-67871-0"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-67871-0"
+  },
+  {
+    "name": "writexl",
+    "citation": "Ehlers, M., Nold, J., Kuhn, M., Klingelhöfer-Jens, M., & Lonsdorf, T. (2020). Natural variations in brain morphology do not account for inter-individual differences in defensive responding during fear acquisition training and extinction. <https://psyarxiv.com/q2kyf/download?format=pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ehlers",
+          "given": "M."
+        },
+        {
+          "family": "Nold",
+          "given": "J."
+        },
+        {
+          "family": "Kuhn",
+          "given": "M."
+        },
+        {
+          "family": "Klingelhöfer-Jens",
+          "given": "M."
+        },
+        {
+          "family": "Lonsdorf",
+          "given": "T."
+        }
+      ],
+      "date": "2020",
+      "title": "Natural variations in brain morphology do not account for inter-individual differences in defensive responding during fear acquisition training and extinction",
+      "url": "https://psyarxiv.com/q2kyf/download?format=pdf"
+    },
+    "url": "https://psyarxiv.com/q2kyf/download?format=pdf"
+  },
+  {
+    "name": "writexl",
+    "citation": "Jerabek M., Kubat J., Fabera V. (2020) Method to Comparison of Cities. In: Knapcikova L., Balog M., Peraković D., Periša M. (eds) New Approaches in Management of Smart Manufacturing Systems. EAI/Springer Innovations in Communication and Computing. Springer, Cham. <https://doi.org/10.1007/978-3-030-40176-4_7>",
+    "parts": {
+      "author": [
+        {
+          "family": "M.",
+          "given": "Jerabek"
+        },
+        {
+          "family": "J.",
+          "given": "Kubat"
+        },
+        {
+          "family": "V",
+          "given": "Fabera"
+        }
+      ],
+      "date": "2020",
+      "title": "Method to Comparison of Cities",
+      "url": "https://doi.org/10.1007/978-3-030-40176-4_7",
+      "type": "chapter",
+      "container-title": "New Approaches in Management of Smart Manufacturing Systems. EAI/Springer Innovations in Communication and Computing",
+      "doi": "10.1007/978-3-030-40176-4_7",
+      "location": "Cham",
+      "publisher": "Springer",
+      "editor": [
+        {
+          "family": "L.",
+          "given": "Knapcikova"
+        },
+        {
+          "family": "M.",
+          "given": "Balog"
+        },
+        {
+          "family": "D.",
+          "given": "Peraković"
+        },
+        {
+          "family": "M",
+          "given": "Periša"
+        }
+      ]
+    },
+    "url": "https://doi.org/10.1007/978-3-030-40176-4_7"
+  },
+  {
+    "name": "pdftools",
+    "citation": "Westfall J. (2020) R Anywhere. In: Practical R 4. Apress, Berkeley, CA. <https://doi.org/10.1007/978-1-4842-5946-7_8>",
+    "parts": {
+      "author": [
+        {
+          "family": "Westfall",
+          "given": "J."
+        }
+      ],
+      "date": "2020",
+      "title": "R Anywhere",
+      "url": "https://doi.org/10.1007/978-1-4842-5946-7_8",
+      "type": "chapter",
+      "container-title": "Practical R 4",
+      "doi": "10.1007/978-1-4842-5946-7_8",
+      "location": "Berkeley, CA",
+      "publisher": "Apress"
+    },
+    "url": "https://doi.org/10.1007/978-1-4842-5946-7_8"
+  },
+  {
+    "name": "bold,taxize",
+    "doi": "10.1038/s41597-020-0549-9",
+    "citation": "Arranz, V., Pearman, W. S., Aguirre, J. D., & Liggins, L. (2020). MARES, a replicable pipeline and curated reference database for marine eukaryote metabarcoding. Scientific Data, 7(1). <https://doi.org/10.1038/s41597-020-0549-9>",
+    "parts": {
+      "author": [
+        {
+          "family": "Arranz",
+          "given": "V."
+        },
+        {
+          "family": "Pearman",
+          "given": "W.S."
+        },
+        {
+          "family": "Aguirre",
+          "given": "J.D."
+        },
+        {
+          "family": "Liggins",
+          "given": "L."
+        }
+      ],
+      "date": "2020",
+      "title": "MARES, a replicable pipeline and curated reference database for marine eukaryote metabarcoding",
+      "volume": "7",
+      "url": "https://doi.org/10.1038/s41597-020-0549-9",
+      "type": "article-journal",
+      "container-title": "Scientific Data",
+      "issue": "1",
+      "doi": "10.1038/s41597-020-0549-9"
+    },
+    "url": "https://doi.org/10.1038/s41597-020-0549-9"
+  },
+  {
+    "name": "bib2df",
+    "citation": "LeBeau, B. C., & Aloe, A. M. (2020). Evolution of Statistical Software and Quantitative Methods. <https://doi.org/10.17077/pp.005273>",
+    "parts": {
+      "author": [
+        {
+          "family": "LeBeau",
+          "given": "B.C."
+        },
+        {
+          "family": "Aloe",
+          "given": "A.M."
+        }
+      ],
+      "date": "2020",
+      "title": "Evolution of Statistical Software and Quantitative Methods",
+      "url": "https://doi.org/10.17077/pp.005273",
+      "doi": "10.17077/pp.005273"
+    },
+    "url": "https://doi.org/10.17077/pp.005273"
+  },
+  {
+    "name": "fingertipsR",
+    "citation": "van Wieringen, W. N., & Binder, H. (2020). Transfer learning of regression models from a sequence of datasets by penalized estimation. arXiv preprint arXiv:2007.02117. <https://arxiv.org/pdf/2007.02117>",
+    "parts": {
+      "author": [
+        {
+          "family": "Wieringen",
+          "given": "W.N.",
+          "particle": "van"
+        },
+        {
+          "family": "Binder",
+          "given": "H."
+        }
+      ],
+      "date": "2020",
+      "title": "Transfer learning of regression models from a sequence of datasets by penalized estimation",
+      "url": "https://arxiv.org/pdf/2007.02117",
+      "note": "arXiv preprint arXiv:2007.02117.",
+      "arxiv": "2007.02117"
+    },
+    "url": "https://arxiv.org/pdf/2007.02117"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/ddi.13113",
+    "citation": "Hock, M., Hofmann, R., Essl, F., Pyšek, P., Bruelheide, H., & Erfmeier, A. (2020). Native distribution characteristics rather than functional traits explain preadaptation of invasive species to high‐UV‐B environments. Diversity and Distributions. <https://doi.org/10.1111/ddi.13113>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hock",
+          "given": "M."
+        },
+        {
+          "family": "Hofmann",
+          "given": "R."
+        },
+        {
+          "family": "Essl",
+          "given": "F."
+        },
+        {
+          "family": "Pyšek",
+          "given": "P."
+        },
+        {
+          "family": "Bruelheide",
+          "given": "H."
+        },
+        {
+          "family": "Erfmeier",
+          "given": "A."
+        }
+      ],
+      "date": "2020",
+      "title": "Native distribution characteristics rather than functional traits explain preadaptation of invasive species to high‐UV‐B environments",
+      "url": "https://doi.org/10.1111/ddi.13113",
+      "type": "article-journal",
+      "container-title": "Diversity and Distributions",
+      "doi": "10.1111/ddi.13113"
+    },
+    "url": "https://doi.org/10.1111/ddi.13113"
+  },
+  {
+    "name": "rotl",
+    "citation": "Álvarez-Noriega, M., Burgess, S. C., Byers, J. E., Pringle, J. M., Wares, J. P., & Marshall, D. J. (2020). Global biogeography of marine dispersal potential. Nature Ecology & Evolution, 4(9), 1196–1203. <https://doi.org/10.1038/s41559-020-1238-y>",
+    "parts": {
+      "author": [
+        {
+          "family": "Álvarez-Noriega",
+          "given": "M."
+        },
+        {
+          "family": "Burgess",
+          "given": "S.C."
+        },
+        {
+          "family": "Byers",
+          "given": "J.E."
+        },
+        {
+          "family": "Pringle",
+          "given": "J.M."
+        },
+        {
+          "family": "Wares",
+          "given": "J.P."
+        },
+        {
+          "family": "Marshall",
+          "given": "D.J."
+        }
+      ],
+      "date": "2020",
+      "title": "Global biogeography of marine dispersal potential",
+      "volume": "4",
+      "pages": "1196–1203",
+      "url": "https://doi.org/10.1038/s41559-020-1238-y",
+      "type": "article-journal",
+      "container-title": "Nature Ecology & Evolution",
+      "issue": "9",
+      "doi": "10.1038/s41559-020-1238-y"
+    },
+    "url": "https://doi.org/10.1038/s41559-020-1238-y"
   }
 ]
