@@ -6389,5 +6389,40 @@
     "citation": "Lewinski, D., & Hasan, M. R. Russian Troll Account Classification with Twitter and Facebook Data. <https://www.researchgate.net/profile/Md_Rashidul_Hasan/publication/335880060_Russian_Troll_Account_Classification_with_Twitter_and_Facebook_Data/links/5d818ebf458515fca1711d72/Russian-Troll-Account-Classification-with-Twitter-and-Facebook-Data.pdf>",
     "img_path": null,
     "research_snippet": "russian troll social media account classification"
+  },
+  {
+    "name": "textreuse",
+    "doi": "10.1093/ahr/123.1.132",
+    "citation": "Funk, K. R., & Mullen, L. A. (2017). The Spine of American Law: Digital Text Analysis and US Legal Practice. The American Historical Review <https://doi.org/10.1093/ahr/123.1.132>",
+    "img_path": null,
+    "research_snippet": null
+  },
+  {
+    "name": "plotly",
+    "doi": null,
+    "citation": "Sethuraman, J., & Vaishnavi, J. 2018. An innovative integrated methodology for predicting and mitigating global warming in major Indian cities. <https://pdfs.semanticscholar.org/59b8/62ec6fb7fe47a77375e1f4f7cb657d10c715.pdf>",
+    "img_path": null,
+    "research_snippet": null
+  },
+  {
+    "name": "tokenizers",
+    "doi": null,
+    "citation": "Patel, D. 2018.  Sentiment Analysis of Harry Potter Book Series using R. Journal of Applied Science and Computations. <http://www.j-asc.com/gallery/66-november-1233.pdf>",
+    "img_path": null,
+    "research_snippet": null
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1093/icb/icz119",
+    "citation": "Alfaro, M. E., Karan, E., Schwartz, S. T., & Shultz, A. J. (2019). The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae). Integrative and Comparative Biology. <https://doi.org/10.1093/icb/icz119>",
+    "img_path": "img/AlfaroEtal2019Integrative&ComparativeBiology.png",
+    "research_snippet": "color pattern in Butterflyfishes"
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1093/cz/zoz037",
+    "citation": "Alhajeri, B. H., Porto, L., & Maestri, R. (2019). Habitat productivity is a poor predictor of body size in rodents. Current Zoology. <https://doi.org/10.1093/cz/zoz037>",
+    "img_path": null,
+    "research_snippet": "body size in rodents"
   }
 ]
