@@ -48,7 +48,7 @@
   {
     "name": "taxize",
     "doi": "10.1017/s0960428615000256",
-    "citation": "Baden, H. M., Särkinen, T., Conde, D. A., Matthews, A. C., Vandrot, H., Chicas, S., … Harris, D. J. (2015). A BOTANICAL INVENTORY OF FOREST ON KARSTIC LIMESTONE AND METAMORPHIC SUBSTRATE IN THE CHIQUIBUL FOREST, BELIZE, WITH FOCUS ON WOODY TAXA. Edinburgh Journal of Botany, 73(01), 39–81. <https://doi.org/10.1017/s0960428615000256>",
+    "citation": "Baden, H. M., Särkinen, T., Conde, D. A., Matthews, A. C., Vandrot, H., Chicas, S., Harris, D. J. (2015). A botanical inventory of forest on karstic limestone and metamorphic substrate in the Chiquibul Forest, Belize, with focus on woody taxa. Edinburgh Journal of Botany, 73(01), 39–81. <https://doi.org/10.1017/s0960428615000256>",
     "parts": {
       "author": [
         {
@@ -78,28 +78,13 @@
         {
           "family": "Harris",
           "given": "D.J."
-        },
-        {
-          "others": true
-        },
-        {
-          "family": "LIMESTONE",
-          "given": "O.F.F.O.R.E.S.T.O.N.K.A.R.S.T.I.C."
-        },
-        {
-          "family": "FOREST",
-          "given": "M.E.T.A.M.O.R.P.H.I.C.S.U.B.S.T.R.A.T.E.I.N.T.H.E.C.H.I.Q.U.I.B.U.L."
-        },
-        {
-          "given": "B.E.L.I.Z.E."
         }
       ],
       "date": [
         "2015"
       ],
       "title": [
-        "A BOTANICAL INVENTORY",
-        "WITH FOCUS ON WOODY TAXA"
+        "A botanical inventory of forest on karstic limestone and metamorphic substrate in the Chiquibul Forest, Belize, with focus on woody taxa"
       ],
       "volume": [
         "73"
@@ -632,7 +617,7 @@
   {
     "name": "rgbif",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -653,7 +638,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -666,7 +651,7 @@
   {
     "name": "rdryad",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -687,7 +672,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -700,7 +685,7 @@
   {
     "name": "rfisheries",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -721,7 +706,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -734,7 +719,7 @@
   {
     "name": "RMendeley",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -755,7 +740,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -768,7 +753,7 @@
   {
     "name": "treeBASE",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -789,7 +774,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -802,7 +787,7 @@
   {
     "name": "rfishbase",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -823,7 +808,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -836,7 +821,7 @@
   {
     "name": "taxize",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -857,7 +842,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -870,7 +855,7 @@
   {
     "name": "rsnsps",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -891,7 +876,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -904,7 +889,7 @@
   {
     "name": "rvertnet",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -925,7 +910,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -938,7 +923,7 @@
   {
     "name": "rentrez",
     "doi": "10.2478/cszma-2013-0004",
-    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea (A), 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
+    "citation": "Drozd, P., & Šipoš, J. (2013). R for all (I): Introduction to the new age of biological analyses. Casopis Slezskeho Zemskeho Muzea A, 62(1). <https://doi.org/10.2478/cszma-2013-0004>",
     "parts": {
       "author": [
         {
@@ -959,7 +944,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Casopis Slezskeho Zemskeho Muzea (A"
+        "Casopis Slezskeho Zemskeho Muzea A"
       ],
       "issue": [
         "1"
@@ -3427,7 +3412,7 @@
   {
     "name": "rfishbase",
     "doi": "10.1111/jzs.12103",
-    "citation": "Collins, R. A., Britz, R., & Rüber, L. (2015). Phylogenetic systematics of leaffishes (Teleostei: Polycentridae, Nandidae). Journal of Zoological Systematics and Evolutionary Research, 53(4), 259–272. <https://doi.org/10.1111/jzs.12103>",
+    "citation": "Collins, R. A., Britz, R., & Rüber, L. (2015). Phylogenetic systematics of leaffishes - Teleostei: Polycentridae, Nandidae. Journal of Zoological Systematics and Evolutionary Research. 53(4), 259–272. <https://doi.org/10.1111/jzs.12103>",
     "parts": {
       "author": [
         {
@@ -3447,7 +3432,7 @@
         "2015"
       ],
       "title": [
-        "Phylogenetic systematics of leaffishes (Teleostei: Polycentridae"
+        "Phylogenetic systematics of leaffishes - Teleostei: Polycentridae, Nandidae"
       ],
       "volume": [
         "53"
@@ -3460,7 +3445,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Nandidae). Journal of Zoological Systematics and Evolutionary Research"
+        "Journal of Zoological Systematics and Evolutionary Research"
       ],
       "issue": [
         "4"
@@ -4810,7 +4795,7 @@
   },
   {
     "name": "ropensci",
-    "citation": "Kraker, P., Kittel, C., & Enkhbayar, A. (2016). Open Knowledge Maps: Creating a Visual Interface to the World’s Scientific Knowledge Based on Natural Language Processing. 027.7 Zeitschrift für Bibliothekskultur/Journal for Library Culture, 4(2), 98-103. <http://0277.ch/ojs/index.php/cdrs_0277/article/view/157>",
+    "citation": "Kraker, P., Kittel, C., & Enkhbayar, A. (2016). Open Knowledge Maps: Creating a Visual Interface to the World’s Scientific Knowledge Based on Natural Language Processing. Journal for Library Culture, 4(2), 98-103. <http://0277.ch/ojs/index.php/cdrs_0277/article/view/157>",
     "parts": {
       "author": [
         {
@@ -4843,7 +4828,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "027.7 Zeitschrift für Bibliothekskultur/Journal for Library Culture"
+        "Journal for Library Culture"
       ],
       "issue": [
         "2"
@@ -5054,7 +5039,7 @@
   {
     "name": "ropensci",
     "doi": "10.1111/jors.12293",
-    "citation": "Lovelace, R. (2016).  The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences , by Rob Kitchin. 2014. Thousand Oaks, California: Sage Publications. 222+xvii. ISBN: 978-1446287484, $100. . Journal of Regional Science, 56(4), 722–723. <https://doi.org/10.1111/jors.12293>",
+    "citation": "Lovelace, R. (2016).  The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences. Journal of Regional Science, 56(4), 722–723. <https://doi.org/10.1111/jors.12293>",
     "parts": {
       "author": [
         {
@@ -5063,21 +5048,10 @@
         }
       ],
       "date": [
-        "2016",
-        "2014"
+        "2016"
       ],
       "title": [
-        "The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences , by Rob Kitchin",
-        "Thousand Oaks"
-      ],
-      "location": [
-        "California"
-      ],
-      "publisher": [
-        "Sage Publications"
-      ],
-      "note": [
-        "222+xvii. ISBN: 978-1446287484, $100."
+        "The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences"
       ],
       "volume": [
         "56"
@@ -5090,7 +5064,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        ". Journal of Regional Science"
+        "Journal of Regional Science"
       ],
       "issue": [
         "4"
@@ -5179,7 +5153,7 @@
   {
     "name": "rAltmetric",
     "doi": "10.1177/0886260516657914",
-    "citation": "Madden, K., Evaniew, N., Scott, T., Domazetoska, E., Dosanjh, P., Li, C. S., … Sprague, S. (2016). Knowledge Dissemination of Intimate Partner Violence Intervention Studies Measured Using Alternative Metrics: Results From a Scoping Review. Journal of Interpersonal Violence. <https://doi.org/10.1177/0886260516657914>",
+    "citation": "Madden, K., Evaniew, N., Scott, T., Domazetoska, E., Dosanjh, P., Li, C. S., … Sprague, S. (2016). Knowledge Dissemination of Intimate Partner Violence Intervention Studies Measured Using Alternative Metrics Results From a Scoping Review. Journal of Interpersonal Violence. <https://doi.org/10.1177/0886260516657914>",
     "parts": {
       "author": [
         {
@@ -5218,14 +5192,14 @@
         "2016"
       ],
       "title": [
-        "Knowledge Dissemination of Intimate Partner Violence Intervention Studies Measured Using Alternative Metrics"
+        "Knowledge Dissemination of Intimate Partner Violence Intervention Studies Measured Using Alternative Metrics Results From a Scoping Review"
       ],
       "url": [
         "https://doi.org/10.1177/0886260516657914"
       ],
       "type": "article-journal",
       "container-title": [
-        "Results From a Scoping Review. Journal of Interpersonal Violence"
+        "Journal of Interpersonal Violence"
       ],
       "doi": [
         "10.1177/0886260516657914"
@@ -8318,7 +8292,8 @@
   },
   {
     "name": "textreuse",
-    "citation": "Funk, K. R., & Mullen, L. A. (2017). The Spine of American Law: Digital Text Analysis and US Legal Practice. <https://files.osf.io/v1/resources/xup2h/providers/osfstorage/596688e26c613b00446ff69e?action=download&version=3&direct>",
+    "doi": "10.1093/ahr/123.1.132",
+    "citation": "Funk, K. R., & Mullen, L. A. (2017). The Spine of American Law: Digital Text Analysis and US Legal Practice. The American Historical Review. <https://doi.org/10.1093/ahr/123.1.132>",
     "parts": {
       "author": [
         {
@@ -8337,9 +8312,15 @@
         "The Spine of American Law: Digital Text Analysis and US Legal Practice"
       ],
       "url": [
-        "https://files.osf.io/v1/resources/xup2h/providers/osfstorage/596688e26c613b00446ff69e?action=download&version=3&direct"
+        "https://doi.org/10.1093/ahr/123.1.132"
       ],
-      "type": null
+      "type": "article-journal",
+      "container-title": [
+        "The American Historical Review"
+      ],
+      "doi": [
+        "10.1093/ahr/123.1.132"
+      ]
     }
   },
   {
@@ -8423,7 +8404,7 @@
   },
   {
     "name": "rentrez",
-    "citation": "Lee, Y. Y., Foster, E. D., Polley, D. E., & Odell, J. Using the 'rentrez' R Package to Identify Repository Records for NCBI LinkOut. Chicago. Code4lib Journal. <http://journal.code4lib.org/articles/12792>",
+    "citation": "Lee, Y. Y., Foster, E. D., Polley, D. E., & Odell, J. Using the 'rentrez' R Package to Identify Repository Records for NCBI LinkOut. Code4lib Journal. <http://journal.code4lib.org/articles/12792>",
     "parts": {
       "author": [
         {
@@ -8451,7 +8432,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Chicago. Code4lib Journal"
+        "Code4lib Journal"
       ],
       "date": [
         "1279"
@@ -8463,7 +8444,7 @@
   },
   {
     "name": "ropensci",
-    "citation": "Lee, Y. Y., Foster, E. D., Polley, D. E., & Odell, J. Using the 'rentrez' R Package to Identify Repository Records for NCBI LinkOut. Chicago. Code4lib Journal. <http://journal.code4lib.org/articles/12792>",
+    "citation": "Lee, Y. Y., Foster, E. D., Polley, D. E., & Odell, J. Using the 'rentrez' R Package to Identify Repository Records for NCBI LinkOut. Code4lib Journal. <http://journal.code4lib.org/articles/12792>",
     "parts": {
       "author": [
         {
@@ -8491,7 +8472,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Chicago. Code4lib Journal"
+        "Code4lib Journal"
       ],
       "date": [
         "1279"
@@ -16981,7 +16962,7 @@
   },
   {
     "name": "plotly",
-    "citation": "Sethuraman, J., & Vaishnavi, J. 2018. An innovative integrated methodology for predicting and mitigating global warming in major Indian cities. <https://acadpubl.eu/hub/2018-119-15/1/45.pdf>",
+    "citation": "Sethuraman, J., & Vaishnavi, J. 2018. An innovative integrated methodology for predicting and mitigating global warming in major Indian cities. <https://pdfs.semanticscholar.org/59b8/62ec6fb7fe47a77375e1f4f7cb657d10c715.pdf>",
     "parts": {
       "author": [
         {
@@ -17000,7 +16981,7 @@
         "An innovative integrated methodology for predicting and mitigating global warming in major Indian cities"
       ],
       "url": [
-        "https://acadpubl.eu/hub/2018-119-15/1/45.pdf"
+        "https://pdfs.semanticscholar.org/59b8/62ec6fb7fe47a77375e1f4f7cb657d10c715.pdf"
       ],
       "type": null
     }
@@ -22292,7 +22273,7 @@
   },
   {
     "name": "tokenizers",
-    "citation": "Patel, D. 2018.  Sentiment Analysis of Harry Potter Book Series using R. <http://www.j-asc.com/gallery/66-november-1233.pdf>",
+    "citation": "Patel, D. 2018. Sentiment Analysis of Harry Potter Book Series using R. Journal of Applied Science and Computations. <http://www.j-asc.com/gallery/66-november-1233.pdf>",
     "parts": {
       "author": [
         {
@@ -22309,7 +22290,10 @@
       "url": [
         "http://www.j-asc.com/gallery/66-november-1233.pdf"
       ],
-      "type": null
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Applied Science and Computations"
+      ]
     }
   },
   {
@@ -22340,7 +22324,7 @@
   {
     "name": "writexl",
     "doi": "10.1016/j.scienta.2018.11.025",
-    "citation": "Garmendia, A., Beltrán, R., Zornoza, C., Breijo, F., Reig, J., Bayona, I., & Merle, H. (2019). Insect repellent and chemical agronomic treatments to reduce seed number in “Afourer” mandarin. Effect on yield and fruit diameter. Scientia Horticulturae, 246, 437–447. <https://doi.org/10.1016/j.scienta.2018.11.025>",
+    "citation": "Garmendia, A., Beltrán, R., Zornoza, C., Breijo, F., Reig, J., Bayona, I., & Merle, H. (2019). Insect repellent and chemical agronomic treatments to reduce seed number in 'Afourer' mandarin - Effect on yield and fruit diameter. Scientia Horticulturae. 246, 437–447. <https://doi.org/10.1016/j.scienta.2018.11.025>",
     "parts": {
       "author": [
         {
@@ -22376,7 +22360,7 @@
         "2019"
       ],
       "title": [
-        "Insect repellent and chemical agronomic treatments to reduce seed number in “Afourer” mandarin"
+        "Insect repellent and chemical agronomic treatments to reduce seed number in 'Afourer' mandarin - Effect on yield and fruit diameter"
       ],
       "volume": [
         "246"
@@ -22389,7 +22373,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Effect on yield and fruit diameter. Scientia Horticulturae"
+        "Scientia Horticulturae"
       ],
       "doi": [
         "10.1016/j.scienta.2018.11.025"
@@ -24299,7 +24283,7 @@
   },
   {
     "name": "plotly",
-    "citation": "Duan, J., Wei Shi, Nathaniel K Jue, Zongliang Jiang, Lynn Kuo, Rachel O’Neill, Eckhard Wolf, Hong Dong, Xinbao Zheng, Jingbo Chen, Xiuchun (Cindy) Tian. 2018. Dosage Compensation of the X Chromosomes in Bovine Germline, Early Embryos and Somatic Tissues. Genome Biology and Evolution. <https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evy270/5253178>",
+    "citation": "Duan, J., Wei Shi, Nathaniel K Jue, Zongliang Jiang, Lynn Kuo, Rachel O’Neill, Eckhard Wolf, Hong Dong, Xinbao Zheng, Jingbo Chen, Xiuchun (Cindy) Tian. 2018. Dosage Compensation of the X Chromosomes in Bovine Germline Early Embryos and Somatic Tissues. Genome Biology and Evolution. <https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evy270/5253178>",
     "parts": {
       "author": [
         {
@@ -24351,14 +24335,14 @@
         "2018"
       ],
       "title": [
-        "Dosage Compensation of the X Chromosomes in Bovine Germline"
+        "Dosage Compensation of the X Chromosomes in Bovine Germline Early Embryos and Somatic Tissues"
       ],
       "url": [
         "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evy270/5253178"
       ],
       "type": "article-journal",
       "container-title": [
-        "Early Embryos and Somatic Tissues. Genome Biology and Evolution"
+        "Genome Biology and Evolution"
       ]
     }
   },
@@ -25119,7 +25103,7 @@
   {
     "name": "rnaturalearth",
     "doi": "10.3897/jhr.67.29733",
-    "citation": "Farache, F. H. A., Pereira, C. B., Koschnitzke, C., Barros, L. O., Souza, E. M. de C., Felício, D. T., … Pereira, R. A. S. (2018). The unknown followers: Discovery of a new species of Sycobia Walker (Hymenoptera: Epichrysomallinae) associated with Ficus benjamina L. (Moraceae) in the Neotropical region. Journal of Hymenoptera Research, 67, 85–102. <https://doi.org/10.3897/jhr.67.29733>",
+    "citation": "Farache, F. H. A., Pereira, C. B., Koschnitzke, C., Barros, L. O., Souza, E. M. de C., Felício, D. T., … Pereira, R. A. S. (2018). The unknown followers: Discovery of a new species of Sycobia Walker (Hymenoptera: Epichrysomallinae) associated with Ficus benjamina L (Moraceae) in the Neotropical region. Journal of Hymenoptera Research. 67, 85–102. <https://doi.org/10.3897/jhr.67.29733>",
     "parts": {
       "author": [
         {
@@ -25158,7 +25142,7 @@
         "2018"
       ],
       "title": [
-        "The unknown followers: Discovery of a new species of Sycobia Walker (Hymenoptera: Epichrysomallinae) associated with Ficus benjamina L"
+        "The unknown followers: Discovery of a new species of Sycobia Walker (Hymenoptera: Epichrysomallinae) associated with Ficus benjamina L (Moraceae) in the Neotropical region"
       ],
       "volume": [
         "67"
@@ -25171,7 +25155,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Moraceae) in the Neotropical region. Journal of Hymenoptera Research"
+        "Journal of Hymenoptera Research"
       ],
       "doi": [
         "10.3897/jhr.67.29733"
@@ -29131,7 +29115,7 @@
   {
     "name": "rcrossref",
     "doi": "10.3390/publications7020023",
-    "citation": "Matthias, L., Jahn, N., & Laakso, M. (2019). The Two-Way Street of Open Access Journal Publishing: Flip It and Reverse It. Publications, 7(2), 23. <https://doi.org/10.3390/publications7020023>",
+    "citation": "Matthias, L., Jahn, N., & Laakso, M. (2019). The Two-Way Street of Open Access Journal Publishing - Flip It and Reverse It. Publications. 7(2), 23. <https://doi.org/10.3390/publications7020023>",
     "img_path": "img/MatthiasEtal2019Publications.png",
     "research_snippet": "journals that convert from OA to a subscription model",
     "parts": {
@@ -29153,7 +29137,7 @@
         "2019"
       ],
       "title": [
-        "The Two-Way Street of"
+        "The Two-Way Street of Open Access Journal Publishing"
       ],
       "volume": [
         "7"
@@ -29166,7 +29150,7 @@
       ],
       "type": "article-journal",
       "container-title": [
-        "Open Access Journal Publishing: Flip It and Reverse It. Publications"
+        "Flip It and Reverse It. Publications"
       ],
       "issue": [
         "2"
@@ -34327,7 +34311,8 @@
   },
   {
     "name": "rfishbase",
-    "citation": "Alfaro, M. E., Karan, E., Schwartz, S. T., & Shultz, A. J. (2019). The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae). Integrative and comparative biology. <https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz119/5530961>",
+    "doi": "10.1093/icb/icz119",
+    "citation": "Alfaro, M. E., Karan, E., Schwartz, S. T., & Shultz, A. J. (2019). The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae). Integrative and Comparative Biology. <https://doi.org/10.1093/icb/icz119>",
     "img_path": "img/AlfaroEtal2019Integrative&ComparativeBiology.png",
     "research_snippet": "color pattern in Butterflyfishes",
     "parts": {
@@ -34353,12 +34338,18 @@
         "2019"
       ],
       "title": [
-        "The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae). Integrative and comparative biology"
+        "The Evolution of Color Pattern in Butterflyfishes (Chaetodontidae"
       ],
       "url": [
-        "https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icz119/5530961"
+        "https://doi.org/10.1093/icb/icz119"
       ],
-      "type": null
+      "type": "article-journal",
+      "container-title": [
+        "Integrative and Comparative Biology"
+      ],
+      "doi": [
+        "10.1093/icb/icz119"
+      ]
     }
   },
   {
@@ -35645,7 +35636,8 @@
   },
   {
     "name": "taxize",
-    "citation": "Alhajeri, B. H., Porto, L., & Maestri, R. (2019). Habitat productivity is a poor predictor of body size in rodents. Current Zoology. <https://academic.oup.com/cz/advance-article/doi/10.1093/cz/zoz037/5539488>",
+    "doi": "10.1093/cz/zoz037",
+    "citation": "Alhajeri, B. H., Porto, L., & Maestri, R. (2019). Habitat productivity is a poor predictor of body size in rodents. Current Zoology. <https://doi.org/10.1093/cz/zoz037>",
     "research_snippet": "body size in rodents",
     "parts": {
       "author": [
@@ -35669,7 +35661,7 @@
         "Habitat productivity is a poor predictor of body size in rodents"
       ],
       "note": [
-        "Current Zoology. <https://academic.oup.com/cz/advance-article/doi/10.1093/cz/zoz037/5539488>"
+        "Current Zoology. <https://doi.org/10.1093/cz/zoz037>"
       ],
       "type": null
     }
