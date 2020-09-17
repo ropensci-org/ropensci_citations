@@ -42,7 +42,7 @@ x <- x[nchar(x$url) != 0,]
 # remove records that aren't journal articles
 ## too time-consuming to label all records accurately for their type
 ## just exclude all records that aren't journal articles/pre-prints
-x_ex <- filter(x, grepl("\\b[Tt]hesis\\b|\\b[Tt]heses\\b|\\b[Dd]issertation\\b|blog|medium|tidytextmining|fromthebottomoftheheap|spatialecology|practicereproducibleresearch|bloomberglp|shareok|globalfactcheck|rohanalexander|huckg|diva-portal|cbpuschmann|univda|oapen|semanticscholar|jee3|researchgate|fmaconferences|rockefeller|ddslab|wp-content|acadpubl|eleonoraperuffo|repositorio|estrela|percomworkshops|iaee2019ljubljana|bit\\.ly|researchsquare|dspace|unescap|downloads|uni-bielefeld|conference\\.corp|sophiemathescom|ualberta|j-asc|books\\.google|econstor|Aviation", citation))
+x_ex <- filter(x, grepl("\\b[Tt]hesis\\b|\\b[Tt]heses\\b|\\b[Dd]issertation\\b|blog|medium|tidytextmining|fromthebottomoftheheap|spatialecology|practicereproducibleresearch|bloomberglp|shareok|globalfactcheck|rohanalexander|huckg|diva-portal|cbpuschmann|univda|oapen|semanticscholar|jee3|researchgate|fmaconferences|rockefeller|ddslab|wp-content|acadpubl|eleonoraperuffo|repositorio|estrela|percomworkshops|iaee2019ljubljana|bit\\.ly|researchsquare|dspace|unescap|downloads|uni-bielefeld|conference\\.corp|sophiemathescom|ualberta|j-asc|books\\.google|econstor|Aviation|Oyungerel", citation))
 blog_posts <- c("Mapping waxwings annual migration without Twitter",
   "Heat maps with Divvy data",
   "Ecological Event Miner: mines ecological events from published literature",
@@ -72,6 +72,11 @@ for (i in seq_len(NROW(x))) {
   }
   x[i,"year"] <- date %||% NA_character_
 }
+
+# tolower "in press"
+x$year <- tolower(x$year)
+# filter those out with no year (year=NA)
+x <- filter(x, !is.na(year))
 
 # try to fill in missing container titles
 for (i in seq_len(NROW(x))) {

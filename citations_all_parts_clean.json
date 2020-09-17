@@ -3733,37 +3733,6 @@
     "year": "2016"
   },
   {
-    "name": [
-      "rfigshare",
-      "ckanr"
-    ],
-    "citation": "Winslow, L. A., Chamberlain, S., Appling, A. P., & Read, J. S. sbtools: A Package Connecting R to Cloud-based Data for Collaborative Online Research. <https://journal.r-project.org/archive/2016-1/winslow-chamberlain-appling-etal.pdf>",
-    "parts": {
-      "author": [
-        {
-          "family": "Winslow",
-          "given": "L.A."
-        },
-        {
-          "family": "Chamberlain",
-          "given": "S."
-        },
-        {
-          "family": "Appling",
-          "given": "A.P."
-        },
-        {
-          "family": "Read",
-          "given": "J.S.sbtools"
-        }
-      ],
-      "title": "A Package Connecting R to Cloud-based Data for Collaborative Online Research",
-      "url": "https://journal.r-project.org/archive/2016-1/winslow-chamberlain-appling-etal.pdf",
-      "container-title": "The R Journal"
-    },
-    "url": "https://journal.r-project.org/archive/2016-1/winslow-chamberlain-appling-etal.pdf"
-  },
-  {
     "name": "taxize",
     "doi": "10.1111/jvs.12419",
     "citation": "Wiser, S. K. (2016). Achievements and challenges in the integration, reuse and synthesis of vegetation plot data. Journal of Vegetation Science. <https://doi.org/10.1111/jvs.12419>",
@@ -4248,25 +4217,6 @@
     },
     "url": "http://www.cgdev.org/content/publications/detail/1426429",
     "year": "2012"
-  },
-  {
-    "name": "ropenaq",
-    "citation": "Munkhbat, Oyungerel. 2017. Putting a magnifying glass on air pollution. The UB Post. <http://theubpost.mn/2017/01/12/putting-a-magnifying-glass-on-air-pollution>",
-    "parts": {
-      "author": [
-        {
-          "family": "Munkhbat",
-          "given": "Oyungerel"
-        }
-      ],
-      "date": "2017",
-      "title": "Putting a magnifying glass on air pollution",
-      "url": "http://theubpost.mn/2017/01/12/putting-a-magnifying-glass-on-air-pollution",
-      "type": "article-journal",
-      "container-title": "The UB Post"
-    },
-    "url": "http://theubpost.mn/2017/01/12/putting-a-magnifying-glass-on-air-pollution",
-    "year": "2017"
   },
   {
     "name": "ropensci",
@@ -5945,27 +5895,6 @@
     },
     "url": "https://doi.org/10.1016/b978-0-12-805375-1.00003-9",
     "year": "2017"
-  },
-  {
-    "name": [
-      "rfishbase",
-      "rfisheries"
-    ],
-    "citation": "Jayasankar, J. Computational options for marine fisheries research and management. Advanced Methods for Fish Stock Assessment and Fisheries Management, 136. <http://eprints.cmfri.org.in/12174/1/13-Computational%20options%20for%20marine%20fisheries%20research.pdf>",
-    "parts": {
-      "author": [
-        {
-          "family": "Jayasankar",
-          "given": "J."
-        }
-      ],
-      "title": "Computational options for marine fisheries research and management",
-      "volume": "136",
-      "url": "http://eprints.cmfri.org.in/12174/1/13-Computational%20options%20for%20marine%20fisheries%20research.pdf",
-      "type": "article-journal",
-      "container-title": "Advanced Methods for Fish Stock Assessment and Fisheries Management"
-    },
-    "url": "http://eprints.cmfri.org.in/12174/1/13-Computational%20options%20for%20marine%20fisheries%20research.pdf"
   },
   {
     "name": "nneo",
@@ -8046,33 +7975,6 @@
     "year": "2018"
   },
   {
-    "name": "rcrossref",
-    "doi": "10.1017/pan.2018.12",
-    "citation": "Dion, Michelle L., Jane L. Sumner, and Sara McLaughlin Mitchell. Gendered Citation Patterns across Political Science and Social Science Methodology Fields., Forthcoming, Political Analysis. See also the Appendix for the paper and the replication materials. <https://doi.org/10.1017/pan.2018.12>",
-    "parts": {
-      "author": [
-        {
-          "family": "Dion",
-          "given": "Michelle L."
-        },
-        {
-          "family": "Sumner",
-          "given": "Jane L."
-        },
-        {
-          "family": "Mitchell",
-          "given": "Sara McLaughlin"
-        }
-      ],
-      "title": "Gendered Citation Patterns across Political Science and Social Science Methodology Fields., Forthcoming, Political Analysis",
-      "url": "https://doi.org/10.1017/pan.2018.12",
-      "container-title": "Political Analysis",
-      "doi": "10.1017/pan.2018.12",
-      "note": "See also the Appendix for the paper and the replication materials."
-    },
-    "url": "https://doi.org/10.1017/pan.2018.12"
-  },
-  {
     "name": "ijtiff",
     "doi": "10.21105/joss.00633",
     "citation": "Nolan, R., & Padilla-Parra, S. (2018). ijtiff: An R package providing TIFF I/O for ImageJ users. Journal of Open Source Software, 3(23), 633. <https://doi.org/10.21105/joss.00633>",
@@ -8476,52 +8378,6 @@
     },
     "url": "https://doi.org/10.1101/189167",
     "year": "2017"
-  },
-  {
-    "name": "phylotaR",
-    "doi": "10.20944/preprints201804.0047.v1",
-    "citation": "Bennett, D.J., Hettling, H., Silvestro, D., Zizka, A., Bacon, C.D., Faurby, S., Vos, R.A., Antonelli, A. phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R. Preprints 2018, 2018040047 <https://doi.org/10.20944/preprints201804.0047.v1>",
-    "parts": {
-      "author": [
-        {
-          "family": "Bennett",
-          "given": "D.J."
-        },
-        {
-          "family": "Hettling",
-          "given": "H."
-        },
-        {
-          "family": "Silvestro",
-          "given": "D."
-        },
-        {
-          "family": "Zizka",
-          "given": "A."
-        },
-        {
-          "family": "Bacon",
-          "given": "C.D."
-        },
-        {
-          "family": "Faurby",
-          "given": "S."
-        },
-        {
-          "family": "Vos",
-          "given": "R.A."
-        },
-        {
-          "family": "Antonelli",
-          "given": "A."
-        }
-      ],
-      "url": "https://doi.org/10.20944/preprints201804.0047.v1",
-      "container-title": "MDPI AG",
-      "doi": "10.20944/preprints201804.0047.v1",
-      "note": "phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R. Preprints 2018, 2018040047"
-    },
-    "url": "https://doi.org/10.20944/preprints201804.0047.v1"
   },
   {
     "name": "rentrez",
@@ -9803,45 +9659,6 @@
     },
     "url": "https://doi.org/10.1177/1940082918787376",
     "year": "2018"
-  },
-  {
-    "name": "rgbif",
-    "doi": "10.1093/botlinnean/boy034",
-    "citation": "Andrea Sánchez-Tapia, Mário L Garbin, Marinez F Siqueira, Karlo G Guidoni-Martins, Fabio R Scarano, Tatiana T Carrijo. Environmental and geographical space partitioning between core and peripheral Myrsine species (Primulaceae) of the Brazilian Atlantic Forest, Botanical Journal of the Linnean Society <https://doi.org/10.1093/botlinnean/boy034>",
-    "parts": {
-      "author": [
-        {
-          "family": "Sánchez-Tapia",
-          "given": "Andrea"
-        },
-        {
-          "family": "Garbin",
-          "given": "Mário L."
-        },
-        {
-          "family": "Siqueira",
-          "given": "Marinez F."
-        },
-        {
-          "family": "Guidoni-Martins",
-          "given": "Karlo G."
-        },
-        {
-          "family": "Scarano",
-          "given": "Fabio R."
-        },
-        {
-          "family": "Carrijo",
-          "given": "Tatiana T."
-        }
-      ],
-      "title": "Environmental and geographical space partitioning between core and peripheral Myrsine species (Primulaceae) of the Brazilian Atlantic Forest",
-      "url": "https://doi.org/10.1093/botlinnean/boy034",
-      "type": "article-journal",
-      "container-title": "Botanical Journal of the Linnean Society",
-      "doi": "10.1093/botlinnean/boy034"
-    },
-    "url": "https://doi.org/10.1093/botlinnean/boy034"
   },
   {
     "name": [
@@ -11662,50 +11479,6 @@
     },
     "url": "https://arxiv.org/abs/1810.00224",
     "year": "2018"
-  },
-  {
-    "name": "rotl",
-    "citation": "Sánchez, C. A., Becker, D. J., Teitelbaum, C. S., Barriga, P., Brown, L. M., Majewska, A. A., ... & Altizer, S. On the relationship between body condition and parasite infection in wildlife: a review and meta‐analysis. Ecology Letters. <https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13160>",
-    "parts": {
-      "author": [
-        {
-          "family": "Sánchez",
-          "given": "C.A."
-        },
-        {
-          "family": "Becker",
-          "given": "D.J."
-        },
-        {
-          "family": "Teitelbaum",
-          "given": "C.S."
-        },
-        {
-          "family": "Barriga",
-          "given": "P."
-        },
-        {
-          "family": "Brown",
-          "given": "L.M."
-        },
-        {
-          "family": "Majewska",
-          "given": "A.A."
-        },
-        {
-          "family": "Altizer",
-          "given": "S."
-        },
-        {
-          "others": true
-        }
-      ],
-      "title": "On the relationship between body condition and parasite infection in wildlife: a review and meta‐analysis",
-      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13160",
-      "type": "article-journal",
-      "container-title": "Ecology Letters"
-    },
-    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13160"
   },
   {
     "name": "plotly",
@@ -13655,74 +13428,6 @@
     "year": "2018"
   },
   {
-    "name": "rredlist",
-    "citation": "Sabatini, F. M., de Andrade, R. B., Paillet, Y., Ódor, P., Bouget, C., Campagnaro, T., ... & Sitzia, T. Trade‐offs between carbon stocks and biodiversity in European temperate forests. Global Change Biology. <https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14503>",
-    "parts": {
-      "author": [
-        {
-          "family": "Sabatini",
-          "given": "F.M."
-        },
-        {
-          "family": "Andrade",
-          "given": "R.B.",
-          "particle": "de"
-        },
-        {
-          "family": "Paillet",
-          "given": "Y."
-        },
-        {
-          "family": "Ódor",
-          "given": "P."
-        },
-        {
-          "family": "Bouget",
-          "given": "C."
-        },
-        {
-          "family": "Campagnaro",
-          "given": "T."
-        },
-        {
-          "family": "Sitzia",
-          "given": "T."
-        },
-        {
-          "others": true
-        }
-      ],
-      "title": "Trade‐offs between carbon stocks and biodiversity in European temperate forests",
-      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14503",
-      "type": "article-journal",
-      "container-title": "Global Change Biology"
-    },
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14503"
-  },
-  {
-    "name": [
-      "fulltext",
-      "roadoi"
-    ],
-    "citation": "Walsh, E. I., & Cherbuin, N. (preprint). Mapping the Literature on Nutritional Interventions in Cognitive Health: A Data-Driven Approach. <https://www.preprints.org/manuscript/201811.0527/download/final_file>",
-    "parts": {
-      "author": [
-        {
-          "family": "Walsh",
-          "given": "E.I."
-        },
-        {
-          "family": "Cherbuin",
-          "given": "N."
-        }
-      ],
-      "url": "https://www.preprints.org/manuscript/201811.0527/download/final_file",
-      "container-title": "Preprints.org",
-      "note": "preprint). Mapping the Literature on Nutritional Interventions in Cognitive Health: A Data-Driven Approach."
-    },
-    "url": "https://www.preprints.org/manuscript/201811.0527/download/final_file"
-  },
-  {
     "name": "rcites",
     "doi": "10.21105/joss.01091",
     "citation": "Geschke, J., Cazelles, K., & Bartomeus, I. (2018). rcites: An R package to access the CITES Speciesplus database. Journal of Open Source Software, 3(31), 1091. <https://doi.org/10.21105/joss.01091>",
@@ -14744,27 +14449,6 @@
     },
     "url": "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evy270/5253178",
     "year": "2018"
-  },
-  {
-    "name": "plotly",
-    "citation": "Martinková, P., & Drabinová, A. ShinyItemAnalysis for Teaching Psychometrics and to Enforce Routine Analysis of Educational Tests. The R Journal. <https://journal.r-project.org/archive/2018/RJ-2018-074/RJ-2018-074.pdf>",
-    "parts": {
-      "author": [
-        {
-          "family": "Martinková",
-          "given": "P."
-        },
-        {
-          "family": "Drabinová",
-          "given": "A."
-        }
-      ],
-      "title": "ShinyItemAnalysis for Teaching Psychometrics and to Enforce Routine Analysis of Educational Tests",
-      "url": "https://journal.r-project.org/archive/2018/RJ-2018-074/RJ-2018-074.pdf",
-      "type": "article-journal",
-      "container-title": "The R Journal"
-    },
-    "url": "https://journal.r-project.org/archive/2018/RJ-2018-074/RJ-2018-074.pdf"
   },
   {
     "name": "taxize",
@@ -17957,63 +17641,6 @@
     "research_snippet": "epidermal growth factor receptor mutations",
     "url": "http://www.jbc.org/content/early/2019/04/05/jbc.RA118.006336",
     "year": "2019"
-  },
-  {
-    "name": "rgbif",
-    "doi": "10.1101/596072",
-    "citation": "Maarten van Zonneveld, Mohamed Rakha, Shin-yee Tan, Yu-yu Chou, Ching-huan Chang, Joyce Yen, Roland Schafleitner, Ramakrishnan Nair, Ken Naito, Svein Ø. Solberg. bioRxiv 596072; <https://doi.org/10.1101/596072>",
-    "parts": {
-      "author": [
-        {
-          "family": "Zonneveld",
-          "given": "Maarten",
-          "particle": "van"
-        },
-        {
-          "family": "Rakha",
-          "given": "Mohamed"
-        },
-        {
-          "family": "Tan",
-          "given": "Shin-yee"
-        },
-        {
-          "family": "Chou",
-          "given": "Yu-yu"
-        },
-        {
-          "family": "Chang",
-          "given": "Ching-huan"
-        },
-        {
-          "family": "Yen",
-          "given": "Joyce"
-        },
-        {
-          "family": "Schafleitner",
-          "given": "Roland"
-        },
-        {
-          "family": "Nair",
-          "given": "Ramakrishnan"
-        },
-        {
-          "family": "Naito",
-          "given": "Ken"
-        },
-        {
-          "family": "Solberg",
-          "given": "Svein Ø."
-        }
-      ],
-      "url": "https://doi.org/10.1101/596072",
-      "container-title": "Cold Spring Harbor Laboratory",
-      "doi": "10.1101/596072",
-      "note": "bioRxiv 596072;"
-    },
-    "img_path": "img/vanZonneveldEtal2019bioRxiv-reprint.png",
-    "research_snippet": "stress resilience and crop wild relatives",
-    "url": "https://doi.org/10.1101/596072"
   },
   {
     "name": "taxize",
@@ -23290,7 +22917,7 @@
     },
     "research_snippet": "participation of women in the UK in cancer screenings",
     "url": "https://doi.org/10.1177/0969141319871977",
-    "year": "In press"
+    "year": "in press"
   },
   {
     "name": "rAltmetric",
@@ -26823,38 +26450,6 @@
     "research_snippet": "annotating human mitochondrial variants",
     "url": "https://doi.org/10.1002/mgg3.1085",
     "year": "2019"
-  },
-  {
-    "name": "rentrez",
-    "doi": "10.21203/rs.2.16269/v3",
-    "citation": "Wcisel, D. J., III, J. T. H., Yoder, J. A., & Dornburg, A. (preprint) Transcriptome Ortholog Alignment Sequence Tools (TOAST) for Phylogenomic Dataset Assembly. <https://doi.org/10.21203/rs.2.16269/v3>",
-    "parts": {
-      "author": [
-        {
-          "family": "Wcisel",
-          "given": "D.J.",
-          "suffix": "III"
-        },
-        {
-          "family": "H.",
-          "given": "J.T."
-        },
-        {
-          "family": "Yoder",
-          "given": "J.A."
-        },
-        {
-          "family": "Dornburg",
-          "given": "A."
-        }
-      ],
-      "url": "https://doi.org/10.21203/rs.2.16269/v3",
-      "container-title": "Research Square",
-      "doi": "10.21203/rs.2.16269/v3",
-      "note": "preprint) Transcriptome Ortholog Alignment Sequence Tools (TOAST) for Phylogenomic Dataset Assembly."
-    },
-    "research_snippet": "tools for phylogeonomic dataset assembly",
-    "url": "https://doi.org/10.21203/rs.2.16269/v3"
   },
   {
     "name": "rtweet",
@@ -35771,28 +35366,28 @@
   {
     "name": "CoordinateCleaner",
     "doi": "10.11646/phytotaxa.450.2.1",
-    "citation": "PACIFICO, R., ALMEDA, F., FROTA, A., & FIDANZA, K. (2020). <p><strong>Areas of endemism on Brazilian mountaintops revealed by taxonomically verified records of Microlicieae (Melastomataceae)<\/strong><\/p>. Phytotaxa, 450(2), 119–148. <https://doi.org/10.11646/phytotaxa.450.2.1>",
+    "citation": "Pacifico, R., Almeda, F., Frota, A., & Fidanza, K. (2020). Areas of endemism on Brazilian mountaintops revealed by taxonomically verified records of Microlicieae (Melastomataceae). Phytotaxa, 450(2), 119–148. <https://doi.org/10.11646/phytotaxa.450.2.1>",
     "parts": {
       "author": [
         {
-          "family": "PACIFICO",
+          "family": "Pacifico",
           "given": "R."
         },
         {
-          "family": "ALMEDA",
+          "family": "Almeda",
           "given": "F."
         },
         {
-          "family": "FROTA",
+          "family": "Frota",
           "given": "A."
         },
         {
-          "family": "FIDANZA",
+          "family": "Fidanza",
           "given": "K."
         }
       ],
       "date": "2020",
-      "title": "<p><strong>Areas of endemism on Brazilian mountaintops revealed by taxonomically verified records of Microlicieae (Melastomataceae)<\/strong><\/p>",
+      "title": "Areas of endemism on Brazilian mountaintops revealed by taxonomically verified records of Microlicieae (Melastomataceae",
       "volume": "450",
       "pages": "119–148",
       "url": "https://doi.org/10.11646/phytotaxa.450.2.1",
