@@ -114,6 +114,32 @@ for (i in seq_len(NROW(x))) {
 # put packages in an array instead of a string
 x$name <- lapply(x$name, function(w) unique(strsplit(w, split = ",")[[1]]))
 
+# authors: convert to string entry
+## handle author.literal and array of names
+## make "et al." if more than 2 auhors
+for (i in seq_len(NROW(x))) {
+  # cat(i, sep = "\n")
+  if (is.null(x$parts$author[[i]])) x$parts$author[[i]] <- x$parts$editor[[i]]
+  auth <- x$parts$author[[i]]
+  if ("literal" %in% names(auth)) {
+    litauths <- strsplit(auth$literal, "\\.,")[[1]]
+    if (length(litauths) > 2) {
+      auth1 <- strsplit(litauths[1], ",")[[1]][1]
+      litauths <- paste0(auth1, " et al.")
+    } else if (length(litauths) <= 2) {
+      litauths <- paste0(vapply(litauths, function(z) gsub("\\&|\\s", "", strsplit(z, ",")[[1]][1]), ""), collapse=" & ")
+    }
+    x$parts$author[[i]] <- litauths
+  } else {
+    if (NROW(auth) > 2) {
+      xxx <- paste0(auth[1,"family"], " et al.")
+    } else if (NROW(auth) <= 2) {
+      xxx <- paste0(auth[,'family'], collapse=" & ")
+    }
+    x$parts$author[[i]] <- xxx
+  }
+}
+
 # write to disk
 json <- jsonlite::toJSON(x, pretty = TRUE, auto_unbox = TRUE, null = "null")
 back <- jsonlite::fromJSON(json, FALSE)
