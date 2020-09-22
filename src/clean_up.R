@@ -112,7 +112,7 @@ for (i in seq_len(NROW(x))) {
 }
 
 # put packages in an array instead of a string
-x$name <- lapply(x$name, function(w) unique(strsplit(w, split = ",")[[1]]))
+x$name <- lapply(x$name, function(w) I(unique(strsplit(w, split = ",")[[1]])))
 
 # authors: convert to string entry
 ## handle author.literal and array of names
