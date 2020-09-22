@@ -4586,21 +4586,6 @@
   },
   {
     "name": [
-      "fingertipsR"
-    ],
-    "doi": "10.1101/189167",
-    "citation": "Fox, S., Flowers, J., Thelwall, S., Flint, D., & Hain, D. (2017). fingertipsR: an R package for accessing population health information in England. <https://doi.org/10.1101/189167>",
-    "parts": {
-      "author": "Fox et al.",
-      "date": "2017",
-      "container-title": "Cold Spring Harbor Laboratory",
-      "note": "fingertipsR: an R package for accessing population health information in England. <https://doi.org/10.1101/189167>"
-    },
-    "url": "https://doi.org/10.1101/189167",
-    "year": "2017"
-  },
-  {
-    "name": [
       "rentrez"
     ],
     "doi": "10.12688/f1000research.14488.1",

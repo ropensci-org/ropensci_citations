@@ -49,7 +49,9 @@ blog_posts <- c("Mapping waxwings annual migration without Twitter",
   "How to do Optical Character Recognition",
   "Considering Community: What types of community are there",
   "The making of",
-  "Open Air Quality Fun with Fireworks")
+  "Open Air Quality Fun with Fireworks",
+  "an R package for accessing population health information in England" # citation missing title
+)
 blog_posts_ex <- filter(x, grepl(paste0(blog_posts, collapse = "|"), citation))
 x_all <- rbind(x_ex, blog_posts_ex)
 x <- mutate(x, exclude = citation %in% x_all$citation)
