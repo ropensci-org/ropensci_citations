@@ -134,6 +134,7 @@ for (i in seq_len(NROW(x))) {
     x$parts$author[[i]] <- litauths
   } else {
     if (NROW(auth) > 2) {
+      if (is.na(auth[1,"family"])) auth[1,"family"] <- auth[1,"given"]
       xxx <- paste0(auth[1,"family"], " et al.")
     } else if (NROW(auth) <= 2) {
       xxx <- paste0(auth[,'family'], collapse=" & ")
