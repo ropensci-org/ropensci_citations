@@ -10535,7 +10535,7 @@
   },
   {
     "name": [
-      "MODIStools"
+      "MODISTools"
     ],
     "doi": "10.1111/gcb.14710",
     "citation": "Kannenberg, S. A., Novick, K. A., Alexander, M. R., Maxwell, J. T., Moore, D. J. P., Phillips, R. P., & Anderegg, W. R. L. (2019). Linking drought legacy effects across scales: From leaves to tree rings to ecosystems. Global Change Biology. <https://doi.org/10.1111/gcb.14710>",
@@ -10690,7 +10690,7 @@
   },
   {
     "name": [
-      "MODIStools"
+      "MODISTools"
     ],
     "doi": "10.1186/s40795-019-0296-5",
     "citation": "Wambui, K. M., & Musenge, E. (2019). A space-time analysis of recurrent malnutrition-related hospitalisations in Kilifi, Kenya for children under-5 years. BMC Nutrition, 5(1). <https://doi.org/10.1186/s40795-019-0296-5>",
@@ -11889,7 +11889,7 @@
   },
   {
     "name": [
-      "MODIStools"
+      "MODISTools"
     ],
     "doi": "10.1007/s10344-019-1303-5",
     "citation": "Zanin, M., Bergamaschi, C. L., Ferreira, J. R., Mendes, S. L., & Oliveira Moreira, D. (2019). Dog days are just starting: the ecology invasion of free-ranging dogs (Canis familiaris) in a protected area of the Atlantic Forest. European Journal of Wildlife Research, 65(5). <https://doi.org/10.1007/s10344-019-1303-5>",
@@ -15529,7 +15529,7 @@
   {
     "name": [
       "MODIStsp",
-      "MODIStools"
+      "MODISTools"
     ],
     "citation": "Pérez-Goya, U., Montesino-SanMartin, M., Militino, A. F., & Ugarte, M. D. (2020). RGISTools: Downloading, Customizing, and Processing Time Series of Remote Sensing Data in R. arXiv preprint arXiv:2002.01859 <https://arxiv.org/pdf/2002.01859.pdf>",
     "parts": {
