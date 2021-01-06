@@ -7716,6 +7716,11 @@
     "citation": "Ashby, M. P. J. (2020). The Open-Access Availability of Criminological Research to Practitioners and Policy Makers. Journal of Criminal Justice Education, 1–21. <https://doi.org/10.1080/10511253.2020.1838588>"
   },
   {
+    "name": "rromeo",
+    "doi": "10.1080/10511253.2020.1838588",
+    "citation": "Ashby, M. P. J. (2020). The Open-Access Availability of Criminological Research to Practitioners and Policy Makers. Journal of Criminal Justice Education, 1–21. <https://doi.org/10.1080/10511253.2020.1838588>"
+  },
+  {
     "name": "rnoaa",
     "citation": "Rivera-Mariani, F. E., Almaguer, M., Aira, M. J., & Bolaños-Rosero, B. (2020). Comparison of Atmospheric Fungal Spore Concentrations between Two Main Cities in the Caribbean Basin. Puerto Rico Health Sciences Journal, 39(3), 235-242. <http://prhsj.rcm.upr.edu/index.php/prhsj/article/download/2071/1309>"
   },
@@ -7848,6 +7853,10 @@
   },
   {
     "name": "rgbif",
+    "citation": "Jurado-ruiz, J. M., & Moreno-Contreras, I. Distributional status of the common black hawk (Buteogallus anthracinus) in Chihuahua, Mexico. Western Wildlife 7: 50-55. <http://www.tws-west.org/westernwildlife/vol7/Jurado-Ruiz_Moreno-Contreras_WW_2020.pdf>"
+  },
+  {
+    "name": "CoordinateCleaner",
     "citation": "Jurado-ruiz, J. M., & Moreno-Contreras, I. Distributional status of the common black hawk (Buteogallus anthracinus) in Chihuahua, Mexico. Western Wildlife 7: 50-55. <http://www.tws-west.org/westernwildlife/vol7/Jurado-Ruiz_Moreno-Contreras_WW_2020.pdf>"
   },
   {
@@ -8004,5 +8013,267 @@
     "name": "colocr",
     "doi": "10.1038/s41598-020-72095-3",
     "citation": "Nguyen, H. Q., Nguyen, V. D., Van Nguyen, H., & Seo, T. S. (2020). Quantification of colorimetric isothermal amplification on the smartphone and its open-source app for point-of-care pathogen detection. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-72095-3>"
+  },
+  {
+    "name": "webchem",
+    "citation": "Islam, S. M., Hossain, S. M. M., & Ray, S. (2020). DTI-SNNFRA: Drug-Target interaction prediction by shared nearest neighbors and fuzzy-rough approximation. arXiv preprint arXiv:2009.10766 <https://arxiv.org/abs/2009.10766>."
+  },
+  {
+    "name": "writexl",
+    "citation": "Wiley, M., & Wiley, J. F. (2020). Data Input and Output. Beginning R 4, 33–46. <https://doi.org/10.1007/978-1-4842-6053-1_3>"
+  },
+  {
+    "name": "writexl",
+    "doi": "10.1016/j.csbj.2020.09.031",
+    "citation": "Yan, T., Wang, Q., Maodzeka, A., Wu, D., & Jiang, L. (2020). BnaSNPDB: An interactive web portal for the efficient retrieval and analysis of SNPs among 1,007 rapeseed accessions. Computational and Structural Biotechnology Journal, 18, 2766–2773. <https://doi.org/10.1016/j.csbj.2020.09.031>"
+  },
+  {
+    "name": "worrms",
+    "doi": "10.1098/rstb.2019.0445",
+    "citation": "Webb, T. J., & Vanhoorne, B. (2020). Linking dimensions of data on global marine animal diversity. Philosophical Transactions of the Royal Society B: Biological Sciences, 375(1814), 20190445. <https://doi.org/10.1098/rstb.2019.0445>"
+  },
+  {
+    "name": "writexl",
+    "citation": "Munzert, S., & Ramirez-Ruiz, S. (2020, October 10). Meta-Analysis of the Effects of Voting Advice Applications. <https://doi.org/10.31219/osf.io/utdn4>"
+  },
+  {
+    "name": "MODISTools",
+    "doi": "10.1007/s42452-020-03482-8",
+    "citation": "Melville, T., Sutherland, M., & Wuddivira, M. N. (2020). Assessing trends and predicting the cover management factor in a tropical island state using Enhanced Vegetation Index. SN Applied Sciences, 2(10). <https://doi.org/10.1007/s42452-020-03482-8>"
+  },
+  {
+    "name": "magick",
+    "citation": "Pregla, D., Lissón, P., Vasishth, S., Burchert, F., & Stadie, N. (2020, September 18). Variability in sentence comprehension in aphasia in German. <https://doi.org/10.31234/osf.io/7hfpx>"
+  },
+  {
+    "name": "weathercan",
+    "citation": "Campos, I. (2020). Genetic and phenotypic analyses of heat tolerance in Canadian Holstein cattle (Doctoral dissertation). <https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/21281/Campos_Ivan_202009_MSc.pdf?sequence=4>"
+  },
+  {
+    "name": "weathercan",
+    "doi": "10.3390/plants9101401",
+    "citation": "Parent, S.-É., Lafond, J., Paré, M. C., Parent, L. E., & Ziadi, N. (2020). Conditioning Machine Learning Models to Adjust Lowbush Blueberry Crop Management to the Local Agroecosystem. Plants, 9(10), 1401. <https://doi.org/10.3390/plants9101401>"
+  },
+  {
+    "name": "visdat",
+    "citation": "Hyde, K. C. (2020). Rejection Sensitivity and Social Support as Predictors of Peer Victimization among Youth with Psychiatric Illness. Theses and Dissertations <https://scholarworks.uark.edu/etd/3753>"
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1089/cyber.2020.0336",
+    "citation": "Kamiński, M., Szymańska, C., & Nowak, J. K. (2020). Whose Tweets on COVID-19 Gain the Most Attention: Celebrities, Political, or Scientific Authorities? Cyberpsychology, Behavior, and Social Networking. <https://doi.org/10.1089/cyber.2020.0336>"
+  },
+  {
+    "name": "magick",
+    "doi": "10.1101/2020.07.23.217414",
+    "citation": "Ostrop, J., Zwiggelaar, R., Pedersen, M. T., Gerbe, F., Bösl, K., Lindholm, H. T., … Oudhoff, M. J. (2020). A semi-automated organoid screening method demonstrates epigenetic control of intestinal epithelial differentiation. <https://doi.org/10.1101/2020.07.23.217414>"
+  },
+  {
+    "name": "osfr",
+    "citation": "Burbach, L., Belavadi, P., Halbach, P., Plettenberg, N., Nakayama, J., Kojan, L., & Valdez, A. C. (2020, September). On the Importance of Context: Privacy Perceptions of General vs. Health-specific Data in Health Recommender Systems. In Conference on Recommender Systems (HealthRecSys’ 20). <http://ceur-ws.org/Vol-2684/1-paginated.pdf>"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1097/CCE.0000000000000195",
+    "citation": "Bandyopadhyay, S., Lysak, N., Adhikari, L., Velez, L. M., Sautina, L., Mohandas, R., … Bihorac, A. (2020). Discovery and Validation of Urinary Molecular Signature of Early Sepsis. Critical Care Explorations, 2(10), e0195. <https://doi.org/10.1097/cce.0000000000000195>"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.1111/mec.15644",
+    "citation": "McColl‐Gausden, E. F., Weeks, A. R., Coleman, R. A., Robinson, K. L., Song, S., Raadik, T. A., & Tingley, R. (2020). Multispecies models reveal that eDNA metabarcoding is more sensitive than backpack electrofishing for conducting fish surveys in freshwater streams. Molecular Ecology. <https://doi.org/10.1111/mec.15644>"
+  },
+  {
+    "name": "MODIStsp",
+    "citation": "Estrada-Peña, A., D’Amico, G., & Fernández-Ruiz, N. (2020). Modelling the potential spread of Hyalomma marginatum ticks in Europe by migratory birds. International Journal for Parasitology. doi:10.1016/j.ijpara.2020.08.004"
+  },
+  {
+    "name": "MODIStsp",
+    "citation": "De Andrade, C. F., Delgado, R. C., Barbosa, M. L. F., Teodoro, P. E., Junior, C. A. da S., Wanderley, H. S., & Capristo-Silva, G. F. (2020). Fire regime in Southern Brazil driven by atmospheric variation and vegetation cover. Agricultural and Forest Meteorology, 295, 108194. doi:10.1016/j.agrformet.2020.108194"
+  },
+  {
+    "name": "rtweet",
+    "citation": "Xu, S., & Xiong, Y. (2020). Setting socially mediated engagement parameters: A topic modeling and text analytic approach to examining polarized discourses on Gillette’s campaign. Public Relations Review, 46(5), 101959. doi:10.1016/j.pubrev.2020.101959"
+  },
+  {
+    "name": "bikedata",
+    "citation": "Morton, C. (2020). The demand for cycle sharing: Examining the links between weather conditions, air quality levels, and cycling demand for regular and casual users. Journal of Transport Geography, 88, 102854. doi:10.1016/j.jtrangeo.2020.102854"
+  },
+  {
+    "name": "osmdata",
+    "citation": "Cervigni, E., Renton, M., Haslam McKenzie, F., Hickling, S., & Olaru, D. (2020). Describing and mapping diversity and accessibility of the urban food environment with open data and tools. Applied Geography, 125, 102352. doi:10.1016/j.apgeog.2020.102352"
+  },
+  {
+    "name": "rfishbase",
+    "citation": "Huang, M., Ding, L., Wang, J., Ding, C., & Tao, J. (2021). The impacts of climate change on fish growth: A summary of conducted studies and current knowledge. Ecological Indicators, 121, 106976. doi:10.1016/j.ecolind.2020.106976"
+  },
+  {
+    "name": "brranching",
+    "citation": "Huang, M., Ding, L., Wang, J., Ding, C., & Tao, J. (2021). The impacts of climate change on fish growth: A summary of conducted studies and current knowledge. Ecological Indicators, 121, 106976. doi:10.1016/j.ecolind.2020.106976"
+  },
+  {
+    "name": "visdat",
+    "doi": "10.3389/fpsyt.2020.570727",
+    "citation": "Stuijfzand, S., Garthus-Niegel, S., & Horsch, A. (2020). Parental Birth-Related PTSD Symptoms and Bonding in the Early Postpartum Period: A Prospective Population-Based Cohort Study. Frontiers in Psychiatry, 11. <https://doi.org/10.3389/fpsyt.2020.570727>"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1002/ppp3.10141",
+    "citation": "Paton, A., Antonelli, A., Carine, M., Forzza, R. C., Davies, N., Demissew, S., … Dickie, J. (2020). Plant and fungal collections: Current status, future perspectives. PLANTS, PEOPLE, PLANET, 2(5), 499–514. <https://doi.org/10.1002/ppp3.10141>"
+  },
+  {
+    "name": "MODISTools",
+    "doi": "10.5194/bg-2020-363",
+    "citation": "Granath, G., Evans, C. D., Strengbom, J., Fölster, J., Grelle, A., Strömqvist, J., & Köhler, S. J. (2020). The impact of wildfire on biogeochemical fluxes and water quality on boreal catchments. <https://doi.org/10.5194/bg-2020-363>"
+  },
+  {
+    "name": "photosearcher",
+    "doi": "10.1016/j.patter.2020.100116",
+    "citation": "August, T. A., Pescott, O. L., Joly, A., & Bonnet, P. (2020). AI Naturalists Might Hold the Key to Unlocking Biodiversity Data in Social Media Imagery. Patterns, 1(7), 100116. <https://doi.org/10.1016/j.patter.2020.100116>"
+  },
+  {
+    "name": "rentrez",
+    "doi": "10.20944/preprints202010.0066.v1",
+    "citation": "B. Santos, R., Nascimento, R., V. Coelho, A., & Figueiredo, A. (2020). Grapevine – Downy Mildew <em>Rendez-Vous<\/em>: Proteome Analysis of the First Hours of an Incompatible Interaction. <https://doi.org/10.20944/preprints202010.0066.v1>"
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1177/1354068820957960",
+    "citation": "Sältzer, M. (2020). Finding the bird’s wings: Dimensions of factional conflict on Twitter. Party Politics, 135406882095796. <https://doi.org/10.1177/1354068820957960>"
+  },
+  {
+    "name": "paleobioDB",
+    "doi": "10.1073/pnas.2009397117",
+    "citation": "Carrillo, J. D., Faurby, S., Silvestro, D., Zizka, A., Jaramillo, C., Bacon, C. D., & Antonelli, A. (2020). Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange. Proceedings of the National Academy of Sciences, 117(42), 26281–26287. <https://doi.org/10.1073/pnas.2009397117>"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1073/pnas.2009397117",
+    "citation": "Carrillo, J. D., Faurby, S., Silvestro, D., Zizka, A., Jaramillo, C., Bacon, C. D., & Antonelli, A. (2020). Disproportionate extinction of South American mammals drove the asymmetry of the Great American Biotic Interchange. Proceedings of the National Academy of Sciences, 117(42), 26281–26287. <https://doi.org/10.1073/pnas.2009397117>"
+  },
+  {
+    "name": "USAboundaries",
+    "citation": "Moin, A. U. (2020). Essays in corporate lobbying, dividend policy, and financial technology. Thesis. https://search.proquest.com/dissertations-theses/essays-corporate-lobbying-dividend-policy/docview/2449869146/se-2?accountid=14496"
+  },
+  {
+    "name": "treeio",
+    "doi": "10.12688/f1000research.26669.1",
+    "citation": "Huang, R., Soneson, C., Ernst, F. G. M., Rue-Albrecht, K. C., Yu, G., Hicks, S. C., & Robinson, M. D. (2020). TreeSummarizedExperiment: a S4 class for data with hierarchical structure. F1000Research, 9, 1246. <https://doi.org/10.12688/f1000research.26669.1>"
+  },
+  {
+    "name": "MtreeRing",
+    "doi": "10.1117/12.2580513",
+    "citation": "Lenty, B. (2020). Tree-ring growth measurements automation using machine vision. Photonics Applications in Astronomy, Communications, Industry, and High Energy Physics Experiments 2020. <https://doi.org/10.1117/12.2580513>"
+  },
+  {
+    "name": "rentrez",
+    "citation": "Tabima, J. F., Trautman, I. A., Chang, Y., Wang, Y., Mondo, S., Kuo, A., … Spatafora, J. W. (2020). Phylogenomic Analyses of Non-Dikarya Fungi Supports Horizontal Gene Transfer Driving Diversification of Secondary Metabolism in the Amphibian Gastrointestinal Symbiont, Basidiobolus. G3 Genes|Genomes|Genetics, 10(9), 3417–3433. <https://doi.org/10.1534/g3.120.401516>"
+  },
+  {
+    "name": "rtweet",
+    "citation": "Sutton, J., Renshaw, S. L., & Butts, C. T. (2020). The First 60 Days: American Public Health Agencies’ Social Media Strategies in the Emerging COVID-19 Pandemic. Health Security, 18(6), 454–460. <https://doi.org/10.1089/hs.2020.0105>"
+  },
+  {
+    "name": "treeio",
+    "doi": "10.1111/jbi.13993",
+    "citation": "Figueroa, H., & Smith, S. A. (2020). A targeted phylogenetic approach helps explain New World functional diversity patterns of two eudicot lineages. Journal of Biogeography. <https://doi.org/10.1111/jbi.13993>"
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1111/jbi.13993",
+    "citation": "Figueroa, H., & Smith, S. A. (2020). A targeted phylogenetic approach helps explain New World functional diversity patterns of two eudicot lineages. Journal of Biogeography. <https://doi.org/10.1111/jbi.13993>"
+  },
+  {
+    "name": "MtreeRing",
+    "citation": "Makela, K., Ophelders, T., Quigley, M., Munch, E., Chitwood, D., & Dowtin, A. (2020). Automatic Tree Ring Detection using Jacobi Sets. arXiv preprint arXiv:2010.08691 <https://arxiv.org/abs/2010.08691>."
+  },
+  {
+    "name": "rtweet",
+    "citation": "Lemay, D. J., & Doleck, T. (2020). Online Learning Communities in the COVID-19 Pandemic: Social Learning Network Analysis of Twitter during the Shutdown. International Journal of Learning Analytics and Artificial Intelligence for Education (iJAI), 2(1) <https://onlinejour.journals.publicknowledgeproject.org/index.php/i-jai/article/view/15427>"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.3390/w12102901",
+    "citation": "Sao, D., Kato, T., Tu, L. H., Thouk, P., Fitriyah, A., & Oeurng, C. (2020). Evaluation of Different Objective Functions Used in the SUFI-2 Calibration Process of SWAT-CUP on Water Balance Analysis: A Case Study of the Pursat River Basin, Cambodia. Water, 12(10), 2901. <https://doi.org/10.3390/w12102901>"
+  },
+  {
+    "name": "rtweet",
+    "citation": "Redmond, R. C. (2020). Herbivore in the streets: A participant observation approach to hybrid masculinity performance and the linguistic practices of underground male idols in japan. Thesis. University of California; https://search.proquest.com/dissertations-theses/herbivore-streets-participant-observation/docview/2451759404/se-2?accountid=14496"
+  },
+  {
+    "name": "bib2df",
+    "citation": "Benjamens, S., Banning, L. B., van den Berg, T. A., & Pol, R. A. (2020). Gender Disparities in Authorships and Citations in Transplantation Research. Transplantation direct, 6(11). <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7575186/>"
+  },
+  {
+    "name": "MODIStsp",
+    "doi": "10.1016/j.cris.2020.100001",
+    "citation": "Chaves, L. F., & Friberg, M. D. (2021). Aedes albopictus and Aedes flavopictus (Diptera: Culicidae) pre-imaginal abundance patterns are associated with different environmental factors along an altitudinal gradient. Current Research in Insect Science, 1, 100001. <https://doi.org/10.1016/j.cris.2020.100001>"
+  },
+  {
+    "name": "NLMR",
+    "doi": "10.1186/s40462-020-00229-3",
+    "citation": "Silva, I., Crane, M., Marshall, B. M., & Strine, C. T. (2020). Reptiles on the wrong track? Moving beyond traditional estimators with dynamic Brownian Bridge Movement Models. Movement Ecology, 8(1). <https://doi.org/10.1186/s40462-020-00229-3>"
+  },
+  {
+    "name": "hddtools",
+    "citation": "Zheng, X., Kottas, A., & Sansó, B. (2020). On Construction and Estimation of Stationary Mixture Transition Distribution Models. arXiv preprint arXiv:2010.12696 <https://arxiv.org/abs/2010.12696>."
+  },
+  {
+    "name": "nlrx",
+    "citation": "Azizi, A., Mubayi, A., & Mubayi, A. (2020). The Impact of Individual's Ecological Factors on the Dynamics of Alcohol Drinking among Arizona State University Students: An Application of the Survey Data-driven Agent-based Model. arXiv preprint arXiv:2011.01876 <https://arxiv.org/abs/2011.01876>."
+  },
+  {
+    "name": "RSelenium",
+    "doi": "10.3390/joitmc6040130",
+    "citation": "Gessa, A., Jiménez, A., & Sancha, P. (2020). Open Innovation in Digital Healthcare: Users’ Discrimination between Certified and Non-Certified mHealth Applications. Journal of Open Innovation: Technology, Market, and Complexity, 6(4), 130. <https://doi.org/10.3390/joitmc6040130>"
+  },
+  {
+    "name": "RSelenium",
+    "doi": "10.1021/acs.est.0c04316",
+    "citation": "Carter, J. A., Erhardt, R. J., Jones, B. T., & Donati, G. L. (2020). Survey of Lead in Drinking Water from Schools and Child Care Centers Operating as Public Water Suppliers in North Carolina, USA: Implications for Future Legislation. Environmental Science & Technology, 54(22), 14152–14160. <https://doi.org/10.1021/acs.est.0c04316>"
+  },
+  {
+    "name": "skimr",
+    "citation": "Wadley AL, Venter WDF, Moorhouse M, Akpomiemie G, Serenata C, Hill A, Sokhela S, Mqamelo N, Kamerman PR. High individual pain variability in people living with HIV: A graphical analysis. Eur J Pain 2020. <https://doi.org/10.1002/ejp.1658>"
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1007/s13280-020-01405-w",
+    "citation": "Pellowe, K. E., & Leslie, H. M. (2020). Ecosystem service lens reveals diverse community values of small-scale fisheries. Ambio. <https://doi.org/10.1007/s13280-020-01405-w>"
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1002/widm.1394",
+    "citation": "Gadelha, L. M. R., Siracusa, P. C., Dalcin, E. C., Silva, L. A. E., Augusto, D. A., Krempser, E., … Siqueira, M. F. (2020). A survey of biodiversity informatics: Concepts, practices, and challenges. WIREs Data Mining and Knowledge Discovery, 11(1). <https://doi.org/10.1002/widm.1394>"
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1098/rstb.2019.0450",
+    "citation": "Marshall, D. J., & Alvarez-Noriega, M. (2020). Projecting marine developmental diversity and connectivity in future oceans. Philosophical Transactions of the Royal Society B: Biological Sciences, 375(1814), 20190450. <https://doi.org/10.1098/rstb.2019.0450>"
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1177/0261927X20969752",
+    "citation": "Hu, L., & Kearney, M. W. (2020). Gendered Tweets: Computational Text Analysis of Gender Differences in Political Discussion on Twitter. Journal of Language and Social Psychology, 0261927X2096975. <https://doi.org/10.1177/0261927x20969752>"
+  },
+  {
+    "name": "ropenaq",
+    "citation": "Maiti, A., Zhang, Q., Sannigrahi, S., Pramanik, S., Chakraborti, S., & Pilla, F. (2020). Spatiotemporal effects of the causal factors on COVID-19 incidences in the contiguous United States. arXiv preprint arXiv:2010.15754 <https://arxiv.org/abs/2010.15754>."
+  },
+  {
+    "name": "rnoaa",
+    "doi": "10.1007/s00442-020-04787-6",
+    "citation": "Avolio, M. L., Wilcox, K. R., Komatsu, K. J., Lemoine, N., Bowman, W. D., Collins, S. L., … Yu, Q. (2020). Temporal variability in production is not consistently affected by global change drivers across herbaceous-dominated ecosystems. Oecologia, 194(4), 735–744. <https://doi.org/10.1007/s00442-020-04787-6>"
+  },
+  {
+    "name": "MODISTools",
+    "citation": "Zhuang, W., Shi, H., Ma, X., Cleverly, J., Beringer, J., Zhang, Y., … Yu, Q. (2020). Improving Estimation of Seasonal Evapotranspiration in Australian Tropical Savannas using a Flexible Drought Index. Agricultural and Forest Meteorology, 295, 108203. <https://doi.org/10.1016/j.agrformet.2020.108203>"
+  },
+  {
+    "name": "phylogram",
+    "citation": "Alvarado-Ortega, J., & Díaz-Cruz, J. A. (2021). Hastichthys totonacus sp. nov., a North American Turonian dercetid fish (Teleostei, Aulopiformes) from the Huehuetla quarry, Puebla, Mexico. Journal of South American Earth Sciences, 105, 102900. <https://doi.org/10.1016/j.jsames.2020.102900>"
+  },
+  {
+    "name": "treeio",
+    "citation": "Alvarado-Ortega, J., & Díaz-Cruz, J. A. (2021). Hastichthys totonacus sp. nov., a North American Turonian dercetid fish (Teleostei, Aulopiformes) from the Huehuetla quarry, Puebla, Mexico. Journal of South American Earth Sciences, 105, 102900. <https://doi.org/10.1016/j.jsames.2020.102900>"
   }
 ]
