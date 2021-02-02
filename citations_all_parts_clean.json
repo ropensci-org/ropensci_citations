@@ -23299,5 +23299,743 @@
     },
     "url": "https://doi.org/10.1016/j.jsames.2020.102900",
     "year": "2021"
+  },
+  {
+    "name": [
+      "rgbif"
+    ],
+    "doi": "10.1007/s10530-020-02393-4",
+    "citation": "Brandt, A. J., Bellingham, P. J., Duncan, R. P., Etherington, T. R., Fridley, J. D., Howell, C. J., … Peltzer, D. A. (2020). Naturalised plants transform the composition and function of the New Zealand flora. Biological Invasions. <https://doi.org/10.1007/s10530-020-02393-4>",
+    "parts": {
+      "author": "Brandt et al.",
+      "date": "2020",
+      "title": "Naturalised plants transform the composition and function of the New Zealand flora",
+      "url": "https://doi.org/10.1007/s10530-020-02393-4",
+      "type": "article-journal",
+      "container-title": "Biological Invasions",
+      "doi": "10.1007/s10530-020-02393-4"
+    },
+    "url": "https://doi.org/10.1007/s10530-020-02393-4",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rgbif",
+      "rredlist"
+    ],
+    "doi": "10.1111/geb.13199",
+    "citation": "Alò, D., Lacy, S. N., Castillo, A., Samaniego, H. A., & Marquet, P. A. (2020). The macroecology of fish migration. Global Ecology and Biogeography, 30(1), 99–116. <https://doi.org/10.1111/geb.13199>",
+    "parts": {
+      "author": "Alò et al.",
+      "date": "2020",
+      "title": "The macroecology of fish migration",
+      "volume": "30",
+      "pages": "99–116",
+      "url": "https://doi.org/10.1111/geb.13199",
+      "type": "article-journal",
+      "container-title": "Global Ecology and Biogeography",
+      "issue": "1",
+      "doi": "10.1111/geb.13199"
+    },
+    "url": "https://doi.org/10.1111/geb.13199",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rdhs",
+      "rnaturalearth"
+    ],
+    "doi": "10.1371/journal.pmed.1003370",
+    "citation": "Stresman, G., Whittaker, C., Slater, H. C., Bousema, T., & Cook, J. (2020). Quantifying Plasmodium falciparum infections clustering within households to inform household-based intervention strategies for malaria control programs: An observational study and meta-analysis from 41 malaria-endemic countries. PLOS Medicine, 17(10), e1003370. <https://doi.org/10.1371/journal.pmed.1003370>",
+    "parts": {
+      "author": "Stresman et al.",
+      "date": "2020",
+      "title": "Quantifying Plasmodium falciparum infections clustering within households to inform household-based intervention strategies for malaria control programs: An observational study and meta-analysis from 41 malaria-endemic countries",
+      "volume": "17",
+      "pages": "1003370",
+      "url": "https://doi.org/10.1371/journal.pmed.1003370",
+      "type": "article-journal",
+      "container-title": "PLOS Medicine",
+      "issue": "10",
+      "doi": "10.1371/journal.pmed.1003370"
+    },
+    "url": "https://doi.org/10.1371/journal.pmed.1003370",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1038/s41598-020-75498-4",
+    "citation": "Lockley, E. C., Fouda, L., Correia, S. M., Taxonera, A., Nash, L. N., Fairweather, K., … Eizaguirre, C. (2020). Long-term survey of sea turtles (Caretta caretta) reveals correlations between parasite infection, feeding ecology, reproductive success and population dynamics. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-75498-4>",
+    "parts": {
+      "author": "Lockley et al.",
+      "date": "2020",
+      "title": "Long-term survey of sea turtles (Caretta caretta) reveals correlations between parasite infection, feeding ecology, reproductive success and population dynamics",
+      "volume": "10",
+      "url": "https://doi.org/10.1038/s41598-020-75498-4",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-75498-4"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-75498-4",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1002/ppp3.10162",
+    "citation": "Hirons, A. D., Watkins, J. H. R., Baxter, T. J., Miesbauer, J. W., Male‐Muñoz, A., Martin, K. W. E., … Sjöman, H. (2020). Using botanic gardens and arboreta to help identify urban trees for the future. PLANTS, PEOPLE, PLANET. <https://doi.org/10.1002/ppp3.10162>",
+    "parts": {
+      "author": "Hirons et al.",
+      "date": "2020",
+      "title": "Using botanic gardens and arboreta to help identify urban trees for the future",
+      "container-title": "PLANTS, PEOPLE, PLANET",
+      "note": "PLANTS, PEOPLE, PLANET. <https://doi.org/10.1002/ppp3.10162>"
+    },
+    "url": "https://doi.org/10.1002/ppp3.10162",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "FedData"
+    ],
+    "doi": "10.1029/2020WR028060",
+    "citation": "Saadi, M., Oudin, L., & Ribstein, P. (2020). Beyond Imperviousness: The Role of Antecedent Wetness in Runoff Generation in Urbanized Catchments. Water Resources Research, 56(11). <https://doi.org/10.1029/2020wr028060>",
+    "parts": {
+      "author": "Saadi et al.",
+      "date": "2020",
+      "title": "Beyond Imperviousness: The Role of Antecedent Wetness in Runoff Generation in Urbanized Catchments",
+      "volume": "56",
+      "url": "https://doi.org/10.1029/2020wr028060",
+      "type": "article-journal",
+      "container-title": "Water Resources Research",
+      "issue": "11",
+      "doi": "10.1029/2020wr028060"
+    },
+    "url": "https://doi.org/10.1029/2020wr028060",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rgbif",
+      "CoordinateCleaner"
+    ],
+    "doi": "10.1111/nph.17069",
+    "citation": "Simpson, K. J., Jardine, E. C., Archibald, S., Forrestel, E. J., Lehmann, C. E. R., Thomas, G. H., & Osborne, C. P. (2020). Resprouting grasses are associated with less frequent fire than seeders. New Phytologist. <https://doi.org/10.1111/nph.17069>",
+    "parts": {
+      "author": "Simpson et al.",
+      "date": "2020",
+      "title": "Resprouting grasses are associated with less frequent fire than seeders",
+      "url": "https://doi.org/10.1111/nph.17069",
+      "type": "article-journal",
+      "container-title": "New Phytologist",
+      "doi": "10.1111/nph.17069"
+    },
+    "url": "https://doi.org/10.1111/nph.17069",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rtweet"
+    ],
+    "doi": "10.1093/applin/amaa046",
+    "citation": "Fuoli, M., Clarke, I., Wiegand, V., Ziezold, H., & Mahlberg, M. (2020). Responding Effectively to Customer Feedback on Twitter: A Mixed Methods Study of Webcare Styles. Applied Linguistics. <https://doi.org/10.1093/applin/amaa046>",
+    "parts": {
+      "author": "Fuoli et al.",
+      "date": "2020",
+      "title": "Responding Effectively to Customer Feedback on Twitter: A Mixed Methods Study of Webcare Styles",
+      "url": "https://doi.org/10.1093/applin/amaa046",
+      "type": "article-journal",
+      "container-title": "Applied Linguistics",
+      "doi": "10.1093/applin/amaa046"
+    },
+    "url": "https://doi.org/10.1093/applin/amaa046",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "magick"
+    ],
+    "doi": "10.1111/2041-210X.13523",
+    "citation": "Ingenloff, K., & Peterson, A. T. (2020). Incorporating time into the traditional correlational distributional modelling framework: A proof‐of‐concept using the Wood Thrush Hylocichla mustelina. Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210x.13523>",
+    "parts": {
+      "author": "Ingenloff & Peterson",
+      "date": "2020",
+      "title": "Incorporating time into the traditional correlational distributional modelling framework: A proof‐of‐concept using the Wood Thrush Hylocichla mustelina",
+      "url": "https://doi.org/10.1111/2041-210x.13523",
+      "type": "article-journal",
+      "container-title": "Methods in Ecology and Evolution",
+      "doi": "10.1111/2041-210x.13523"
+    },
+    "url": "https://doi.org/10.1111/2041-210x.13523",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "CoordinateCleaner"
+    ],
+    "doi": "10.1007/s10530-020-02400-8",
+    "citation": "Bello, C., Cintra, A. L. P., Barreto, E., Vancine, M. H., Sobral-Souza, T., Graham, C. H., & Galetti, M. (2020). Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest. Biological Invasions. <https://doi.org/10.1007/s10530-020-02400-8>",
+    "parts": {
+      "author": "Bello et al.",
+      "date": "2020",
+      "title": "Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest",
+      "url": "https://doi.org/10.1007/s10530-020-02400-8",
+      "type": "article-journal",
+      "container-title": "Biological Invasions",
+      "doi": "10.1007/s10530-020-02400-8"
+    },
+    "url": "https://doi.org/10.1007/s10530-020-02400-8",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rgbif"
+    ],
+    "citation": "Basooma, A., Nakiyende, H., Olokotum, M., Nkalubo, W., Musinguzi, L., & Natugonza, V. (2020). Using the novel priority index in prioritizing the selection of inland water bodies for site-based fish species conservation. bioRxiv. <https://www.biorxiv.org/content/biorxiv/early/2020/11/14/2020.11.12.380618.full.pdf>",
+    "parts": {
+      "author": "Basooma et al.",
+      "date": "2020",
+      "title": "Using the novel priority index in prioritizing the selection of inland water bodies for site-based fish species conservation",
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2020/11/14/2020.11.12.380618.full.pdf",
+      "note": "bioRxiv."
+    },
+    "url": "https://www.biorxiv.org/content/biorxiv/early/2020/11/14/2020.11.12.380618.full.pdf",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rtweet"
+    ],
+    "citation": "Johnson, T., & Greenwell, M. P. (2020, November 12). Is sustainability advertising just a public relations stunt?. <https://doi.org/10.31235/osf.io/avy4d>",
+    "parts": {
+      "author": "Johnson & Greenwell",
+      "date": "2020-11-12",
+      "title": "Is sustainability advertising just a public relations stunt?",
+      "url": "https://doi.org/10.31235/osf.io/avy4d",
+      "container-title": "Center for Open Science",
+      "doi": "10.31235/osf.io/avy4d"
+    },
+    "url": "https://doi.org/10.31235/osf.io/avy4d",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "roadoi"
+    ],
+    "doi": "10.29024/sar.23",
+    "citation": "Robinson-Garcia, N., van Leeuwen, T. N., & Torres-Salinas, D. (2020). Measuring Open Access Uptake: Data Sources, Expectations, and Misconceptions. Scholarly Assessment Reports, 2(1). <https://doi.org/10.29024/sar.23>",
+    "parts": {
+      "author": "Robinson-Garcia et al.",
+      "date": "2020",
+      "title": "Measuring Open Access Uptake: Data Sources, Expectations, and Misconceptions",
+      "volume": "2",
+      "url": "https://doi.org/10.29024/sar.23",
+      "type": "article-journal",
+      "container-title": "Scholarly Assessment Reports",
+      "issue": "1",
+      "doi": "10.29024/sar.23"
+    },
+    "url": "https://doi.org/10.29024/sar.23",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1007/s10914-020-09530-9",
+    "citation": "Alhajeri, B. H. (2020). A Geometric Morphometric Analysis of Geographic Mandibular Variation in the Dwarf Gerbil Gerbillus nanus (Gerbillinae, Rodentia). Journal of Mammalian Evolution. <https://doi.org/10.1007/s10914-020-09530-9>",
+    "parts": {
+      "author": "Alhajeri",
+      "date": "2020",
+      "title": "A Geometric Morphometric Analysis of Geographic Mandibular Variation in the Dwarf Gerbil Gerbillus nanus (Gerbillinae, Rodentia",
+      "url": "https://doi.org/10.1007/s10914-020-09530-9",
+      "type": "article-journal",
+      "container-title": "Journal of Mammalian Evolution",
+      "doi": "10.1007/s10914-020-09530-9"
+    },
+    "url": "https://doi.org/10.1007/s10914-020-09530-9",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1038/s41598-020-76103-4",
+    "citation": "Tchokponhoué, D. A., Achigan-Dako, E. G., N’Danikou, S., Nyadanu, D., Kahane, R., Houéto, J., … Sibiya, J. (2020). Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-76103-4>",
+    "parts": {
+      "author": "Tchokponhoué et al.",
+      "date": "2020",
+      "title": "Phenotypic variation, functional traits repeatability and core collection inference in Synsepalum dulcificum (Schumach & Thonn.) Daniell reveals the Dahomey Gap as a centre of diversity",
+      "volume": "10",
+      "url": "https://doi.org/10.1038/s41598-020-76103-4",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-76103-4"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-76103-4",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "nlrx"
+    ],
+    "doi": "10.1071/WF19213",
+    "citation": "Widyastuti, K., Imron, M. A., Pradopo, S. T., Suryatmojo, H., Sopha, B. M., Spessa, A., & Berger, U. (2020). PeatFire: an agent-based model to simulate fire ignition and spreading in a tropical peatland ecosystem. International Journal of Wildland Fire. <https://doi.org/10.1071/wf19213>",
+    "parts": {
+      "author": "Widyastuti et al.",
+      "date": "2020",
+      "title": "PeatFire: an agent-based model to simulate fire ignition and spreading in a tropical peatland ecosystem",
+      "url": "https://doi.org/10.1071/wf19213",
+      "type": "article-journal",
+      "container-title": "International Journal of Wildland Fire",
+      "doi": "10.1071/wf19213"
+    },
+    "url": "https://doi.org/10.1071/wf19213",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rfishbase"
+    ],
+    "doi": "10.1111/geb.13210",
+    "citation": "Comte, L., Carvajal‐Quintero, J., Tedesco, P. A., Giam, X., Brose, U., Erős, T., … Olden, J. D. (2020). RivFishTIME: A global database of fish time‐series to study global change ecology in riverine systems. Global Ecology and Biogeography, 30(1), 38–50. <https://doi.org/10.1111/geb.13210>",
+    "parts": {
+      "author": "Comte et al.",
+      "date": "2020",
+      "title": "RivFishTIME: A global database of fish time‐series to study global change ecology in riverine systems",
+      "volume": "30",
+      "pages": "38–50",
+      "url": "https://doi.org/10.1111/geb.13210",
+      "type": "article-journal",
+      "container-title": "Global Ecology and Biogeography",
+      "issue": "1",
+      "doi": "10.1111/geb.13210"
+    },
+    "url": "https://doi.org/10.1111/geb.13210",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "CoordinateCleaner"
+    ],
+    "doi": "10.1016/j.ecoinf.2020.101196",
+    "citation": "Roigé, M., & Phillips, C. B. (2021). Validation and uncertainty analysis of the match climates regional algorithm (CLIMEX) for Pest risk analysis. Ecological Informatics, 61, 101196. <https://doi.org/10.1016/j.ecoinf.2020.101196>",
+    "parts": {
+      "author": "Roigé & Phillips",
+      "date": "2021",
+      "title": "Validation and uncertainty analysis of the match climates regional algorithm (CLIMEX) for Pest risk analysis",
+      "volume": "61",
+      "pages": "101196",
+      "url": "https://doi.org/10.1016/j.ecoinf.2020.101196",
+      "type": "article-journal",
+      "container-title": "Ecological Informatics",
+      "doi": "10.1016/j.ecoinf.2020.101196"
+    },
+    "url": "https://doi.org/10.1016/j.ecoinf.2020.101196",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rtweet"
+    ],
+    "citation": "Koh, J. X., & Liew, T. M. (2020). How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds. Journal of Psychiatric Research. <https://doi.org/10.1016/j.jpsychires.2020.11.015>",
+    "parts": {
+      "author": "Koh & Liew",
+      "date": "2020",
+      "title": "How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds",
+      "url": "https://doi.org/10.1016/j.jpsychires.2020.11.015",
+      "type": "article-journal",
+      "container-title": "Journal of Psychiatric Research",
+      "doi": "10.1016/j.jpsychires.2020.11.015"
+    },
+    "url": "https://doi.org/10.1016/j.jpsychires.2020.11.015",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rgbif"
+    ],
+    "citation": "Bombi, P. (2020). Potential conflict extent between two invasive alien pests, Rhynchophorus ferrugineus and Paysandisia archon, and the native populations of the Mediterranean fan palm. Journal for Nature Conservation, 58, 125927. <https://doi.org/10.1016/j.jnc.2020.125927>",
+    "parts": {
+      "author": "Bombi",
+      "date": "2020",
+      "title": "Potential conflict extent between two invasive alien pests, Rhynchophorus ferrugineus and Paysandisia archon, and the native populations of the Mediterranean fan palm",
+      "volume": "58",
+      "pages": "125927",
+      "url": "https://doi.org/10.1016/j.jnc.2020.125927",
+      "type": "article-journal",
+      "container-title": "Journal for Nature Conservation",
+      "doi": "10.1016/j.jnc.2020.125927"
+    },
+    "url": "https://doi.org/10.1016/j.jnc.2020.125927",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "taxa"
+    ],
+    "citation": "Harvey, B. P., Kerfahi, D., Jung, Y., Shin, J.-H., Adams, J. M., & Hall-Spencer, J. M. (2020). Ocean acidification alters bacterial communities on marine plastic debris. Marine Pollution Bulletin, 161, 111749. <https://doi.org/10.1016/j.marpolbul.2020.111749>",
+    "parts": {
+      "author": "Harvey et al.",
+      "date": "2020",
+      "title": "Ocean acidification alters bacterial communities on marine plastic debris",
+      "volume": "161",
+      "pages": "111749",
+      "url": "https://doi.org/10.1016/j.marpolbul.2020.111749",
+      "type": "article-journal",
+      "container-title": "Marine Pollution Bulletin",
+      "doi": "10.1016/j.marpolbul.2020.111749"
+    },
+    "url": "https://doi.org/10.1016/j.marpolbul.2020.111749",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "biomartr"
+    ],
+    "citation": "Sarmah, D. T., Bairagi, N., & Chatterjee, S. (2020). Tracing the footsteps of autophagy in computational biology. Briefings in Bioinformatics. <https://doi.org/10.1093/bib/bbaa286>",
+    "parts": {
+      "author": "Sarmah et al.",
+      "date": "2020",
+      "title": "Tracing the footsteps of autophagy in computational biology",
+      "url": "https://doi.org/10.1093/bib/bbaa286",
+      "type": "article-journal",
+      "container-title": "Briefings in Bioinformatics",
+      "doi": "10.1093/bib/bbaa286"
+    },
+    "url": "https://doi.org/10.1093/bib/bbaa286",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "skimr"
+    ],
+    "doi": "10.1111/zph.12766",
+    "citation": "Schrag, N. F. D., Apley, M. D., Godden, S. M., Lubbers, B. V., & Singer, R. S. (2020). Antimicrobial use quantification in adult dairy cows – Part 1 – Standardized regimens as a method for describing antimicrobial use. Zoonoses and Public Health, 67(S1), 51–68. <https://doi.org/10.1111/zph.12766>",
+    "parts": {
+      "author": "Schrag et al.",
+      "date": "2020",
+      "title": "Antimicrobial use quantification in adult dairy cows – Part 1 – Standardized regimens as a method for describing antimicrobial use",
+      "volume": "67",
+      "pages": "51–68",
+      "url": "https://doi.org/10.1111/zph.12766",
+      "type": "article-journal",
+      "container-title": "Zoonoses and Public Health",
+      "issue": "S1",
+      "doi": "10.1111/zph.12766"
+    },
+    "url": "https://doi.org/10.1111/zph.12766",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "bold",
+      "taxize"
+    ],
+    "doi": "10.1111/mec.15734",
+    "citation": "Sigsgaard, E. E., Olsen, K., Hansen, M. D. D., Hansen, O. L. P., Høye, T. T., Svenning, J., & Thomsen, P. F. (2020). Environmental DNA metabarcoding of cow dung reveals taxonomic and functional diversity of invertebrate assemblages. Molecular Ecology. <https://doi.org/10.1111/mec.15734>",
+    "parts": {
+      "author": "Sigsgaard et al.",
+      "date": "2020",
+      "title": "Environmental DNA metabarcoding of cow dung reveals taxonomic and functional diversity of invertebrate assemblages",
+      "container-title": "Molecular Ecology",
+      "note": "Molecular Ecology. <https://doi.org/10.1111/mec.15734>"
+    },
+    "url": "https://doi.org/10.1111/mec.15734",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rgbif"
+    ],
+    "doi": "10.1098/rspb.2020.1450",
+    "citation": "Capurucho, J. M. G., Ashley, M. V., Tsuru, B. R., Cooper, J. C., & Bates, J. M. (2020). Dispersal ability correlates with range size in Amazonian habitat-restricted birds. Proceedings of the Royal Society B: Biological Sciences, 287(1939), 20201450. <https://doi.org/10.1098/rspb.2020.1450>",
+    "parts": {
+      "author": "Capurucho et al.",
+      "date": "2020",
+      "title": "Dispersal ability correlates with range size in Amazonian habitat-restricted birds",
+      "volume": "287",
+      "pages": "20201450",
+      "url": "https://doi.org/10.1098/rspb.2020.1450",
+      "type": "article-journal",
+      "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+      "issue": "1939",
+      "doi": "10.1098/rspb.2020.1450"
+    },
+    "url": "https://doi.org/10.1098/rspb.2020.1450",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rfishbase"
+    ],
+    "doi": "10.1038/s41586-020-2920-6",
+    "citation": "Leung, B., Hargreaves, A. L., Greenberg, D. A., McGill, B., Dornelas, M., & Freeman, R. (2020). Clustered versus catastrophic global vertebrate declines. Nature, 588(7837), 267–271. <https://doi.org/10.1038/s41586-020-2920-6>",
+    "parts": {
+      "author": "Leung et al.",
+      "date": "2020",
+      "title": "Clustered versus catastrophic global vertebrate declines",
+      "volume": "588",
+      "pages": "267–271",
+      "url": "https://doi.org/10.1038/s41586-020-2920-6",
+      "type": "article-journal",
+      "container-title": "Nature",
+      "issue": "7837",
+      "doi": "10.1038/s41586-020-2920-6"
+    },
+    "url": "https://doi.org/10.1038/s41586-020-2920-6",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rgbif",
+      "CoordinateCleaner"
+    ],
+    "doi": "10.1111/csp2.311",
+    "citation": "Panter, C. T., Clegg, R. L., Moat, J., Bachman, S. P., Klitgård, B. B., & White, R. L. (2020). To clean or not to clean: Cleaning open‐source data improves extinction risk assessments for threatened plant species. Conservation Science and Practice, 2(12). <https://doi.org/10.1111/csp2.311>",
+    "parts": {
+      "author": "Panter et al.",
+      "date": "2020",
+      "title": "To clean or not to clean: Cleaning open‐source data improves extinction risk assessments for threatened plant species",
+      "volume": "2",
+      "url": "https://doi.org/10.1111/csp2.311",
+      "type": "article-journal",
+      "container-title": "Conservation Science and Practice",
+      "issue": "12",
+      "doi": "10.1111/csp2.311"
+    },
+    "url": "https://doi.org/10.1111/csp2.311",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "skynet"
+    ],
+    "doi": "10.1016/j.jtrangeo.2020.102916",
+    "citation": "Teixeira, F. M., & Derudder, B. (2021). Spatio-temporal dynamics in airport catchment areas: The case of the New York Multi Airport Region. Journal of Transport Geography, 90, 102916. <https://doi.org/10.1016/j.jtrangeo.2020.102916>",
+    "parts": {
+      "author": "Teixeira & Derudder",
+      "date": "2021",
+      "title": "Spatio-temporal dynamics in airport catchment areas: The case of the New York Multi Airport Region",
+      "volume": "90",
+      "pages": "102916",
+      "url": "https://doi.org/10.1016/j.jtrangeo.2020.102916",
+      "type": "article-journal",
+      "container-title": "Journal of Transport Geography",
+      "doi": "10.1016/j.jtrangeo.2020.102916"
+    },
+    "url": "https://doi.org/10.1016/j.jtrangeo.2020.102916",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1111/oik.07647",
+    "citation": "Chung, M., Jørgensen, K. M., Trueman, C. N., Knutsen, H., Jorde, P. E., & Grønkjær, P. (2020). First measurements of field metabolic rate in wild juvenile fishes show strong thermal sensitivity but variations between sympatric ecotypes. Oikos. <https://doi.org/10.1111/oik.07647>",
+    "parts": {
+      "author": "Chung et al.",
+      "date": "2020",
+      "title": "First measurements of field metabolic rate in wild juvenile fishes show strong thermal sensitivity but variations between sympatric ecotypes",
+      "url": "https://doi.org/10.1111/oik.07647",
+      "type": "article-journal",
+      "container-title": "Oikos",
+      "doi": "10.1111/oik.07647"
+    },
+    "url": "https://doi.org/10.1111/oik.07647",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "biomartr"
+    ],
+    "doi": "10.1186/s12915-020-00905-1",
+    "citation": "Henkel, L., Rauscher, B., Schmitt, B., Winter, J., & Boutros, M. (2020). Genome-scale CRISPR screening at high sensitivity with an empirically designed sgRNA library. BMC Biology, 18(1). <https://doi.org/10.1186/s12915-020-00905-1>",
+    "parts": {
+      "author": "Henkel et al.",
+      "date": "2020",
+      "title": "Genome-scale CRISPR screening at high sensitivity with an empirically designed sgRNA library",
+      "volume": "18",
+      "url": "https://doi.org/10.1186/s12915-020-00905-1",
+      "type": "article-journal",
+      "container-title": "BMC Biology",
+      "issue": "1",
+      "doi": "10.1186/s12915-020-00905-1"
+    },
+    "url": "https://doi.org/10.1186/s12915-020-00905-1",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "CoordinateCleaner"
+    ],
+    "doi": "10.1111/ddi.13200",
+    "citation": "Chowdhury, S., Braby, M. F., Fuller, R. A., & Zalucki, M. P. (2020). Coasting along to a wider range: niche conservatism in the recent range expansion of the Tawny Coster, Acraea terpsicore (Lepidoptera: Nymphalidae). Diversity and Distributions. <https://doi.org/10.1111/ddi.13200>",
+    "parts": {
+      "author": "Chowdhury et al.",
+      "date": "2020",
+      "title": "Coasting along to a wider range: niche conservatism in the recent range expansion of the Tawny Coster",
+      "container-title": "Diversity and Distributions",
+      "note": "Acraea terpsicore (Lepidoptera: Nymphalidae). Diversity and Distributions. <https://doi.org/10.1111/ddi.13200>"
+    },
+    "url": "https://doi.org/10.1111/ddi.13200",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "visdat"
+    ],
+    "citation": "Borg, D. N., Nguyen, R., & Tierney, N. J. (2020). Missing Data: Current Practice in Football Research and Recommendations for Improvement. <https://doi.org/10.31236/osf.io/fhwcu>",
+    "parts": {
+      "author": "Borg et al.",
+      "date": "2020",
+      "title": "Missing Data: Current Practice in Football Research and Recommendations for Improvement",
+      "url": "https://doi.org/10.31236/osf.io/fhwcu",
+      "container-title": "Center for Open Science",
+      "doi": "10.31236/osf.io/fhwcu"
+    },
+    "url": "https://doi.org/10.31236/osf.io/fhwcu",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rentrez"
+    ],
+    "doi": "10.1093/nar/gkaa1031",
+    "citation": "Kasmanas, J. C., Bartholomäus, A., Corrêa, F. B., Tal, T., Jehmlich, N., Herberth, G., … Nunes da Rocha, U. (2020). HumanMetagenomeDB: a public repository of curated and standardized metadata for human metagenomes. Nucleic Acids Research, 49(D1), D743–D750. <https://doi.org/10.1093/nar/gkaa1031>",
+    "parts": {
+      "author": "Kasmanas et al.",
+      "date": "2020",
+      "title": "HumanMetagenomeDB: a public repository of curated and standardized metadata for human metagenomes",
+      "volume": "49",
+      "pages": "743– 750",
+      "url": "https://doi.org/10.1093/nar/gkaa1031",
+      "type": "article-journal",
+      "container-title": "Nucleic Acids Research",
+      "issue": "D1",
+      "doi": "10.1093/nar/gkaa1031"
+    },
+    "url": "https://doi.org/10.1093/nar/gkaa1031",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnoaa"
+    ],
+    "citation": "Матвійчук, Б. В., & Матвійчук, Н. Г. (2020). ФАКТОРИ ЧУТЛИВОСТІ ҐРУНТІВ ВОЛИНСЬКОЇ ОБЛАСТІ ДО ЕРОЗІЇ. Вісник Полтавської Державної Аграрної Академії, (3), 79–90. <https://doi.org/10.31210/visnyk2020.03.09>",
+    "parts": {
+      "author": "Матвійчук & Матвійчук",
+      "date": "2020",
+      "title": "ФАКТОРИ ЧУТЛИВОСТІ ҐРУНТІВ ВОЛИНСЬКОЇ ОБЛАСТІ ДО ЕРОЗІЇ",
+      "volume": "3",
+      "pages": "79–90",
+      "url": "https://doi.org/10.31210/visnyk2020.03.09",
+      "type": "article-journal",
+      "container-title": "Вісник Полтавської Державної Аграрної Академії",
+      "doi": "10.31210/visnyk2020.03.09"
+    },
+    "url": "https://doi.org/10.31210/visnyk2020.03.09",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rcrossref",
+      "rAltmetric",
+      "roadoi",
+      "rentrez"
+    ],
+    "citation": "Clayson, P. E., Baldwin, S., & Larson, M. J. (2020). The Open Access Advantage for Studies of Human Electrophysiology: Impact on Citations and Altmetrics. <https://doi.org/10.31234/osf.io/5xagd>",
+    "parts": {
+      "author": "Clayson et al.",
+      "date": "2020",
+      "title": "The Open Access Advantage for Studies of Human Electrophysiology: Impact on Citations and Altmetrics",
+      "url": "https://doi.org/10.31234/osf.io/5xagd",
+      "container-title": "Center for Open Science",
+      "doi": "10.31234/osf.io/5xagd"
+    },
+    "url": "https://doi.org/10.31234/osf.io/5xagd",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "skimr"
+    ],
+    "doi": "10.1038/s41598-020-76843-3",
+    "citation": "Nopp-Mayr, U., Reimoser, S., Reimoser, F., Sachser, F., Obermair, L., & Gratzer, G. (2020). Analyzing long-term impacts of ungulate herbivory on forest-recruitment dynamics at community and species level contrasting tree densities versus maximum heights. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-76843-3>",
+    "parts": {
+      "author": "Nopp-Mayr et al.",
+      "date": "2020",
+      "title": "Analyzing long-term impacts of ungulate herbivory on forest-recruitment dynamics at community and species level contrasting tree densities versus maximum heights",
+      "volume": "10",
+      "url": "https://doi.org/10.1038/s41598-020-76843-3",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-76843-3"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-76843-3",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1371/journal.pone.0242060",
+    "citation": "Evdokimova, E. V., Gladkov, G. V., Kuzina, N. I., Ivanova, E. A., Kimeklis, A. K., Zverev, A. O., … Andronov, E. E. (2020). The difference between cellulolytic “culturomes” and microbiomes inhabiting two contrasting soil types. PLOS ONE, 15(11), e0242060. <https://doi.org/10.1371/journal.pone.0242060>",
+    "parts": {
+      "author": "Evdokimova et al.",
+      "date": "2020",
+      "title": "The difference between cellulolytic “culturomes” and microbiomes inhabiting two contrasting soil types",
+      "volume": "15",
+      "pages": "0242060",
+      "url": "https://doi.org/10.1371/journal.pone.0242060",
+      "type": "article-journal",
+      "container-title": "PLOS ONE",
+      "issue": "11",
+      "doi": "10.1371/journal.pone.0242060"
+    },
+    "url": "https://doi.org/10.1371/journal.pone.0242060",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "doi": "10.1093/ee/nvaa147",
+    "citation": "Hobson, K. A., Jinguji, H., Ichikawa, Y., Kusack, J. W., & Anderson, R. C. (2020). Long-Distance Migration of the Globe Skimmer Dragonfly to Japan Revealed Using Stable Hydrogen (δ 2H) Isotopes. Environmental Entomology. <https://doi.org/10.1093/ee/nvaa147>",
+    "parts": {
+      "author": "Hobson et al.",
+      "date": "2020",
+      "title": "Long-Distance Migration of the Globe Skimmer Dragonfly to Japan Revealed Using Stable Hydrogen (δ 2H) Isotopes",
+      "url": "https://doi.org/10.1093/ee/nvaa147",
+      "type": "article-journal",
+      "container-title": "Environmental Entomology",
+      "doi": "10.1093/ee/nvaa147"
+    },
+    "url": "https://doi.org/10.1093/ee/nvaa147",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "treeio"
+    ],
+    "doi": "10.1093/molbev/msaa297",
+    "citation": "Chak, S. T. C., Baeza, J. A., & Barden, P. (2020). Eusociality Shapes Convergent Patterns of Molecular Evolution across Mitochondrial Genomes of Snapping Shrimps. Molecular Biology and Evolution. <https://doi.org/10.1093/molbev/msaa297>",
+    "parts": {
+      "author": "Chak et al.",
+      "date": "2020",
+      "title": "Eusociality Shapes Convergent Patterns of Molecular Evolution across Mitochondrial Genomes of Snapping Shrimps",
+      "url": "https://doi.org/10.1093/molbev/msaa297",
+      "type": "article-journal",
+      "container-title": "Molecular Biology and Evolution",
+      "doi": "10.1093/molbev/msaa297"
+    },
+    "url": "https://doi.org/10.1093/molbev/msaa297",
+    "year": "2020"
   }
 ]
