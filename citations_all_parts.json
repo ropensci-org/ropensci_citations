@@ -73793,5 +73793,1944 @@
         "10.1093/molbev/msaa297"
       ]
     }
+  },
+  {
+    "name": "osmdata",
+    "doi": "10.21105/joss.00305",
+    "citation": "Padgham, M., Lovelace, R., Salmon, M., & Rudis, B. (2017). osmdata. The Journal of Open Source Software, 2(14), 305. <https://doi.org/10.21105/joss.00305>",
+    "parts": {
+      "author": [
+        {
+          "family": "Padgham",
+          "given": "M."
+        },
+        {
+          "family": "Lovelace",
+          "given": "R."
+        },
+        {
+          "family": "Salmon",
+          "given": "M."
+        },
+        {
+          "family": "Rudis",
+          "given": "B."
+        }
+      ],
+      "date": [
+        "2017"
+      ],
+      "title": [
+        "osmdata"
+      ],
+      "volume": [
+        "2"
+      ],
+      "pages": [
+        "305"
+      ],
+      "url": [
+        "https://doi.org/10.21105/joss.00305"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "The Journal of Open Source Software"
+      ],
+      "issue": [
+        "14"
+      ],
+      "doi": [
+        "10.21105/joss.00305"
+      ]
+    }
+  },
+  {
+    "name": "NLMR",
+    "doi": "10.1007/s10980-020-01162-x",
+    "citation": "Braziunas, K. H., Seidl, R., Rammer, W., & Turner, M. G. (2020). Can we manage a future with more fire? Effectiveness of defensible space treatment depends on housing amount and configuration. Landscape Ecology, 36(2), 309–330. <https://doi.org/10.1007/s10980-020-01162-x>",
+    "parts": {
+      "author": [
+        {
+          "family": "Braziunas",
+          "given": "K.H."
+        },
+        {
+          "family": "Seidl",
+          "given": "R."
+        },
+        {
+          "family": "Rammer",
+          "given": "W."
+        },
+        {
+          "family": "Turner",
+          "given": "M.G."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Can we manage a future with more fire? Effectiveness of defensible space treatment depends on housing amount and configuration"
+      ],
+      "volume": [
+        "36"
+      ],
+      "pages": [
+        "309–330"
+      ],
+      "url": [
+        "https://doi.org/10.1007/s10980-020-01162-x"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Landscape Ecology"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1007/s10980-020-01162-x"
+      ]
+    }
+  },
+  {
+    "name": "stats19",
+    "doi": "10.3141/2061-07",
+    "citation": "Aguero-Valverde, J., & Jovanis, P. P. (2008). Analysis of Road Crash Frequency with Spatial Models. Transportation Research Record: Journal of the Transportation Research Board, 2061(1), 55–63. <https://doi.org/10.3141/2061-07>",
+    "parts": {
+      "author": [
+        {
+          "family": "Aguero-Valverde",
+          "given": "J."
+        },
+        {
+          "family": "Jovanis",
+          "given": "P.P."
+        }
+      ],
+      "date": [
+        "2008"
+      ],
+      "title": [
+        "Analysis of Road Crash Frequency with Spatial Models"
+      ],
+      "volume": [
+        "2061"
+      ],
+      "pages": [
+        "55–63"
+      ],
+      "url": [
+        "https://doi.org/10.3141/2061-07"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Transportation Research Record: Journal of the Transportation Research Board"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.3141/2061-07"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearthdata",
+    "doi": "10.1371/journal.pone.0242220",
+    "citation": "Bennie, J. A., De Cocker, K., Smith, J. J., & Wiesner, G. H. (2020). The epidemiology of muscle-strengthening exercise in Europe: A 28-country comparison including 280,605 adults. PLOS ONE, 15(11), e0242220. <https://doi.org/10.1371/journal.pone.0242220>",
+    "parts": {
+      "author": [
+        {
+          "family": "Bennie",
+          "given": "J.A."
+        },
+        {
+          "family": "De Cocker",
+          "given": "K."
+        },
+        {
+          "family": "Smith",
+          "given": "J.J."
+        },
+        {
+          "family": "Wiesner",
+          "given": "G.H."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The epidemiology of muscle-strengthening exercise in Europe: A 28-country comparison including 280,605 adults"
+      ],
+      "volume": [
+        "15"
+      ],
+      "pages": [
+        "0242220"
+      ],
+      "url": [
+        "https://doi.org/10.1371/journal.pone.0242220"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "issue": [
+        "11"
+      ],
+      "doi": [
+        "10.1371/journal.pone.0242220"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1371/journal.pone.0242220",
+    "citation": "Bennie, J. A., De Cocker, K., Smith, J. J., & Wiesner, G. H. (2020). The epidemiology of muscle-strengthening exercise in Europe: A 28-country comparison including 280,605 adults. PLOS ONE, 15(11), e0242220. <https://doi.org/10.1371/journal.pone.0242220>",
+    "parts": {
+      "author": [
+        {
+          "family": "Bennie",
+          "given": "J.A."
+        },
+        {
+          "family": "De Cocker",
+          "given": "K."
+        },
+        {
+          "family": "Smith",
+          "given": "J.J."
+        },
+        {
+          "family": "Wiesner",
+          "given": "G.H."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The epidemiology of muscle-strengthening exercise in Europe: A 28-country comparison including 280,605 adults"
+      ],
+      "volume": [
+        "15"
+      ],
+      "pages": [
+        "0242220"
+      ],
+      "url": [
+        "https://doi.org/10.1371/journal.pone.0242220"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "issue": [
+        "11"
+      ],
+      "doi": [
+        "10.1371/journal.pone.0242220"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1038/s41597-020-00702-z",
+    "citation": "Freiberg, M., Winter, M., Gentile, A., Zizka, A., Muellner-Riehl, A. N., Weigelt, A., & Wirth, C. (2020). LCVP, The Leipzig catalogue of vascular plants, a new taxonomic reference list for all known vascular plants. Scientific Data, 7(1). <https://doi.org/10.1038/s41597-020-00702-z>",
+    "parts": {
+      "author": [
+        {
+          "family": "Freiberg",
+          "given": "M."
+        },
+        {
+          "family": "Winter",
+          "given": "M."
+        },
+        {
+          "family": "Gentile",
+          "given": "A."
+        },
+        {
+          "family": "Zizka",
+          "given": "A."
+        },
+        {
+          "family": "Muellner-Riehl",
+          "given": "A.N."
+        },
+        {
+          "family": "Weigelt",
+          "given": "A."
+        },
+        {
+          "family": "Wirth",
+          "given": "C."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "LCVP, The Leipzig catalogue of vascular plants, a new taxonomic reference list for all known vascular plants"
+      ],
+      "volume": [
+        "7"
+      ],
+      "url": [
+        "https://doi.org/10.1038/s41597-020-00702-z"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Scientific Data"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1038/s41597-020-00702-z"
+      ]
+    }
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1111/geb.13227",
+    "citation": "Kopf, R. K., Yen, J. D. L., Nimmo, D. G., Brosse, S., & Villéger, S. (2020). Global patterns and predictors of trophic position, body size and jaw size in fishes. Global Ecology and Biogeography, 30(2), 414–428. <https://doi.org/10.1111/geb.13227>",
+    "parts": {
+      "author": [
+        {
+          "family": "Kopf",
+          "given": "R.K."
+        },
+        {
+          "family": "Yen",
+          "given": "J.D.L."
+        },
+        {
+          "family": "Nimmo",
+          "given": "D.G."
+        },
+        {
+          "family": "Brosse",
+          "given": "S."
+        },
+        {
+          "family": "Villéger",
+          "given": "S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Global patterns and predictors of trophic position, body size and jaw size in fishes"
+      ],
+      "volume": [
+        "30"
+      ],
+      "pages": [
+        "414–428"
+      ],
+      "url": [
+        "https://doi.org/10.1111/geb.13227"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Global Ecology and Biogeography"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1111/geb.13227"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/zsc.12466",
+    "citation": "Pons, J., Campión, D., Chiozzi, G., Ettwein, A., Grangé, J., Kajtoch, Ł., … Fuchs, J. (2020). Phylogeography of a widespread Palaearctic forest bird species: The White‐backed Woodpecker (Aves, Picidae). Zoologica Scripta, 50(2), 155–172. <https://doi.org/10.1111/zsc.12466>",
+    "parts": {
+      "author": [
+        {
+          "family": "Pons",
+          "given": "J."
+        },
+        {
+          "family": "Campión",
+          "given": "D."
+        },
+        {
+          "family": "Chiozzi",
+          "given": "G."
+        },
+        {
+          "family": "Ettwein",
+          "given": "A."
+        },
+        {
+          "family": "Grangé",
+          "given": "J."
+        },
+        {
+          "family": "Kajtoch",
+          "given": "Ł."
+        },
+        {
+          "family": "Fuchs",
+          "given": "J."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Phylogeography of a widespread Palaearctic forest bird species: The White‐backed Woodpecker (Aves, Picidae"
+      ],
+      "volume": [
+        "50"
+      ],
+      "pages": [
+        "155–172"
+      ],
+      "url": [
+        "https://doi.org/10.1111/zsc.12466"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Zoologica Scripta"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1111/zsc.12466"
+      ]
+    }
+  },
+  {
+    "name": "magick",
+    "doi": "10.1093/bioinformatics/btaa991",
+    "citation": "Liang, X., Hu, Y., Yan, C., & Xu, K. (2020). i2d: an R package for simulating data from images and the implications in biomedical research. Bioinformatics. <https://doi.org/10.1093/bioinformatics/btaa991>",
+    "parts": {
+      "author": [
+        {
+          "family": "Liang",
+          "given": "X."
+        },
+        {
+          "family": "Hu",
+          "given": "Y."
+        },
+        {
+          "family": "Yan",
+          "given": "C."
+        },
+        {
+          "family": "Xu",
+          "given": "K."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "i2d: an R package for simulating data from images and the implications in biomedical research"
+      ],
+      "genre": [
+        "Bioinformatics."
+      ],
+      "url": [
+        "https://doi.org/10.1093/bioinformatics/btaa991"
+      ],
+      "doi": [
+        "10.1093/bioinformatics/btaa991"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1111/gcb.15428",
+    "citation": "Kunc, H. P., & Schmidt, R. (2020). Species sensitivities to a global pollutant: A meta‐analysis on acoustic signals in response to anthropogenic noise. Global Change Biology, 27(3), 675–688. <https://doi.org/10.1111/gcb.15428>",
+    "parts": {
+      "author": [
+        {
+          "family": "Kunc",
+          "given": "H.P."
+        },
+        {
+          "family": "Schmidt",
+          "given": "R."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Species sensitivities to a global pollutant: A meta‐analysis on acoustic signals in response to anthropogenic noise"
+      ],
+      "volume": [
+        "27"
+      ],
+      "pages": [
+        "675–688"
+      ],
+      "url": [
+        "https://doi.org/10.1111/gcb.15428"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Global Change Biology"
+      ],
+      "issue": [
+        "3"
+      ],
+      "doi": [
+        "10.1111/gcb.15428"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/jbi.14021",
+    "citation": "Ludt, W. B., & Myers, C. E. (2020). Distinguishing between dispersal and vicariance: A novel approach using anti‐tropical taxa across the fish Tree of Life. Journal of Biogeography, 48(3), 577–589. <https://doi.org/10.1111/jbi.14021>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ludt",
+          "given": "W.B."
+        },
+        {
+          "family": "Myers",
+          "given": "C.E."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Distinguishing between dispersal and vicariance: A novel approach using anti‐tropical taxa across the fish Tree of Life"
+      ],
+      "volume": [
+        "48"
+      ],
+      "pages": [
+        "577–589"
+      ],
+      "url": [
+        "https://doi.org/10.1111/jbi.14021"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Biogeography"
+      ],
+      "issue": [
+        "3"
+      ],
+      "doi": [
+        "10.1111/jbi.14021"
+      ]
+    }
+  },
+  {
+    "name": "ropenaq",
+    "doi": "10.1080/15567036.2020.1853854",
+    "citation": "Le, V. V., Huynh, T. T., Ölçer, A., Hoang, A. T., Le, A. T., Nayak, S. K., & Pham, V. V. (2020). A remarkable review of the effect of lockdowns during COVID-19 pandemic on global PM emissions. Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, 1–16. <https://doi.org/10.1080/15567036.2020.1853854>",
+    "parts": {
+      "author": [
+        {
+          "family": "Le",
+          "given": "V.V."
+        },
+        {
+          "family": "Huynh",
+          "given": "T.T."
+        },
+        {
+          "family": "Ölçer",
+          "given": "A."
+        },
+        {
+          "family": "Hoang",
+          "given": "A.T."
+        },
+        {
+          "family": "Le",
+          "given": "A.T."
+        },
+        {
+          "family": "Nayak",
+          "given": "S.K."
+        },
+        {
+          "family": "Pham",
+          "given": "V.V."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "A remarkable review of the effect of lockdowns during COVID-19 pandemic on global PM emissions"
+      ],
+      "note": [
+        "Part A: Recovery, Utilization, and Environmental Effects, 1–16."
+      ],
+      "url": [
+        "https://doi.org/10.1080/15567036.2020.1853854"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Energy Sources"
+      ],
+      "doi": [
+        "10.1080/15567036.2020.1853854"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "citation": "Twardochleb, L. A. (2020). Climate effects on freshwater ecological communities: From local species interactions to continental biodiversity patterns. ProQuest Dissertations & Theses Global. (2456841937).  https://search.proquest.com/dissertations-theses/climate-effects-on-freshwater-ecological/docview/2456841937/se-2?accountid=14496",
+    "parts": {
+      "author": [
+        {
+          "family": "Twardochleb",
+          "given": "L.A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Climate effects on freshwater ecological communities: From local species interactions to continental biodiversity patterns"
+      ],
+      "volume": [
+        "2456841937"
+      ],
+      "url": [
+        "https://search.proquest.com/dissertations-theses/climate-effects-on-freshwater-ecological/docview/2456841937/se-2?accountid=14496"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "ProQuest Dissertations & Theses Global"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "citation": "Werner, K. D., & Qiu, W. (2020). Hard to Measure Well: Can Feasible Policies Reduce Methane Emissions? <https://www.haas.berkeley.edu/wp-content/uploads/WP310.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Werner",
+          "given": "K.D."
+        },
+        {
+          "family": "Qiu",
+          "given": "W."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Hard to Measure Well: Can Feasible Policies Reduce Methane Emissions?"
+      ],
+      "url": [
+        "https://www.haas.berkeley.edu/wp-content/uploads/WP310.pdf"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1051/parasite/2020062",
+    "citation": "Rose Vineer, H., Morgan, E. R., Hertzberg, H., Bartley, D. J., Bosco, A., Charlier, J., … Rinaldi, L. (2020). Increasing importance of anthelmintic resistance in European livestock: creation and meta-analysis of an open database. Parasite, 27, 69. <https://doi.org/10.1051/parasite/2020062>",
+    "parts": {
+      "author": [
+        {
+          "family": "Rose Vineer",
+          "given": "H."
+        },
+        {
+          "family": "Morgan",
+          "given": "E.R."
+        },
+        {
+          "family": "Hertzberg",
+          "given": "H."
+        },
+        {
+          "family": "Bartley",
+          "given": "D.J."
+        },
+        {
+          "family": "Bosco",
+          "given": "A."
+        },
+        {
+          "family": "Charlier",
+          "given": "J."
+        },
+        {
+          "family": "Rinaldi",
+          "given": "L."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Increasing importance of anthelmintic resistance in European livestock: creation and meta-analysis of an open database"
+      ],
+      "volume": [
+        "27"
+      ],
+      "pages": [
+        "69"
+      ],
+      "url": [
+        "https://doi.org/10.1051/parasite/2020062"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Parasite"
+      ],
+      "doi": [
+        "10.1051/parasite/2020062"
+      ]
+    }
+  },
+  {
+    "name": "bomrang",
+    "doi": "10.1002/ps.6206",
+    "citation": "Binns, M., Hoffmann, A. A., Helden, M., Heddle, T., Hill, M. P., Macfadyen, S., … Umina, P. A. (2020). Lifecycle of the invasive omnivore, Forficula auricularia, in Australian grain growing environments. Pest Management Science. <https://doi.org/10.1002/ps.6206>",
+    "parts": {
+      "author": [
+        {
+          "family": "Binns",
+          "given": "M."
+        },
+        {
+          "family": "Hoffmann",
+          "given": "A.A."
+        },
+        {
+          "family": "Helden",
+          "given": "M."
+        },
+        {
+          "family": "Heddle",
+          "given": "T."
+        },
+        {
+          "family": "Hill",
+          "given": "M.P."
+        },
+        {
+          "family": "Macfadyen",
+          "given": "S."
+        },
+        {
+          "family": "Umina",
+          "given": "P.A."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Lifecycle of the invasive omnivore"
+      ],
+      "container-title": [
+        "Forficula auricularia, in Australian grain growing environments. Pest Management Science"
+      ],
+      "url": [
+        "https://doi.org/10.1002/ps.6206"
+      ],
+      "doi": [
+        "10.1002/ps.6206"
+      ],
+      "type": "chapter"
+    }
+  },
+  {
+    "name": "magick",
+    "doi": "10.1167/iovs.61.14.9",
+    "citation": "Wang, J., Wang, X., Gao, Y., Lin, Z., Chen, J., Gigantelli, J., … Pierre, S. V. (2020). Stress Signal Regulation by Na/K-ATPase As a New Approach to Promote Physiological Revascularization in a Mouse Model of Ischemic Retinopathy. Investigative Opthalmology & Visual Science, 61(14), 9. <https://doi.org/10.1167/iovs.61.14.9>",
+    "parts": {
+      "author": [
+        {
+          "family": "Wang",
+          "given": "J."
+        },
+        {
+          "family": "Wang",
+          "given": "X."
+        },
+        {
+          "family": "Gao",
+          "given": "Y."
+        },
+        {
+          "family": "Lin",
+          "given": "Z."
+        },
+        {
+          "family": "Chen",
+          "given": "J."
+        },
+        {
+          "family": "Gigantelli",
+          "given": "J."
+        },
+        {
+          "family": "Pierre",
+          "given": "S.V."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Stress Signal Regulation by Na/K-ATPase As a New Approach to Promote Physiological Revascularization in a Mouse Model of Ischemic Retinopathy"
+      ],
+      "volume": [
+        "61"
+      ],
+      "pages": [
+        "9"
+      ],
+      "url": [
+        "https://doi.org/10.1167/iovs.61.14.9"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Investigative Opthalmology & Visual Science"
+      ],
+      "issue": [
+        "14"
+      ],
+      "doi": [
+        "10.1167/iovs.61.14.9"
+      ]
+    }
+  },
+  {
+    "name": "magick",
+    "doi": "10.1007/s00204-020-02956-3",
+    "citation": "Loser, D., Schaefer, J., Danker, T., Möller, C., Brüll, M., Suciu, I., … Kraushaar, U. (2020). Human neuronal signaling and communication assays to assess functional neurotoxicity. Archives of Toxicology, 95(1), 229–252. <https://doi.org/10.1007/s00204-020-02956-3>",
+    "parts": {
+      "author": [
+        {
+          "family": "Loser",
+          "given": "D."
+        },
+        {
+          "family": "Schaefer",
+          "given": "J."
+        },
+        {
+          "family": "Danker",
+          "given": "T."
+        },
+        {
+          "family": "Möller",
+          "given": "C."
+        },
+        {
+          "family": "Brüll",
+          "given": "M."
+        },
+        {
+          "family": "Suciu",
+          "given": "I."
+        },
+        {
+          "family": "Kraushaar",
+          "given": "U."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Human neuronal signaling and communication assays to assess functional neurotoxicity"
+      ],
+      "volume": [
+        "95"
+      ],
+      "pages": [
+        "229–252"
+      ],
+      "url": [
+        "https://doi.org/10.1007/s00204-020-02956-3"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Archives of Toxicology"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1007/s00204-020-02956-3"
+      ]
+    }
+  },
+  {
+    "name": "rtweet",
+    "citation": "Bittermann, A., Batzdorfer, V., Müller, S. M., & Steinmetz, H. (2021). Mining Twitter to detect hotspots in psychology. Zeitschrift für Psychologie. <https://www.psycharchives.org/bitstream/20.500.12034/3956/1/ESM%201_methods.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Bittermann",
+          "given": "A."
+        },
+        {
+          "family": "Batzdorfer",
+          "given": "V."
+        },
+        {
+          "family": "Müller",
+          "given": "S.M."
+        },
+        {
+          "family": "Steinmetz",
+          "given": "H."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Mining Twitter to detect hotspots in psychology"
+      ],
+      "url": [
+        "https://www.psycharchives.org/bitstream/20.500.12034/3956/1/ESM%201_methods.pdf"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Zeitschrift für Psychologie"
+      ]
+    }
+  },
+  {
+    "name": "monkeylearn",
+    "doi": "10.1016/j.jglr.2020.11.004",
+    "citation": "Dawson, H. A., & Allison, M. (2021). Requirements for Autonomous Underwater Vehicles (AUVs) for scientific data collection in the Laurentian Great Lakes: A questionnaire survey. Journal of Great Lakes Research, 47(1), 259–265. <https://doi.org/10.1016/j.jglr.2020.11.004>",
+    "parts": {
+      "author": [
+        {
+          "family": "Dawson",
+          "given": "H.A."
+        },
+        {
+          "family": "Allison",
+          "given": "M."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Requirements for Autonomous Underwater Vehicles (AUVs) for scientific data collection in the Laurentian Great Lakes: A questionnaire survey"
+      ],
+      "volume": [
+        "47"
+      ],
+      "pages": [
+        "259–265"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.jglr.2020.11.004"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Great Lakes Research"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1016/j.jglr.2020.11.004"
+      ]
+    }
+  },
+  {
+    "name": "RSelenium",
+    "citation": "Isotalo, V. (2020). Designing Voting Advice Applications: The Finnish Case. Master's Thesis. <https://aaltodoc.aalto.fi/bitstream/handle/123456789/59362/master_Isotalo_Veikko_1970.pdf?sequence=1&isAllowed=y>",
+    "parts": {
+      "author": [
+        {
+          "family": "Isotalo",
+          "given": "V."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Designing Voting Advice Applications: The Finnish Case"
+      ],
+      "genre": [
+        "Master's Thesis."
+      ],
+      "url": [
+        "https://aaltodoc.aalto.fi/bitstream/handle/123456789/59362/master_Isotalo_Veikko_1970.pdf?sequence=1&isAllowed=y"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "phylotaR",
+    "citation": "Crespo, L. C., Silva, I., Enguídanos, A., Cardoso, P., & Arnedo, M. A. (2020). Integrative taxonomic revision of the woodlouse-hunter spider genus Dysdera (Araneae: Dysderidae) in the Madeira archipelago with notes on its conservation status. Zoological Journal of the Linnean Society. <https://doi.org./10.1093/zoolinnean/zlaa089>",
+    "parts": {
+      "author": [
+        {
+          "family": "Crespo",
+          "given": "L.C."
+        },
+        {
+          "family": "Silva",
+          "given": "I."
+        },
+        {
+          "family": "Enguídanos",
+          "given": "A."
+        },
+        {
+          "family": "Cardoso",
+          "given": "P."
+        },
+        {
+          "family": "Arnedo",
+          "given": "M.A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Integrative taxonomic revision of the woodlouse-hunter spider genus Dysdera (Araneae: Dysderidae) in the Madeira archipelago with notes on its conservation status"
+      ],
+      "url": [
+        "https://doi.org./10.1093/zoolinnean/zlaa089"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Zoological Journal of the Linnean Society"
+      ]
+    }
+  },
+  {
+    "name": "rnoaa",
+    "citation": "Dumitrescu, L., & Schiopu-Kratina, I. (2021). Asymptotic results with estimating equations for time-evolving clustered data. Journal of Statistical Planning and Inference. arXiv preprint. <https://arxiv.org/pdf/2011.14017>",
+    "parts": {
+      "author": [
+        {
+          "family": "Dumitrescu",
+          "given": "L."
+        },
+        {
+          "family": "Schiopu-Kratina",
+          "given": "I."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Asymptotic results with estimating equations for time-evolving clustered data"
+      ],
+      "note": [
+        "arXiv preprint. <https://arxiv.org/pdf/2011.14017>"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Statistical Planning and Inference"
+      ]
+    }
+  },
+  {
+    "name": "treeio",
+    "doi": "10.1186/s12864-020-07263-w",
+    "citation": "Wagner, E., Zaiser, A., Leitner, R., Quijada, N. M., Pracser, N., Pietzka, A., … Rychli, K. (2020). Virulence characterization and comparative genomics of Listeria monocytogenes sequence type 155 strains. BMC Genomics, 21(1). <https://doi.org/10.1186/s12864-020-07263-w>",
+    "parts": {
+      "author": [
+        {
+          "family": "Wagner",
+          "given": "E."
+        },
+        {
+          "family": "Zaiser",
+          "given": "A."
+        },
+        {
+          "family": "Leitner",
+          "given": "R."
+        },
+        {
+          "family": "Quijada",
+          "given": "N.M."
+        },
+        {
+          "family": "Pracser",
+          "given": "N."
+        },
+        {
+          "family": "Pietzka",
+          "given": "A."
+        },
+        {
+          "family": "Rychli",
+          "given": "K."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Virulence characterization and comparative genomics of Listeria monocytogenes sequence type 155 strains"
+      ],
+      "volume": [
+        "21"
+      ],
+      "url": [
+        "https://doi.org/10.1186/s12864-020-07263-w"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "BMC Genomics"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1186/s12864-020-07263-w"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1016/j.biocon.2020.108864",
+    "citation": "Mayani-Parás, F., Botello, F., Castañeda, S., Munguía-Carrara, M., & Sánchez-Cordero, V. (2021). Cumulative habitat loss increases conservation threats on endemic species of terrestrial vertebrates in Mexico. Biological Conservation, 253, 108864. <https://doi.org/10.1016/j.biocon.2020.108864>",
+    "parts": {
+      "author": [
+        {
+          "family": "Mayani-Parás",
+          "given": "F."
+        },
+        {
+          "family": "Botello",
+          "given": "F."
+        },
+        {
+          "family": "Castañeda",
+          "given": "S."
+        },
+        {
+          "family": "Munguía-Carrara",
+          "given": "M."
+        },
+        {
+          "family": "Sánchez-Cordero",
+          "given": "V."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Cumulative habitat loss increases conservation threats on endemic species of terrestrial vertebrates in Mexico"
+      ],
+      "volume": [
+        "253"
+      ],
+      "pages": [
+        "108864"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.biocon.2020.108864"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Biological Conservation"
+      ],
+      "doi": [
+        "10.1016/j.biocon.2020.108864"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "citation": "Zonneveld, M., Kindt, R., Solberg, S. Ø., N’Danikou, S., & Dawson, I. K. (2020). Diversity and conservation of traditional African vegetables: Priorities for action. Diversity and Distributions, 27(2), 216–232. <https://doi.org/10.1111/ddi.13188>",
+    "parts": {
+      "author": [
+        {
+          "family": "Zonneveld",
+          "given": "M."
+        },
+        {
+          "family": "Kindt",
+          "given": "R."
+        },
+        {
+          "family": "Solberg",
+          "given": "S.Ø."
+        },
+        {
+          "family": "N’Danikou",
+          "given": "S."
+        },
+        {
+          "family": "Dawson",
+          "given": "I.K."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Diversity and conservation of traditional African vegetables: Priorities for action"
+      ],
+      "volume": [
+        "27"
+      ],
+      "pages": [
+        "216–232"
+      ],
+      "url": [
+        "https://doi.org/10.1111/ddi.13188"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Diversity and Distributions"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1111/ddi.13188"
+      ]
+    }
+  },
+  {
+    "name": "NLMR",
+    "citation": "Sieger, C. S. Potential evolutionary responses to landscape heterogeneity and systematic environmental trends (Doctoral dissertation, Universität Würzburg). <https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/21669/file/Sieger_Charlotte_Thesis.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Sieger",
+          "given": "C.S."
+        }
+      ],
+      "title": [
+        "Potential evolutionary responses to landscape heterogeneity and systematic environmental trends"
+      ],
+      "genre": [
+        "(Doctoral dissertation,"
+      ],
+      "publisher": [
+        "Universität Würzburg"
+      ],
+      "url": [
+        "https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/21669/file/Sieger_Charlotte_Thesis.pdf"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "geojsonio",
+    "citation": "White, E. (2020). Statistical learning for unimpaired flow prediction in ungauged basins. PhD Dissertation. <https://search.proquest.com/dissertations-theses/statistical-learning-unimpaired-flow-prediction/docview/2466023995/se-2?accountid=14496>",
+    "parts": {
+      "author": [
+        {
+          "family": "White",
+          "given": "E."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Statistical learning for unimpaired flow prediction in ungauged basins"
+      ],
+      "genre": [
+        "PhD Dissertation."
+      ],
+      "url": [
+        "https://search.proquest.com/dissertations-theses/statistical-learning-unimpaired-flow-prediction/docview/2466023995/se-2?accountid=14496"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "magick",
+    "citation": "White, E. (2020). Statistical learning for unimpaired flow prediction in ungauged basins. PhD Dissertation. <https://search.proquest.com/dissertations-theses/statistical-learning-unimpaired-flow-prediction/docview/2466023995/se-2?accountid=14496>",
+    "parts": {
+      "author": [
+        {
+          "family": "White",
+          "given": "E."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Statistical learning for unimpaired flow prediction in ungauged basins"
+      ],
+      "genre": [
+        "PhD Dissertation."
+      ],
+      "url": [
+        "https://search.proquest.com/dissertations-theses/statistical-learning-unimpaired-flow-prediction/docview/2466023995/se-2?accountid=14496"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "refsplitr",
+    "citation": "Smith, T. B., Vacca, R., Krenz, T., & McCarty, C. (2021). Great minds think alike, or do they often differ? Research topic overlap and the formation of scientific teams. Journal of Informetrics, 15(1), 101104. <https://doi.org/10.1016/j.joi.2020.101104>",
+    "parts": {
+      "author": [
+        {
+          "family": "Smith",
+          "given": "T.B."
+        },
+        {
+          "family": "Vacca",
+          "given": "R."
+        },
+        {
+          "family": "Krenz",
+          "given": "T."
+        },
+        {
+          "family": "McCarty",
+          "given": "C."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Great minds think alike, or do they often differ? Research topic overlap and the formation of scientific teams"
+      ],
+      "volume": [
+        "15"
+      ],
+      "pages": [
+        "101104"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.joi.2020.101104"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Informetrics"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1016/j.joi.2020.101104"
+      ]
+    }
+  },
+  {
+    "name": "tesseract",
+    "doi": "10.1007/s11145-020-10108-3",
+    "citation": "Candarli, D. (2020). A longitudinal study of multi-word constructions in L2 academic writing: the effects of frequency and dispersion. Reading and Writing. <https://doi.org/10.1007/s11145-020-10108-3>",
+    "parts": {
+      "author": [
+        {
+          "family": "Candarli",
+          "given": "D."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "A longitudinal study of multi-word constructions in L2 academic writing: the effects of frequency and dispersion"
+      ],
+      "url": [
+        "https://doi.org/10.1007/s11145-020-10108-3"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Reading and Writing"
+      ],
+      "doi": [
+        "10.1007/s11145-020-10108-3"
+      ]
+    }
+  },
+  {
+    "name": "UCSCXenaTools",
+    "doi": "10.1186/s43042-020-00119-8",
+    "citation": "Gvaldin, D. Y., Pushkin, A. A., Timoshkina, N. N., Rostorguev, E. E., Nalgiev, A. M., & Kit, O. I. (2020). Integrative analysis of mRNA and miRNA sequencing data for gliomas of various grades. Egyptian Journal of Medical Human Genetics, 21(1). <https://doi.org/10.1186/s43042-020-00119-8>",
+    "parts": {
+      "author": [
+        {
+          "family": "Gvaldin",
+          "given": "D.Y."
+        },
+        {
+          "family": "Pushkin",
+          "given": "A.A."
+        },
+        {
+          "family": "Timoshkina",
+          "given": "N.N."
+        },
+        {
+          "family": "Rostorguev",
+          "given": "E.E."
+        },
+        {
+          "family": "Nalgiev",
+          "given": "A.M."
+        },
+        {
+          "family": "Kit",
+          "given": "O.I."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Integrative analysis of mRNA and miRNA sequencing data for gliomas of various grades"
+      ],
+      "volume": [
+        "21"
+      ],
+      "url": [
+        "https://doi.org/10.1186/s43042-020-00119-8"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Egyptian Journal of Medical Human Genetics"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1186/s43042-020-00119-8"
+      ]
+    }
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1093/sysbio/syaa090",
+    "citation": "Farooq, H., Azevedo, J. A. R., Soares, A., Antonelli, A., & Faurby, S. (2020). Mapping Africa’s Biodiversity: More of the Same Is Just Not Good Enough. Systematic Biology. <https://doi.org/10.1093/sysbio/syaa090>",
+    "parts": {
+      "author": [
+        {
+          "family": "Farooq",
+          "given": "H."
+        },
+        {
+          "family": "Azevedo",
+          "given": "J.A.R."
+        },
+        {
+          "family": "Soares",
+          "given": "A."
+        },
+        {
+          "family": "Antonelli",
+          "given": "A."
+        },
+        {
+          "family": "Faurby",
+          "given": "S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Mapping Africa’s Biodiversity: More of the Same Is Just Not Good Enough"
+      ],
+      "url": [
+        "https://doi.org/10.1093/sysbio/syaa090"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Systematic Biology"
+      ],
+      "doi": [
+        "10.1093/sysbio/syaa090"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "doi": "10.1093/sysbio/syaa090",
+    "citation": "Farooq, H., Azevedo, J. A. R., Soares, A., Antonelli, A., & Faurby, S. (2020). Mapping Africa’s Biodiversity: More of the Same Is Just Not Good Enough. Systematic Biology. <https://doi.org/10.1093/sysbio/syaa090>",
+    "parts": {
+      "author": [
+        {
+          "family": "Farooq",
+          "given": "H."
+        },
+        {
+          "family": "Azevedo",
+          "given": "J.A.R."
+        },
+        {
+          "family": "Soares",
+          "given": "A."
+        },
+        {
+          "family": "Antonelli",
+          "given": "A."
+        },
+        {
+          "family": "Faurby",
+          "given": "S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Mapping Africa’s Biodiversity: More of the Same Is Just Not Good Enough"
+      ],
+      "url": [
+        "https://doi.org/10.1093/sysbio/syaa090"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Systematic Biology"
+      ],
+      "doi": [
+        "10.1093/sysbio/syaa090"
+      ]
+    }
+  },
+  {
+    "name": "baRcodeR",
+    "doi": "10.3390/foods9121824",
+    "citation": "Walker, V. K., Das, P., Li, P., Lougheed, S. C., Moniz, K., Schott, S., … Koch, I. (2020). Identification of Arctic Food Fish Species for Anthropogenic Contaminant Testing Using Geography and Genetics. Foods, 9(12), 1824. <https://doi.org/10.3390/foods9121824>",
+    "parts": {
+      "author": [
+        {
+          "family": "Walker",
+          "given": "V.K."
+        },
+        {
+          "family": "Das",
+          "given": "P."
+        },
+        {
+          "family": "Li",
+          "given": "P."
+        },
+        {
+          "family": "Lougheed",
+          "given": "S.C."
+        },
+        {
+          "family": "Moniz",
+          "given": "K."
+        },
+        {
+          "family": "Schott",
+          "given": "S."
+        },
+        {
+          "family": "Koch",
+          "given": "I."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Identification of Arctic Food Fish Species for Anthropogenic Contaminant Testing Using Geography and Genetics"
+      ],
+      "volume": [
+        "9"
+      ],
+      "pages": [
+        "1824"
+      ],
+      "url": [
+        "https://doi.org/10.3390/foods9121824"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Foods"
+      ],
+      "issue": [
+        "12"
+      ],
+      "doi": [
+        "10.3390/foods9121824"
+      ]
+    }
+  },
+  {
+    "name": "stplanr",
+    "doi": "10.1016/j.biocon.2020.108866",
+    "citation": "Fitzgerald, D. B., Henderson, A. R., Maloney, K. O., Freeman, M. C., Young, J. A., Rosenberger, A. E., … Smith, D. R. (2021). A Bayesian framework for assessing extinction risk based on ordinal categories of population condition and projected landscape change. Biological Conservation, 253, 108866. <https://doi.org/10.1016/j.biocon.2020.108866>",
+    "parts": {
+      "author": [
+        {
+          "family": "Fitzgerald",
+          "given": "D.B."
+        },
+        {
+          "family": "Henderson",
+          "given": "A.R."
+        },
+        {
+          "family": "Maloney",
+          "given": "K.O."
+        },
+        {
+          "family": "Freeman",
+          "given": "M.C."
+        },
+        {
+          "family": "Young",
+          "given": "J.A."
+        },
+        {
+          "family": "Rosenberger",
+          "given": "A.E."
+        },
+        {
+          "family": "Smith",
+          "given": "D.R."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "A Bayesian framework for assessing extinction risk based on ordinal categories of population condition and projected landscape change"
+      ],
+      "volume": [
+        "253"
+      ],
+      "pages": [
+        "108866"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.biocon.2020.108866"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Biological Conservation"
+      ],
+      "doi": [
+        "10.1016/j.biocon.2020.108866"
+      ]
+    }
+  },
+  {
+    "name": "pdftools",
+    "citation": "Li, B. (2020). Understanding Of Silicate-based Corrosion Inhibitor For Controlling Lead Release And Water Quality In Drinking Water Distribution Systems (Doctoral dissertation). <https://dalspace.library.dal.ca/bitstream/handle/10222/80064/Li-Bofu-PhD-CIVL-November-2020.pdf?sequence=1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Li",
+          "given": "B."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Understanding Of Silicate-based Corrosion Inhibitor For Controlling Lead Release And Water Quality In Drinking Water Distribution Systems"
+      ],
+      "genre": [
+        "(Doctoral dissertation)."
+      ],
+      "url": [
+        "https://dalspace.library.dal.ca/bitstream/handle/10222/80064/Li-Bofu-PhD-CIVL-November-2020.pdf?sequence=1"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1093/molbev/msaa299",
+    "citation": "Gandra, M., Assis, J., Martins, M. R., & Abecasis, D. (2020). Reduced Global Genetic Differentiation of Exploited Marine Fish Species. Molecular Biology and Evolution. <https://doi.org/10.1093/molbev/msaa299>",
+    "parts": {
+      "author": [
+        {
+          "family": "Gandra",
+          "given": "M."
+        },
+        {
+          "family": "Assis",
+          "given": "J."
+        },
+        {
+          "family": "Martins",
+          "given": "M.R."
+        },
+        {
+          "family": "Abecasis",
+          "given": "D."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Reduced Global Genetic Differentiation of Exploited Marine Fish Species"
+      ],
+      "url": [
+        "https://doi.org/10.1093/molbev/msaa299"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Molecular Biology and Evolution"
+      ],
+      "doi": [
+        "10.1093/molbev/msaa299"
+      ]
+    }
+  },
+  {
+    "name": "magick",
+    "citation": "Ball, J. (2020). Food Classification with Convolutional Neural Networks and Multi-Class Linear Discernment Analysis. arXiv preprint arXiv:2012.03170. <https://arxiv.org/pdf/2012.03170>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ball",
+          "given": "J."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Food Classification with Convolutional Neural Networks and Multi-Class Linear Discernment Analysis"
+      ],
+      "note": [
+        "arXiv preprint arXiv:2012.03170."
+      ],
+      "url": [
+        "https://arxiv.org/pdf/2012.03170"
+      ],
+      "arxiv": [
+        "2012.03170"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "magick",
+    "doi": "10.12688/wellcomeopenres.16458.1",
+    "citation": "Hillary, R. F., & Marioni, R. E. (2020). MethylDetectR: a software for methylation-based health profiling. Wellcome Open Research, 5, 283. <https://doi.org/10.12688/wellcomeopenres.16458.1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hillary",
+          "given": "R.F."
+        },
+        {
+          "family": "Marioni",
+          "given": "R.E."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "MethylDetectR: a software for methylation-based health profiling"
+      ],
+      "volume": [
+        "5"
+      ],
+      "pages": [
+        "283"
+      ],
+      "url": [
+        "https://doi.org/10.12688/wellcomeopenres.16458.1"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Wellcome Open Research"
+      ],
+      "doi": [
+        "10.12688/wellcomeopenres.16458.1"
+      ]
+    }
+  },
+  {
+    "name": "rotl",
+    "doi": "10.1038/s41598-020-78090-y",
+    "citation": "Dániel-Ferreira, J., Bommarco, R., Wissman, J., & Öckinger, E. (2020). Linear infrastructure habitats increase landscape-scale diversity of plants but not of flower-visiting insects. Scientific Reports, 10(1). <https://doi.org/10.1038/s41598-020-78090-y>",
+    "parts": {
+      "author": [
+        {
+          "family": "Dániel-Ferreira",
+          "given": "J."
+        },
+        {
+          "family": "Bommarco",
+          "given": "R."
+        },
+        {
+          "family": "Wissman",
+          "given": "J."
+        },
+        {
+          "family": "Öckinger",
+          "given": "E."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Linear infrastructure habitats increase landscape-scale diversity of plants but not of flower-visiting insects"
+      ],
+      "volume": [
+        "10"
+      ],
+      "url": [
+        "https://doi.org/10.1038/s41598-020-78090-y"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1038/s41598-020-78090-y"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "citation": "Khorramdelazad, M. Investigation of genetic and molecular mechanisms of lentil (Lens culinaris) cv. ILL7537 during early defence responses to Ascochyta lentis. <https://research-repository.griffith.edu.au/bitstream/handle/10072/389670/Khorramdelazad,%20Mahsa_Final%20Thesis_redacted.pdf?sequence=4>",
+    "parts": {
+      "author": [
+        {
+          "family": "Khorramdelazad",
+          "given": "M."
+        }
+      ],
+      "title": [
+        "Investigation of genetic and molecular mechanisms of lentil (Lens culinaris) cv"
+      ],
+      "container-title": [
+        "ILL7537 during early defence responses to Ascochyta lentis"
+      ],
+      "url": [
+        "https://research-repository.griffith.edu.au/bitstream/handle/10072/389670/Khorramdelazad,%20Mahsa_Final%20Thesis_redacted.pdf?sequence=4"
+      ],
+      "type": "chapter"
+    }
+  },
+  {
+    "name": "taxize",
+    "citation": "Traugott, M. D. M., & Zeisler, C. Dietary analysis of wireworms in potato crops: a novel attract-and-kill approach and two molecular approaches in comparison. <https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/4540432/full.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Traugott",
+          "given": "M.D.M."
+        },
+        {
+          "family": "Zeisler",
+          "given": "C."
+        }
+      ],
+      "title": [
+        "Dietary analysis of wireworms in potato crops: a novel attract-and-kill approach and two molecular approaches in comparison"
+      ],
+      "url": [
+        "https://diglib.uibk.ac.at/ulbtirolhs/content/titleinfo/4540432/full.pdf"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "pdftools",
+    "citation": "Li, B., Trueman, B. F., Rahman, M. S., & Gagnon, G. A. (2021). Controlling lead release due to uniform and galvanic corrosion — An evaluation of silicate-based inhibitors. Journal of Hazardous Materials, 407, 124707. <https://doi.org/10.1016/j.jhazmat.2020.124707>",
+    "parts": {
+      "author": [
+        {
+          "family": "Li",
+          "given": "B."
+        },
+        {
+          "family": "Trueman",
+          "given": "B.F."
+        },
+        {
+          "family": "Rahman",
+          "given": "M.S."
+        },
+        {
+          "family": "Gagnon",
+          "given": "G.A."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Controlling lead release due to uniform and galvanic corrosion — An evaluation of silicate-based inhibitors"
+      ],
+      "volume": [
+        "407"
+      ],
+      "pages": [
+        "124707"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.jhazmat.2020.124707"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Hazardous Materials"
+      ],
+      "doi": [
+        "10.1016/j.jhazmat.2020.124707"
+      ]
+    }
   }
 ]
