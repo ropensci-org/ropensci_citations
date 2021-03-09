@@ -24082,27 +24082,6 @@
   },
   {
     "name": [
-      "stats19"
-    ],
-    "doi": "10.3141/2061-07",
-    "citation": "Aguero-Valverde, J., & Jovanis, P. P. (2008). Analysis of Road Crash Frequency with Spatial Models. Transportation Research Record: Journal of the Transportation Research Board, 2061(1), 55–63. <https://doi.org/10.3141/2061-07>",
-    "parts": {
-      "author": "Aguero-Valverde & Jovanis",
-      "date": "2008",
-      "title": "Analysis of Road Crash Frequency with Spatial Models",
-      "volume": "2061",
-      "pages": "55–63",
-      "url": "https://doi.org/10.3141/2061-07",
-      "type": "article-journal",
-      "container-title": "Transportation Research Record: Journal of the Transportation Research Board",
-      "issue": "1",
-      "doi": "10.3141/2061-07"
-    },
-    "url": "https://doi.org/10.3141/2061-07",
-    "year": "2008"
-  },
-  {
-    "name": [
       "rnaturalearthdata",
       "rnaturalearth"
     ],
