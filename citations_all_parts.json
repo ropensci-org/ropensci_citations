@@ -75690,5 +75690,2423 @@
         "10.1016/j.jhazmat.2020.124707"
       ]
     }
+  },
+  {
+    "name": "skimr",
+    "doi": "10.1016/j.psychsport.2020.101787",
+    "citation": "Aragão e Pina, J., Passos, A. M., Maynard, M. T., & Sinval, J. (2021). Self-efficacy, mental models and team adaptation: A first approach on football and futsal refereeing. Psychology of Sport and Exercise, 52, 101787. <https://doi.org/10.1016/j.psychsport.2020.101787>",
+    "parts": {
+      "author": [
+        {
+          "given": "Aragão"
+        },
+        {
+          "family": "Pina",
+          "given": "J."
+        },
+        {
+          "family": "Passos",
+          "given": "A.M."
+        },
+        {
+          "family": "Maynard",
+          "given": "M.T."
+        },
+        {
+          "family": "Sinval",
+          "given": "J."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Self-efficacy, mental models and team adaptation: A first approach on football and futsal refereeing"
+      ],
+      "volume": [
+        "52"
+      ],
+      "pages": [
+        "101787"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.psychsport.2020.101787"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Psychology of Sport and Exercise"
+      ],
+      "doi": [
+        "10.1016/j.psychsport.2020.101787"
+      ]
+    }
+  },
+  {
+    "name": "treeio",
+    "doi": "10.1371/journal.pone.0243927",
+    "citation": "Toparslan, E., Karabag, K., & Bilge, U. (2020). A workflow with R: Phylogenetic analyses and visualizations using mitochondrial cytochrome b gene sequences. PLOS ONE, 15(12), e0243927. <https://doi.org/10.1371/journal.pone.0243927>",
+    "parts": {
+      "author": [
+        {
+          "family": "Toparslan",
+          "given": "E."
+        },
+        {
+          "family": "Karabag",
+          "given": "K."
+        },
+        {
+          "family": "Bilge",
+          "given": "U."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "A workflow with R: Phylogenetic analyses and visualizations using mitochondrial cytochrome b gene sequences"
+      ],
+      "volume": [
+        "15"
+      ],
+      "pages": [
+        "0243927"
+      ],
+      "url": [
+        "https://doi.org/10.1371/journal.pone.0243927"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "issue": [
+        "12"
+      ],
+      "doi": [
+        "10.1371/journal.pone.0243927"
+      ]
+    }
+  },
+  {
+    "name": "treeio",
+    "doi": "10.1016/j.jtherbio.2020.102815",
+    "citation": "Oswald, K. N., Lee, A. T. K., & Smit, B. (2021). Seasonal metabolic adjustments in an avian evolutionary relict restricted to mountain habitat. Journal of Thermal Biology, 95, 102815. <https://doi.org/10.1016/j.jtherbio.2020.102815>",
+    "parts": {
+      "author": [
+        {
+          "family": "Oswald",
+          "given": "K.N."
+        },
+        {
+          "family": "Lee",
+          "given": "A.T.K."
+        },
+        {
+          "family": "Smit",
+          "given": "B."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Seasonal metabolic adjustments in an avian evolutionary relict restricted to mountain habitat"
+      ],
+      "volume": [
+        "95"
+      ],
+      "pages": [
+        "102815"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.jtherbio.2020.102815"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Thermal Biology"
+      ],
+      "doi": [
+        "10.1016/j.jtherbio.2020.102815"
+      ]
+    }
+  },
+  {
+    "name": "bold",
+    "citation": "Batovska, J., Piper, A., Valenzuela, I., Cunningham, J., & Blacket, M. (2020). Developing a Non-destructive Metabarcoding Protocol for Detection of Pest Insects in Bulk Trap Catches. <https://doi.org/10.21203/rs.3.rs-125070/v1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Batovska",
+          "given": "J."
+        },
+        {
+          "family": "Piper",
+          "given": "A."
+        },
+        {
+          "family": "Valenzuela",
+          "given": "I."
+        },
+        {
+          "family": "Cunningham",
+          "given": "J."
+        },
+        {
+          "family": "Blacket",
+          "given": "M."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Developing a Non-destructive Metabarcoding Protocol for Detection of Pest Insects in Bulk Trap Catches"
+      ],
+      "url": [
+        "https://doi.org/10.21203/rs.3.rs-125070/v1"
+      ],
+      "doi": [
+        "10.21203/rs.3.rs-125070/v1"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rentrez",
+    "citation": "Batovska, J., Piper, A., Valenzuela, I., Cunningham, J., & Blacket, M. (2020). Developing a Non-destructive Metabarcoding Protocol for Detection of Pest Insects in Bulk Trap Catches. <https://doi.org/10.21203/rs.3.rs-125070/v1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Batovska",
+          "given": "J."
+        },
+        {
+          "family": "Piper",
+          "given": "A."
+        },
+        {
+          "family": "Valenzuela",
+          "given": "I."
+        },
+        {
+          "family": "Cunningham",
+          "given": "J."
+        },
+        {
+          "family": "Blacket",
+          "given": "M."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Developing a Non-destructive Metabarcoding Protocol for Detection of Pest Insects in Bulk Trap Catches"
+      ],
+      "url": [
+        "https://doi.org/10.21203/rs.3.rs-125070/v1"
+      ],
+      "doi": [
+        "10.21203/rs.3.rs-125070/v1"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rtweet",
+    "citation": "Mueller, S. D., & Saeltzer, M. (2020). Twitter made me do it! Twitter’s tonal platform incentive and its effect on online campaigning. Information, Communication & Society, 1–26. <https://doi.org/10.1080/1369118x.2020.1850841>",
+    "parts": {
+      "author": [
+        {
+          "family": "Mueller",
+          "given": "S.D."
+        },
+        {
+          "family": "Saeltzer",
+          "given": "M."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Twitter made me do it! Twitter’s tonal platform incentive and its effect on online campaigning"
+      ],
+      "publisher": [
+        "Information, Communication & Society"
+      ],
+      "pages": [
+        "1–26"
+      ],
+      "url": [
+        "https://doi.org/10.1080/1369118x.2020.1850841"
+      ],
+      "doi": [
+        "10.1080/1369118x.2020.1850841"
+      ],
+      "type": "book"
+    }
+  },
+  {
+    "name": "nlrx",
+    "citation": "Dahirel, M., Bertin, A., Haond, M., Blin, A., Lombaert, E., Calcagno, V., … Vercken, E. (2020). Shifts from pulled to pushed range expansions caused by reduction of landscape connectivity. <https://doi.org/10.1101/2020.05.13.092775>",
+    "parts": {
+      "author": [
+        {
+          "family": "Dahirel",
+          "given": "M."
+        },
+        {
+          "family": "Bertin",
+          "given": "A."
+        },
+        {
+          "family": "Haond",
+          "given": "M."
+        },
+        {
+          "family": "Blin",
+          "given": "A."
+        },
+        {
+          "family": "Lombaert",
+          "given": "E."
+        },
+        {
+          "family": "Calcagno",
+          "given": "V."
+        },
+        {
+          "family": "Vercken",
+          "given": "E."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Shifts from pulled to pushed range expansions caused by reduction of landscape connectivity"
+      ],
+      "url": [
+        "https://doi.org/10.1101/2020.05.13.092775"
+      ],
+      "doi": [
+        "10.1101/2020.05.13.092775"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rerddap",
+    "citation": "Johns, M. E. (2020). The effects of individual and environmental heterogeneity on long-term population dynamics of Cassin’s auklets. https://search.proquest.com/dissertations-theses/effects-individual-environmental-heterogeneity-on/docview/2468625635/se-2?accountid=14496",
+    "parts": {
+      "author": [
+        {
+          "family": "Johns",
+          "given": "M.E."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The effects of individual and environmental heterogeneity on long-term population dynamics of Cassin’s auklets"
+      ],
+      "url": [
+        "https://search.proquest.com/dissertations-theses/effects-individual-environmental-heterogeneity-on/docview/2468625635/se-2?accountid=14496"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rotl",
+    "citation": "Cooper, D. S. (2020). Living for the city: Using community science and historical data to understand avian response to urbanization (Doctoral dissertation, UCLA). https://escholarship.org/content/qt36z733nf/qt36z733nf.pdf",
+    "parts": {
+      "author": [
+        {
+          "family": "Cooper",
+          "given": "D.S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Living for the city: Using community science and historical data to understand avian response to urbanization"
+      ],
+      "note": [
+        "Doctoral dissertation, UCLA)."
+      ],
+      "url": [
+        "https://escholarship.org/content/qt36z733nf/qt36z733nf.pdf"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "treeio",
+    "doi": "10.12688/f1000research.27502.1",
+    "citation": "Maruyama, H., Masago, A., Nambu, T., Mashimo, C., Takahashi, K., & Okinaga, T. (2020). Inter-site and interpersonal diversity of salivary and tongue microbiomes, and the effect of oral care tablets. F1000Research, 9, 1477. <https://doi.org/10.12688/f1000research.27502.1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Maruyama",
+          "given": "H."
+        },
+        {
+          "family": "Masago",
+          "given": "A."
+        },
+        {
+          "family": "Nambu",
+          "given": "T."
+        },
+        {
+          "family": "Mashimo",
+          "given": "C."
+        },
+        {
+          "family": "Takahashi",
+          "given": "K."
+        },
+        {
+          "family": "Okinaga",
+          "given": "T."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Inter-site and interpersonal diversity of salivary and tongue microbiomes, and the effect of oral care tablets"
+      ],
+      "volume": [
+        "9"
+      ],
+      "pages": [
+        "1477"
+      ],
+      "url": [
+        "https://doi.org/10.12688/f1000research.27502.1"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "F1000Research"
+      ],
+      "doi": [
+        "10.12688/f1000research.27502.1"
+      ]
+    }
+  },
+  {
+    "name": "ckanr",
+    "citation": "Hinz, M., & Bill, R. (2020). Exploring Open Data Portals for Geospatial Data Discovery Purposes. Advances and New Trends in Environmental Informatics, 147–162. <https://doi.org/10.1007/978-3-030-61969-5_11>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hinz",
+          "given": "M."
+        },
+        {
+          "family": "Bill",
+          "given": "R."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Exploring Open Data Portals for Geospatial Data Discovery Purposes"
+      ],
+      "container-title": [
+        "Advances and New Trends in Environmental Informatics"
+      ],
+      "pages": [
+        "147–162"
+      ],
+      "url": [
+        "https://doi.org/10.1007/978-3-030-61969-5_11"
+      ],
+      "doi": [
+        "10.1007/978-3-030-61969-5_11"
+      ],
+      "type": "chapter"
+    }
+  },
+  {
+    "name": "taxize",
+    "citation": "Meireles, J. E., Cavender‐Bares, J., Townsend, P. A., Ustin, S., Gamon, J. A., Schweiger, A. K., … O’Meara, B. C. (2020). Leaf reflectance spectra capture the evolutionary history of seed plants. New Phytologist, 228(2), 485–493. <https://doi.org/10.1111/nph.16771>",
+    "parts": {
+      "author": [
+        {
+          "family": "Meireles",
+          "given": "J.E."
+        },
+        {
+          "family": "Cavender‐Bares",
+          "given": "J."
+        },
+        {
+          "family": "Townsend",
+          "given": "P.A."
+        },
+        {
+          "family": "Ustin",
+          "given": "S."
+        },
+        {
+          "family": "Gamon",
+          "given": "J.A."
+        },
+        {
+          "family": "Schweiger",
+          "given": "A.K."
+        },
+        {
+          "family": "O’Meara",
+          "given": "B.C."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Leaf reflectance spectra capture the evolutionary history of seed plants"
+      ],
+      "volume": [
+        "228"
+      ],
+      "pages": [
+        "485–493"
+      ],
+      "url": [
+        "https://doi.org/10.1111/nph.16771"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "New Phytologist"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1111/nph.16771"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "citation": "Santos, G. N. dos, Silva, A. C. da, & Higuchi, P. (2020). IMPACT OF CLIMATE CHANGE ON THE GEOGRAPHICAL DISTRIBUTION OF A CLOUD FOREST INDICATOR TREE SPECIES. Revista Árvore, 44. <https://doi.org/10.1590/1806-908820200000032>",
+    "parts": {
+      "author": [
+        {
+          "family": "Santos",
+          "given": "G.N.dos"
+        },
+        {
+          "family": "Silva",
+          "given": "A.C.da"
+        },
+        {
+          "family": "Higuchi",
+          "given": "P."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "IMPACT OF CLIMATE CHANGE ON THE GEOGRAPHICAL DISTRIBUTION OF A CLOUD FOREST INDICATOR TREE SPECIES"
+      ],
+      "volume": [
+        "44"
+      ],
+      "url": [
+        "https://doi.org/10.1590/1806-908820200000032"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Revista Árvore"
+      ],
+      "doi": [
+        "10.1590/1806-908820200000032"
+      ]
+    }
+  },
+  {
+    "name": "rfishbase",
+    "citation": "Kilduff, L. (2020). Spatio-temporal change in species and morphological diversity of reef fishes in the South Pacific Ocean: a thesis presented in partial fulfilment of the requirements for the degree of Master of Biological Sciences at Massey University, New Zealand (Doctoral dissertation, Massey University) <https://mro.massey.ac.nz/bitstream/handle/10179/15913/KilduffMScThesis.pdf?sequence=3&isAllowed=y>",
+    "parts": {
+      "author": [
+        {
+          "family": "Kilduff",
+          "given": "L."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Spatio-temporal change in species and morphological diversity of reef fishes in the South Pacific Ocean: a thesis presented in partial fulfilment of the requirements for the degree of Master of Biological Sciences"
+      ],
+      "note": [
+        "at Massey University, New Zealand (Doctoral dissertation, Massey University) <https://mro.massey.ac.nz/bitstream/handle/10179/15913/KilduffMScThesis.pdf?sequence=3&isAllowed=y>"
+      ],
+      "type": "thesis"
+    }
+  },
+  {
+    "name": "osmdata",
+    "citation": "Moradi, M. (2020). Evaluating the quality of OSM roads and buildings in the Québec Province. <https://corpus.ulaval.ca/jspui/bitstream/20.500.11794/67232/1/36576.pdf>",
+    "parts": {
+      "author": [
+        {
+          "family": "Moradi",
+          "given": "M."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Evaluating the quality of OSM roads and buildings in the Québec Province"
+      ],
+      "url": [
+        "https://corpus.ulaval.ca/jspui/bitstream/20.500.11794/67232/1/36576.pdf"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rtweet",
+    "citation": "Lucas, B., & Landman, T. (2020). Social listening, modern slavery, and COVID-19. Journal of Risk Research, 1–21. <https://doi.org/10.1080/13669877.2020.1864009>",
+    "parts": {
+      "author": [
+        {
+          "family": "Lucas",
+          "given": "B."
+        },
+        {
+          "family": "Landman",
+          "given": "T."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Social listening, modern slavery, and COVID-19"
+      ],
+      "pages": [
+        "1–21"
+      ],
+      "url": [
+        "https://doi.org/10.1080/13669877.2020.1864009"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Risk Research"
+      ],
+      "doi": [
+        "10.1080/13669877.2020.1864009"
+      ]
+    }
+  },
+  {
+    "name": "rfishbase",
+    "citation": "Palacios-Abrantes, J., Reygondeau, G., Wabnitz, C. C. C., & Cheung, W. W. L. (2020). The transboundary nature of the world’s exploited marine species. Scientific Reports, 10(1). doi:10.1038/s41598-020-74644-2",
+    "parts": {
+      "author": [
+        {
+          "family": "Palacios-Abrantes",
+          "given": "J."
+        },
+        {
+          "family": "Reygondeau",
+          "given": "G."
+        },
+        {
+          "family": "Wabnitz",
+          "given": "C.C.C."
+        },
+        {
+          "family": "Cheung",
+          "given": "W.W.L."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The transboundary nature of the world’s exploited marine species"
+      ],
+      "volume": [
+        "10"
+      ],
+      "doi": [
+        "10.1038/s41598-020-74644-2"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "issue": [
+        "1"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1111/ecog.05476",
+    "citation": "Liao, H., Li, D., Zhou, T., Huang, B., Zhang, H., Chen, B., & Peng, S. (2020). The role of functional strategies in global plant distribution. Ecography, 44(4), 493–503. <https://doi.org/10.1111/ecog.05476>",
+    "parts": {
+      "author": [
+        {
+          "family": "Liao",
+          "given": "H."
+        },
+        {
+          "family": "Li",
+          "given": "D."
+        },
+        {
+          "family": "Zhou",
+          "given": "T."
+        },
+        {
+          "family": "Huang",
+          "given": "B."
+        },
+        {
+          "family": "Zhang",
+          "given": "H."
+        },
+        {
+          "family": "Chen",
+          "given": "B."
+        },
+        {
+          "family": "Peng",
+          "given": "S."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The role of functional strategies in global plant distribution"
+      ],
+      "volume": [
+        "44"
+      ],
+      "pages": [
+        "493–503"
+      ],
+      "url": [
+        "https://doi.org/10.1111/ecog.05476"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Ecography"
+      ],
+      "issue": [
+        "4"
+      ],
+      "doi": [
+        "10.1111/ecog.05476"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1016/j.jnc.2020.125949",
+    "citation": "Janssen, J., & Gomez, L. (2021). An examination of the import of live reptiles from Indonesia by the United States from 2000 to 2015. Journal for Nature Conservation, 59, 125949. <https://doi.org/10.1016/j.jnc.2020.125949>",
+    "parts": {
+      "author": [
+        {
+          "family": "Janssen",
+          "given": "J."
+        },
+        {
+          "family": "Gomez",
+          "given": "L."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "An examination of the import of live reptiles from Indonesia by the United States from 2000 to 2015"
+      ],
+      "volume": [
+        "59"
+      ],
+      "pages": [
+        "125949"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.jnc.2020.125949"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal for Nature Conservation"
+      ],
+      "doi": [
+        "10.1016/j.jnc.2020.125949"
+      ]
+    }
+  },
+  {
+    "name": "pdftools",
+    "doi": "10.1177/1078087420980526",
+    "citation": "Hines, R. E., Grandage, A. J., & Willoughby, K. G. (2020). Staying Afloat: Planning and Managing Climate Change and Sea Level Rise Risk in Florida’s Coastal Counties. Urban Affairs Review, 107808742098052. <https://doi.org/10.1177/1078087420980526>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hines",
+          "given": "R.E."
+        },
+        {
+          "family": "Grandage",
+          "given": "A.J."
+        },
+        {
+          "family": "Willoughby",
+          "given": "K.G."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Staying Afloat: Planning and Managing Climate Change and Sea Level Rise Risk in Florida’s Coastal Counties"
+      ],
+      "volume": [
+        "107808742098052"
+      ],
+      "url": [
+        "https://doi.org/10.1177/1078087420980526"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Urban Affairs Review"
+      ],
+      "doi": [
+        "10.1177/1078087420980526"
+      ]
+    }
+  },
+  {
+    "name": "tesseract",
+    "doi": "10.1177/1078087420980526",
+    "citation": "Hines, R. E., Grandage, A. J., & Willoughby, K. G. (2020). Staying Afloat: Planning and Managing Climate Change and Sea Level Rise Risk in Florida’s Coastal Counties. Urban Affairs Review, 107808742098052. <https://doi.org/10.1177/1078087420980526>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hines",
+          "given": "R.E."
+        },
+        {
+          "family": "Grandage",
+          "given": "A.J."
+        },
+        {
+          "family": "Willoughby",
+          "given": "K.G."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Staying Afloat: Planning and Managing Climate Change and Sea Level Rise Risk in Florida’s Coastal Counties"
+      ],
+      "volume": [
+        "107808742098052"
+      ],
+      "url": [
+        "https://doi.org/10.1177/1078087420980526"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Urban Affairs Review"
+      ],
+      "doi": [
+        "10.1177/1078087420980526"
+      ]
+    }
+  },
+  {
+    "name": "webchem",
+    "doi": "10.3390/biology9120483",
+    "citation": "Hammoud, Z., & Kramer, F. (2020). Multipath: An R Package to Generate Integrated Reproducible Pathway Models. Biology, 9(12), 483. <https://doi.org/10.3390/biology9120483>",
+    "parts": {
+      "author": [
+        {
+          "family": "Hammoud",
+          "given": "Z."
+        },
+        {
+          "family": "Kramer",
+          "given": "F."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Multipath: An R Package to Generate Integrated Reproducible Pathway Models"
+      ],
+      "volume": [
+        "9"
+      ],
+      "pages": [
+        "483"
+      ],
+      "url": [
+        "https://doi.org/10.3390/biology9120483"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Biology"
+      ],
+      "issue": [
+        "12"
+      ],
+      "doi": [
+        "10.3390/biology9120483"
+      ]
+    }
+  },
+  {
+    "name": "neotoma",
+    "doi": "10.1038/s41561-020-00670-4",
+    "citation": "Byun, E., Sato, H., Cowling, S. A., & Finkelstein, S. A. (2020). Extensive wetland development in mid-latitude North America during the Bølling–Allerød. Nature Geoscience, 14(1), 30–35. <https://doi.org/10.1038/s41561-020-00670-4>",
+    "parts": {
+      "author": [
+        {
+          "family": "Byun",
+          "given": "E."
+        },
+        {
+          "family": "Sato",
+          "given": "H."
+        },
+        {
+          "family": "Cowling",
+          "given": "S.A."
+        },
+        {
+          "family": "Finkelstein",
+          "given": "S.A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Extensive wetland development in mid-latitude North America during the Bølling–Allerød"
+      ],
+      "volume": [
+        "14"
+      ],
+      "pages": [
+        "30–35"
+      ],
+      "url": [
+        "https://doi.org/10.1038/s41561-020-00670-4"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Nature Geoscience"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1038/s41561-020-00670-4"
+      ]
+    }
+  },
+  {
+    "name": "osmdata",
+    "citation": "Wilkins, E.J. 2020. Using Social Media to Assess the Impact of Weather and Climate on Visitation to Outdoor Recreation Settings. https://digitalcommons.usu.edu/etd/7986",
+    "parts": {
+      "author": [
+        {
+          "family": "Wilkins",
+          "given": "E.J."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Using Social Media to Assess the Impact of Weather and Climate on Visitation to Outdoor Recreation Settings"
+      ],
+      "url": [
+        "https://digitalcommons.usu.edu/etd/7986"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "citation": "Shaw, E. C., Fowler, R., Ohadi, S., Bayly, M. J., Barrett, R. A., Tibbits, J., … Cousens, R. D. (2020). Explaining the worldwide distributions of two highly mobile species: Cakile edentula and Cakile maritima. Journal of Biogeography, 48(3), 603–615. <https://doi.org/10.1111/jbi.14024>",
+    "parts": {
+      "author": [
+        {
+          "family": "Shaw",
+          "given": "E.C."
+        },
+        {
+          "family": "Fowler",
+          "given": "R."
+        },
+        {
+          "family": "Ohadi",
+          "given": "S."
+        },
+        {
+          "family": "Bayly",
+          "given": "M.J."
+        },
+        {
+          "family": "Barrett",
+          "given": "R.A."
+        },
+        {
+          "family": "Tibbits",
+          "given": "J."
+        },
+        {
+          "family": "Cousens",
+          "given": "R.D."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Explaining the worldwide distributions of two highly mobile species: Cakile edentula and Cakile maritima"
+      ],
+      "volume": [
+        "48"
+      ],
+      "pages": [
+        "603–615"
+      ],
+      "url": [
+        "https://doi.org/10.1111/jbi.14024"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Biogeography"
+      ],
+      "issue": [
+        "3"
+      ],
+      "doi": [
+        "10.1111/jbi.14024"
+      ]
+    }
+  },
+  {
+    "name": "rtweet",
+    "doi": "10.1080/10691898.2020.1848486",
+    "citation": "Boehm, F. J., & Hanlon, B. M. (2021). What Is Happening on Twitter? A Framework for Student Research Projects With Tweets. Journal of Statistics and Data Science Education, 29(sup1), S95–S102. <https://doi.org/10.1080/10691898.2020.1848486>",
+    "parts": {
+      "author": [
+        {
+          "family": "Boehm",
+          "given": "F.J."
+        },
+        {
+          "family": "Hanlon",
+          "given": "B.M."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "What Is Happening on Twitter? A Framework for Student Research Projects With Tweets"
+      ],
+      "volume": [
+        "29"
+      ],
+      "pages": [
+        "95– 102"
+      ],
+      "url": [
+        "https://doi.org/10.1080/10691898.2020.1848486"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Statistics and Data Science Education"
+      ],
+      "issue": [
+        "sup1"
+      ],
+      "doi": [
+        "10.1080/10691898.2020.1848486"
+      ]
+    }
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1111/geb.13236",
+    "citation": "Tamme, R., Pärtel, M., Kõljalg, U., Laanisto, L., Liira, J., Mander, Ü., … Zobel, M. (2020). Global macroecology of nitrogen‐fixing plants. Global Ecology and Biogeography, 30(2), 514–526. <https://doi.org/10.1111/geb.13236>",
+    "parts": {
+      "author": [
+        {
+          "family": "Tamme",
+          "given": "R."
+        },
+        {
+          "family": "Pärtel",
+          "given": "M."
+        },
+        {
+          "family": "Kõljalg",
+          "given": "U."
+        },
+        {
+          "family": "Laanisto",
+          "given": "L."
+        },
+        {
+          "family": "Liira",
+          "given": "J."
+        },
+        {
+          "family": "Mander",
+          "given": "Ü."
+        },
+        {
+          "family": "Zobel",
+          "given": "M."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Global macroecology of nitrogen‐fixing plants"
+      ],
+      "volume": [
+        "30"
+      ],
+      "pages": [
+        "514–526"
+      ],
+      "url": [
+        "https://doi.org/10.1111/geb.13236"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Global Ecology and Biogeography"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1111/geb.13236"
+      ]
+    }
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1111/geb.13236",
+    "citation": "Tamme, R., Pärtel, M., Kõljalg, U., Laanisto, L., Liira, J., Mander, Ü., … Zobel, M. (2020). Global macroecology of nitrogen‐fixing plants. Global Ecology and Biogeography, 30(2), 514–526. <https://doi.org/10.1111/geb.13236>",
+    "parts": {
+      "author": [
+        {
+          "family": "Tamme",
+          "given": "R."
+        },
+        {
+          "family": "Pärtel",
+          "given": "M."
+        },
+        {
+          "family": "Kõljalg",
+          "given": "U."
+        },
+        {
+          "family": "Laanisto",
+          "given": "L."
+        },
+        {
+          "family": "Liira",
+          "given": "J."
+        },
+        {
+          "family": "Mander",
+          "given": "Ü."
+        },
+        {
+          "family": "Zobel",
+          "given": "M."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Global macroecology of nitrogen‐fixing plants"
+      ],
+      "volume": [
+        "30"
+      ],
+      "pages": [
+        "514–526"
+      ],
+      "url": [
+        "https://doi.org/10.1111/geb.13236"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Global Ecology and Biogeography"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1111/geb.13236"
+      ]
+    }
+  },
+  {
+    "name": "phylocomr",
+    "doi": "10.1111/pce.13990",
+    "citation": "Perez, T. M., Socha, A., Tserej, O., & Feeley, K. J. (2021). Photosystem II heat tolerances characterize thermal generalists and the upper limit of carbon assimilation. Plant, Cell & Environment. <https://doi.org/10.1111/pce.13990>",
+    "parts": {
+      "author": [
+        {
+          "family": "Perez",
+          "given": "T.M."
+        },
+        {
+          "family": "Socha",
+          "given": "A."
+        },
+        {
+          "family": "Tserej",
+          "given": "O."
+        },
+        {
+          "family": "Feeley",
+          "given": "K.J."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Photosystem II heat tolerances characterize thermal generalists and the upper limit of carbon assimilation"
+      ],
+      "note": [
+        "Plant, Cell & Environment. <https://doi.org/10.1111/pce.13990>"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "brranching",
+    "doi": "10.1111/pce.13990",
+    "citation": "Perez, T. M., Socha, A., Tserej, O., & Feeley, K. J. (2021). Photosystem II heat tolerances characterize thermal generalists and the upper limit of carbon assimilation. Plant, Cell & Environment. <https://doi.org/10.1111/pce.13990>",
+    "parts": {
+      "author": [
+        {
+          "family": "Perez",
+          "given": "T.M."
+        },
+        {
+          "family": "Socha",
+          "given": "A."
+        },
+        {
+          "family": "Tserej",
+          "given": "O."
+        },
+        {
+          "family": "Feeley",
+          "given": "K.J."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Photosystem II heat tolerances characterize thermal generalists and the upper limit of carbon assimilation"
+      ],
+      "note": [
+        "Plant, Cell & Environment. <https://doi.org/10.1111/pce.13990>"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.3897/neotropical.15.e58383",
+    "citation": "Esquivel, D. A., Aya-Cuero, C., Penagos, A. P., Chacón-Pacheco, J., Agámez-López, C. J., Ochoa, A. V., … Bennett, D. (2020). Updating the distribution of Vampyrum spectrum (Chiroptera, Phyllostomidae) in Colombia: new localities, potential distribution and notes on its conservation. Neotropical Biology and Conservation, 15(4), 689–709. <https://doi.org/10.3897/neotropical.15.e58383>",
+    "parts": {
+      "author": [
+        {
+          "family": "Esquivel",
+          "given": "D.A."
+        },
+        {
+          "family": "Aya-Cuero",
+          "given": "C."
+        },
+        {
+          "family": "Penagos",
+          "given": "A.P."
+        },
+        {
+          "family": "Chacón-Pacheco",
+          "given": "J."
+        },
+        {
+          "family": "Agámez-López",
+          "given": "C.J."
+        },
+        {
+          "family": "Ochoa",
+          "given": "A.V."
+        },
+        {
+          "family": "Bennett",
+          "given": "D."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Updating the distribution of Vampyrum spectrum (Chiroptera, Phyllostomidae) in Colombia: new localities, potential distribution and notes on its conservation"
+      ],
+      "volume": [
+        "15"
+      ],
+      "pages": [
+        "689–709"
+      ],
+      "url": [
+        "https://doi.org/10.3897/neotropical.15.e58383"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Neotropical Biology and Conservation"
+      ],
+      "issue": [
+        "4"
+      ],
+      "doi": [
+        "10.3897/neotropical.15.e58383"
+      ]
+    }
+  },
+  {
+    "name": "CoordinateCleaner",
+    "doi": "10.1640/0002-8444-110.4.211",
+    "citation": "Suissa, J. S., & Sundue, M. A. (2020). Diversity Patterns of Neotropical Ferns: Revisiting Tryon’s Centers of Richness and Endemism. American Fern Journal, 110(4). <https://doi.org/10.1640/0002-8444-110.4.211>",
+    "parts": {
+      "author": [
+        {
+          "family": "Suissa",
+          "given": "J.S."
+        },
+        {
+          "family": "Sundue",
+          "given": "M.A."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Diversity Patterns of Neotropical Ferns: Revisiting Tryon’s Centers of Richness and Endemism"
+      ],
+      "volume": [
+        "110"
+      ],
+      "url": [
+        "https://doi.org/10.1640/0002-8444-110.4.211"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "American Fern Journal"
+      ],
+      "issue": [
+        "4"
+      ],
+      "doi": [
+        "10.1640/0002-8444-110.4.211"
+      ]
+    }
+  },
+  {
+    "name": "skimr",
+    "doi": "10.1093/jn/nxaa387",
+    "citation": "Behrendt, I., Fasshauer, M., & Eichner, G. (2020). Gluten Intake and All-Cause and Cause-Specific Mortality: Prospective Findings from the UK Biobank. The Journal of Nutrition, 151(3), 591–597. <https://doi.org/10.1093/jn/nxaa387>",
+    "parts": {
+      "author": [
+        {
+          "family": "Behrendt",
+          "given": "I."
+        },
+        {
+          "family": "Fasshauer",
+          "given": "M."
+        },
+        {
+          "family": "Eichner",
+          "given": "G."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Gluten Intake and All-Cause and Cause-Specific Mortality: Prospective Findings from the UK Biobank"
+      ],
+      "volume": [
+        "151"
+      ],
+      "pages": [
+        "591–597"
+      ],
+      "url": [
+        "https://doi.org/10.1093/jn/nxaa387"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "The Journal of Nutrition"
+      ],
+      "issue": [
+        "3"
+      ],
+      "doi": [
+        "10.1093/jn/nxaa387"
+      ]
+    }
+  },
+  {
+    "name": "UCSCXenaTools",
+    "doi": "10.1016/j.csbj.2020.12.007",
+    "citation": "Cui, Y., Hunt, A., Li, Z., Birkin, E., Lane, J., Ruge, F., & Jiang, W. G. (2021). Lead DEAD/H box helicase biomarkers with the therapeutic potential identified by integrated bioinformatic approaches in lung cancer. Computational and Structural Biotechnology Journal, 19, 261–278. <https://doi.org/10.1016/j.csbj.2020.12.007>",
+    "parts": {
+      "author": [
+        {
+          "family": "Cui",
+          "given": "Y."
+        },
+        {
+          "family": "Hunt",
+          "given": "A."
+        },
+        {
+          "family": "Li",
+          "given": "Z."
+        },
+        {
+          "family": "Birkin",
+          "given": "E."
+        },
+        {
+          "family": "Lane",
+          "given": "J."
+        },
+        {
+          "family": "Ruge",
+          "given": "F."
+        },
+        {
+          "family": "Jiang",
+          "given": "W.G."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Lead DEAD/H box helicase biomarkers with the therapeutic potential identified by integrated bioinformatic approaches in lung cancer"
+      ],
+      "volume": [
+        "19"
+      ],
+      "pages": [
+        "261–278"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.csbj.2020.12.007"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Computational and Structural Biotechnology Journal"
+      ],
+      "doi": [
+        "10.1016/j.csbj.2020.12.007"
+      ]
+    }
+  },
+  {
+    "name": "treeio",
+    "doi": "10.3897/jhr.80.59466",
+    "citation": "Gates, M. W., Zhang, Y. M., & Buffington, M. L. (2020). The great greenbriers gall mystery resolved? New species of Aprostocetus Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with Smilax L. in southern Florida, USA. Journal of Hymenoptera Research, 80, 71–98. <https://doi.org/10.3897/jhr.80.59466>",
+    "parts": {
+      "author": [
+        {
+          "family": "Gates",
+          "given": "M.W."
+        },
+        {
+          "family": "Zhang",
+          "given": "Y.M."
+        },
+        {
+          "family": "Buffington",
+          "given": "M.L."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "The great greenbriers gall mystery resolved? New species of Aprostocetus Westwood (Hymenoptera, Eulophidae) gall inducer and two new parasitoids (Hymenoptera, Eurytomidae) associated with Smilax L"
+      ],
+      "location": [
+        "in southern Florida, USA"
+      ],
+      "volume": [
+        "80"
+      ],
+      "pages": [
+        "71–98"
+      ],
+      "url": [
+        "https://doi.org/10.3897/jhr.80.59466"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Journal of Hymenoptera Research"
+      ],
+      "doi": [
+        "10.3897/jhr.80.59466"
+      ]
+    }
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1371/journal.pbio.3000702",
+    "citation": "Parravicini, V., Casey, J. M., Schiettekatte, N. M. D., Brandl, S. J., Pozas-Schacre, C., Carlot, J., … Stuart-Smith, R. D. (2020). Delineating reef fish trophic guilds with global gut content data synthesis and phylogeny. PLOS Biology, 18(12), e3000702. <https://doi.org/10.1371/journal.pbio.3000702>",
+    "parts": {
+      "author": [
+        {
+          "family": "Parravicini",
+          "given": "V."
+        },
+        {
+          "family": "Casey",
+          "given": "J.M."
+        },
+        {
+          "family": "Schiettekatte",
+          "given": "N.M.D."
+        },
+        {
+          "family": "Brandl",
+          "given": "S.J."
+        },
+        {
+          "family": "Pozas-Schacre",
+          "given": "C."
+        },
+        {
+          "family": "Carlot",
+          "given": "J."
+        },
+        {
+          "family": "Stuart-Smith",
+          "given": "R.D."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Delineating reef fish trophic guilds with global gut content data synthesis and phylogeny"
+      ],
+      "volume": [
+        "18"
+      ],
+      "pages": [
+        "3000702"
+      ],
+      "url": [
+        "https://doi.org/10.1371/journal.pbio.3000702"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "PLOS Biology"
+      ],
+      "issue": [
+        "12"
+      ],
+      "doi": [
+        "10.1371/journal.pbio.3000702"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "citation": "Pogorevc, N., Simčič, M., Khayatzadeh, N., Soelkner, J., Berger, B., Bojkovski, D., … Horvat, S. (2020). Post-Genotyping Optimization of Dataset Formation Could Affect Genetic Diversity Parameters: An Example of Analyses with Alpine Goat Breeds. <https://doi.org/10.21203/rs.3.rs-133590/v1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Pogorevc",
+          "given": "N."
+        },
+        {
+          "family": "Simčič",
+          "given": "M."
+        },
+        {
+          "family": "Khayatzadeh",
+          "given": "N."
+        },
+        {
+          "family": "Soelkner",
+          "given": "J."
+        },
+        {
+          "family": "Berger",
+          "given": "B."
+        },
+        {
+          "family": "Bojkovski",
+          "given": "D."
+        },
+        {
+          "family": "Horvat",
+          "given": "S."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Post-Genotyping Optimization of Dataset Formation Could Affect Genetic Diversity Parameters: An Example of Analyses with Alpine Goat Breeds"
+      ],
+      "url": [
+        "https://doi.org/10.21203/rs.3.rs-133590/v1"
+      ],
+      "doi": [
+        "10.21203/rs.3.rs-133590/v1"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rtweet",
+    "citation": "Gutiérrez García-Pardo, I., Guevara Gil, J. A., Gómez González, D., Castro Cantalejo, J., & Espínola Vílchez, R. (2021). Community Detection Problem Based on Polarization Measures. An application to Twitter: the COVID-19 case in Spain. <https://doi.org/10.20944/preprints202101.0080.v1>",
+    "parts": {
+      "author": [
+        {
+          "family": "Gutiérrez García-Pardo",
+          "given": "I."
+        },
+        {
+          "family": "Guevara Gil",
+          "given": "J.A."
+        },
+        {
+          "family": "Gómez González",
+          "given": "D."
+        },
+        {
+          "family": "Castro Cantalejo",
+          "given": "J."
+        },
+        {
+          "family": "Espínola Vílchez",
+          "given": "R."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Community Detection Problem Based on Polarization Measures"
+      ],
+      "note": [
+        "An application to Twitter: the COVID-19 case in Spain."
+      ],
+      "url": [
+        "https://doi.org/10.20944/preprints202101.0080.v1"
+      ],
+      "doi": [
+        "10.20944/preprints202101.0080.v1"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "citation": "Ionela-Andreea, P., & Marian, N. (2020). Cluster Analysis of Regional Research and Development Disparities in Europe. Studies in Business and Economics, 15(3), 303–312. <https://doi.org/10.2478/sbe-2020-0060>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ionela-Andreea",
+          "given": "P."
+        },
+        {
+          "family": "Marian",
+          "given": "N."
+        }
+      ],
+      "date": [
+        "2020"
+      ],
+      "title": [
+        "Cluster Analysis of Regional Research and Development Disparities in Europe"
+      ],
+      "volume": [
+        "15"
+      ],
+      "pages": [
+        "303–312"
+      ],
+      "url": [
+        "https://doi.org/10.2478/sbe-2020-0060"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Studies in Business and Economics"
+      ],
+      "issue": [
+        "3"
+      ],
+      "doi": [
+        "10.2478/sbe-2020-0060"
+      ]
+    }
+  },
+  {
+    "name": "rnaturalearth",
+    "citation": "Mari, A., Roloff, T.-C., Stange, M., Soegaard, K. K., Asllanaj, E., Tauriello, G., … Egli, A. (2021). Global surveillance of potential antiviral drug resistance in SARS-CoV-2: proof of concept focussing on the RNA-dependent RNA polymerase. <https://doi.org/10.1101/2020.12.28.20248663>",
+    "parts": {
+      "author": [
+        {
+          "family": "Mari",
+          "given": "A."
+        },
+        {
+          "family": "Roloff",
+          "given": "T.-C."
+        },
+        {
+          "family": "Stange",
+          "given": "M."
+        },
+        {
+          "family": "Soegaard",
+          "given": "K.K."
+        },
+        {
+          "family": "Asllanaj",
+          "given": "E."
+        },
+        {
+          "family": "Tauriello",
+          "given": "G."
+        },
+        {
+          "family": "Egli",
+          "given": "A."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Global surveillance of potential antiviral drug resistance in SARS-CoV-2: proof of concept focussing on the RNA-dependent RNA polymerase"
+      ],
+      "url": [
+        "https://doi.org/10.1101/2020.12.28.20248663"
+      ],
+      "doi": [
+        "10.1101/2020.12.28.20248663"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "taxize",
+    "doi": "10.1101/2021.01.02.425084",
+    "citation": "Albery, G. F., Carlson, C. J., Cohen, L. E., Eskew, E. A., Gibb, R., Ryan, S. J., … Becker, D. J. (2021). Urban-adapted mammal species have more known pathogens. <https://doi.org/10.1101/2021.01.02.425084>",
+    "parts": {
+      "author": [
+        {
+          "family": "Albery",
+          "given": "G.F."
+        },
+        {
+          "family": "Carlson",
+          "given": "C.J."
+        },
+        {
+          "family": "Cohen",
+          "given": "L.E."
+        },
+        {
+          "family": "Eskew",
+          "given": "E.A."
+        },
+        {
+          "family": "Gibb",
+          "given": "R."
+        },
+        {
+          "family": "Ryan",
+          "given": "S.J."
+        },
+        {
+          "family": "Becker",
+          "given": "D.J."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Urban-adapted mammal species have more known pathogens"
+      ],
+      "url": [
+        "https://doi.org/10.1101/2021.01.02.425084"
+      ],
+      "doi": [
+        "10.1101/2021.01.02.425084"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "FedData",
+    "doi": "10.1371/journal.pone.0244754",
+    "citation": "Porter, W. T., Barrand, Z. A., Wachara, J., DaVall, K., Mihaljevic, J. R., Pearson, T., … Nieto, N. C. (2021). Predicting the current and future distribution of the western black-legged tick, Ixodes pacificus, across the Western US using citizen science collections. PLOS ONE, 16(1), e0244754. <https://doi.org/10.1371/journal.pone.0244754>",
+    "parts": {
+      "author": [
+        {
+          "family": "Porter",
+          "given": "W.T."
+        },
+        {
+          "family": "Barrand",
+          "given": "Z.A."
+        },
+        {
+          "family": "Wachara",
+          "given": "J."
+        },
+        {
+          "family": "DaVall",
+          "given": "K."
+        },
+        {
+          "family": "Mihaljevic",
+          "given": "J.R."
+        },
+        {
+          "family": "Pearson",
+          "given": "T."
+        },
+        {
+          "family": "Nieto",
+          "given": "N.C."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Predicting the current and future distribution of the western black-legged tick, Ixodes pacificus, across the Western US using citizen science collections"
+      ],
+      "volume": [
+        "16"
+      ],
+      "pages": [
+        "0244754"
+      ],
+      "url": [
+        "https://doi.org/10.1371/journal.pone.0244754"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1371/journal.pone.0244754"
+      ]
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1073/pnas.1922859118",
+    "citation": "Pineda-Munoz, S., Wang, Y., Lyons, S. K., Tóth, A. B., & McGuire, J. L. (2021). Mammal species occupy different climates following the expansion of human impacts. Proceedings of the National Academy of Sciences, 118(2), e1922859118. <https://doi.org/10.1073/pnas.1922859118>",
+    "parts": {
+      "author": [
+        {
+          "family": "Pineda-Munoz",
+          "given": "S."
+        },
+        {
+          "family": "Wang",
+          "given": "Y."
+        },
+        {
+          "family": "Lyons",
+          "given": "S.K."
+        },
+        {
+          "family": "Tóth",
+          "given": "A.B."
+        },
+        {
+          "family": "McGuire",
+          "given": "J.L."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Mammal species occupy different climates following the expansion of human impacts"
+      ],
+      "volume": [
+        "118"
+      ],
+      "pages": [
+        "1922859118"
+      ],
+      "url": [
+        "https://doi.org/10.1073/pnas.1922859118"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "issue": [
+        "2"
+      ],
+      "doi": [
+        "10.1073/pnas.1922859118"
+      ]
+    }
+  },
+  {
+    "name": "biomartr",
+    "doi": "10.1038/s41556-020-00617-2",
+    "citation": "Böttcher, A., Büttner, M., Tritschler, S., Sterr, M., Aliluev, A., Oppenländer, L., … Lickert, H. (2021). Non-canonical Wnt/PCP signalling regulates intestinal stem cell lineage priming towards enteroendocrine and Paneth cell fates. Nature Cell Biology, 23(1), 23–31. <https://doi.org/10.1038/s41556-020-00617-2>",
+    "parts": {
+      "author": [
+        {
+          "family": "Böttcher",
+          "given": "A."
+        },
+        {
+          "family": "Büttner",
+          "given": "M."
+        },
+        {
+          "family": "Tritschler",
+          "given": "S."
+        },
+        {
+          "family": "Sterr",
+          "given": "M."
+        },
+        {
+          "family": "Aliluev",
+          "given": "A."
+        },
+        {
+          "family": "Oppenländer",
+          "given": "L."
+        },
+        {
+          "family": "Lickert",
+          "given": "H."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Non-canonical Wnt/PCP signalling regulates intestinal stem cell lineage priming towards enteroendocrine and Paneth cell fates"
+      ],
+      "volume": [
+        "23"
+      ],
+      "pages": [
+        "23–31"
+      ],
+      "url": [
+        "https://doi.org/10.1038/s41556-020-00617-2"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Nature Cell Biology"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1038/s41556-020-00617-2"
+      ]
+    }
+  },
+  {
+    "name": "nlmr",
+    "citation": "Thompson, P. R., Derocher, A. E., Edwards, M. A., & Lewis, M. A. (2021). Describing spatiotemporal memory patterns using animal movement modelling. arXiv preprint arXiv:2101.04183. <https://arxiv.org/pdf/2101.04183>",
+    "parts": {
+      "author": [
+        {
+          "family": "Thompson",
+          "given": "P.R."
+        },
+        {
+          "family": "Derocher",
+          "given": "A.E."
+        },
+        {
+          "family": "Edwards",
+          "given": "M.A."
+        },
+        {
+          "family": "Lewis",
+          "given": "M.A."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Describing spatiotemporal memory patterns using animal movement modelling"
+      ],
+      "note": [
+        "arXiv preprint arXiv:2101.04183."
+      ],
+      "url": [
+        "https://arxiv.org/pdf/2101.04183"
+      ],
+      "arxiv": [
+        "2101.04183"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rredlist",
+    "doi": "10.1098/rspb.2020.1600",
+    "citation": "Murgier, J., McLean, M., Maire, A., Mouillot, D., Loiseau, N., Munoz, F., … Auber, A. (2021). Rebound in functional distinctiveness following warming and reduced fishing in the North Sea. Proceedings of the Royal Society B: Biological Sciences, 288(1942), 20201600. <https://doi.org/10.1098/rspb.2020.1600>",
+    "parts": {
+      "author": [
+        {
+          "family": "Murgier",
+          "given": "J."
+        },
+        {
+          "family": "McLean",
+          "given": "M."
+        },
+        {
+          "family": "Maire",
+          "given": "A."
+        },
+        {
+          "family": "Mouillot",
+          "given": "D."
+        },
+        {
+          "family": "Loiseau",
+          "given": "N."
+        },
+        {
+          "family": "Munoz",
+          "given": "F."
+        },
+        {
+          "family": "Auber",
+          "given": "A."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Rebound in functional distinctiveness following warming and reduced fishing in the North Sea"
+      ],
+      "volume": [
+        "288"
+      ],
+      "pages": [
+        "20201600"
+      ],
+      "url": [
+        "https://doi.org/10.1098/rspb.2020.1600"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Proceedings of the Royal Society B: Biological Sciences"
+      ],
+      "issue": [
+        "1942"
+      ],
+      "doi": [
+        "10.1098/rspb.2020.1600"
+      ]
+    }
+  },
+  {
+    "name": "rfishbase",
+    "doi": "10.1098/rspb.2020.1600",
+    "citation": "Murgier, J., McLean, M., Maire, A., Mouillot, D., Loiseau, N., Munoz, F., … Auber, A. (2021). Rebound in functional distinctiveness following warming and reduced fishing in the North Sea. Proceedings of the Royal Society B: Biological Sciences, 288(1942), 20201600. <https://doi.org/10.1098/rspb.2020.1600>",
+    "parts": {
+      "author": [
+        {
+          "family": "Murgier",
+          "given": "J."
+        },
+        {
+          "family": "McLean",
+          "given": "M."
+        },
+        {
+          "family": "Maire",
+          "given": "A."
+        },
+        {
+          "family": "Mouillot",
+          "given": "D."
+        },
+        {
+          "family": "Loiseau",
+          "given": "N."
+        },
+        {
+          "family": "Munoz",
+          "given": "F."
+        },
+        {
+          "family": "Auber",
+          "given": "A."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Rebound in functional distinctiveness following warming and reduced fishing in the North Sea"
+      ],
+      "volume": [
+        "288"
+      ],
+      "pages": [
+        "20201600"
+      ],
+      "url": [
+        "https://doi.org/10.1098/rspb.2020.1600"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Proceedings of the Royal Society B: Biological Sciences"
+      ],
+      "issue": [
+        "1942"
+      ],
+      "doi": [
+        "10.1098/rspb.2020.1600"
+      ]
+    }
+  },
+  {
+    "name": "rotl",
+    "citation": "Sandoval-Herrera, N. I., Mastromonaco, G. F., Becker, D. J., Simmons, N. B., & Welch, K. C. (2021). Inter- and intra-specific variation in hair cortisol concentrations of Neotropical bats. <https://doi.org/10.1101/2021.01.10.426004>",
+    "parts": {
+      "author": [
+        {
+          "family": "Sandoval-Herrera",
+          "given": "N.I."
+        },
+        {
+          "family": "Mastromonaco",
+          "given": "G.F."
+        },
+        {
+          "family": "Becker",
+          "given": "D.J."
+        },
+        {
+          "family": "Simmons",
+          "given": "N.B."
+        },
+        {
+          "family": "Welch",
+          "given": "K.C."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Inter- and intra-specific variation in hair cortisol concentrations of Neotropical bats"
+      ],
+      "url": [
+        "https://doi.org/10.1101/2021.01.10.426004"
+      ],
+      "doi": [
+        "10.1101/2021.01.10.426004"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.1101/2021.01.10.425984",
+    "citation": "Freimuth, J., Bossdorf, O., Scheepens, J. F., & Willems, F. M. (2021). Climate warming changes synchrony of plants and pollinators. <https://doi.org/10.1101/2021.01.10.425984>",
+    "parts": {
+      "author": [
+        {
+          "family": "Freimuth",
+          "given": "J."
+        },
+        {
+          "family": "Bossdorf",
+          "given": "O."
+        },
+        {
+          "family": "Scheepens",
+          "given": "J.F."
+        },
+        {
+          "family": "Willems",
+          "given": "F.M."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Climate warming changes synchrony of plants and pollinators"
+      ],
+      "url": [
+        "https://doi.org/10.1101/2021.01.10.425984"
+      ],
+      "doi": [
+        "10.1101/2021.01.10.425984"
+      ],
+      "type": null
+    }
+  },
+  {
+    "name": "rgbif",
+    "doi": "10.3897/neobiota.64.55597",
+    "citation": "Ascensão, F., D’Amico, M., Martins, R. C., Rebelo, R., Barbosa, A. M., Bencatel, J., … Capinha, C. (2021). Distribution of alien tetrapods in the Iberian Peninsula. NeoBiota, 64, 1–21. <https://doi.org/10.3897/neobiota.64.55597>",
+    "parts": {
+      "author": [
+        {
+          "family": "Ascensão",
+          "given": "F."
+        },
+        {
+          "family": "D’Amico",
+          "given": "M."
+        },
+        {
+          "family": "Martins",
+          "given": "R.C."
+        },
+        {
+          "family": "Rebelo",
+          "given": "R."
+        },
+        {
+          "family": "Barbosa",
+          "given": "A.M."
+        },
+        {
+          "family": "Bencatel",
+          "given": "J."
+        },
+        {
+          "family": "Capinha",
+          "given": "C."
+        },
+        {
+          "others": true
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Distribution of alien tetrapods in the Iberian Peninsula"
+      ],
+      "volume": [
+        "64"
+      ],
+      "pages": [
+        "1–21"
+      ],
+      "url": [
+        "https://doi.org/10.3897/neobiota.64.55597"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "NeoBiota"
+      ],
+      "doi": [
+        "10.3897/neobiota.64.55597"
+      ]
+    }
+  },
+  {
+    "name": "comtradr",
+    "doi": "10.1038/s41597-020-00795-6",
+    "citation": "Chini, C. M., & Peer, R. A. M. (2021). The traded water footprint of global energy from 2010 to 2018. Scientific Data, 8(1). <https://doi.org/10.1038/s41597-020-00795-6>",
+    "parts": {
+      "author": [
+        {
+          "family": "Chini",
+          "given": "C.M."
+        },
+        {
+          "family": "Peer",
+          "given": "R.A.M."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "The traded water footprint of global energy from 2010 to 2018"
+      ],
+      "volume": [
+        "8"
+      ],
+      "url": [
+        "https://doi.org/10.1038/s41597-020-00795-6"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Scientific Data"
+      ],
+      "issue": [
+        "1"
+      ],
+      "doi": [
+        "10.1038/s41597-020-00795-6"
+      ]
+    }
+  },
+  {
+    "name": "webchem",
+    "doi": "10.1016/j.resconrec.2020.105365",
+    "citation": "Su, Q.-Z., Vera, P., Nerín, C., Lin, Q.-B., & Zhong, H.-N. (2021). Safety concerns of recycling postconsumer polyolefins for food contact uses: Regarding (semi-)volatile migrants untargetedly screened. Resources, Conservation and Recycling, 167, 105365. <https://doi.org/10.1016/j.resconrec.2020.105365>",
+    "parts": {
+      "author": [
+        {
+          "family": "Su",
+          "given": "Q.-Z."
+        },
+        {
+          "family": "Vera",
+          "given": "P."
+        },
+        {
+          "family": "Nerín",
+          "given": "C."
+        },
+        {
+          "family": "Lin",
+          "given": "Q.-B."
+        },
+        {
+          "family": "Zhong",
+          "given": "H.-N."
+        }
+      ],
+      "date": [
+        "2021"
+      ],
+      "title": [
+        "Safety concerns of recycling postconsumer polyolefins for food contact uses: Regarding (semi-)volatile migrants untargetedly screened"
+      ],
+      "volume": [
+        "167"
+      ],
+      "pages": [
+        "105365"
+      ],
+      "url": [
+        "https://doi.org/10.1016/j.resconrec.2020.105365"
+      ],
+      "type": "article-journal",
+      "container-title": [
+        "Resources, Conservation and Recycling"
+      ],
+      "doi": [
+        "10.1016/j.resconrec.2020.105365"
+      ]
+    }
   }
 ]
