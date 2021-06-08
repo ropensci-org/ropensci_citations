@@ -25355,7 +25355,8 @@
   },
   {
     "name": [
-      "rgbif"
+      "rgbif",
+      "taxize"
     ],
     "doi": "10.1101/2021.01.10.425984",
     "citation": "Freimuth, J., Bossdorf, O., Scheepens, J. F., & Willems, F. M. (2021). Climate warming changes synchrony of plants and pollinators. <https://doi.org/10.1101/2021.01.10.425984>",
@@ -25428,6 +25429,705 @@
       "doi": "10.1016/j.resconrec.2020.105365"
     },
     "url": "https://doi.org/10.1016/j.resconrec.2020.105365",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "tidyhydat"
+    ],
+    "citation": "Laceby, J. P., Batista, P. V. G., Taube, N., Kruk, M. K., Chung, C., Evrard, O., … Kerr, J. G. (2021). Tracing total and dissolved material in a western Canadian basin using quality control samples to guide the selection of fingerprinting parameters for modelling. CATENA, 200, 105095. <https://doi.org/10.1016/j.catena.2020.105095>",
+    "parts": {
+      "author": "Laceby et al.",
+      "date": "2021",
+      "title": "Tracing total and dissolved material in a western Canadian basin using quality control samples to guide the selection of fingerprinting parameters for modelling",
+      "volume": "200",
+      "pages": "105095",
+      "url": "https://doi.org/10.1016/j.catena.2020.105095",
+      "type": "article-journal",
+      "container-title": "CATENA",
+      "doi": "10.1016/j.catena.2020.105095"
+    },
+    "url": "https://doi.org/10.1016/j.catena.2020.105095",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "taxize"
+    ],
+    "citation": "Vizentin-Bugoni, J., Sperry, J. H., Kelley, J. P., Gleditsch, J. M., Foster, J. T., Drake, D. R., … Tarwater, C. E. (2021). Ecological correlates of species’ roles in highly invaded seed dispersal networks. Proceedings of the National Academy of Sciences, 118(4), e2009532118. <https://doi.org/10.1073/pnas.2009532118>",
+    "parts": {
+      "author": "Vizentin-Bugoni et al.",
+      "date": "2021",
+      "title": "Ecological correlates of species’ roles in highly invaded seed dispersal networks",
+      "volume": "118",
+      "pages": "2009532118",
+      "url": "https://doi.org/10.1073/pnas.2009532118",
+      "type": "article-journal",
+      "container-title": "Proceedings of the National Academy of Sciences",
+      "issue": "4",
+      "doi": "10.1073/pnas.2009532118"
+    },
+    "url": "https://doi.org/10.1073/pnas.2009532118",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "taxize"
+    ],
+    "citation": "Durso, A. M., Bolon, I., Kleinhesselink, A. R., Mondardini, M. R., Fernandez-Marquez, J. L., Gutsche-Jones, F., … Ruiz de Castañeda, R. (2021). Crowdsourcing snake identification with online communities of professional herpetologists and avocational snake enthusiasts. Royal Society Open Science, 8(1), 201273. <https://doi.org/10.1098/rsos.201273>",
+    "parts": {
+      "author": "Durso et al.",
+      "date": "2021",
+      "title": "Crowdsourcing snake identification with online communities of professional herpetologists and avocational snake enthusiasts",
+      "volume": "8",
+      "pages": "201273",
+      "url": "https://doi.org/10.1098/rsos.201273",
+      "type": "article-journal",
+      "container-title": "Royal Society Open Science",
+      "issue": "1",
+      "doi": "10.1098/rsos.201273"
+    },
+    "url": "https://doi.org/10.1098/rsos.201273",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "nlrx"
+    ],
+    "citation": "Ghoreishi, M., Razavi, S., & Elshorbagy, A. (2021). Understanding human adaptation to drought: agent-based agricultural water demand modeling in the Bow River Basin, Canada. Hydrological Sciences Journal, 66(3), 389–407. doi:10.1080/02626667.2021.1873344",
+    "parts": {
+      "author": "Ghoreishi et al.",
+      "date": "2021",
+      "title": "Understanding human adaptation to drought: agent-based agricultural water demand modeling in the Bow River Basin, Canada",
+      "volume": "66",
+      "pages": "389–407",
+      "type": "article-journal",
+      "container-title": "Hydrological Sciences Journal",
+      "issue": "3",
+      "doi": "10.1080/02626667.2021.1873344"
+    },
+    "url": "https://doi.org/10.1080/02626667.2021.1873344",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rerddap"
+    ],
+    "citation": "Patel, S. H., Winton, M. V., Hatch, J. M., Haas, H. L., Saba, V. S., Fay, G., & Smolowitz, R. J. (2021). Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change. Scientific Reports, 11(1). doi:10.1038/s41598-021-88290-9",
+    "parts": {
+      "author": "Patel et al.",
+      "date": "2021",
+      "title": "Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change",
+      "volume": "11",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-021-88290-9"
+    },
+    "url": "https://doi.org/10.1038/s41598-021-88290-9",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rotl"
+    ],
+    "citation": "Murphy, R., Palm, M., Mustonen, V., Warringer, J., Farewell, A., Parts, L., & Moradigaravand, D. (2021). Genomic Epidemiology and Evolution of Escherichia coli in Wild Animals in Mexico. mSphere, 6(1). doi:10.1128/msphere.00738-20",
+    "parts": {
+      "author": "Murphy et al.",
+      "date": "2021",
+      "title": "Genomic Epidemiology and Evolution of Escherichia coli in Wild Animals in Mexico",
+      "volume": "6",
+      "type": "article-journal",
+      "container-title": "mSphere",
+      "issue": "1",
+      "doi": "10.1128/msphere.00738-20"
+    },
+    "url": "https://doi.org/10.1128/msphere.00738-20",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "MODIStsp"
+    ],
+    "citation": "De Andrade, M. D., Delgado, R. C., da Costa de Menezes, S. J. M., de Ávila Rodrigues, R., Teodoro, P. E., da Silva Junior, C. A., & Pereira, M. G. (2021). Evaluation of the MOD11A2 product for canopy temperature monitoring in the Brazilian Atlantic Forest. Environmental Monitoring and Assessment, 193(1). doi:10.1007/s10661-020-08788-z",
+    "parts": {
+      "author": "De Andrade et al.",
+      "date": "2021",
+      "title": "Evaluation of the MOD11A2 product for canopy temperature monitoring in the Brazilian Atlantic Forest",
+      "volume": "193",
+      "type": "article-journal",
+      "container-title": "Environmental Monitoring and Assessment",
+      "issue": "1",
+      "doi": "10.1007/s10661-020-08788-z"
+    },
+    "url": "https://doi.org/10.1007/s10661-020-08788-z",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "spocc"
+    ],
+    "citation": "Lozano, V. (2021). Distribution of Five Aquatic Plants Native to South America and Invasive Elsewhere under Current Climate. Ecologies, 2(1), 27–42. doi:10.3390/ecologies2010003",
+    "parts": {
+      "author": "Lozano",
+      "date": "2021",
+      "title": "Distribution of Five Aquatic Plants Native to South America and Invasive Elsewhere under Current Climate",
+      "volume": "2",
+      "pages": "27–42",
+      "type": "article-journal",
+      "container-title": "Ecologies",
+      "issue": "1",
+      "doi": "10.3390/ecologies2010003"
+    },
+    "url": "https://doi.org/10.3390/ecologies2010003",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rotl"
+    ],
+    "citation": "Dougherty, L. R. (2021). Meta‐analysis shows the evidence for context‐dependent mating behaviour is inconsistent or weak across animals. Ecology Letters, 24(4), 862–875. doi:10.1111/ele.13679",
+    "parts": {
+      "author": "Dougherty",
+      "date": "2021",
+      "title": "Meta‐analysis shows the evidence for context‐dependent mating behaviour is inconsistent or weak across animals",
+      "volume": "24",
+      "pages": "862–875",
+      "type": "article-journal",
+      "container-title": "Ecology Letters",
+      "issue": "4",
+      "doi": "10.1111/ele.13679"
+    },
+    "url": "https://doi.org/10.1111/ele.13679",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "citation": "Changmai, P., Jaisamut, K., Kampuansai, J., Kutanan, W., Altınışık, N. E., Flegontova, O., … Flegontov, P. (2021). Indian genetic heritage in Southeast Asian populations. doi:10.1101/2021.01.21.427591",
+    "parts": {
+      "author": "Changmai et al.",
+      "date": "2021",
+      "title": "Indian genetic heritage in Southeast Asian populations",
+      "container-title": "Cold Spring Harbor Laboratory",
+      "doi": "10.1101/2021.01.21.427591"
+    },
+    "url": "https://doi.org/10.1101/2021.01.21.427591",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rtweet"
+    ],
+    "citation": "Nkonde, M., Rodriguez, M. Y., Cortana, L., Mukogosi, J. K., King, S., Serrato, R., … Malik, M. M. (2021). Disinformation creep: ADOS and the strategic weapon-ization of breaking news. Harvard Kennedy School Misinformation Review. doi:10.37016/mr-2020-52",
+    "parts": {
+      "author": "Nkonde et al.",
+      "date": "2021",
+      "title": "Disinformation creep: ADOS and the strategic weapon-ization of breaking news",
+      "type": "article-journal",
+      "container-title": "Harvard Kennedy School Misinformation Review",
+      "doi": "10.37016/mr-2020-52"
+    },
+    "url": "https://doi.org/10.37016/mr-2020-52",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "CoordinateCleaner"
+    ],
+    "citation": "BELLO, A., MUKHTAR, F. B., & MUELLNER-RIEHL, A. N. (2021). <strong>DIVERSITY AND DISTRIBUTION OF NIGERIAN LEGUMES (FABACEAE)<\/strong>. Phytotaxa, 480(2), 103–124. doi:10.11646/phytotaxa.480.2.1",
+    "parts": {
+      "author": "BELLO et al.",
+      "date": "2021",
+      "title": "<strong>DIVERSITY AND DISTRIBUTION OF NIGERIAN LEGUMES (FABACEAE)<\/strong>",
+      "volume": "480",
+      "pages": "103–124",
+      "type": "article-journal",
+      "container-title": "Phytotaxa",
+      "issue": "2",
+      "doi": "10.11646/phytotaxa.480.2.1"
+    },
+    "url": "https://doi.org/10.11646/phytotaxa.480.2.1",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "CoordinateCleaner"
+    ],
+    "citation": "Delso, A., Muñoz, J., & Fajardo, J. (2021). Protected Area Networks Do Not Represent Unseen Diversity. doi:10.21203/rs.3.rs-145219/v1",
+    "parts": {
+      "author": "Delso et al.",
+      "date": "2021",
+      "title": "Protected Area Networks Do Not Represent Unseen Diversity",
+      "container-title": "Research Square",
+      "doi": "10.21203/rs.3.rs-145219/v1"
+    },
+    "url": "https://doi.org/10.21203/rs.3.rs-145219/v1",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "stplanr",
+      "opentripplanner"
+    ],
+    "citation": "Lovelace, R. (2021). Open source tools for geographic analysis in transport planning. Journal of Geographical Systems. doi:10.1007/s10109-020-00342-2",
+    "parts": {
+      "author": "Lovelace",
+      "date": "2021",
+      "title": "Open source tools for geographic analysis in transport planning",
+      "type": "article-journal",
+      "container-title": "Journal of Geographical Systems",
+      "doi": "10.1007/s10109-020-00342-2"
+    },
+    "url": "https://doi.org/10.1007/s10109-020-00342-2",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "taxize"
+    ],
+    "citation": "Gibb, R., Albery, G. F., Becker, D. J., Brierley, L., Connor, R., Dallas, T. A., … Poisot, T. (2021). Data proliferation, reconciliation, and synthesis in viral ecology. doi:10.1101/2021.01.14.426572",
+    "parts": {
+      "author": "Gibb et al.",
+      "date": "2021",
+      "title": "Data proliferation, reconciliation, and synthesis in viral ecology",
+      "container-title": "Cold Spring Harbor Laboratory",
+      "doi": "10.1101/2021.01.14.426572"
+    },
+    "url": "https://doi.org/10.1101/2021.01.14.426572",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rotl"
+    ],
+    "citation": "Andreu-Sánchez, S., Chen, W., Stiller, J., & Zhang, G. (2021). Multiple origins of a frameshift insertion in a mitochondrial gene in birds and turtles. GigaScience, 10(1). doi:10.1093/gigascience/giaa161",
+    "parts": {
+      "author": "Andreu-Sánchez et al.",
+      "date": "2021",
+      "title": "Multiple origins of a frameshift insertion in a mitochondrial gene in birds and turtles",
+      "volume": "10",
+      "type": "article-journal",
+      "container-title": "GigaScience",
+      "issue": "1",
+      "doi": "10.1093/gigascience/giaa161"
+    },
+    "url": "https://doi.org/10.1093/gigascience/giaa161",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rredlist"
+    ],
+    "citation": "DE LA TORRE, G. M., & CAMPIÃO, K. M. (2021). Bird habitat preferences drive hemoparasite infection in the Neotropical region. Integrative Zoology. doi:10.1111/1749-4877.12515",
+    "parts": {
+      "author": "DELATORRE & CAMPIÃO",
+      "date": "2021",
+      "title": "Bird habitat preferences drive hemoparasite infection in the Neotropical region",
+      "type": "article-journal",
+      "container-title": "Integrative Zoology",
+      "doi": "10.1111/1749-4877.12515"
+    },
+    "url": "https://doi.org/10.1111/1749-4877.12515",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "NLMR"
+    ],
+    "citation": "Savary, P., Foltête, J., Moal, H., Vuidel, G., & Garnier, S. (2021). Analysing landscape effects on dispersal networks and gene flow with genetic graphs. Molecular Ecology Resources, 21(4), 1167–1185. doi:10.1111/1755-0998.13333",
+    "parts": {
+      "author": "Savary et al.",
+      "date": "2021",
+      "title": "Analysing landscape effects on dispersal networks and gene flow with genetic graphs",
+      "volume": "21",
+      "pages": "1167–1185",
+      "type": "article-journal",
+      "container-title": "Molecular Ecology Resources",
+      "issue": "4",
+      "doi": "10.1111/1755-0998.13333"
+    },
+    "url": "https://doi.org/10.1111/1755-0998.13333",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "weathercan"
+    ],
+    "citation": "Layton, K. K. S., Snelgrove, P. V. R., Dempson, J. B., Kess, T., Lehnert, S. J., Bentzen, P., … Bradbury, I. R. (2021). Genomic evidence of past and future climate-linked loss in a migratory Arctic fish. Nature Climate Change, 11(2), 158–165. doi:10.1038/s41558-020-00959-7",
+    "parts": {
+      "author": "Layton et al.",
+      "date": "2021",
+      "title": "Genomic evidence of past and future climate-linked loss in a migratory Arctic fish",
+      "volume": "11",
+      "pages": "158–165",
+      "type": "article-journal",
+      "container-title": "Nature Climate Change",
+      "issue": "2",
+      "doi": "10.1038/s41558-020-00959-7"
+    },
+    "url": "https://doi.org/10.1038/s41558-020-00959-7",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "MODIStsp"
+    ],
+    "citation": "Akpoti, K., Dossou-Yovo, E. R., Zwart, S. J., & Kiepe, P. (2021). The potential for expansion of irrigated rice under alternate wetting and drying in Burkina Faso. Agricultural Water Management, 247, 106758. doi:10.1016/j.agwat.2021.106758",
+    "parts": {
+      "author": "Akpoti et al.",
+      "date": "2021",
+      "title": "The potential for expansion of irrigated rice under alternate wetting and drying in Burkina Faso",
+      "volume": "247",
+      "pages": "106758",
+      "type": "article-journal",
+      "container-title": "Agricultural Water Management",
+      "doi": "10.1016/j.agwat.2021.106758"
+    },
+    "url": "https://doi.org/10.1016/j.agwat.2021.106758",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "spocc",
+      "CoordinateCleaner"
+    ],
+    "citation": "Escobar, S., Helmstetter, A. J., Jarvie, S., Montúfar, R., Balslev, H., & Couvreur, T. L. P. (2021). Pleistocene climatic fluctuations promoted alternative evolutionary histories in Phytelephas aequatorialis, an endemic palm from western Ecuador. Journal of Biogeography, 48(5), 1023–1037. doi:10.1111/jbi.14055",
+    "parts": {
+      "author": "Escobar et al.",
+      "date": "2021",
+      "title": "Pleistocene climatic fluctuations promoted alternative evolutionary histories in Phytelephas aequatorialis, an endemic palm from western Ecuador",
+      "volume": "48",
+      "pages": "1023–1037",
+      "type": "article-journal",
+      "container-title": "Journal of Biogeography",
+      "issue": "5",
+      "doi": "10.1111/jbi.14055"
+    },
+    "url": "https://doi.org/10.1111/jbi.14055",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "biomartr"
+    ],
+    "citation": "Tjeldnes, H., Labun, K., Cleuren, Y. T., Chyżyńska, K., Świrski, M., & Valen, E. (2021). ORFik: a comprehensive R toolkit for the analysis of translation. doi:10.1101/2021.01.16.426936",
+    "parts": {
+      "author": "Tjeldnes et al.",
+      "date": "2021",
+      "title": "ORFik: a comprehensive R toolkit for the analysis of translation",
+      "container-title": "Cold Spring Harbor Laboratory",
+      "doi": "10.1101/2021.01.16.426936"
+    },
+    "url": "https://doi.org/10.1101/2021.01.16.426936",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "CoordinateCleaner"
+    ],
+    "citation": "Ryeland, J., Derham, T. T., & Spencer, R. J. (2021). Past and future potential range changes in one of the last large vertebrates of the Australian continent, the emu Dromaius novaehollandiae. Scientific Reports, 11(1). doi:10.1038/s41598-020-79551-0",
+    "parts": {
+      "author": "Ryeland et al.",
+      "date": "2021",
+      "title": "Past and future potential range changes in one of the last large vertebrates of the Australian continent, the emu Dromaius novaehollandiae",
+      "volume": "11",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-79551-0"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-79551-0",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "citation": "Thomas, C. L., Jansen, B., van Loon, E. E., & Wiesenberg, G. L. B. (2021). Transformation of &lt;i&gt;n&lt;/i&gt;-alkanes from plant to soil: a review. doi:10.5194/soil-2020-107",
+    "parts": {
+      "author": "Thomas et al.",
+      "date": "2021",
+      "title": "Transformation of &lt;i&gt;n&lt;/i&gt;-alkanes from plant to soil: a review",
+      "container-title": "Copernicus GmbH",
+      "doi": "10.5194/soil-2020-107"
+    },
+    "url": "https://doi.org/10.5194/soil-2020-107",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "citation": "Meca, M. A., Zhadan, A., & Struck, T. H. (2021). The Early Branching Group of Orbiniida Sensu Struck et al., 2015: Parergodrilidae and Orbiniidae. Diversity, 13(1), 29. doi:10.3390/d13010029",
+    "parts": {
+      "author": "Meca et al.",
+      "date": "2021",
+      "title": "The Early Branching Group of Orbiniida Sensu Struck et al., 2015: Parergodrilidae and Orbiniidae",
+      "volume": "13",
+      "pages": "29",
+      "type": "article-journal",
+      "container-title": "Diversity",
+      "issue": "1",
+      "doi": "10.3390/d13010029"
+    },
+    "url": "https://doi.org/10.3390/d13010029",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "treeio",
+      "magick"
+    ],
+    "citation": "Sellés Vidal, L., Ayala, R., Stan, G.-B., & Ledesma-Amaro, R. (2021). rfaRm: An R client-side interface to facilitate the analysis of the Rfam database of RNA families. PLOS ONE, 16(1), e0245280. doi:10.1371/journal.pone.0245280",
+    "parts": {
+      "author": "Sellés Vidal et al.",
+      "date": "2021",
+      "title": "rfaRm: An R client-side interface to facilitate the analysis of the Rfam database of RNA families",
+      "volume": "16",
+      "pages": "0245280",
+      "type": "article-journal",
+      "container-title": "PLOS ONE",
+      "issue": "1",
+      "doi": "10.1371/journal.pone.0245280"
+    },
+    "url": "https://doi.org/10.1371/journal.pone.0245280",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "treeio"
+    ],
+    "citation": "Vozdova, M., Kubickova, S., Martínková, N., Galindo, D. J., Bernegossi, A. M., Cernohorska, H., … Rubes, J. (2021). Satellite DNA in Neotropical Deer Species. Genes, 12(1), 123. doi:10.3390/genes12010123",
+    "parts": {
+      "author": "Vozdova et al.",
+      "date": "2021",
+      "title": "Satellite DNA in Neotropical Deer Species",
+      "volume": "12",
+      "pages": "123",
+      "type": "article-journal",
+      "container-title": "Genes",
+      "issue": "1",
+      "doi": "10.3390/genes12010123"
+    },
+    "url": "https://doi.org/10.3390/genes12010123",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "RSelenium"
+    ],
+    "citation": "Simpson, R. B., Gottlieb, J., Zhou, B., Hartwick, M. A., & Naumova, E. N. (2021). Completeness of open access FluNet influenza surveillance data for Pan-America in 2005–2019. Scientific Reports, 11(1). doi:10.1038/s41598-020-80842-9",
+    "parts": {
+      "author": "Simpson et al.",
+      "date": "2021",
+      "title": "Completeness of open access FluNet influenza surveillance data for Pan-America in 2005–2019",
+      "volume": "11",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-80842-9"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-80842-9",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "neotoma"
+    ],
+    "citation": "Teale, C., & Chang, J. (2021). Fabaceae (legume) pollen as an anthropogenic indicator in eastern North America. Vegetation History and Archaeobotany. doi:10.1007/s00334-020-00815-w",
+    "parts": {
+      "author": "Teale & Chang",
+      "date": "2021",
+      "title": "Fabaceae (legume) pollen as an anthropogenic indicator in eastern North America",
+      "type": "article-journal",
+      "container-title": "Vegetation History and Archaeobotany",
+      "doi": "10.1007/s00334-020-00815-w"
+    },
+    "url": "https://doi.org/10.1007/s00334-020-00815-w",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rdhs"
+    ],
+    "citation": "Fu, H., Lewnard, J. A., Frost, I., Laxminarayan, R., & Arinaminpathy, N. (2021). Modelling the global burden of drug-resistant tuberculosis avertable by a post-exposure vaccine. Nature Communications, 12(1). doi:10.1038/s41467-020-20731-x",
+    "parts": {
+      "author": "Fu et al.",
+      "date": "2021",
+      "title": "Modelling the global burden of drug-resistant tuberculosis avertable by a post-exposure vaccine",
+      "volume": "12",
+      "type": "article-journal",
+      "container-title": "Nature Communications",
+      "issue": "1",
+      "doi": "10.1038/s41467-020-20731-x"
+    },
+    "url": "https://doi.org/10.1038/s41467-020-20731-x",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "magick"
+    ],
+    "citation": "Mann, D. C., Fitch, W. T., Tu, H.-W., & Hoeschele, M. (2021). Universal principles underlying segmental structures in parrot song and human speech. Scientific Reports, 11(1). doi:10.1038/s41598-020-80340-y",
+    "parts": {
+      "author": "Mann et al.",
+      "date": "2021",
+      "title": "Universal principles underlying segmental structures in parrot song and human speech",
+      "volume": "11",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-80340-y"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-80340-y",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rnoaa"
+    ],
+    "citation": "Halimubieke, N., Kupán, K., Valdebenito, J. O., Kubelka, V., Carmona-Isunza, M. C., Burgas, D., … Székely, T. (2020). Successful breeding predicts divorce in plovers. Scientific Reports, 10(1). doi:10.1038/s41598-020-72521-6",
+    "parts": {
+      "author": "Halimubieke et al.",
+      "date": "2020",
+      "title": "Successful breeding predicts divorce in plovers",
+      "volume": "10",
+      "type": "article-journal",
+      "container-title": "Scientific Reports",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-72521-6"
+    },
+    "url": "https://doi.org/10.1038/s41598-020-72521-6",
+    "year": "2020"
+  },
+  {
+    "name": [
+      "c14bazAAR"
+    ],
+    "citation": "Crema, E. R., & Shoda, S. (2021). A Bayesian approach for fitting and comparing demographic growth models of radiocarbon dates: A case study on the Jomon-Yayoi transition in Kyushu (Japan). PLOS ONE, 16(5), e0251695. doi:10.1371/journal.pone.0251695",
+    "parts": {
+      "author": "Crema & Shoda",
+      "date": "2021",
+      "title": "A Bayesian approach for fitting and comparing demographic growth models of radiocarbon dates: A case study on the Jomon-Yayoi transition in Kyushu (Japan",
+      "volume": "16",
+      "pages": "0251695",
+      "type": "article-journal",
+      "container-title": "PLOS ONE",
+      "issue": "5",
+      "doi": "10.1371/journal.pone.0251695"
+    },
+    "url": "https://doi.org/10.1371/journal.pone.0251695",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rnaturalearth"
+    ],
+    "citation": "Lovell, J. T., MacQueen, A. H., Mamidi, S., Bonnette, J., Jenkins, J., Napier, J. D., … Shu, S. (2021). Genomic mechanisms of climate adaptation in polyploid bioenergy switchgrass. Nature, 590(7846), 438–444. doi:10.1038/s41586-020-03127-1",
+    "parts": {
+      "author": "Lovell et al.",
+      "date": "2021",
+      "title": "Genomic mechanisms of climate adaptation in polyploid bioenergy switchgrass",
+      "volume": "590",
+      "pages": "438–444",
+      "type": "article-journal",
+      "container-title": "Nature",
+      "issue": "7846",
+      "doi": "10.1038/s41586-020-03127-1"
+    },
+    "url": "https://doi.org/10.1038/s41586-020-03127-1",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "hunspell"
+    ],
+    "citation": "Garvey, M. D., Samuel, J., & Pelaez, A. (2021). Would you please like my tweet?! An artificially intelligent, generative probabilistic, and econometric based system design for popularity-driven tweet content generation. Decision Support Systems, 144, 113497. doi:10.1016/j.dss.2021.113497",
+    "parts": {
+      "author": "Garvey et al.",
+      "date": "2021",
+      "title": "Would you please like my tweet?! An artificially intelligent, generative probabilistic, and econometric based system design for popularity-driven tweet content generation",
+      "volume": "144",
+      "pages": "113497",
+      "type": "article-journal",
+      "container-title": "Decision Support Systems",
+      "doi": "10.1016/j.dss.2021.113497"
+    },
+    "url": "https://doi.org/10.1016/j.dss.2021.113497",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rgbif",
+      "taxize"
+    ],
+    "citation": "Schwery, O., & O’Meara, B. C. (2021). Age, Origin, and Biogeography: Unveiling the Factors Behind the Diversification of Dung Beetles. doi:10.1101/2021.01.26.428346",
+    "parts": {
+      "author": "Schwery & O’Meara",
+      "date": "2021",
+      "title": "Age, Origin, and Biogeography: Unveiling the Factors Behind the Diversification of Dung Beetles",
+      "container-title": "Cold Spring Harbor Laboratory",
+      "doi": "10.1101/2021.01.26.428346"
+    },
+    "url": "https://doi.org/10.1101/2021.01.26.428346",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rtweet"
+    ],
+    "citation": "Heyerdahl, L. W., Vray, M., Leger, V., Le Fouler, L., Antouly, J., Troit, V., & Giles-Vernick, T. (2021). Evaluating the motivation of Red Cross Health volunteers in the COVID-19 pandemic: a mixed-methods study protocol. BMJ Open, 11(1), e042579. doi:10.1136/bmjopen-2020-042579",
+    "parts": {
+      "author": "Heyerdahl et al.",
+      "date": "2021",
+      "title": "Evaluating the motivation of Red Cross Health volunteers in the COVID-19 pandemic: a mixed-methods study protocol",
+      "volume": "11",
+      "pages": "042579",
+      "type": "article-journal",
+      "container-title": "BMJ Open",
+      "issue": "1",
+      "doi": "10.1136/bmjopen-2020-042579"
+    },
+    "url": "https://doi.org/10.1136/bmjopen-2020-042579",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "rtweet"
+    ],
+    "citation": "Adepeju, M., & Jimoh, F. (2021). An Analytical Framework for Measuring Inequality in the Public Opinion on Policing—Assessing the Impacts of COVID-19 Pandemic Using Twitter Data. Journal of Geographic Information System, 13(02), 122–147. doi:10.4236/jgis.2021.132008",
+    "parts": {
+      "author": "Adepeju & Jimoh",
+      "date": "2021",
+      "title": "An Analytical Framework for Measuring Inequality in the Public Opinion on Policing—Assessing the Impacts of COVID-19 Pandemic Using Twitter Data",
+      "volume": "13",
+      "pages": "122–147",
+      "type": "article-journal",
+      "container-title": "Journal of Geographic Information System",
+      "issue": "02",
+      "doi": "10.4236/jgis.2021.132008"
+    },
+    "url": "https://doi.org/10.4236/jgis.2021.132008",
+    "year": "2021"
+  },
+  {
+    "name": [
+      "taxize"
+    ],
+    "citation": "Herzog, S. A., & Latvis, M. (2021). Examining the utility of DNA barcodes for the identification of tallgrass prairie flora. Applications in Plant Sciences, 9(1). doi:10.1002/aps3.11405",
+    "parts": {
+      "author": "Herzog & Latvis",
+      "date": "2021",
+      "title": "Examining the utility of DNA barcodes for the identification of tallgrass prairie flora",
+      "volume": "9",
+      "type": "article-journal",
+      "container-title": "Applications in Plant Sciences",
+      "issue": "1",
+      "doi": "10.1002/aps3.11405"
+    },
+    "url": "https://doi.org/10.1002/aps3.11405",
     "year": "2021"
   }
 ]

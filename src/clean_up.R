@@ -20,7 +20,7 @@ x <- rename(x, name = name2) %>% select(name, everything())
 for (i in seq_len(NROW(x))) {
   # cat(i, sep = "\n")
   url <- x[i,]$parts$url[[1]]
-  if (is.null(url)) {
+  if (is.null(url) || !length(url)) {
     doi <- x[i,]$parts$doi[[1]]
     if (!is.null(doi)) url <- paste0("https://doi.org/", doi)
     if (is.null(doi)) {
